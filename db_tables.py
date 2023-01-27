@@ -95,7 +95,6 @@ class Teams(db.Model):
     pulse_id = db.Column(db.Integer)
 
     players = db.relationship("Players", backref="teams", lazy="select")
-    fixture_goals = db.relationship("FixtureGoals", backref="teams", lazy="select")
 
     fixtures_team_a = db.relationship(
         "Fixtures",
@@ -109,6 +108,35 @@ class Teams(db.Model):
         lazy="select",
         foreign_keys="Fixtures.team_h",
     )
+    teams_fixtures_results_team = db.relationship(
+        "TeamFixtureResults",
+        backref="teams_team_id",
+        lazy="select",
+        foreign_keys="TeamFixtureResults.team_id",
+    )
+    teams_fixtures_results_team = db.relationship(
+        "TeamFixtureResults",
+        backref="teams_opponent_id",
+        lazy="select",
+        foreign_keys="TeamFixtureResults.opponent_id",
+    )
+
+    fixture_goals = db.relationship("FixtureGoals", backref="teams", lazy="select")
+    fixture_assists = db.relationship("FixtureAssists", backref="teams", lazy="select")
+    fixture_owngoals = db.relationship(
+        "FixtureOwnGoals", backref="teams", lazy="select"
+    )
+    fixture_pensaves = db.relationship(
+        "FixturePenSaves", backref="teams", lazy="select"
+    )
+    fixture_penmisses = db.relationship(
+        "FixturePenMisses", backref="teams", lazy="select"
+    )
+    fixture_yellows = db.relationship("FixtureYellows", backref="teams", lazy="select")
+    fixture_reds = db.relationship("FixtureReds", backref="teams", lazy="select")
+    fixture_saves = db.relationship("FixtureSaves", backref="teams", lazy="select")
+    fixture_bonuses = db.relationship("FixtureBonuses", backref="teams", lazy="select")
+    fixture_bps = db.relationship("FixtureBPS", backref="teams", lazy="select")
 
 
 class Players(db.Model):
@@ -235,8 +263,54 @@ class Players(db.Model):
         lazy="select",
         foreign_keys="Gameweeks.most_vice_captained",
     )
-    gameweeks_most_vice_captained = db.relationship(
+
+    fixture_goals = db.relationship(
         "FixtureGoals",
+        backref="players",
+        lazy="select",
+    )
+    fixture_assists = db.relationship(
+        "FixtureAssists",
+        backref="players",
+        lazy="select",
+    )
+    fixture_owngoals = db.relationship(
+        "FixtureOwnGoals",
+        backref="players",
+        lazy="select",
+    )
+    fixture_pensaves = db.relationship(
+        "FixturePenSaves",
+        backref="players",
+        lazy="select",
+    )
+    fixture_penmisses = db.relationship(
+        "FixturePenMisses",
+        backref="players",
+        lazy="select",
+    )
+    fixture_yellows = db.relationship(
+        "FixtureYellows",
+        backref="players",
+        lazy="select",
+    )
+    fixture_reds = db.relationship(
+        "FixtureReds",
+        backref="players",
+        lazy="select",
+    )
+    fixture_saves = db.relationship(
+        "FixtureSaves",
+        backref="players",
+        lazy="select",
+    )
+    fixture_bonuses = db.relationship(
+        "FixtureBonuses",
+        backref="players",
+        lazy="select",
+    )
+    fixture_bps = db.relationship(
+        "FixtureBPS",
         backref="players",
         lazy="select",
     )
@@ -270,6 +344,56 @@ class Fixtures(db.Model):
         backref="fixtures",
         lazy="select",
     )
+    fixture_assists = db.relationship(
+        "FixtureAssists",
+        backref="fixtures",
+        lazy="select",
+    )
+    fixture_owngoals = db.relationship(
+        "FixtureOwnGoals",
+        backref="fixtures",
+        lazy="select",
+    )
+    fixture_pensaves = db.relationship(
+        "FixturePenSaves",
+        backref="fixtures",
+        lazy="select",
+    )
+    fixture_penmisses = db.relationship(
+        "FixturePenMisses",
+        backref="fixtures",
+        lazy="select",
+    )
+    fixture_yellows = db.relationship(
+        "FixtureYellows",
+        backref="fixtures",
+        lazy="select",
+    )
+    fixture_reds = db.relationship(
+        "FixtureReds",
+        backref="fixtures",
+        lazy="select",
+    )
+    fixture_saves = db.relationship(
+        "FixtureSaves",
+        backref="fixtures",
+        lazy="select",
+    )
+    fixture_bonuses = db.relationship(
+        "FixtureBonuses",
+        backref="fixtures",
+        lazy="select",
+    )
+    fixture_bps = db.relationship(
+        "FixtureBPS",
+        backref="fixtures",
+        lazy="select",
+    )
+    team_fixture_results = db.relationship(
+        "TeamFixtureResults",
+        backref="fixtures",
+        lazy="select",
+    )
 
 
 class FixtureGoals(db.Model):
@@ -289,9 +413,13 @@ class FixtureGoals(db.Model):
 class FixtureAssists(db.Model):
     __tablename__ = "fixture_assists"
 
-    player_id = db.Column(db.Integer, primary_key=True)
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    team_id = db.Column(db.Integer)
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
+    fixture_id = db.Column(
+        db.Integer, db.ForeignKey("fixtures.fixture_id"), primary_key=True
+    )
+    team_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
     value = db.Column(db.Integer)
     location = db.Column(db.String(10))
 
@@ -299,9 +427,13 @@ class FixtureAssists(db.Model):
 class FixtureOwnGoals(db.Model):
     __tablename__ = "fixture_owngoals"
 
-    player_id = db.Column(db.Integer, primary_key=True)
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    team_id = db.Column(db.Integer)
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
+    fixture_id = db.Column(
+        db.Integer, db.ForeignKey("fixtures.fixture_id"), primary_key=True
+    )
+    team_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
     value = db.Column(db.Integer)
     location = db.Column(db.String(10))
 
@@ -309,9 +441,13 @@ class FixtureOwnGoals(db.Model):
 class FixturePenSaves(db.Model):
     __tablename__ = "fixture_pensaves"
 
-    player_id = db.Column(db.Integer, primary_key=True)
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    team_id = db.Column(db.Integer)
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
+    fixture_id = db.Column(
+        db.Integer, db.ForeignKey("fixtures.fixture_id"), primary_key=True
+    )
+    team_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
     value = db.Column(db.Integer)
     location = db.Column(db.String(10))
 
@@ -319,9 +455,13 @@ class FixturePenSaves(db.Model):
 class FixturePenMisses(db.Model):
     __tablename__ = "fixture_penmisses"
 
-    player_id = db.Column(db.Integer, primary_key=True)
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    team_id = db.Column(db.Integer)
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
+    fixture_id = db.Column(
+        db.Integer, db.ForeignKey("fixtures.fixture_id"), primary_key=True
+    )
+    team_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
     value = db.Column(db.Integer)
     location = db.Column(db.String(10))
 
@@ -329,9 +469,13 @@ class FixturePenMisses(db.Model):
 class FixtureYellows(db.Model):
     __tablename__ = "fixture_yellows"
 
-    player_id = db.Column(db.Integer, primary_key=True)
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    team_id = db.Column(db.Integer)
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
+    fixture_id = db.Column(
+        db.Integer, db.ForeignKey("fixtures.fixture_id"), primary_key=True
+    )
+    team_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
     value = db.Column(db.Integer)
     location = db.Column(db.String(10))
 
@@ -339,9 +483,13 @@ class FixtureYellows(db.Model):
 class FixtureReds(db.Model):
     __tablename__ = "fixture_reds"
 
-    player_id = db.Column(db.Integer, primary_key=True)
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    team_id = db.Column(db.Integer)
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
+    fixture_id = db.Column(
+        db.Integer, db.ForeignKey("fixtures.fixture_id"), primary_key=True
+    )
+    team_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
     value = db.Column(db.Integer)
     location = db.Column(db.String(10))
 
@@ -349,9 +497,13 @@ class FixtureReds(db.Model):
 class FixtureSaves(db.Model):
     __tablename__ = "fixture_saves"
 
-    player_id = db.Column(db.Integer, primary_key=True)
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    team_id = db.Column(db.Integer)
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
+    fixture_id = db.Column(
+        db.Integer, db.ForeignKey("fixtures.fixture_id"), primary_key=True
+    )
+    team_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
     value = db.Column(db.Integer)
     location = db.Column(db.String(10))
 
@@ -359,9 +511,13 @@ class FixtureSaves(db.Model):
 class FixtureBonuses(db.Model):
     __tablename__ = "fixture_bonuses"
 
-    player_id = db.Column(db.Integer, primary_key=True)
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    team_id = db.Column(db.Integer)
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
+    fixture_id = db.Column(
+        db.Integer, db.ForeignKey("fixtures.fixture_id"), primary_key=True
+    )
+    team_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
     value = db.Column(db.Integer)
     location = db.Column(db.String(10))
 
@@ -369,9 +525,13 @@ class FixtureBonuses(db.Model):
 class FixtureBPS(db.Model):
     __tablename__ = "fixture_bps"
 
-    player_id = db.Column(db.Integer, primary_key=True)
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    team_id = db.Column(db.Integer)
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
+    fixture_id = db.Column(
+        db.Integer, db.ForeignKey("fixtures.fixture_id"), primary_key=True
+    )
+    team_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
     value = db.Column(db.Integer)
     location = db.Column(db.String(10))
 
@@ -379,9 +539,11 @@ class FixtureBPS(db.Model):
 class TeamFixtureResults(db.Model):
     __tablename__ = "team_fixture_results"
 
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    team_id = db.Column(db.Integer, primary_key=True)
-    opponent_id = db.Column(db.Integer)
+    fixture_id = db.Column(
+        db.Integer, db.ForeignKey("fixtures.fixture_id"), primary_key=True
+    )
+    team_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"), primary_key=True)
+    opponent_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
     home = db.Column(db.Boolean)
     score = db.Column(db.Integer)
     opponent_score = db.Column(db.Integer)
