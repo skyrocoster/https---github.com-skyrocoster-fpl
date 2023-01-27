@@ -67,6 +67,18 @@ class Gameweeks(db.Model):
     top_players = db.relationship("TopPlayers", backref="gameweeks", lazy="select")
     chips_played = db.relationship("ChipsPlayed", backref="gameweeks", lazy="select")
     fixtures = db.relationship("Fixtures", backref="gameweeks", lazy="select")
+    player_fixture_history = db.relationship(
+        "PlayerFixtureHistory", backref="gameweeks", lazy="select"
+    )
+    manager_info = db.relationship("ManagerInfo", backref="gameweeks", lazy="select")
+    manager_gameweeks = db.relationship(
+        "ManagerGameweeks", backref="gameweeks", lazy="select"
+    )
+    manager_chips = db.relationship("ManagerChips", backref="gameweeks", lazy="select")
+    gameweek_subs = db.relationship("GameweekSubs", backref="gameweeks", lazy="select")
+    gameweek_picks = db.relationship(
+        "GameweekPicks", backref="gameweeks", lazy="select"
+    )
 
 
 class Teams(db.Model):
@@ -137,6 +149,10 @@ class Teams(db.Model):
     fixture_saves = db.relationship("FixtureSaves", backref="teams", lazy="select")
     fixture_bonuses = db.relationship("FixtureBonuses", backref="teams", lazy="select")
     fixture_bps = db.relationship("FixtureBPS", backref="teams", lazy="select")
+    player_fixture_history = db.relationship(
+        "PlayerFixtureHistory", backref="teams", lazy="select"
+    )
+    manager_info = db.relationship("ManagerInfo", backref="teams", lazy="select")
 
 
 class Players(db.Model):
@@ -314,6 +330,21 @@ class Players(db.Model):
         backref="players",
         lazy="select",
     )
+    player_fixture_history = db.relationship(
+        "PlayerFixtureHistory",
+        backref="players",
+        lazy="select",
+    )
+    player_previous_seasons = db.relationship(
+        "PlayerPreviousSeasons",
+        backref="players",
+        lazy="select",
+    )
+    gameweek_picks = db.relationship(
+        "GameweekPicks",
+        backref="players",
+        lazy="select",
+    )
 
 
 class Fixtures(db.Model):
@@ -391,6 +422,11 @@ class Fixtures(db.Model):
     )
     team_fixture_results = db.relationship(
         "TeamFixtureResults",
+        backref="fixtures",
+        lazy="select",
+    )
+    team_fixture_results = db.relationship(
+        "PlayerFixtureHistory",
         backref="fixtures",
         lazy="select",
     )
@@ -552,10 +588,16 @@ class TeamFixtureResults(db.Model):
 class PlayerFixtureHistory(db.Model):
     __tablename__ = "player_fixture_history"
 
-    player_id = db.Column(db.Integer, primary_key=True)
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    gameweek_id = db.Column(db.Integer)
-    opponent_team = db.Column(db.Integer)
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
+    fixture_id = db.Column(
+        db.Integer, db.ForeignKey("fixtures.fixture_id"), primary_key=True
+    )
+
+    gameweek_id = db.Column(db.Integer, db.ForeignKey("gameweeks.gameweek_id"))
+    opponent_team = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
+
     total_points = db.Column(db.Integer)
     was_home = db.Column(db.Boolean)
     kickoff_time = db.Column(db.DateTime)
@@ -611,8 +653,11 @@ class PlayerFixtureHistory(db.Model):
 class PlayerPreviousSeasons(db.Model):
     __tablename__ = "player_previous_seasons"
 
-    player_id = db.Column(db.Integer, primary_key=True)
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
     season_name = db.Column(db.String(50), primary_key=True)
+
     element_code = db.Column(db.Integer)
     start_cost = db.Column(db.Integer)
     end_cost = db.Column(db.Integer)
@@ -645,6 +690,7 @@ class LeagueInfo(db.Model):
     __tablename__ = "league_info"
 
     league_id = db.Column(db.Integer, primary_key=True)
+
     name = db.Column(db.String(50))
     created = db.Column(db.DateTime)
     closed = db.Column(db.Boolean)
@@ -658,21 +704,32 @@ class LeagueInfo(db.Model):
     cup_league_id = db.Column(db.Integer)
     type = db.Column(db.String(50))
 
+    manager_leagues = db.relationship(
+        "ManagerLeagues",
+        backref="leagues",
+        lazy="select",
+    )
+
 
 class ManagerLeagues(db.Model):
     __tablename__ = "manager_leagues"
 
-    manager_id = db.Column(db.Integer, primary_key=True)
-    league_id = db.Column(db.Integer, primary_key=True)
+    manager_id = db.Column(
+        db.Integer, db.ForeignKey("manager_info.manager_id"), primary_key=True
+    )
+    league_id = db.Column(
+        db.Integer, db.ForeignKey("league_info.league_id"), primary_key=True
+    )
 
 
 class ManagerInfo(db.Model):
     __tablename__ = "manager_info"
 
     manager_id = db.Column(db.Integer, primary_key=True)
+    favourite_team = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
+    started_gameweek = db.Column(db.Integer, db.ForeignKey("gameweeks.gameweek_id"))
+
     joined_time = db.Column(db.DateTime)
-    started_event = db.Column(db.Integer)
-    favourite_team = db.Column(db.Integer)
     manager_first_name = db.Column(db.String(50))
     manager_last_name = db.Column(db.String(50))
     manager_region_id = db.Column(db.Integer)
@@ -681,12 +738,47 @@ class ManagerInfo(db.Model):
     manager_region_iso_code_long = db.Column(db.String(50))
     squad_name = db.Column(db.String(50))
 
+    manager_leagues = db.relationship(
+        "ManagerLeagues",
+        backref="managers",
+        lazy="select",
+    )
+    manager_gameweeks = db.relationship(
+        "ManagerGameweeks",
+        backref="managers",
+        lazy="select",
+    )
+    manager_seasons = db.relationship(
+        "ManagerSeasons",
+        backref="managers",
+        lazy="select",
+    )
+    manager_chips = db.relationship(
+        "ManagerChips",
+        backref="managers",
+        lazy="select",
+    )
+    gameweek_subs = db.relationship(
+        "GameweekSubs",
+        backref="managers",
+        lazy="select",
+    )
+    gameweek_picks = db.relationship(
+        "GameweekPicks",
+        backref="managers",
+        lazy="select",
+    )
+
 
 class ManagerGameweeks(db.Model):
     __tablename__ = "manager_gameweeks"
 
-    gameweek_id = db.Column(db.Integer, primary_key=True)
-    manager_id = db.Column(db.Integer, primary_key=True)
+    gameweek_id = db.Column(
+        db.Integer, db.ForeignKey("gameweeks.gameweek_id"), primary_key=True
+    )
+    manager_id = db.Column(
+        db.Integer, db.ForeignKey("manager_info.manager_id"), primary_key=True
+    )
     points = db.Column(db.Integer)
     total_points = db.Column(db.Integer)
     gameweek_rank = db.Column(db.Integer)
@@ -702,7 +794,9 @@ class ManagerGameweeks(db.Model):
 class ManagerSeasons(db.Model):
     __tablename__ = "manager_seasons"
 
-    manager_id = db.Column(db.Integer, primary_key=True)
+    manager_id = db.Column(
+        db.Integer, db.ForeignKey("manager_info.manager_id"), primary_key=True
+    )
     season_name = db.Column(db.String(30), primary_key=True)
     total_points = db.Column(db.Integer)
     rank = db.Column(db.Integer)
@@ -711,17 +805,23 @@ class ManagerSeasons(db.Model):
 class ManagerChips(db.Model):
     __tablename__ = "manager_chips"
 
-    manager_id = db.Column(db.Integer, primary_key=True)
+    manager_id = db.Column(
+        db.Integer, db.ForeignKey("manager_info.manager_id"), primary_key=True
+    )
+    gameweek_id = db.Column(db.Integer, db.ForeignKey("gameweeks.gameweek_id"))
     name = db.Column(db.String(30), primary_key=True)
     time = db.Column(db.DateTime)
-    gameweek_id = db.Column(db.Integer)
 
 
 class GameweekSubs(db.Model):
     __tablename__ = "gameweek_subs"
 
-    manager_id = db.Column(db.Integer, primary_key=True)
-    gameweek_id = db.Column(db.Integer, primary_key=True)
+    manager_id = db.Column(
+        db.Integer, db.ForeignKey("manager_info.manager_id"), primary_key=True
+    )
+    gameweek_id = db.Column(
+        db.Integer, db.ForeignKey("gameweeks.gameweek_id"), primary_key=True
+    )
     player_in = db.Column(db.Integer)
     player_out = db.Column(db.Integer)
 
@@ -729,9 +829,15 @@ class GameweekSubs(db.Model):
 class GameweekPicks(db.Model):
     __tablename__ = "gameweek_picks"
 
-    gameweek_id = db.Column(db.Integer, primary_key=True)
-    manager_id = db.Column(db.Integer, primary_key=True)
-    player_id = db.Column(db.Integer, primary_key=True)
+    manager_id = db.Column(
+        db.Integer, db.ForeignKey("manager_info.manager_id"), primary_key=True
+    )
+    gameweek_id = db.Column(
+        db.Integer, db.ForeignKey("gameweeks.gameweek_id"), primary_key=True
+    )
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
     position = db.Column(db.Integer)
     multiplier = db.Column(db.Integer)
     is_captain = db.Column(db.Boolean)

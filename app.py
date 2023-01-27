@@ -558,11 +558,12 @@ manager_info_rename = {
     "player_region_iso_code_short": "manager_region_iso_code_short",
     "player_region_iso_code_long": "manager_region_iso_code_long",
     "name": "squad_name",
+    "started_event": "started_gameweek",
 }
 manager_info_cols = [
     "manager_id",
     "joined_time",
-    "started_event",
+    "started_gameweek",
     "favourite_team",
     "manager_first_name",
     "manager_last_name",
