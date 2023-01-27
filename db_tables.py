@@ -14,8 +14,12 @@ class TopPlayers(db.Model):
 
     __tablename__ = "top_players"
 
-    player_id = db.Column(db.Integer, primary_key=True)
-    gameweek_id = db.Column(db.Integer, primary_key=True)
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
+    gameweek_id = db.Column(
+        db.Integer, db.ForeignKey("gameweeks.gameweek_id"), primary_key=True
+    )
     gameweek_points = db.Column(db.Integer)
 
 
@@ -23,7 +27,9 @@ class ChipsPlayed(db.Model):
 
     __tablename__ = "chips_played"
 
-    gameweek_id = db.Column(db.Integer, primary_key=True)
+    gameweek_id = db.Column(
+        db.Integer, db.ForeignKey("gameweeks.gameweek_id"), primary_key=True
+    )
     bench_boost = db.Column(db.Integer)
     triple_captain = db.Column(db.Integer)
     freehit = db.Column(db.Integer)
@@ -35,6 +41,13 @@ class Gameweeks(db.Model):
     __tablename__ = "gameweeks"
 
     gameweek_id = db.Column(db.Integer, primary_key=True)
+
+    top_player = db.Column(db.Integer, db.ForeignKey("players.player_id"))
+    most_selected = db.Column(db.Integer, db.ForeignKey("players.player_id"))
+    most_transferred_in = db.Column(db.Integer, db.ForeignKey("players.player_id"))
+    most_captained = db.Column(db.Integer, db.ForeignKey("players.player_id"))
+    most_vice_captained = db.Column(db.Integer, db.ForeignKey("players.player_id"))
+
     name = db.Column(db.String(100))
     deadline_time = db.Column(db.DateTime)
     average_entry_score = db.Column(db.Integer)
@@ -49,23 +62,22 @@ class Gameweeks(db.Model):
     is_next = db.Column(db.Boolean)
     cup_leagues_created = db.Column(db.Boolean)
     h2h_ko_matches_created = db.Column(db.Boolean)
-    most_selected = db.Column(db.Integer)
-    most_transferred_in = db.Column(db.Integer)
-    top_player = db.Column(db.Integer)
     transfers_made = db.Column(db.Integer)
-    most_captained = db.Column(db.Integer)
-    most_vice_captained = db.Column(db.Integer)
+
+    top_players = db.relationship("TopPlayers", backref="gameweeks", lazy="select")
+    chips_played = db.relationship("ChipsPlayed", backref="gameweeks", lazy="select")
+    fixtures = db.relationship("Fixtures", backref="gameweeks", lazy="select")
 
 
 class Teams(db.Model):
     __tablename__ = "teams"
 
     team_id = db.Column(db.Integer, primary_key=True)
+    team_name = db.Column(db.String(50))
     code = db.Column(db.Integer)
     draw = db.Column(db.Integer)
     form = db.Column(db.Integer)
     loss = db.Column(db.Integer)
-    team_name = db.Column(db.String(50))
     played = db.Column(db.Integer)
     points = db.Column(db.Integer)
     position = db.Column(db.Integer)
@@ -82,11 +94,30 @@ class Teams(db.Model):
     strength_defence_away = db.Column(db.Integer)
     pulse_id = db.Column(db.Integer)
 
+    players = db.relationship("Players", backref="teams", lazy="select")
+    fixture_goals = db.relationship("FixtureGoals", backref="teams", lazy="select")
+
+    fixtures_team_a = db.relationship(
+        "Fixtures",
+        backref="teams_team_a",
+        lazy="select",
+        foreign_keys="Fixtures.team_a",
+    )
+    fixtures_team_h = db.relationship(
+        "Fixtures",
+        backref="teams_team_h",
+        lazy="select",
+        foreign_keys="Fixtures.team_h",
+    )
+
 
 class Players(db.Model):
     __tablename__ = "players"
 
     player_id = db.Column(db.Integer, primary_key=True)
+
+    team_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
+
     chance_of_playing_next_round = db.Column(db.Float)
     chance_of_playing_this_round = db.Column(db.Float)
     code = db.Column(db.Integer)
@@ -111,7 +142,6 @@ class Players(db.Model):
     special = db.Column(db.Boolean)
     squad_number = db.Column(db.Integer)
     status = db.Column(db.String(3))
-    team_id = db.Column(db.Integer)
     team_code = db.Column(db.Integer)
     total_points = db.Column(db.Integer)
     transfers_in = db.Column(db.Integer)
@@ -174,13 +204,84 @@ class Players(db.Model):
     starts_per_90 = db.Column(db.Float)
     clean_sheets_per_90 = db.Column(db.Float)
 
+    top_players = db.relationship("TopPlayers", backref="players", lazy="select")
+    gameweeks_top_player = db.relationship(
+        "Gameweeks",
+        backref="players_top_player",
+        lazy="select",
+        foreign_keys="Gameweeks.top_player",
+    )
+    gameweeks_most_selected = db.relationship(
+        "Gameweeks",
+        backref="players_most_selected",
+        lazy="select",
+        foreign_keys="Gameweeks.most_selected",
+    )
+    gameweeks_most_transferred_in = db.relationship(
+        "Gameweeks",
+        backref="players_most_transferred_in",
+        lazy="select",
+        foreign_keys="Gameweeks.most_transferred_in",
+    )
+    gameweeks_most_captained = db.relationship(
+        "Gameweeks",
+        backref="players_most_captained",
+        lazy="select",
+        foreign_keys="Gameweeks.most_captained",
+    )
+    gameweeks_most_vice_captained = db.relationship(
+        "Gameweeks",
+        backref="players_most_vice_captained",
+        lazy="select",
+        foreign_keys="Gameweeks.most_vice_captained",
+    )
+    gameweeks_most_vice_captained = db.relationship(
+        "FixtureGoals",
+        backref="players",
+        lazy="select",
+    )
+
+
+class Fixtures(db.Model):
+    __tablename__ = "fixtures"
+
+    fixture_id = db.Column(db.Integer, primary_key=True)
+
+    gameweek_id = db.Column(db.Integer, db.ForeignKey("gameweeks.gameweek_id"))
+    team_a = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
+    team_h = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
+
+    code = db.Column(db.Integer)
+    finished = db.Column(db.Boolean)
+    finished_provisional = db.Column(db.Boolean)
+    kickoff_time = db.Column(db.DateTime)
+    minutes = db.Column(db.Integer)
+    provisional_start_time = db.Column(db.Boolean)
+    started = db.Column(db.Boolean)
+    team_a_score = db.Column(db.Integer)
+    team_h_score = db.Column(db.Integer)
+    team_h_difficulty = db.Column(db.Integer)
+    team_a_difficulty = db.Column(db.Integer)
+    pulse_id = db.Column(db.Integer)
+    location = db.Column(db.String(10))
+
+    fixture_goals = db.relationship(
+        "FixtureGoals",
+        backref="fixtures",
+        lazy="select",
+    )
+
 
 class FixtureGoals(db.Model):
     __tablename__ = "fixture_goals"
 
-    player_id = db.Column(db.Integer, primary_key=True)
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    team_id = db.Column(db.Integer)
+    player_id = db.Column(
+        db.Integer, db.ForeignKey("players.player_id"), primary_key=True
+    )
+    fixture_id = db.Column(
+        db.Integer, db.ForeignKey("fixtures.fixture_id"), primary_key=True
+    )
+    team_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
     value = db.Column(db.Integer)
     location = db.Column(db.String(10))
 
@@ -275,28 +376,6 @@ class FixtureBPS(db.Model):
     location = db.Column(db.String(10))
 
 
-class Fixtures(db.Model):
-    __tablename__ = "fixtures"
-
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    gameweek_id = db.Column(db.Integer)
-    code = db.Column(db.Integer)
-    finished = db.Column(db.Boolean)
-    finished_provisional = db.Column(db.Boolean)
-    kickoff_time = db.Column(db.DateTime)
-    minutes = db.Column(db.Integer)
-    provisional_start_time = db.Column(db.Boolean)
-    started = db.Column(db.Boolean)
-    team_a = db.Column(db.Integer)
-    team_a_score = db.Column(db.Integer)
-    team_h = db.Column(db.Integer)
-    team_h_score = db.Column(db.Integer)
-    team_h_difficulty = db.Column(db.Integer)
-    team_a_difficulty = db.Column(db.Integer)
-    pulse_id = db.Column(db.Integer)
-    location = db.Column(db.String(10))
-
-
 class TeamFixtureResults(db.Model):
     __tablename__ = "team_fixture_results"
 
@@ -349,21 +428,22 @@ class PlayerFixtureHistory(db.Model):
     transfers_out = db.Column(db.Integer)
 
 
-class PlayerRemainingFixtures(db.Model):
-    __tablename__ = "player_remaining_fixtures"
+# class PlayerRemainingFixtures(db.Model):
+#     # rework table
+#     __tablename__ = "player_remaining_fixtures"
 
-    fixture_id = db.Column(db.Integer, primary_key=True)
-    player_id = db.Column(db.Integer, primary_key=True)
-    code = db.Column(db.Integer)
-    team_h = db.Column(db.Integer)
-    team_a = db.Column(db.Integer)
-    gameweek_id = db.Column(db.Integer)
-    finished = db.Column(db.Boolean)
-    provisional_start_time = db.Column(db.Boolean)
-    kickoff_time = db.Column(db.DateTime)
-    event_name = db.Column(db.String(50))
-    is_home = db.Column(db.Boolean)
-    difficulty = db.Column(db.Integer)
+#     fixture_id = db.Column(db.Integer, primary_key=True)
+#     player_id = db.Column(db.Integer, primary_key=True)
+#     code = db.Column(db.Integer)
+#     team_h = db.Column(db.Integer)
+#     team_a = db.Column(db.Integer)
+#     gameweek_id = db.Column(db.Integer)
+#     finished = db.Column(db.Boolean)
+#     provisional_start_time = db.Column(db.Boolean)
+#     kickoff_time = db.Column(db.DateTime)
+#     event_name = db.Column(db.String(50))
+#     is_home = db.Column(db.Boolean)
+#     difficulty = db.Column(db.Integer)
 
 
 class PlayerPreviousSeasons(db.Model):

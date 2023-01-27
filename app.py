@@ -410,13 +410,13 @@ for player in player_list:
     player_id = player
     player = json.load(open(f"{root_folder}{player}.json", encoding="utf8"))
 
-    player_remaining_fixtures_temp = pd.DataFrame(player["fixtures"]).drop(
-        ["team_h_score", "team_a_score", "minutes"], axis=1
-    )
-    player_remaining_fixtures_temp["player_id"] = player_id
-    player_remaining_fixtures = pd.concat(
-        [player_remaining_fixtures, player_remaining_fixtures_temp]
-    )
+    # player_remaining_fixtures_temp = pd.DataFrame(player["fixtures"]).drop(
+    #     ["team_h_score", "team_a_score", "minutes"], axis=1
+    # )
+    # player_remaining_fixtures_temp["player_id"] = player_id
+    # player_remaining_fixtures = pd.concat(
+    #     [player_remaining_fixtures, player_remaining_fixtures_temp]
+    # )
 
     player_fixture_history_temp = pd.DataFrame(player["history"])
     player_fixture_history = pd.concat(
@@ -430,15 +430,15 @@ for player in player_list:
     )
 
 
-player_remaining_fixtures["kickoff_time"] = pd.to_datetime(
-    player_remaining_fixtures["kickoff_time"].fillna(0)
-)
-player_remaining_fixtures = player_remaining_fixtures.rename(
-    columns=remaining_rename
-).to_dict(orient="records")
-for fixture in player_remaining_fixtures:
-    db.session.merge(PlayerRemainingFixtures(**fixture))
-db.session.commit()
+# player_remaining_fixtures["kickoff_time"] = pd.to_datetime(
+#     player_remaining_fixtures["kickoff_time"].fillna(0)
+# )
+# player_remaining_fixtures = player_remaining_fixtures.rename(
+#     columns=remaining_rename
+# ).to_dict(orient="records")
+# for fixture in player_remaining_fixtures:
+#     db.session.merge(PlayerRemainingFixtures(**fixture))
+# db.session.commit()
 
 player_fixture_history["kickoff_time"] = pd.to_datetime(
     player_fixture_history["kickoff_time"]
@@ -752,4 +752,33 @@ gameweek_picks["starting"] = gameweek_picks["starting"].fillna(0)
 gameweek_picks = gameweek_picks.convert_dtypes().to_dict(orient="records")
 for pick in gameweek_picks:
     db.session.merge(GameweekPicks(**pick))
+db.session.commit()
+
+# Team Results
+
+fixtures = Fixtures().query.all()
+
+team_fixtures = []
+for fixture in fixtures:
+    home_team = {}
+    away_team = {}
+
+    home_team["team_id"] = fixture.team_h
+    away_team["team_id"] = fixture.team_a
+    home_team["opponent_id"] = fixture.team_a
+    away_team["opponent_id"] = fixture.team_h
+    home_team["home"] = 1
+    away_team["home"] = 0
+    home_team["fixture_id"] = fixture.fixture_id
+    away_team["fixture_id"] = fixture.fixture_id
+    home_team["score"] = fixture.team_h_score
+    away_team["score"] = fixture.team_a_score
+    home_team["opponent_score"] = fixture.team_a_score
+    away_team["opponent_score"] = fixture.team_h_score
+
+    team_fixtures.append(home_team)
+    team_fixtures.append(away_team)
+
+for fixture in team_fixtures:
+    db.session.merge(TeamFixtureResults(**fixture))
 db.session.commit()
