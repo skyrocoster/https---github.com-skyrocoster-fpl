@@ -9,6 +9,6 @@ from pathlib import Path
 fpl_api = "https://fantasy.premierleague.com/api/"
 raw_extract = "data/raw_extract/"
 
-result = Fixtures().query.first()
-print(result.teams_team_h.team_id)
+result = FixtureYellows().query.first()
+print(result.fixtures.fixture_id)
 # print(result.gameweeks)
