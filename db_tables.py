@@ -1,13 +1,27 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 import pandas as pd
-from sqlalchemy import select
+from sqlalchemy import inspect
+from time import strptime
+
+
+def object_as_df(results):
+    dict_result = []
+
+    for result in results:
+        new_row = {
+            c.key: getattr(result, c.key) for c in inspect(result).mapper.column_attrs
+        }
+        dict_result.append(new_row)
+
+    df = pd.DataFrame(dict_result)
+    return df
+
 
 app = Flask(__name__)
 app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///fpl.db"
 db = SQLAlchemy(app)
-app_context = app.app_context()
-app_context.push()
+
 
 
 class TopPlayers(db.Model):
@@ -846,4 +860,6 @@ class GameweekPicks(db.Model):
 
 
 if __name__ == "__main__":
+    app_context = app.app_context()
+    app_context.push()
     db.create_all()
