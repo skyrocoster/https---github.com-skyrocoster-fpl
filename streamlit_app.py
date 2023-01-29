@@ -1,6 +1,7 @@
 from db_tables import *
 import streamlit as st
 
+st.set_page_config(layout="wide")
 app_context = app.app_context()
 app_context.push()
 
@@ -59,6 +60,14 @@ def load_fixtures():
 
 
 @st.cache
+def load_future_fixtures(df):
+    df_future_fixtures = df.copy().loc[
+        (df["gameweek_id"] >= sel_start_gw) & (df["gameweek_id"] <= sel_end_gw)
+    ]
+    return df_future_fixtures
+
+
+@st.cache
 def load_current_fixtures(df):
     df_current_fixtures = df.copy().loc[df["gameweek_id"] == current_gw]
     return df_current_fixtures
@@ -77,8 +86,6 @@ def load_next_fixtures(df):
     df_next_fixtures = df[keep_fields].copy().loc[df["gameweek_id"] == next_gw]
     return df_next_fixtures
 
-
-st.set_page_config(layout="wide")
 
 df_gameweeks = load_gameweeks()
 current_gw = df_gameweeks["gameweek_id"].max()
@@ -107,4 +114,12 @@ with next_tab:
     st.title("Next Gameweek Fixtures")
     st.write("*higher advantage is better for home team")
     st.dataframe(data=df_next_fixtures)
-# st.dataframe(data=df_pivot)
+with future_tab:
+    sel_start_gw, sel_end_gw = st.select_slider(
+        "Select a range of color wavelength",
+        options=[item for item in range(next_gw, 38 + 1)],
+        value=(next_gw, next_gw + 5),
+    )
+    df_future_fixtures = load_future_fixtures(df_fixtures)
+    st.dataframe(df_future_fixtures)
+    st.dataframe(df_future_fixtures[["Home Team", "Away Team"]].melt().value_counts())
