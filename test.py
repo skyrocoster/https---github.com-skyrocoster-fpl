@@ -3,11 +3,20 @@ from db_tables import *
 
 current_gameweek = 22
 
-class selections():
-    def __init__(self):
-        self.sel_start_gw = current_gameweek
+test = {"Hello": 1, "Goodbye": 2}
+df = pd.DataFrame(test, index=[0])
+melt = pd.DataFrame(test, index=[0]).melt()
 
-sel = selections()
-print(sel.sel_start_gw)
-sel.sel_start_gw = 1
-print(sel.sel_start_gw)
+
+class FutureFixures:
+
+    def __init__(self, df):
+        self.df = df
+        self.melt = df.melt()
+
+
+# print(df)
+# print(melt)
+test = FutureFixures(df)
+print(test.df)
+print(test.melt)

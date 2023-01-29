@@ -6,6 +6,23 @@ app_context = app.app_context()
 app_context.push()
 
 
+class FutureFixtures:
+    def __init__(self, df):
+        self.all = df.copy().loc[
+            (df["gameweek_id"] >= sel_start_gw) & (df["gameweek_id"] <= sel_end_gw)
+        ]
+
+        # home = pd.DataFrame()
+        home_games = pd.DataFrame(self.all[["Home Team"]].value_counts())
+        home_avg_diff = pd.DataFrame(
+            self.all[["Home Team", "Home Difficulty"]].groupby("Home Team").mean()
+        )
+        home_games = home_games.join(home_avg_diff)
+        self.home = home_games
+
+        self.away = self.all[["Away Team"]].value_counts()
+
+
 def advantage_colours(val):
     if val > 0:
         color = "green"
@@ -116,10 +133,14 @@ with next_tab:
     st.dataframe(data=df_next_fixtures)
 with future_tab:
     sel_start_gw, sel_end_gw = st.select_slider(
-        "Select a range of color wavelength",
+        "Select a Gameweek Range:",
         options=[item for item in range(next_gw, 38 + 1)],
         value=(next_gw, next_gw + 5),
     )
     df_future_fixtures = load_future_fixtures(df_fixtures)
     st.dataframe(df_future_fixtures)
-    st.dataframe(df_future_fixtures[["Home Team", "Away Team"]].melt().value_counts())
+    st.dataframe(
+        df_future_fixtures[["Home Team", "Home Difficulty Advantage"]]
+        .groupby("Home Team")
+        .agg(["mean", "count"])
+    )
