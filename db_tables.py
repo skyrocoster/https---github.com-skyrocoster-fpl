@@ -23,7 +23,6 @@ app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///fpl.db"
 db = SQLAlchemy(app)
 
 
-
 class TopPlayers(db.Model):
 
     __tablename__ = "top_players"
@@ -92,6 +91,9 @@ class Gameweeks(db.Model):
     gameweek_subs = db.relationship("GameweekSubs", backref="gameweeks", lazy="select")
     gameweek_picks = db.relationship(
         "GameweekPicks", backref="gameweeks", lazy="select"
+    )
+    team_fixture_results = db.relationship(
+        "TeamFixtureResults", backref="gameweeks", lazy="select"
     )
 
 
@@ -597,6 +599,10 @@ class TeamFixtureResults(db.Model):
     home = db.Column(db.Boolean)
     score = db.Column(db.Integer)
     opponent_score = db.Column(db.Integer)
+    finished = db.Column(db.Boolean)
+    gameweek_id = db.Column(db.Integer, db.ForeignKey("gameweeks.gameweek_id"))
+    fixture_difficulty = db.Column(db.Integer)
+    win = db.Column(db.String(4))
 
 
 class PlayerFixtureHistory(db.Model):

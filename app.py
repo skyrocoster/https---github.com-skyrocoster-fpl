@@ -7,7 +7,8 @@ from pathlib import Path
 
 fpl_api = "https://fantasy.premierleague.com/api/"
 raw_extract = "data/raw_extract/"
-
+app_context = app.app_context()
+app_context.push()
 
 # Bootstrap-static
 api_url = f"{fpl_api}bootstrap-static/"
@@ -776,6 +777,21 @@ for fixture in fixtures:
     away_team["score"] = fixture.team_a_score
     home_team["opponent_score"] = fixture.team_a_score
     away_team["opponent_score"] = fixture.team_h_score
+    home_team["finished"] = fixture.finished
+    away_team["finished"] = fixture.finished
+    home_team["gameweek_id"] = fixture.gameweek_id
+    away_team["gameweek_id"] = fixture.gameweek_id
+    home_team["fixture_difficulty"] = fixture.team_h_difficulty
+    away_team["fixture_difficulty"] = fixture.team_a_difficulty
+    if fixture.team_h_score > fixture.team_a_score:
+        home_team["win"] = "win"
+        away_team["win"] = "loss"
+    elif fixture.team_h_score < fixture.team_a_score:
+        home_team["win"] = "loss"
+        away_team["win"] = "win"
+    else:
+        home_team["win"] = "draw"
+        away_team["win"] = "draw"
 
     team_fixtures.append(home_team)
     team_fixtures.append(away_team)
