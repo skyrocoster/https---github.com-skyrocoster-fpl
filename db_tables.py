@@ -603,6 +603,7 @@ class TeamFixtureResults(db.Model):
     gameweek_id = db.Column(db.Integer, db.ForeignKey("gameweeks.gameweek_id"))
     fixture_difficulty = db.Column(db.Integer)
     win = db.Column(db.String(4))
+    kickoff_time = db.Column(db.DateTime)
 
 
 class PlayerFixtureHistory(db.Model):

@@ -783,6 +783,8 @@ for fixture in fixtures:
     away_team["gameweek_id"] = fixture.gameweek_id
     home_team["fixture_difficulty"] = fixture.team_h_difficulty
     away_team["fixture_difficulty"] = fixture.team_a_difficulty
+    home_team["kickoff_time"] = fixture.kickoff_time
+    away_team["kickoff_time"] = fixture.kickoff_time
     if fixture.team_h_score > fixture.team_a_score:
         home_team["win"] = "win"
         away_team["win"] = "loss"
