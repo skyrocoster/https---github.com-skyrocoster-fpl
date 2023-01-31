@@ -91,7 +91,7 @@
             "finished": false,
             "minutes": 0,
             "provisional_start_time": false,
-            "kickoff_time": "2023-03-11T15:00:00Z",
+            "kickoff_time": "2023-03-12T16:30:00Z",
             "event_name": "Gameweek 27",
             "is_home": false,
             "difficulty": 3
@@ -317,10 +317,10 @@
             "threat": "2.0",
             "ict_index": "0.9",
             "starts": 0,
-            "expected_goals": "0.01180",
-            "expected_assists": "0.04433",
-            "expected_goal_involvements": "0.05613",
-            "expected_goals_conceded": "0.54810",
+            "expected_goals": "0.01",
+            "expected_assists": "0.04",
+            "expected_goal_involvements": "0.06",
+            "expected_goals_conceded": "0.55",
             "value": 45,
             "transfers_balance": 0,
             "selected": 0,
@@ -355,10 +355,10 @@
             "threat": "0.0",
             "ict_index": "2.4",
             "starts": 1,
-            "expected_goals": "0.00000",
-            "expected_assists": "0.25278",
-            "expected_goal_involvements": "0.25278",
-            "expected_goals_conceded": "1.98150",
+            "expected_goals": "0.00",
+            "expected_assists": "0.25",
+            "expected_goal_involvements": "0.25",
+            "expected_goals_conceded": "1.98",
             "value": 45,
             "transfers_balance": 77,
             "selected": 107,
@@ -391,10 +391,10 @@
             "threat": "145.0",
             "ict_index": "67.8",
             "starts": 0,
-            "expected_goals": "0.00000",
-            "expected_assists": "0.00000",
-            "expected_goal_involvements": "0.00000",
-            "expected_goals_conceded": "0.00000"
+            "expected_goals": "0.00",
+            "expected_assists": "0.00",
+            "expected_goal_involvements": "0.00",
+            "expected_goals_conceded": "0.00"
         },
         {
             "season_name": "2018/19",
@@ -420,10 +420,10 @@
             "threat": "188.0",
             "ict_index": "71.6",
             "starts": 0,
-            "expected_goals": "0.00000",
-            "expected_assists": "0.00000",
-            "expected_goal_involvements": "0.00000",
-            "expected_goals_conceded": "0.00000"
+            "expected_goals": "0.00",
+            "expected_assists": "0.00",
+            "expected_goal_involvements": "0.00",
+            "expected_goals_conceded": "0.00"
         },
         {
             "season_name": "2019/20",
@@ -449,10 +449,10 @@
             "threat": "0.0",
             "ict_index": "0.0",
             "starts": 0,
-            "expected_goals": "0.00000",
-            "expected_assists": "0.00000",
-            "expected_goal_involvements": "0.00000",
-            "expected_goals_conceded": "0.00000"
+            "expected_goals": "0.00",
+            "expected_assists": "0.00",
+            "expected_goal_involvements": "0.00",
+            "expected_goals_conceded": "0.00"
         },
         {
             "season_name": "2020/21",
@@ -478,10 +478,10 @@
             "threat": "134.0",
             "ict_index": "59.9",
             "starts": 0,
-            "expected_goals": "0.00000",
-            "expected_assists": "0.00000",
-            "expected_goal_involvements": "0.00000",
-            "expected_goals_conceded": "0.00000"
+            "expected_goals": "0.00",
+            "expected_assists": "0.00",
+            "expected_goal_involvements": "0.00",
+            "expected_goals_conceded": "0.00"
         }
     ]
 }

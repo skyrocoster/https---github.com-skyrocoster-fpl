@@ -2,12 +2,15 @@ from db_tables import *
 import streamlit as st
 import plotly.express as px
 import numpy as np
+import pyarrow.parquet as pq
 
 st.set_page_config(layout="wide")
 sidebar = st.sidebar
 
 app_context = app.app_context()
 app_context.push()
+
+data = "data/streamlit/"
 
 
 def map_team_names(x):
@@ -17,53 +20,17 @@ def map_team_names(x):
 
 
 def team_games():
-    teamgames = TeamFixtureResults().query.all()
-    df = object_as_df(teamgames)
-    df["team_name"] = df["team_id"].apply(map_team_names)
-    df["opponent_name"] = df["opponent_id"].apply(map_team_names)
-    df["day_of_week"] = df["kickoff_time"].dt.day_name()
-    # df["time"] = pd.to_datetime(df["kickoff_time"].dt.strftime("%H:%M")).dt.time
-    df["goals_scored"] = df["score"] + df["opponent_score"]
-    df = df[
-        [
-            "team_name",
-            "opponent_name",
-            "fixture_difficulty",
-            "finished",
-            "score",
-            "opponent_score",
-            "win",
-            "home",
-            "gameweek_id",
-            "kickoff_time",
-            "day_of_week",
-            # "time",
-            "goals_scored",
-        ]
-    ]  # set column order
+    df = pq.read_table(f"{data}teamgames.parquet").to_pandas()
+    df = df.loc[df["team_name"].isin(fixture_teams)]
     return df
 
 
-@st.cache
 def load_fixtures():
-    field_rename = {"gameweek_id": "Gameweek", "kickoff_time": "Kickoff Time"}
-    fixtures = Fixtures().query.all()
-    df = object_as_df(fixtures)
-    df = df.loc[
-        (df["gameweek_id"] >= gameweek_start) & (df["gameweek_id"] <= gameweek_end)
-    ]
-    df["Home Team"] = df["team_h"].apply(map_team_names)
-    df["Away Team"] = df["team_a"].apply(map_team_names)
-    df["Home Score"] = df.apply(
-        lambda x: x["team_h_score"] if x["finished"] == 1 else "-", axis=1
-    ).astype(str)
-    df["Away Score"] = df.apply(
-        lambda x: x["team_a_score"] if x["finished"] == 1 else "-", axis=1
-    ).astype(str)
-    df = df.rename(columns=field_rename).sort_values(["Gameweek", "Home Team"])
+    df = pq.read_table(f"{data}fixtures.parquet").to_pandas()
     df = df.loc[
         (df["Home Team"].isin(fixture_teams)) | (df["Away Team"].isin(fixture_teams))
     ]
+    df = df.loc[(df["Gameweek"] >= gameweek_start) & (df["Gameweek"] <= gameweek_end)]
     if game_state == "Finished":
         df = df.loc[df["finished"] == 1]
     elif game_state == "Upcoming":
@@ -76,48 +43,57 @@ def load_fixtures():
 
 @st.cache
 def load_double_gameweeks(df):
-    df = df.copy()
-    df = df.loc[df["gameweek_id"] != 0]
-    df = df.loc[
-        (df["gameweek_id"] >= gameweek_start) & (df["gameweek_id"] <= gameweek_end)
+    df_dgw = df.copy()
+    df_dgw = df_dgw.loc[df_dgw["gameweek_id"] != 0]
+    df_dgw = df_dgw.loc[
+        (df_dgw["gameweek_id"] >= gameweek_start)
+        & (df_dgw["gameweek_id"] <= gameweek_end)
     ]
-    df = pd.DataFrame(
-        df[["team_name", "gameweek_id"]]
+    if game_state == "Finished":
+        df_dgw = df_dgw.loc[df_dgw["finished"] == 1]
+    elif game_state == "Upcoming":
+        df_dgw = df_dgw.loc[df_dgw["finished"] == 0]
+    else:
+        df_dgw = df_dgw
+    df_dgw = pd.DataFrame(
+        df_dgw[["team_name", "gameweek_id"]]
         .groupby(["gameweek_id", "team_name"])
         .value_counts()
         .reset_index()
     )
-    df.columns = ["Gameweek", "Team", "games_count"]
-    df = df.loc[df["games_count"] > 1]
-    df = df.drop(["games_count"], axis=1)
-    return df
+    df_dgw.columns = ["Gameweek", "Team", "games_count"]
+    df_dgw = df_dgw.loc[df_dgw["games_count"] > 1]
+    df_dgw = df_dgw.drop(["games_count"], axis=1)
+    return df_dgw
 
 
 @st.cache
 def load_blank_gameweeks(df):
-    df = df.copy()
-    df = df[["team_name", "gameweek_id", "finished"]]
-    df = df.loc[df["gameweek_id"] > 0]
-    df = df.loc[
-        (df["gameweek_id"] >= gameweek_start) & (df["gameweek_id"] <= gameweek_end)
+    df_blankgw = df.copy()
+    df_blankgw = df_blankgw[["team_name", "gameweek_id", "finished"]]
+    df_blankgw = df_blankgw.loc[df_blankgw["gameweek_id"] > 0]
+    df_blankgw = df_blankgw.loc[
+        (df_blankgw["gameweek_id"] >= gameweek_start)
+        & (df_blankgw["gameweek_id"] <= gameweek_end)
     ]
-    df = df.groupby(["gameweek_id", "team_name"]).count().unstack(fill_value=0).stack()
-    df = df.loc[df["finished"] == 0].reset_index().drop(["finished"], axis=1)
-    df.columns = ["Gameweek", "Team"]
-    return df
+    df_blankgw = (
+        df_blankgw.groupby(["gameweek_id", "team_name"])
+        .count()
+        .unstack(fill_value=0)
+        .stack()
+    )
+    df_blankgw = (
+        df_blankgw.loc[df_blankgw["finished"] == 0]
+        .reset_index()
+        .drop(["finished"], axis=1)
+    )
+    df_blankgw.columns = ["Gameweek", "Team"]
+    return df_blankgw
 
 
 @st.cache
-def load_blank_teams():
-    field_rename = {"gameweek_id": "Gameweek", "kickoff_time": "Kickoff Time"}
-    fixtures = Fixtures().query.all()
-    df = object_as_df(fixtures)
-    df = df.loc[
-        (df["gameweek_id"] ==0)
-    ]
-    df["Home Team"] = df["team_h"].apply(map_team_names)
-    df["Away Team"] = df["team_a"].apply(map_team_names)
-    df = df.rename(columns=field_rename).sort_values(["Gameweek", "Home Team"])
+def load_potential_dgw():
+    df = pq.read_table(f"{data}potential_dgw.parquet").to_pandas()
     df = df.loc[
         (df["Home Team"].isin(fixture_teams)) | (df["Away Team"].isin(fixture_teams))
     ]
@@ -138,9 +114,19 @@ def team_list():
     return team_list
 
 
+@st.cache
+def fixture_difficulty(df):
+    df_diff = df.copy()
+    df_diff = df_diff.loc[
+        (df_diff["gameweek_id"] >= gameweek_start)
+        & (df_diff["gameweek_id"] <= gameweek_end)
+    ]
+    df_diff = df_diff.sort_values(["gameweek_id", "team_name"])
+    return df_diff
+
+
 # filters
 team_names = team_list()
-teamgames = team_games()
 
 with sidebar:
     fixture_teams = st.multiselect("Select Teams to Include", team_names, team_names)
@@ -150,11 +136,13 @@ with sidebar:
         value=(1, 38),
     )
 
+teamgames = team_games()
+
 st.title("Fixtures")
 st.header("Matches")
 game_state = st.radio(
     "Game States",
-    ["Finished", "Upcoming", "Both"],
+    ["Both", "Finished", "Upcoming"],
     horizontal=True,
 )
 col1, col2 = st.columns(2)
@@ -179,10 +167,42 @@ with col2:
         "<h3 style='text-align: center;'>Potential Double Gameweeks</h3>",
         unsafe_allow_html=True,
     )
-    st.dataframe(load_blank_teams())
+    st.dataframe(load_potential_dgw())
 
 st.markdown("---")
 
+fixture_diffs = fixture_difficulty(teamgames)
 col1, col2 = st.columns(2)
 with col1:
     st.header("Fixture Difficulty")
+    st.dataframe(fixture_diffs)
+with col2:
+    tab1, tab2 = st.tabs(["Averages", "Scatter"])
+    with tab1:
+        avg_diff = (
+            fixture_diffs[["team_name", "fixture_difficulty", "home"]]
+            .groupby("team_name")
+            .mean()
+            .sort_values("fixture_difficulty", ascending=True)
+        )
+        fig = px.bar(
+            avg_diff,
+            x="fixture_difficulty",
+            color="home",
+            color_continuous_scale=[(0, "red"), (0.5, "green"), (1, "blue")],
+        )
+        st.plotly_chart(fig)
+    with tab2:
+        fig = px.scatter(
+            fixture_diffs.sort_values("gameweek_id"),
+            x="gameweek_id",
+            y="fixture_difficulty",
+            color="team_name",
+        )
+        fig.update_traces(
+            marker=dict(size=12, line=dict(width=2, color="DarkSlateGrey")),
+            selector=dict(mode="markers"),
+        )
+        fig.update_layout(yaxis_range=[0, 5])
+        fig.update_layout(xaxis=dict(tickmode="linear", tick0=1, dtick=1))
+        st.plotly_chart(fig)
