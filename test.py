@@ -1,22 +1,13 @@
 import pandas as pd
 from db_tables import *
 
-current_gameweek = 22
+df = pd.DataFrame(
+    [
+        {"gameweek_id": 1, "team": "Chelsea", 'game':3},
+        {"gameweek_id": 1, "team": "Brentford", 'game':4},
+        {"gameweek_id": 2, "team": "Chelsea", 'game':1},
+    ]
+)
 
-test = {"Hello": 1, "Goodbye": 2}
-df = pd.DataFrame(test, index=[0])
-melt = pd.DataFrame(test, index=[0]).melt()
-
-
-class FutureFixures:
-
-    def __init__(self, df):
-        self.df = df
-        self.melt = df.melt()
-
-
-# print(df)
-# print(melt)
-test = FutureFixures(df)
-print(test.df)
-print(test.melt)
+df = df.groupby(["team", "gameweek_id"]).count().unstack(fill_value=0).stack()
+print(df)
