@@ -188,6 +188,7 @@ df["opponent_name"] = df["opponent_team"].map(teams)
 df["value"] = df["value"].div(10).round(1)
 df["position"] = df["position"].astype("category")
 df["goals_assists"] = df["goals_scored"] + df["assists"]
+df = df.drop(["team_a_score", "team_h_score"], axis=1)
 df = df.rename(columns={"total_points": "gameweek_points"})
 
 pq.write_table(pa.Table.from_pandas(df), f"{data}{file_name}.parquet")
