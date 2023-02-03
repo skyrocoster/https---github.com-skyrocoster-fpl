@@ -18,6 +18,7 @@ def object_as_df(results):
     return df
 
 
+
 app = Flask(__name__)
 app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///fpl.db"
 db = SQLAlchemy(app)
@@ -165,8 +166,17 @@ class Teams(db.Model):
     fixture_saves = db.relationship("FixtureSaves", backref="teams", lazy="select")
     fixture_bonuses = db.relationship("FixtureBonuses", backref="teams", lazy="select")
     fixture_bps = db.relationship("FixtureBPS", backref="teams", lazy="select")
-    player_fixture_history = db.relationship(
-        "PlayerFixtureHistory", backref="teams", lazy="select"
+    player_fixture_history_team = db.relationship(
+        "PlayerFixtureHistory",
+        backref="teams_team_id",
+        lazy="select",
+        foreign_keys="PlayerFixtureHistory.team_id",
+    )
+    player_fixture_history_opponent = db.relationship(
+        "PlayerFixtureHistory",
+        backref="teams_opponent_id",
+        lazy="select",
+        foreign_keys="PlayerFixtureHistory.opponent_team",
     )
     manager_info = db.relationship("ManagerInfo", backref="teams", lazy="select")
 
@@ -618,6 +628,7 @@ class PlayerFixtureHistory(db.Model):
 
     gameweek_id = db.Column(db.Integer, db.ForeignKey("gameweeks.gameweek_id"))
     opponent_team = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
+    team_id = db.Column(db.Integer, db.ForeignKey("teams.team_id"))
 
     total_points = db.Column(db.Integer)
     was_home = db.Column(db.Boolean)
