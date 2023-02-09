@@ -1,6 +1,7 @@
 from db_tables import *
 import pyarrow.parquet as pq
 import pyarrow as pa
+import numpy as np
 
 
 def map_team_names(x):
@@ -131,6 +132,7 @@ sum_fields = [
     "penalties_saved",
     "penalties_missed",
     "total_points",
+    "expected_goals",
 ]
 sum_rename = {
     "assists": "total_assists",
@@ -142,6 +144,7 @@ sum_rename = {
     "bonus": "total_bonus",
     "penalties_saved": "total_penalties_saved",
     "penalties_missed": "total_penalties_missed",
+    "expected_goals": "total_expected_goals",
 }
 df_players_mean = df_players[mean_fields].rename(columns=mean_rename)
 df_players_sum = df_players[sum_fields].rename(columns=sum_rename)
@@ -165,6 +168,12 @@ df = df[
 ]
 df = df.merge(df_players_sum, on=["team_name", "fixture_id"])
 df = df.merge(df_players_mean, on=["team_name", "fixture_id"])
+df["avg_value"] = df["avg_value"].div(10)
+df = df.sort_values(["gameweek_id", "fixture_id"])
+df["fixture_number"] = (
+    df.groupby("team_name")["gameweek_id"].rank(method="first").astype("int")
+)
+df["clean_sheet"] = np.where(df["total_clean_sheets"] > 0, True, False)
 
 pq.write_table(pa.Table.from_pandas(df), f"{data}{file_name}.parquet")
 
@@ -192,3 +201,53 @@ df = df.drop(["team_a_score", "team_h_score"], axis=1)
 df = df.rename(columns={"total_points": "gameweek_points"})
 
 pq.write_table(pa.Table.from_pandas(df), f"{data}{file_name}.parquet")
+
+# Managers
+data = "data/streamlit/manager_performance/"
+
+file_name = "manager_info"
+
+manager_info = ManagerInfo().query.all()
+manager_info = object_as_df(manager_info)
+manager_info["full_name"] = (
+    manager_info["manager_first_name"].str.title()
+    + " "
+    + manager_info["manager_last_name"].str.title()
+)
+manager_info["squad_name"] = manager_info["squad_name"].str.title()
+pq.write_table(pa.Table.from_pandas(manager_info), f"{data}{file_name}.parquet")
+
+file_name = "manager_chips"
+
+manager_chips = ManagerChips().query.all()
+manager_chips = object_as_df(manager_chips)
+manager_chips["value"] = 1
+manager_chips = pd.pivot(
+    manager_chips, index=["manager_id", "gameweek_id"], columns="name", values="value"
+)
+manager_chips = manager_chips.reset_index()
+chips = ["3xc", "bboost", "freehit", "wildcard"]
+manager_chips[chips] = manager_chips[chips].fillna(0).astype("bool")
+pq.write_table(pa.Table.from_pandas(manager_chips), f"{data}{file_name}.parquet")
+
+
+file_name = "manager_gameweeks"
+manager_gw_rename = {"total_points": "points_to_gameweek"}
+
+manager_gws = ManagerGameweeks().query.all()
+manager_gws = object_as_df(manager_gws)
+manager_gws["value"] = manager_gws["value"].div(10)
+manager_gws["bank"] = manager_gws["bank"].div(10)
+
+manager_gws = manager_gws.merge(
+    manager_info[["manager_id", "full_name", "squad_name"]],
+    on=["manager_id"],
+    how="left",
+)
+manager_gws = manager_gws.merge(
+    manager_chips, on=["manager_id", "gameweek_id"], how="left"
+)
+chips = ["3xc", "bboost", "freehit", "wildcard"]
+manager_gws[chips] = manager_gws[chips].fillna(0).astype("bool")
+manager_gws = manager_gws.rename(columns=manager_gw_rename)
+pq.write_table(pa.Table.from_pandas(manager_gws), f"{data}{file_name}.parquet")

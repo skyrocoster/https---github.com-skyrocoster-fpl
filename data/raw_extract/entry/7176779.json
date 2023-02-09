@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1246,
-    "summary_overall_rank": 732177,
-    "summary_event_points": 77,
-    "summary_event_rank": 2814602,
-    "current_event": 21,
+    "summary_overall_points": 1299,
+    "summary_overall_rank": 784945,
+    "summary_event_points": 53,
+    "summary_event_rank": 2391104,
+    "current_event": 22,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 260343,
-                "entry_last_rank": 259372
+                "entry_rank": 274471,
+                "entry_last_rank": 260343
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 731043,
-                "entry_last_rank": 736605
+                "entry_rank": 783630,
+                "entry_last_rank": 731043
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 732177,
-                "entry_last_rank": 737636
+                "entry_rank": 784945,
+                "entry_last_rank": 732177
             },
             {
                 "id": 1171461,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 293932,
-                "entry_last_rank": 293123
+                "entry_rank": 309430,
+                "entry_last_rank": 293932
             },
             {
                 "id": 1567329,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1009751,
-                "entry_last_rank": 1018646
+                "entry_rank": 1141887,
+                "entry_last_rank": 1009751
             }
         ],
         "h2h": [],
@@ -210,11 +210,11 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 97982254,
-                "entry_1_entry": 2094598,
-                "entry_1_name": "Alfie’s XI",
-                "entry_1_player_name": "Alfie Midwinter",
-                "entry_1_points": 73,
+                "id": 102768468,
+                "entry_1_entry": 1645834,
+                "entry_1_name": "Pick your team name",
+                "entry_1_player_name": "Will Hams",
+                "entry_1_points": 77,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -222,26 +222,26 @@
                 "entry_2_entry": 7176779,
                 "entry_2_name": "Expected Toulouse",
                 "entry_2_player_name": "Dale Larwood",
-                "entry_2_points": 77,
+                "entry_2_points": 53,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": 7176779,
+                "winner": null,
                 "seed_value": null,
-                "event": 21,
+                "event": 22,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 262144"
+                "knockout_name": "Round of 131072"
             }
         ]
     },
     "name": "Expected Toulouse",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#417505\",\"kit_shirt_sleeves\":\"#f5a623\",\"kit_shirt_secondary\":\"#50e3c2\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#95c55e\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#d0021b\",\"kit_socks_secondary\":\"#7ed321\"}",
-    "last_deadline_bank": 30,
-    "last_deadline_value": 1020,
-    "last_deadline_total_transfers": 21
+    "last_deadline_bank": 48,
+    "last_deadline_value": 1024,
+    "last_deadline_total_transfers": 22
 }

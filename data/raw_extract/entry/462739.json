@@ -9,11 +9,11 @@
     "player_region_name": "Scotland",
     "player_region_iso_code_short": "S1",
     "player_region_iso_code_long": "SCO",
-    "summary_overall_points": 1253,
-    "summary_overall_rank": 618589,
-    "summary_event_points": 74,
-    "summary_event_rank": 3568998,
-    "current_event": 21,
+    "summary_overall_points": 1304,
+    "summary_overall_rank": 710745,
+    "summary_event_points": 51,
+    "summary_event_rank": 2796422,
+    "current_event": 22,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405678,
                 "cup_qualified": true,
-                "entry_rank": 43278,
-                "entry_last_rank": 39799
+                "entry_rank": 47590,
+                "entry_last_rank": 43278
             },
             {
                 "id": 263,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431364,
                 "cup_qualified": true,
-                "entry_rank": 13741,
-                "entry_last_rank": 12586
+                "entry_rank": 15200,
+                "entry_last_rank": 13741
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 617801,
-                "entry_last_rank": 571243
+                "entry_rank": 709694,
+                "entry_last_rank": 617801
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 618589,
-                "entry_last_rank": 571849
+                "entry_rank": 710745,
+                "entry_last_rank": 618589
             },
             {
                 "id": 88101,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 250240,
-                "entry_last_rank": 229611
+                "entry_rank": 281533,
+                "entry_last_rank": 250240
             },
             {
                 "id": 1567329,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2277488,
-                "entry_last_rank": 2216731
+                "entry_rank": 2197519,
+                "entry_last_rank": 2277488
             }
         ],
         "h2h": [],
@@ -321,38 +321,38 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 101754213,
-                "entry_1_entry": 462739,
-                "entry_1_name": "Lost Boys Utd",
-                "entry_1_player_name": "Craig Telford",
-                "entry_1_points": 74,
+                "id": 104674489,
+                "entry_1_entry": 3355730,
+                "entry_1_name": "Haven’t Jota Clue",
+                "entry_1_player_name": "Greg Young",
+                "entry_1_points": 55,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 462739,
+                "entry_2_name": "Lost Boys Utd",
+                "entry_2_player_name": "Craig Telford",
+                "entry_2_points": 51,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431364,
-                "winner": 462739,
+                "winner": null,
                 "seed_value": null,
-                "event": 21,
+                "event": 22,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 262144"
+                "is_bye": false,
+                "knockout_name": "Round of 131072"
             }
         ]
     },
     "name": "Lost Boys Utd",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#020000\",\"kit_shirt_sleeves\":\"#ffffff\",\"kit_shirt_secondary\":\"#eda7fc\",\"kit_shirt_logo\":\"no-racism\",\"kit_shorts\":\"#ffffff\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#000000\",\"kit_socks_secondary\":\"#edacfd\"}",
-    "last_deadline_bank": 30,
-    "last_deadline_value": 1023,
-    "last_deadline_total_transfers": 27
+    "last_deadline_bank": 40,
+    "last_deadline_value": 1018,
+    "last_deadline_total_transfers": 29
 }

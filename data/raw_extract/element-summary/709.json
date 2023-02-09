@@ -1,22 +1,6 @@
 {
     "fixtures": [
         {
-            "id": 211,
-            "code": 2293020,
-            "team_h": 2,
-            "team_h_score": null,
-            "team_a": 10,
-            "team_a_score": null,
-            "event": 22,
-            "finished": false,
-            "minutes": 0,
-            "provisional_start_time": false,
-            "kickoff_time": "2023-02-04T15:00:00Z",
-            "event_name": "Gameweek 22",
-            "is_home": false,
-            "difficulty": 2
-        },
-        {
             "id": 226,
             "code": 2293035,
             "team_h": 10,
@@ -288,6 +272,45 @@
             "difficulty": 2
         }
     ],
-    "history": [],
+    "history": [
+        {
+            "element": 709,
+            "fixture": 211,
+            "opponent_team": 2,
+            "total_points": 1,
+            "was_home": false,
+            "kickoff_time": "2023-02-04T15:00:00Z",
+            "team_h_score": 2,
+            "team_a_score": 4,
+            "round": 22,
+            "minutes": 80,
+            "goals_scored": 0,
+            "assists": 0,
+            "clean_sheets": 0,
+            "goals_conceded": 2,
+            "own_goals": 0,
+            "penalties_saved": 0,
+            "penalties_missed": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "saves": 0,
+            "bonus": 0,
+            "bps": 18,
+            "influence": "22.4",
+            "creativity": "3.8",
+            "threat": "0.0",
+            "ict_index": "2.6",
+            "starts": 1,
+            "expected_goals": "0.00",
+            "expected_assists": "0.00",
+            "expected_goal_involvements": "0.00",
+            "expected_goals_conceded": "1.45",
+            "value": 45,
+            "transfers_balance": 454,
+            "selected": 628,
+            "transfers_in": 509,
+            "transfers_out": 55
+        }
+    ],
     "history_past": []
 }

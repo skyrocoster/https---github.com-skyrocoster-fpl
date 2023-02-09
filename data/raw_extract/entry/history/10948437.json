@@ -1,0 +1,100 @@
+{
+    "current": [
+        {
+            "event": 17,
+            "points": 99,
+            "total_points": 99,
+            "rank": 328174,
+            "rank_sort": 337844,
+            "overall_rank": 10834529,
+            "bank": 0,
+            "value": 1000,
+            "event_transfers": 0,
+            "event_transfers_cost": 0,
+            "points_on_bench": 19
+        },
+        {
+            "event": 18,
+            "points": 89,
+            "total_points": 188,
+            "rank": 718,
+            "rank_sort": 793,
+            "overall_rank": 10778067,
+            "bank": 3,
+            "value": 1004,
+            "event_transfers": 1,
+            "event_transfers_cost": 0,
+            "points_on_bench": 0
+        },
+        {
+            "event": 19,
+            "points": 86,
+            "total_points": 274,
+            "rank": 39276,
+            "rank_sort": 41374,
+            "overall_rank": 10731369,
+            "bank": 6,
+            "value": 1006,
+            "event_transfers": 1,
+            "event_transfers_cost": 0,
+            "points_on_bench": 20
+        },
+        {
+            "event": 20,
+            "points": 94,
+            "total_points": 368,
+            "rank": 94228,
+            "rank_sort": 98134,
+            "overall_rank": 10682537,
+            "bank": 1,
+            "value": 1008,
+            "event_transfers": 0,
+            "event_transfers_cost": 0,
+            "points_on_bench": 13
+        },
+        {
+            "event": 21,
+            "points": 88,
+            "total_points": 456,
+            "rank": 389734,
+            "rank_sort": 415060,
+            "overall_rank": 10643164,
+            "bank": 1,
+            "value": 1013,
+            "event_transfers": 1,
+            "event_transfers_cost": 0,
+            "points_on_bench": 9
+        },
+        {
+            "event": 22,
+            "points": 76,
+            "total_points": 532,
+            "rank": 222914,
+            "rank_sort": 226482,
+            "overall_rank": 10571560,
+            "bank": 1,
+            "value": 1020,
+            "event_transfers": 0,
+            "event_transfers_cost": 0,
+            "points_on_bench": 8
+        }
+    ],
+    "past": [],
+    "chips": [
+        {
+            "name": "bboost",
+            "time": "2022-12-29T16:09:12.900838Z",
+            "event": 18
+        },
+        {
+            "name": "wildcard",
+            "time": "2023-01-12T14:28:57.234776Z",
+            "event": 20
+        },
+        {
+            "name": "3xc",
+            "time": "2023-01-30T18:03:38.642849Z",
+            "event": 22
+        }
+    ]
+}

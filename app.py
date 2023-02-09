@@ -25,9 +25,9 @@ def team_at_time(x):
 api_url = f"{fpl_api}bootstrap-static/"
 root_folder = f"{raw_extract}bootstrap-static/"
 
-# result = requests.get(api_url).json()
-# with open(f"{root_folder}bootstrap-static.json", "w", encoding="utf-8") as f:
-#     json.dump(result, f, ensure_ascii=False, indent=4)
+result = requests.get(api_url).json()
+with open(f"{root_folder}bootstrap-static.json", "w", encoding="utf-8") as f:
+    json.dump(result, f, ensure_ascii=False, indent=4)
 
 bootstrap = json.load(open(f"{root_folder}bootstrap-static.json", encoding="utf8"))
 bootstrap_events = pd.DataFrame(bootstrap["events"])
@@ -144,9 +144,9 @@ db.session.commit()
 api_url = f"{fpl_api}fixtures/"
 root_folder = f"{raw_extract}fixtures/"
 
-# result = requests.get(api_url).json()
-# with open(f"{root_folder}fixtures.json", "w", encoding="utf-8") as f:
-#     json.dump(result, f, ensure_ascii=False, indent=4)
+result = requests.get(api_url).json()
+with open(f"{root_folder}fixtures.json", "w", encoding="utf-8") as f:
+    json.dump(result, f, ensure_ascii=False, indent=4)
 
 fixtures = json.load(open(f"{root_folder}fixtures.json", encoding="utf8"))
 fixtures = pd.DataFrame(fixtures).rename(
@@ -400,10 +400,10 @@ root_folder = f"{raw_extract}element-summary/"
 player_list = Players().query.all()
 player_list = [player.player_id for player in player_list]
 
-# for player in player_list:
-#     result = requests.get(f'{api_url}{player}/').json()
-#     with open(f"{root_folder}{player}.json", "w", encoding="utf-8") as f:
-#         json.dump(result, f, ensure_ascii=False, indent=4)
+for player in player_list:
+    result = requests.get(f"{api_url}{player}/").json()
+    with open(f"{root_folder}{player}.json", "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=4)
 
 player_remaining_fixtures = pd.DataFrame()
 remaining_rename = {"id": "fixture_id", "event": "gameweek_id"}
@@ -422,14 +422,6 @@ for player in player_list:
     player_id = player
     player = json.load(open(f"{root_folder}{player}.json", encoding="utf8"))
 
-    # player_remaining_fixtures_temp = pd.DataFrame(player["fixtures"]).drop(
-    #     ["team_h_score", "team_a_score", "minutes"], axis=1
-    # )
-    # player_remaining_fixtures_temp["player_id"] = player_id
-    # player_remaining_fixtures = pd.concat(
-    #     [player_remaining_fixtures, player_remaining_fixtures_temp]
-    # )
-
     player_fixture_history_temp = pd.DataFrame(player["history"])
     player_fixture_history = pd.concat(
         [player_fixture_history, player_fixture_history_temp]
@@ -441,16 +433,6 @@ for player in player_list:
         [player_fixture_historypast, player_fixture_historypast_temp]
     )
 
-
-# player_remaining_fixtures["kickoff_time"] = pd.to_datetime(
-#     player_remaining_fixtures["kickoff_time"].fillna(0)
-# )
-# player_remaining_fixtures = player_remaining_fixtures.rename(
-#     columns=remaining_rename
-# ).to_dict(orient="records")
-# for fixture in player_remaining_fixtures:
-#     db.session.merge(PlayerRemainingFixtures(**fixture))
-# db.session.commit()
 
 player_fixture_history["kickoff_time"] = pd.to_datetime(
     player_fixture_history["kickoff_time"]
@@ -489,11 +471,12 @@ api_url = f"{fpl_api}leagues-classic/"
 root_folder = f"{raw_extract}leagues-classic/"
 
 league_list = [2257667, 1567329]
+league_list.extend([314, 2385997, 4, 261, 111, 124, 553, 6235, 6345])
 
-# for league in league_list:
-#     result = requests.get(f"{api_url}{league}/standings").json()
-#     with open(f"{root_folder}{league}.json", "w", encoding="utf-8") as f:
-#         json.dump(result, f, ensure_ascii=False, indent=4)
+for league in league_list:
+    result = requests.get(f"{api_url}{league}/standings").json()
+    with open(f"{root_folder}{league}.json", "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=4)
 
 league_info = pd.DataFrame()
 league_info_rename = {"id": "league_id"}
@@ -524,7 +507,10 @@ league_info["created"] = pd.to_datetime(league_info["created"])
 league_info = (
     league_info.reset_index(drop=True)
     .convert_dtypes()
-    .drop(["max_entries", "cup_league", "rank"], axis=1)
+    .drop(
+        ["max_entries", "cup_league", "rank", "code_privacy", "admin_entry", "closed"],
+        axis=1,
+    )
     .to_dict(orient="records")
 )
 for league in league_info:
@@ -543,10 +529,10 @@ root_folder = f"{raw_extract}entry/"
 managers = ManagerLeagues().query.all()
 manager_list = set([manager.manager_id for manager in managers])
 
-# for manager in manager_list:
-#     result = requests.get(f"{api_url}{manager}/").json()
-#     with open(f"{root_folder}{manager}.json", "w", encoding="utf-8") as f:
-#         json.dump(result, f, ensure_ascii=False, indent=4)
+for manager in manager_list:
+    result = requests.get(f"{api_url}{manager}/").json()
+    with open(f"{root_folder}{manager}.json", "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=4)
 
 manager_leagues = pd.DataFrame()
 manager_classic_rename = {"id": "league_id", "cup_league": "cup_league_id"}
@@ -654,10 +640,10 @@ root_folder = f"{raw_extract}entry/history/"
 managers = ManagerInfo().query.all()
 manager_list = set([manager.manager_id for manager in managers])
 
-# for manager in manager_list:
-#     result = requests.get(f"{api_url}{manager}/history/").json()
-#     with open(f"{root_folder}{manager}.json", "w", encoding="utf-8") as f:
-#         json.dump(result, f, ensure_ascii=False, indent=4)
+for manager in manager_list:
+    result = requests.get(f"{api_url}{manager}/history/").json()
+    with open(f"{root_folder}{manager}.json", "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=4)
 
 manager_gameweek = pd.DataFrame()
 manager_gameweek_rename = {
@@ -718,20 +704,20 @@ manager_gameweeks = ManagerGameweeks().query.all()
 manager_list = set([manager.manager_id for manager in manager_gameweeks])
 gameweek_list = set([gameweek.gameweek_id for gameweek in manager_gameweeks])
 
-# for gameweek in gameweek_list:
-#     gameweek_id = gameweek
-#     try:
-#         os.makedirs(f"{root_folder}{gameweek_id}")
-#     except:
-#         pass
+for gameweek in gameweek_list:
+    gameweek_id = gameweek
+    try:
+        os.makedirs(f"{root_folder}{gameweek_id}")
+    except:
+        pass
 
-#     for manager in manager_list:
-#         result = requests.get(f"{api_url}{manager}/event/{gameweek}/picks/").json()
-#         if len(result) > 1:
-#             with open(
-#                 f"{root_folder}{gameweek}/{manager}.json", "w", encoding="utf-8"
-#             ) as f:
-#                 json.dump(result, f, ensure_ascii=False, indent=4)
+    for manager in manager_list:
+        result = requests.get(f"{api_url}{manager}/event/{gameweek}/picks/").json()
+        if len(result) > 1:
+            with open(
+                f"{root_folder}{gameweek}/{manager}.json", "w", encoding="utf-8"
+            ) as f:
+                json.dump(result, f, ensure_ascii=False, indent=4)
 
 gameweek_subs = pd.DataFrame()
 gameweek_subs_rename = {

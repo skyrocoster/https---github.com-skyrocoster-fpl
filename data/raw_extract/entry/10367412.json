@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 853,
-    "summary_overall_rank": 8839627,
-    "summary_event_points": 71,
-    "summary_event_rank": 4851113,
-    "current_event": 21,
+    "summary_overall_points": 893,
+    "summary_overall_rank": 8671844,
+    "summary_event_points": 44,
+    "summary_event_rank": 3937455,
+    "current_event": 22,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 1973474,
-                "entry_last_rank": 2016021
+                "entry_rank": 1940556,
+                "entry_last_rank": 1973474
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2458798,
-                "entry_last_rank": 2503576
+                "entry_rank": 2424214,
+                "entry_last_rank": 2458798
             },
             {
                 "id": 282,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 12530,
-                "entry_last_rank": 12242
+                "entry_rank": 10979,
+                "entry_last_rank": 12530
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 8839627,
-                "entry_last_rank": 9042123
+                "entry_rank": 8671844,
+                "entry_last_rank": 8839627
             },
             {
                 "id": 1171461,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2796404,
-                "entry_last_rank": 2848287
+                "entry_rank": 2756278,
+                "entry_last_rank": 2796404
             },
             {
                 "id": 2257667,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4649647,
-                "entry_last_rank": 4702748
+                "entry_rank": 4543994,
+                "entry_last_rank": 4649647
             }
         ],
         "h2h": [],
@@ -289,7 +289,7 @@
     "name": "Ellie's Red Devils",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 2,
+    "last_deadline_bank": 21,
     "last_deadline_value": 1025,
-    "last_deadline_total_transfers": 8
+    "last_deadline_total_transfers": 10
 }

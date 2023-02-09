@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1179,
-    "summary_overall_rank": 2347843,
-    "summary_event_points": 78,
-    "summary_event_rank": 2392825,
-    "current_event": 21,
+    "summary_overall_points": 1227,
+    "summary_overall_rank": 2334300,
+    "summary_event_points": 48,
+    "summary_event_rank": 3249236,
+    "current_event": 22,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2437795,
                 "cup_qualified": true,
-                "entry_rank": 29492,
-                "entry_last_rank": 30871
+                "entry_rank": 29834,
+                "entry_last_rank": 29492
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 775336,
-                "entry_last_rank": 808699
+                "entry_rank": 765435,
+                "entry_last_rank": 775336
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2328572,
-                "entry_last_rank": 2450119
+                "entry_rank": 2314985,
+                "entry_last_rank": 2328572
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2347843,
-                "entry_last_rank": 2470999
+                "entry_rank": 2334300,
+                "entry_last_rank": 2347843
             },
             {
                 "id": 709599,
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
+                "entry_rank": 10,
                 "entry_last_rank": 11
             },
             {
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 876109,
-                "entry_last_rank": 914132
+                "entry_rank": 864056,
+                "entry_last_rank": 876109
             },
             {
                 "id": 1567329,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 566573,
-                "entry_last_rank": 577437
+                "entry_rank": 937034,
+                "entry_last_rank": 566573
             }
         ],
         "h2h": [],
@@ -252,38 +252,65 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 97699148,
-                "entry_1_entry": 9602250,
-                "entry_1_name": "jokes",
-                "entry_1_player_name": "james johnson",
-                "entry_1_points": 64,
+                "id": 102637112,
+                "entry_1_entry": 7191263,
+                "entry_1_name": "Clarks Classics",
+                "entry_1_player_name": "Michael Clark",
+                "entry_1_points": 48,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 7191263,
-                "entry_2_name": "Clarks Classics",
-                "entry_2_player_name": "Michael Clark",
-                "entry_2_points": 78,
+                "entry_2_entry": 5789409,
+                "entry_2_name": "Haven’t Jota Clue",
+                "entry_2_player_name": "Alex Ayling",
+                "entry_2_points": 57,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": 7191263,
+                "winner": null,
                 "seed_value": null,
-                "event": 21,
+                "event": 22,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 262144"
+                "knockout_name": "Round of 131072"
+            },
+            {
+                "id": 105197199,
+                "entry_1_entry": 7191263,
+                "entry_1_name": "Clarks Classics",
+                "entry_1_player_name": "Michael Clark",
+                "entry_1_points": 48,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 7889463,
+                "entry_2_name": "king_kholio",
+                "entry_2_player_name": "khaled MOHAMED",
+                "entry_2_points": 30,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437795,
+                "winner": null,
+                "seed_value": null,
+                "event": 22,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 131072"
             }
         ]
     },
     "name": "Clarks Classics",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#c00808\",\"kit_shirt_sleeves\":\"#c12525\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#bd2a2a\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 7,
-    "last_deadline_value": 1016,
-    "last_deadline_total_transfers": 16
+    "last_deadline_bank": 33,
+    "last_deadline_value": 1019,
+    "last_deadline_total_transfers": 17
 }

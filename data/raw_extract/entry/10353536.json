@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 693,
-    "summary_overall_rank": 10079985,
-    "summary_event_points": 65,
-    "summary_event_rank": 6487603,
-    "current_event": 21,
+    "summary_overall_points": 710,
+    "summary_overall_rank": 10107450,
+    "summary_event_points": 17,
+    "summary_event_rank": 9857704,
+    "current_event": 22,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 36762,
-                "entry_last_rank": 36971
+                "entry_rank": 36883,
+                "entry_last_rank": 36762
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2671476,
-                "entry_last_rank": 2680697
+                "entry_rank": 2675135,
+                "entry_last_rank": 2671476
             },
             {
                 "id": 282,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 142892,
-                "entry_last_rank": 147089
+                "entry_rank": 148989,
+                "entry_last_rank": 142892
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 10079985,
-                "entry_last_rank": 10136299
+                "entry_rank": 10107450,
+                "entry_last_rank": 10079985
             },
             {
                 "id": 1171461,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 3042702,
-                "entry_last_rank": 3053485
+                "entry_rank": 3046879,
+                "entry_last_rank": 3042702
             },
             {
                 "id": 2257667,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6377019,
-                "entry_last_rank": 6306051
+                "entry_rank": 7112319,
+                "entry_last_rank": 6377019
             }
         ],
         "h2h": [],
@@ -236,6 +236,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 10,
-    "last_deadline_value": 1003,
+    "last_deadline_value": 1005,
     "last_deadline_total_transfers": 3
 }

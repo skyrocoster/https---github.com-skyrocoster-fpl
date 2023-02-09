@@ -1,9 +1,11 @@
 from db_tables import *
 import streamlit as st
 import plotly.express as px
-import numpy as np
 import pyarrow.parquet as pq
 import pyarrow as pa
+import plotly.graph_objs as go
+from io import BytesIO
+from pyxlsb import open_workbook as open_xlsb
 
 st.set_page_config(layout="wide")
 sidebar = st.sidebar
@@ -11,155 +13,180 @@ sidebar = st.sidebar
 app_context = app.app_context()
 app_context.push()
 
-player_avg_fields = [
-    "was_home",
-    "minutes",
-    "goals_scored",
-    "assists",
-    "clean_sheets",
-    "goals_conceded",
-    "own_goals",
-    "penalties_saved",
-    "penalties_missed",
-    "yellow_cards",
-    "red_cards",
-    "saves",
-    "bonus",
-    "bps",
-    "influence",
-    "creativity",
-    "threat",
-    "ict_index",
-    "expected_goals",
-    "expected_assists",
-    "expected_goal_involvements",
-    "expected_goals_conceded",
-    "selected",
-    "goals_assists",
-]
-
-# player_fixture_fields = [
-
-# ]
-
 
 @st.cache
-def load_team_list():
-    teams = Teams().query.all()
-    team_list = [team.team_name for team in teams]
-    return team_list
-
-
-@st.cache
-def load_player_fixtures():
+def load_manager_list():
     df = pq.read_table(
-        f"data/streamlit/player_performance/player_fixtures.parquet"
+        f"data/streamlit/manager_performance/manager_gameweeks.parquet"
     ).to_pandas()
-    if len(sel_teams) > 0:
-        df = df.loc[df["team_name"].isin(sel_teams)]
+    manager_list = df["full_name"].sort_values().unique()
+    return manager_list
+
+
+@st.cache
+def load_manager_gws():
+    df = pq.read_table(
+        f"data/streamlit/manager_performance/manager_gameweeks.parquet"
+    ).to_pandas()
     df = df.loc[(df["gameweek_id"] >= sel_gw_start) & (df["gameweek_id"] <= sel_gw_end)]
-    if len(sel_positions) > 0:
-        df = df.loc[df["position"].isin(sel_positions)]
-    if len(sel_player) > 0:
-        df = df.loc[df["web_name"].isin(sel_player)]
-    df = df.loc[df["minutes"] > sel_minutes]
-    df = df.set_index(["web_name"]).sort_values("web_name")
-    if sel_home == "Home":
-        df = df.loc[df["was_home"] == True]
-    elif sel_home == "Away":
-        df = df.loc[df["was_home"] == False]
+    if len(sel_manager) > 0:
+        df = df.loc[df["full_name"].isin(sel_manager)]
     return df
 
 
 @st.cache
-def load_player_avgs(df, keep_cols=player_avg_fields):
-    df_avgs = df[keep_cols]
-    df_avgs = (
-        df_avgs.loc[df_avgs["minutes"] > 60]
-        .groupby(["web_name"])
-        .mean(numeric_only=True)
+def load_manager_avgs(df):
+    sum_cols = {
+        "full_name": "full_name",
+        "manager_id": "manager_id",
+        "points": "sum_points",
+        "gameweek_transfers": "sum_gameweek_transfers",
+        "gameweek_transfers_cost": "sum_gameweek_transfers_cost",
+        "points_on_bench": "sum_points_on_bench",
+        "bank": "sum_bank",
+    }
+    avg_cols = {
+        "full_name": "full_name",
+        "manager_id": "manager_id",
+        "points": "avg_points",
+        "gameweek_rank": "avg_gameweek_rank",
+        "overall_rank": "avg_overall_rank",
+        "points_on_bench": "avg_points_on_bench",
+        "bank": "avg_bank",
+        "value": "avg_value",
+    }
+    df_sum = (
+        df[sum_cols.keys()]
+        .groupby(["manager_id", "full_name"])
+        .sum(numeric_only=True)
+        .rename(columns=sum_cols)
     )
-    df_avgs = df_avgs.reset_index()
-    return df_avgs
+    df_avg = (
+        df[avg_cols.keys()]
+        .groupby(["manager_id", "full_name"])
+        .mean(numeric_only=True)
+        .rename(columns=avg_cols)
+    )
+    df = df_sum.merge(df_avg, on=["manager_id", "full_name"])
+    df = df.reset_index()
+    return df
 
 
-@st.cache
-def load_player_list():
-    df = pq.read_table(f"data/streamlit/player_performance/players.parquet").to_pandas()
-    if len(sel_teams) > 0:
-        df = df.loc[df["team_name"].isin(sel_teams)]
-    if len(sel_positions) > 0:
-        df = df.loc[df["position"].isin(sel_positions)]
-    player_list = sorted(df[["web_name"]].squeeze().tolist())
-    return player_list
+# @st.cache
+# def load_h2h(df):
+#     return df
+class HeadToHead:
+    def __init__(self, df):
+        df = df.to_dict(orient="records")
+        p1 = df[0]
+        p2 = df[1]
+
+        if p1["sum_points"] > p2["sum_points"]:
+            self.sum_points = p1["full_name"]
 
 
-team_names = load_team_list()
-positions = ["GKP", "FWD", "MID", "DEF"]
-
+manager_list = load_manager_list()
 with sidebar:
-    sel_positions = st.multiselect("Select Positions to Include", positions, positions)
-    sel_teams = st.multiselect("Select Teams to Include", team_names, [])
-    player_names = load_player_list()
     sel_gw_start, sel_gw_end = st.select_slider(
         "Select a Gameweek Range:",
         options=[item for item in range(1, 38 + 1)],
         value=(1, 38),
     )
-    sel_player = st.multiselect("Select a Player", player_names, [])
-    sel_minutes = st.slider(
-        "Minimum Played Minutes", min_value=0, max_value=90, value=60
-    )
-    sel_home = st.radio(
-        "Home or Away",
-        ["Both", "Home", "Away"],
-        horizontal=True,
-    )
+    sel_manager = st.multiselect("Select Managers", manager_list)
 
-player_fixtures = load_player_fixtures()
-tab1, tab2 = st.tabs(["Dataframe", "Scatter Plot"])
-with tab1:
-    st.subheader("By Fixture")
-    st.dataframe(player_fixtures)
-with tab2:
-    player_fixtures = player_fixtures.sort_values(["gameweek_id", "player_id"])
-    fig = px.line(
-        player_fixtures,
+# Load Dataframe
+manager_gws = load_manager_gws()
+manager_avgs = load_manager_avgs(manager_gws)
+
+# Load Fieldlists
+manager_gws_fields = list(manager_gws.columns)
+manager_avgs_fields = list(manager_avgs)
+
+gw_tab, overall_tab, h2h_tab = st.tabs(["By Gameweek", "Overall", "Head to Head"])
+
+
+with gw_tab:
+    st.dataframe(manager_gws)
+
+    fig_gw_line = px.line(
+        manager_gws,
         x="gameweek_id",
-        y="gameweek_points",
-        color=player_fixtures.index,
-        markers=True
-        # size=sel_player_avg_size,
+        y="points_to_gameweek",
+        color="manager_id",
+        width=1600,
     )
-    fig.update_layout(xaxis=dict(tickmode="linear", tick0=1, dtick=1))
-    fig.update_traces(connectgaps=False)
-    st.plotly_chart(fig)
 
-player_fixtures_avg = load_player_avgs(player_fixtures)
-tab1, tab2 = st.tabs(["Dataframe", "Scatter Plot"])
-with tab1:
-    st.subheader("Player Averages")
-    st.dataframe(player_fixtures_avg)
-with tab2:
+    fig_gw_line.update_layout(
+        xaxis=dict(tickmode="linear", tick0=1, dtick=1),
+        yaxis=dict(tickmode="linear", tick0=0, dtick=100),
+    )
+
+    st.plotly_chart(fig_gw_line)
+
+with overall_tab:
+    st.dataframe(manager_avgs)
+
     col1, col2 = st.columns(2)
+
     with col1:
-        sel_player_avg_x = st.selectbox(
-            "Select X Axis", player_avg_fields, key="sel_player_avg_x"
+        sel_mngr_avgs_scatter_x = st.selectbox(
+            "Select X Axis", manager_avgs_fields, key="sel_mngr_avgs_scatter_x"
         )
     with col2:
-        sel_player_avg_y = st.selectbox(
-            "Select Y Axis", player_avg_fields, key="sel_player_avg_y"
+        sel_mngr_avgs_scatter_y = st.selectbox(
+            "Select Y Axis", manager_avgs_fields, key="sel_mngr_avgs_scatter_y"
         )
-        sel_player_avg_size = st.selectbox(
-            "Select Size of Trace", player_avg_fields, key="sel_player_avg_size"
+        sel_mngr_avgs_scatter_size = st.selectbox(
+            "Select Trace Size", manager_avgs_fields, key="sel_mngr_avgs_scatter_size"
         )
 
-    fig = px.scatter(
-        player_fixtures_avg,
-        x=sel_player_avg_x,
-        y=sel_player_avg_y,
-        color="web_name",
-        size=sel_player_avg_size,
+    manager_avgs_scatter = px.scatter(
+        manager_avgs,
+        x=sel_mngr_avgs_scatter_x,
+        y=sel_mngr_avgs_scatter_y,
+        size=None,
+        color=None,
+        width=1600,
         trendline="ols",
     )
-    st.plotly_chart(fig)
+    # manager_avgs_scatter.update_layout(
+    #     xaxis=dict(tickmode="linear", tick0=1, dtick=1),
+    # )
+    # y_mean = manager_avgs[sel_mngr_avgs_scatter_y].mean()
+    # x_mean = manager_avgs[sel_mngr_avgs_scatter_x].mean()
+    # y_max = manager_avgs[sel_mngr_avgs_scatter_y].max()
+    # y_min = manager_avgs[sel_mngr_avgs_scatter_y].min()
+    # x_min = manager_avgs[sel_mngr_avgs_scatter_x].min()
+    # x_max = manager_avgs[sel_mngr_avgs_scatter_x].max()
+    # manager_avgs_scatter.add_shape(
+    #     type="line", y0=y_mean, y1=y_mean, x0=x_min, x1=x_max
+    # )
+    # manager_avgs_scatter.add_shape(
+    #     type="line", x0=x_mean, x1=x_mean, y0=y_min, y1=y_max
+    # )
+
+    st.plotly_chart(manager_avgs_scatter)
+
+    manager_avgs_bar = px.bar(
+        manager_avgs.sort_values("sum_points"),
+        x="sum_points",
+        y="manager_id",
+        color="sum_gameweek_transfers_cost",
+        width=1600,
+    )
+
+    st.plotly_chart(manager_avgs_bar)
+
+with h2h_tab:
+    if len(sel_manager) != 2:
+        st.write("Please Select Two Managers")
+        h2h = None
+    else:
+        h2h = HeadToHead(manager_avgs)
+    col1, col2 = st.columns(2)
+    # st.write(h2h)
+    with col1:
+        st.write(h2h.sum_points)
+        st.write("🟢")
+    with col2:
+        st.write(h2h)

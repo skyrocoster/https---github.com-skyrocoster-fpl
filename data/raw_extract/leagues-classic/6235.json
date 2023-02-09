@@ -1,0 +1,183 @@
+{
+    "new_entries": {
+        "has_next": false,
+        "page": 1,
+        "results": []
+    },
+    "last_updated_data": "2023-02-05T20:34:06Z",
+    "league": {
+        "id": 6235,
+        "name": "BRUCE ARENA",
+        "created": "2022-07-05T15:32:06.077700Z",
+        "closed": false,
+        "max_entries": null,
+        "league_type": "x",
+        "scoring": "c",
+        "admin_entry": 26244,
+        "start_event": 1,
+        "code_privacy": "p",
+        "has_cup": true,
+        "cup_league": null,
+        "rank": null
+    },
+    "standings": {
+        "has_next": false,
+        "page": 1,
+        "results": [
+            {
+                "id": 17823335,
+                "event_total": 61,
+                "player_name": "Patrick Miller",
+                "rank": 1,
+                "last_rank": 1,
+                "rank_sort": 1,
+                "total": 1397,
+                "entry": 3054807,
+                "entry_name": "The Hurricanes"
+            },
+            {
+                "id": 219764,
+                "event_total": 67,
+                "player_name": "Daniel Bloodworth",
+                "rank": 2,
+                "last_rank": 2,
+                "rank_sort": 2,
+                "total": 1361,
+                "entry": 41748,
+                "entry_name": "Kloppage Time"
+            },
+            {
+                "id": 2083259,
+                "event_total": 73,
+                "player_name": "Tony Sullivan",
+                "rank": 3,
+                "last_rank": 3,
+                "rank_sort": 3,
+                "total": 1345,
+                "entry": 406973,
+                "entry_name": "A Raya Sunshine"
+            },
+            {
+                "id": 31695340,
+                "event_total": 65,
+                "player_name": "Sameer Hosany",
+                "rank": 4,
+                "last_rank": 4,
+                "rank_sort": 4,
+                "total": 1329,
+                "entry": 4925329,
+                "entry_name": "Noobs"
+            },
+            {
+                "id": 18022184,
+                "event_total": 69,
+                "player_name": "Sahil Mannick",
+                "rank": 5,
+                "last_rank": 6,
+                "rank_sort": 5,
+                "total": 1312,
+                "entry": 3088468,
+                "entry_name": "WTF AC United"
+            },
+            {
+                "id": 909998,
+                "event_total": 63,
+                "player_name": "Phil Hackett",
+                "rank": 6,
+                "last_rank": 5,
+                "rank_sort": 6,
+                "total": 1307,
+                "entry": 174911,
+                "entry_name": "Tottenham Hackspur"
+            },
+            {
+                "id": 13928706,
+                "event_total": 61,
+                "player_name": "Daniel Miller",
+                "rank": 7,
+                "last_rank": 7,
+                "rank_sort": 7,
+                "total": 1297,
+                "entry": 2508798,
+                "entry_name": "Calamitous Intent"
+            },
+            {
+                "id": 141372,
+                "event_total": 63,
+                "player_name": "Gary Mantle",
+                "rank": 8,
+                "last_rank": 8,
+                "rank_sort": 8,
+                "total": 1295,
+                "entry": 26796,
+                "entry_name": "Boehly Legal"
+            },
+            {
+                "id": 9142887,
+                "event_total": 65,
+                "player_name": "Sameer Mannick",
+                "rank": 9,
+                "last_rank": 9,
+                "rank_sort": 9,
+                "total": 1291,
+                "entry": 1709946,
+                "entry_name": "Winning XI"
+            },
+            {
+                "id": 141378,
+                "event_total": 65,
+                "player_name": "Benjamin Thomas",
+                "rank": 10,
+                "last_rank": 10,
+                "rank_sort": 10,
+                "total": 1275,
+                "entry": 10000,
+                "entry_name": "ChampagneSuperRovers"
+            },
+            {
+                "id": 141367,
+                "event_total": 51,
+                "player_name": "Roopney K",
+                "rank": 11,
+                "last_rank": 11,
+                "rank_sort": 11,
+                "total": 1223,
+                "entry": 26244,
+                "entry_name": "Roopney Gran Fantasy"
+            },
+            {
+                "id": 18682087,
+                "event_total": 26,
+                "player_name": "Yashil Ghoorbin",
+                "rank": 12,
+                "last_rank": 12,
+                "rank_sort": 12,
+                "total": 1148,
+                "entry": 3186559,
+                "entry_name": "Kloppites"
+            },
+            {
+                "id": 52683615,
+                "event_total": 17,
+                "player_name": "Joshun Ghoorbin",
+                "rank": 13,
+                "last_rank": 13,
+                "rank_sort": 13,
+                "total": 1089,
+                "entry": 7263245,
+                "entry_name": "Make FF Great Again"
+            },
+            {
+                "id": 18426408,
+                "event_total": 13,
+                "player_name": "Hans Roopun",
+                "rank": 14,
+                "last_rank": 14,
+                "rank_sort": 14,
+                "total": 1053,
+                "entry": 3150900,
+                "entry_name": "Lallana Del Rey"
+            }
+        ]
+    }
+}

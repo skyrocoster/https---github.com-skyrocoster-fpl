@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 900,
-    "summary_overall_rank": 8285134,
-    "summary_event_points": 92,
-    "summary_event_rank": 153795,
-    "current_event": 21,
+    "summary_overall_points": 967,
+    "summary_overall_rank": 7739231,
+    "summary_event_points": 67,
+    "summary_event_rank": 717620,
+    "current_event": 22,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 30638,
-                "entry_last_rank": 32322
+                "entry_rank": 28851,
+                "entry_last_rank": 30638
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2344603,
-                "entry_last_rank": 2447861
+                "entry_rank": 2222703,
+                "entry_last_rank": 2344603
             },
             {
                 "id": 282,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1662,
-                "entry_last_rank": 4180
+                "entry_rank": 554,
+                "entry_last_rank": 1662
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 8285134,
-                "entry_last_rank": 8756988
+                "entry_rank": 7739231,
+                "entry_last_rank": 8285134
             },
             {
                 "id": 1171461,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2664709,
-                "entry_last_rank": 2783842
+                "entry_rank": 2523656,
+                "entry_last_rank": 2664709
             },
             {
                 "id": 2257667,
@@ -140,7 +140,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 3
+                "entry_last_rank": 2
             },
             {
                 "id": 2385997,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 251895,
-                "entry_last_rank": 674474
+                "entry_rank": 182092,
+                "entry_last_rank": 251895
             }
         ],
         "h2h": [
@@ -184,7 +184,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 2413836,
@@ -305,7 +305,7 @@
     "name": "Football Team FC",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 26,
-    "last_deadline_value": 1028,
+    "last_deadline_bank": 1,
+    "last_deadline_value": 1021,
     "last_deadline_total_transfers": 20
 }
