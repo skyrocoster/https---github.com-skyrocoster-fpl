@@ -272,3 +272,148 @@ player_info = player_info[["player_id", "position", "web_name"]].rename(
     columns=player_info_rename
 )
 pq.write_table(pa.Table.from_pandas(player_info), f"{data}{file_name}.parquet")
+
+# manager_players
+
+
+def assign_active(starting, sub_in, sub_out):
+    if (starting == 1 and sub_out == 0) or (starting == 0 and sub_in == 1):
+        return True
+    elif starting == 0 and sub_in == 0:
+        return False
+
+
+player_info = pq.read_table(f"data/streamlit/all/player_info.parquet").to_pandas()
+
+teams = pq.read_table(f"data/streamlit/all/teams.parquet").to_pandas()
+teams = teams[["team_id", "team_name"]]
+
+player_fixture_history = PlayerFixtureHistory().query.all()
+player_fixture_history = object_as_df(player_fixture_history)
+
+player_teams = player_fixture_history[["player_id", "team_id", "gameweek_id"]]
+player_teams = player_teams.merge(teams, on=["team_id"], how="left")
+
+player_gw_sum = [
+    "player_id",
+    "gameweek_id",
+    "total_points",
+    "goals_scored",
+    "clean_sheets",
+    "own_goals",
+    "penalties_saved",
+    "penalties_missed",
+    "yellow_cards",
+    "red_cards",
+    "saves",
+    "bonus",
+    "bps",
+    "minutes",
+    "goals_conceded",
+    "expected_goals",
+    "expected_assists",
+    "expected_goal_involvements",
+    "expected_goals_conceded",
+]
+
+no_of_fixtures = (
+    player_fixture_history[["player_id", "gameweek_id"]]
+    .groupby(["player_id", "gameweek_id"])
+    .value_counts()
+    .reset_index()
+    .rename(columns={0: "fixture_count"})
+)
+
+player_gw = player_fixture_history[player_gw_sum]
+player_gw = player_gw.groupby(["player_id", "gameweek_id"]).mean().reset_index()
+player_gw = player_gw.merge(no_of_fixtures, on=["player_id", "gameweek_id"], how="left")
+
+gw_picks = GameweekPicks().query.all()
+gw_picks = object_as_df(gw_picks)
+gw_picks_rename = {"position": "field_position", "starting": "picked"}
+
+gw_picks = gw_picks.rename(columns=gw_picks_rename)
+
+manager_info = pq.read_table(
+    f"data/streamlit/manager_performance/manager_info.parquet"
+).to_pandas()
+
+gw_picks = gw_picks.merge(
+    manager_info[["manager_id", "full_name", "squad_name"]],
+    on=["manager_id"],
+    how="left",
+)
+
+gw_picks = gw_picks.merge(
+    player_teams,
+    on=["player_id", "gameweek_id"],
+    how="left",
+)
+
+gw_picks = gw_picks.merge(player_gw, on=["player_id", "gameweek_id"], how="left")
+
+gw_picks = gw_picks.merge(player_info, on=["player_id"], how="left")
+
+gw_picks = gw_picks.drop(["team_id"], axis=1)
+
+gw_subs = GameweekSubs().query.all()
+gw_subs = object_as_df(gw_subs)
+
+subbed_out = gw_subs[["manager_id", "gameweek_id", "player_out"]].rename(
+    columns={"player_out": "player_id"}
+)
+subbed_out["subbed_out"] = 1
+
+subbed_in = gw_subs[["manager_id", "gameweek_id", "player_in"]].rename(
+    columns={"player_in": "player_id"}
+)
+subbed_in["subbed_in"] = 1
+
+gw_picks = gw_picks.merge(
+    subbed_in, on=["manager_id", "gameweek_id", "player_id"], how="left"
+)
+gw_picks = gw_picks.merge(
+    subbed_out, on=["manager_id", "gameweek_id", "player_id"], how="left"
+)
+
+gw_picks[["subbed_in", "subbed_out"]] = gw_picks[["subbed_in", "subbed_out"]].fillna(0)
+gw_picks["active"] = gw_picks.apply(
+    lambda x: assign_active(x.picked, x.subbed_in, x.subbed_out), axis=1
+)
+
+int8_list = [
+    "saves",
+    "bonus",
+    "bps",
+    "minutes",
+    "fixture_count",
+    "goals_conceded",
+    "field_position",
+    "multiplier",
+    "total_points",
+    "goals_scored",
+    "clean_sheets",
+    "own_goals",
+    "penalties_saved",
+    "penalties_missed",
+    "yellow_cards",
+    "red_cards",
+]
+int16_list = ["gameweek_id", "player_id"]
+float32_list = [
+    "expected_goals",
+    "expected_assists",
+    "expected_goal_involvements",
+    "expected_goals_conceded",
+]
+bool_list = ["subbed_in", "subbed_out", "active"]
+
+gw_picks[int8_list] = gw_picks[int8_list].fillna(0).astype("int8")
+gw_picks[int16_list] = gw_picks[int16_list].astype("int16")
+gw_picks[float32_list] = gw_picks[float32_list].astype("float32")
+gw_picks[bool_list] = gw_picks[bool_list].astype("bool")
+
+data = "data/streamlit/manager_performance/"
+file_name = "manager_players"
+
+pq.write_table(pa.Table.from_pandas(gw_picks), f"{data}{file_name}.parquet")

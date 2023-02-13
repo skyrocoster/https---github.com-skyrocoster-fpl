@@ -65,30 +65,17 @@ def load_manager_avgs(df):
     return df
 
 
-@st.cache_data
-def load_h2h(df):
+def load_player_performances():
+    df = pq.read_table(
+        f"data/streamlit/manager_performance/manager_players.parquet"
+    ).to_pandas()
+    if active_players == True:
+        df = df.loc[df["active"] == True]
+    df = df.loc[(df["gameweek_id"] >= sel_gw_start) & (df["gameweek_id"] <= sel_gw_end)]
+    if len(sel_manager) > 0:
+        df = df.loc[df["full_name"].isin(sel_manager)]
+    df["gameweek_id"] = df["gameweek_id"].astype("str")
     return df
-
-
-class MinsMaxes:
-    # @st.cache_data
-    def __init__(self):
-        df = pq.read_table(
-            f"data/streamlit/manager_performance/manager_gameweeks.parquet"
-        ).to_pandas()
-
-        self.last_gw = sel_gw_end
-
-        df_gameweek = df.loc[df["gameweek_id"] == self.last_gw]
-        self.max_total_points = df_gameweek["points_to_gameweek"].max()
-        self.min_total_points = df_gameweek["points_to_gameweek"].min()
-
-        df_to_gw = df.loc[df["gameweek_id"] <= self.last_gw]
-        df_sums = (
-            df_to_gw[["manager_id", "gameweek_transfers"]].groupby("manager_id").sum()
-        )
-        self.max_gw_transfers = df_sums["gameweek_transfers"].max()
-        self.min_gw_transfers = df_sums["gameweek_transfers"].min()
 
 
 manager_list = load_manager_list()
@@ -103,13 +90,15 @@ with sidebar:
 # Load Dataframe
 manager_gws = load_manager_gws()
 manager_avgs = load_manager_avgs(manager_gws)
-minsmaxes = MinsMaxes()
+
 
 # Load Fieldlists
 manager_gws_fields = list(manager_gws.columns)
-manager_avgs_fields = list(manager_avgs)
+manager_avgs_fields = list(manager_avgs.columns)
 
-gw_tab, overall_tab, h2h_tab = st.tabs(["By Gameweek", "Overall", "Head to Head"])
+gw_tab, overall_tab, players_tab = st.tabs(
+    ["By Gameweek", "Overall", "Player Performances"]
+)
 
 
 with gw_tab:
@@ -169,34 +158,29 @@ with overall_tab:
 
     st.plotly_chart(manager_avgs_bar)
 
-with h2h_tab:
-    if len(sel_manager) != 2:
-        st.write("Please Select Two Managers")
-        h2h = pd.DataFrame()
-        h2h_bar = px.bar()
-        h2h_bar2 = px.bar()
-    else:
-        h2h = load_h2h(manager_avgs)
-        h2h_bar = px.bar(
-            h2h,
-            x="full_name",
-            y="sum_points",
-            color="sum_points",
-            range_color=(minsmaxes.min_total_points, minsmaxes.max_total_points),
-            title="Total Points",
-        )
-        h2h_bar2 = px.bar(
-            h2h,
-            x="full_name",
-            y="sum_gameweek_transfers",
-            color="sum_gameweek_transfers",
-            range_color=(minsmaxes.min_gw_transfers, minsmaxes.max_gw_transfers),
-            title="Total Transfers",
-        )
-    st.dataframe(h2h)
 
-    col1, col2 = st.columns(2)
-    with col1:
-        st.plotly_chart(h2h_bar)
-    with col2:
-        st.plotly_chart(h2h_bar2)
+with players_tab:
+    active_players = st.checkbox("Active Players Only")
+    player_performances = load_player_performances()
+    st.dataframe(player_performances)
+    fig = px.bar(
+        player_performances,
+        x="gameweek_id",
+        y="total_points",
+        color="player_name",
+        barmode="group",
+        width=1600,
+        height=1600,
+        custom_data=["full_name", "player_name", "gameweek_id"],
+        facet_row="player_name",
+    )
+    fig.update_traces(
+        hovertemplate="<br>".join(
+            [
+                "Player: %{customdata[1]}",
+                "GW Points: %{y}",
+                "Gameweek: %{customdata[2]}",
+            ]
+        )
+    )
+    st.plotly_chart(fig)
