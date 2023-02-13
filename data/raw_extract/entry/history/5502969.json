@@ -275,16 +275,29 @@
         },
         {
             "event": 22,
-            "points": 69,
-            "total_points": 1506,
-            "rank": 566782,
-            "rank_sort": 583517,
-            "overall_rank": 17,
+            "points": 88,
+            "total_points": 1525,
+            "rank": 693893,
+            "rank_sort": 709077,
+            "overall_rank": 24,
             "bank": 28,
             "value": 1051,
             "event_transfers": 1,
             "event_transfers_cost": 0,
             "points_on_bench": 4
+        },
+        {
+            "event": 23,
+            "points": 51,
+            "total_points": 1576,
+            "rank": 2264778,
+            "rank_sort": 2315149,
+            "overall_rank": 20,
+            "bank": 35,
+            "value": 1044,
+            "event_transfers": 0,
+            "event_transfers_cost": 0,
+            "points_on_bench": 6
         }
     ],
     "past": [],
@@ -308,6 +321,11 @@
             "name": "freehit",
             "time": "2022-10-14T20:17:24.733491Z",
             "event": 12
+        },
+        {
+            "name": "wildcard",
+            "time": "2023-02-05T21:02:14.672066Z",
+            "event": 23
         }
     ]
 }

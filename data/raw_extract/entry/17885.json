@@ -9,11 +9,11 @@
     "player_region_name": "Indonesia",
     "player_region_iso_code_short": "ID",
     "player_region_iso_code_long": "IDN",
-    "summary_overall_points": 1424,
-    "summary_overall_rank": 5646,
-    "summary_event_points": 90,
-    "summary_event_rank": 11360,
-    "current_event": 22,
+    "summary_overall_points": 1503,
+    "summary_overall_rank": 3749,
+    "summary_event_points": 56,
+    "summary_event_rank": 1368360,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 27,
-                "entry_last_rank": 120
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 20,
+                "entry_last_rank": 19
             },
             {
                 "id": 121,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431357,
                 "cup_qualified": true,
-                "entry_rank": 65,
-                "entry_last_rank": 315
+                "entry_rank": 50,
+                "entry_last_rank": 49
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5645,
-                "entry_last_rank": 24371
+                "entry_rank": 3748,
+                "entry_last_rank": 4238
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 5646,
-                "entry_last_rank": 24379
+                "entry_rank": 3749,
+                "entry_last_rank": 4238
             },
             {
                 "id": 120987,
@@ -119,7 +119,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 3
+                "entry_last_rank": 1
             },
             {
                 "id": 137057,
@@ -140,7 +140,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 7
+                "entry_last_rank": 1
             },
             {
                 "id": 152113,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 7
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 253555,
@@ -224,7 +224,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 297241,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
-                "entry_last_rank": 4
+                "entry_rank": 2,
+                "entry_last_rank": 1
             },
             {
                 "id": 357572,
@@ -266,7 +266,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 7
+                "entry_last_rank": 1
             },
             {
                 "id": 386000,
@@ -286,8 +286,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 7
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 386164,
@@ -307,8 +307,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 5
+                "entry_rank": 1,
+                "entry_last_rank": 1
             },
             {
                 "id": 489435,
@@ -329,7 +329,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 3,
-                "entry_last_rank": 8
+                "entry_last_rank": 2
             },
             {
                 "id": 508570,
@@ -350,7 +350,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 9
+                "entry_last_rank": 2
             },
             {
                 "id": 610842,
@@ -371,7 +371,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 3,
-                "entry_last_rank": 7
+                "entry_last_rank": 3
             },
             {
                 "id": 655342,
@@ -392,7 +392,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 3
+                "entry_last_rank": 1
             },
             {
                 "id": 686720,
@@ -413,7 +413,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 3
+                "entry_last_rank": 1
             },
             {
                 "id": 691314,
@@ -434,7 +434,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 4
+                "entry_last_rank": 2
             },
             {
                 "id": 714477,
@@ -455,7 +455,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 4,
-                "entry_last_rank": 5
+                "entry_last_rank": 4
             },
             {
                 "id": 745712,
@@ -476,7 +476,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 7
+                "entry_last_rank": 2
             },
             {
                 "id": 787494,
@@ -497,7 +497,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 3
+                "entry_last_rank": 2
             },
             {
                 "id": 787565,
@@ -517,8 +517,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
-                "entry_last_rank": 15
+                "entry_rank": 6,
+                "entry_last_rank": 6
             },
             {
                 "id": 831953,
@@ -539,7 +539,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 5
+                "entry_last_rank": 2
             },
             {
                 "id": 834525,
@@ -560,7 +560,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 3
+                "entry_last_rank": 1
             },
             {
                 "id": 859926,
@@ -581,7 +581,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 5
+                "entry_last_rank": 1
             },
             {
                 "id": 2385997,
@@ -601,8 +601,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 13936,
-                "entry_last_rank": 122496
+                "entry_rank": 10289,
+                "entry_last_rank": 9705
             }
         ],
         "h2h": [
@@ -667,11 +667,11 @@
                 "knockout_name": "Round of 8388608"
             },
             {
-                "id": 104265557,
-                "entry_1_entry": 149039,
-                "entry_1_name": "Praporprov Singapura",
-                "entry_1_player_name": "Andryas Yuniarto",
-                "entry_1_points": 64,
+                "id": 107652580,
+                "entry_1_entry": 6055414,
+                "entry_1_name": "Kintil Kibing FC",
+                "entry_1_player_name": "seno taufikul",
+                "entry_1_points": 60,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -679,7 +679,7 @@
                 "entry_2_entry": 17885,
                 "entry_2_name": "Cyber Tech FC",
                 "entry_2_player_name": "Dwiky Eddo",
-                "entry_2_points": 90,
+                "entry_2_points": 52,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -688,17 +688,44 @@
                 "league": 2431357,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108767498,
+                "entry_1_entry": 17885,
+                "entry_1_name": "Cyber Tech FC",
+                "entry_1_player_name": "Dwiky Eddo",
+                "entry_1_points": 52,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Cyber Tech FC",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 39,
-    "last_deadline_value": 1036,
-    "last_deadline_total_transfers": 28
+    "last_deadline_bank": 0,
+    "last_deadline_value": 1034,
+    "last_deadline_total_transfers": 30
 }

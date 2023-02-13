@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1365,
-    "summary_overall_rank": 112352,
-    "summary_event_points": 73,
-    "summary_event_rank": 344810,
-    "current_event": 22,
+    "summary_overall_points": 1437,
+    "summary_overall_rank": 104856,
+    "summary_event_points": 45,
+    "summary_event_rank": 3867521,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 41218,
-                "entry_last_rank": 55737
+                "entry_rank": 37659,
+                "entry_last_rank": 32460
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 112314,
-                "entry_last_rank": 149029
+                "entry_rank": 104822,
+                "entry_last_rank": 88171
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 112352,
-                "entry_last_rank": 149096
+                "entry_rank": 104856,
+                "entry_last_rank": 88198
             },
             {
                 "id": 6345,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 46487,
-                "entry_last_rank": 62988
+                "entry_rank": 42546,
+                "entry_last_rank": 36646
             },
             {
                 "id": 2385997,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 195984,
-                "entry_last_rank": 315111
+                "entry_rank": 200578,
+                "entry_last_rank": 134290
             }
         ],
         "h2h": [],
@@ -252,19 +252,19 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 102739091,
-                "entry_1_entry": 6569584,
-                "entry_1_name": "siuuuuuu",
-                "entry_1_player_name": "yusuf ahmed",
-                "entry_1_points": 52,
+                "id": 106891983,
+                "entry_1_entry": 1169749,
+                "entry_1_name": "Nezza United",
+                "entry_1_player_name": "Neil Davison",
+                "entry_1_points": 45,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1169749,
-                "entry_2_name": "Nezza United",
-                "entry_2_player_name": "Neil Davison",
-                "entry_2_points": 69,
+                "entry_2_entry": 20625,
+                "entry_2_name": "Big Vik Energy",
+                "entry_2_player_name": "Ross Newton",
+                "entry_2_points": 45,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -273,17 +273,17 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Nezza United",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 9,
-    "last_deadline_value": 1024,
-    "last_deadline_total_transfers": 29
+    "last_deadline_bank": 4,
+    "last_deadline_value": 1026,
+    "last_deadline_total_transfers": 30
 }

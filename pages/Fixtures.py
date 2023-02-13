@@ -1,22 +1,13 @@
-from db_tables import *
 import streamlit as st
 import plotly.express as px
 import numpy as np
 import pyarrow.parquet as pq
+import pandas as pd
 
 st.set_page_config(layout="wide")
 sidebar = st.sidebar
 
-app_context = app.app_context()
-app_context.push()
-
 data = "data/streamlit/fixtures/"
-
-
-def map_team_names(x):
-    teams = object_as_df(Teams().query.all())
-    teams = dict(zip(teams["team_id"], teams["team_name"]))
-    return teams.get(x)
 
 
 def team_games():
@@ -41,7 +32,7 @@ def load_fixtures():
     return df
 
 
-@st.cache
+@st.cache_data
 def load_double_gameweeks(df):
     df_dgw = df.copy()
     df_dgw = df_dgw.loc[df_dgw["gameweek_id"] != 0]
@@ -67,7 +58,7 @@ def load_double_gameweeks(df):
     return df_dgw
 
 
-@st.cache
+@st.cache_data
 def load_blank_gameweeks(df):
     df_blankgw = df.copy()
     df_blankgw = df_blankgw[["team_name", "gameweek_id", "finished"]]
@@ -91,7 +82,7 @@ def load_blank_gameweeks(df):
     return df_blankgw
 
 
-@st.cache
+@st.cache_data
 def load_potential_dgw():
     df = pq.read_table(f"{data}potential_dgw.parquet").to_pandas()
     df = df.loc[
@@ -107,14 +98,14 @@ def load_potential_dgw():
     return df
 
 
-@st.cache
+@st.cache_data
 def team_list():
-    teams = Teams().query.all()
+    teams = pq.read_table(f"data/streamlit/all/teams.parquet").to_pandas()
     team_list = [team.team_name for team in teams]
     return team_list
 
 
-@st.cache
+@st.cache_data
 def fixture_difficulty(df):
     df_diff = df.copy()
     df_diff = df_diff.loc[

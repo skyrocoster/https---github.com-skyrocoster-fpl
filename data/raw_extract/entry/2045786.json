@@ -9,11 +9,11 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1128,
-    "summary_overall_rank": 4788953,
-    "summary_event_points": 43,
-    "summary_event_rank": 3998606,
-    "current_event": 22,
+    "summary_overall_points": 1171,
+    "summary_overall_rank": 4912280,
+    "summary_event_points": 33,
+    "summary_event_rank": 6526022,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 1119585,
-                "entry_last_rank": 1144576
+                "entry_rank": 1164467,
+                "entry_last_rank": 1128896
             },
             {
                 "id": 120,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 119471,
-                "entry_last_rank": 122699
+                "entry_rank": 122659,
+                "entry_last_rank": 119843
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4616128,
-                "entry_last_rank": 4754991
+                "entry_rank": 4713675,
+                "entry_last_rank": 4612471
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 4788953,
-                "entry_last_rank": 4945116
+                "entry_rank": 4912280,
+                "entry_last_rank": 4786497
             },
             {
                 "id": 550,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 31,
-                "entry_last_rank": 31
+                "entry_rank": 30,
+                "entry_last_rank": 30
             },
             {
                 "id": 22957,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 148,
-                "entry_last_rank": 151
+                "entry_rank": 153,
+                "entry_last_rank": 148
             },
             {
                 "id": 24432,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 19821,
-                "entry_last_rank": 19855
+                "entry_rank": 20029,
+                "entry_last_rank": 19862
             },
             {
                 "id": 33576,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18,
-                "entry_last_rank": 19
+                "entry_rank": 19,
+                "entry_last_rank": 18
             },
             {
                 "id": 33657,
@@ -224,7 +224,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 9,
-                "entry_last_rank": 10
+                "entry_last_rank": 9
             },
             {
                 "id": 513209,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 119471,
-                "entry_last_rank": 122699
+                "entry_rank": 122659,
+                "entry_last_rank": 119843
             },
             {
                 "id": 752328,
@@ -265,8 +265,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1230,
-                "entry_last_rank": 1231
+                "entry_rank": 1257,
+                "entry_last_rank": 1236
             },
             {
                 "id": 1132033,
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 27,
+                "entry_rank": 26,
                 "entry_last_rank": 27
             },
             {
@@ -307,8 +307,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5582,
-                "entry_last_rank": 5615
+                "entry_rank": 5639,
+                "entry_last_rank": 5592
             },
             {
                 "id": 1266824,
@@ -328,8 +328,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 87,
-                "entry_last_rank": 89
+                "entry_rank": 86,
+                "entry_last_rank": 88
             },
             {
                 "id": 2385997,
@@ -349,8 +349,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4165702,
-                "entry_last_rank": 4386296
+                "entry_rank": 4712570,
+                "entry_last_rank": 4246636
             }
         ],
         "h2h": [],
@@ -420,19 +420,46 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 104207225,
-                "entry_1_entry": 7782864,
-                "entry_1_name": "PepGuardiola PRO MAX",
-                "entry_1_player_name": "Xander Arc",
-                "entry_1_points": 29,
+                "id": 104790320,
+                "entry_1_entry": 2045786,
+                "entry_1_name": "baramatiFC",
+                "entry_1_player_name": "Gaurav Ingale",
+                "entry_1_points": 53,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2045786,
-                "entry_2_name": "baramatiFC",
-                "entry_2_player_name": "Gaurav Ingale",
-                "entry_2_points": 43,
+                "entry_2_entry": 2540647,
+                "entry_2_name": "Gunners11",
+                "entry_2_player_name": "Tejas Kulkarni",
+                "entry_2_points": 75,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2431366,
+                "winner": 2540647,
+                "seed_value": null,
+                "event": 22,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 131072"
+            },
+            {
+                "id": 107619364,
+                "entry_1_entry": 2045786,
+                "entry_1_name": "baramatiFC",
+                "entry_1_player_name": "Gaurav Ingale",
+                "entry_1_points": 33,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 2629197,
+                "entry_2_name": "No Coke Just Water",
+                "entry_2_player_name": "Harsh Gupta",
+                "entry_2_points": 60,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -441,37 +468,10 @@
                 "league": 2431356,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
-            },
-            {
-                "id": 104790320,
-                "entry_1_entry": 2045786,
-                "entry_1_name": "baramatiFC",
-                "entry_1_player_name": "Gaurav Ingale",
-                "entry_1_points": 43,
-                "entry_1_win": 0,
-                "entry_1_draw": 0,
-                "entry_1_loss": 0,
-                "entry_1_total": 0,
-                "entry_2_entry": 2540647,
-                "entry_2_name": "Gunners11",
-                "entry_2_player_name": "Tejas Kulkarni",
-                "entry_2_points": 57,
-                "entry_2_win": 0,
-                "entry_2_draw": 0,
-                "entry_2_loss": 0,
-                "entry_2_total": 0,
-                "is_knockout": true,
-                "league": 2431366,
-                "winner": null,
-                "seed_value": null,
-                "event": 22,
-                "tiebreak": null,
-                "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },

@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1478,
-    "summary_overall_rank": 117,
-    "summary_event_points": 72,
-    "summary_event_rank": 402794,
-    "current_event": 22,
+    "summary_overall_points": 1540,
+    "summary_overall_rank": 296,
+    "summary_event_points": 39,
+    "summary_event_rank": 5418163,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 1,
-                "entry_last_rank": 2
+                "cup_league": 2448109,
+                "cup_qualified": true,
+                "entry_rank": 3,
+                "entry_last_rank": 1
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 35,
-                "entry_last_rank": 54
+                "entry_rank": 81,
+                "entry_last_rank": 22
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 117,
-                "entry_last_rank": 189
+                "entry_rank": 296,
+                "entry_last_rank": 81
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 117,
-                "entry_last_rank": 189
+                "entry_rank": 296,
+                "entry_last_rank": 81
             },
             {
                 "id": 6259,
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 6,
                 "entry_last_rank": 3
             },
             {
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 43,
-                "entry_last_rank": 67
+                "entry_rank": 101,
+                "entry_last_rank": 28
             },
             {
                 "id": 1262309,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 93626,
-                "entry_last_rank": 175112
+                "entry_rank": 193483,
+                "entry_last_rank": 63963
             }
         ],
         "h2h": [],
@@ -315,19 +315,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102626500,
+                "id": 106805758,
                 "entry_1_entry": 4113598,
                 "entry_1_name": "Brice Garnett",
                 "entry_1_player_name": "Mark Jordan",
-                "entry_1_points": 72,
+                "entry_1_points": 35,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 5796254,
-                "entry_2_name": "Got Pied",
-                "entry_2_player_name": "Rohit Rakkar",
-                "entry_2_points": 33,
+                "entry_2_entry": 6011221,
+                "entry_2_name": "Chengdu ITFC",
+                "entry_2_player_name": "peter crane",
+                "entry_2_points": 35,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -336,17 +336,44 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108932837,
+                "entry_1_entry": 4113598,
+                "entry_1_name": "Brice Garnett",
+                "entry_1_player_name": "Mark Jordan",
+                "entry_1_points": 35,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448109,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Brice Garnett",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 40,
-    "last_deadline_value": 1037,
-    "last_deadline_total_transfers": 32
+    "last_deadline_bank": 23,
+    "last_deadline_value": 1029,
+    "last_deadline_total_transfers": 34
 }

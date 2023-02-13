@@ -9,11 +9,11 @@
     "player_region_name": "Egypt",
     "player_region_iso_code_short": "EG",
     "player_region_iso_code_long": "EGY",
-    "summary_overall_points": 1400,
-    "summary_overall_rank": 22614,
-    "summary_event_points": 88,
-    "summary_event_rank": 21947,
-    "current_event": 22,
+    "summary_overall_points": 1477,
+    "summary_overall_rank": 16988,
+    "summary_event_points": 50,
+    "summary_event_rank": 2648528,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 2736,
-                "entry_last_rank": 8994
+                "entry_rank": 2045,
+                "entry_last_rank": 2104
             },
             {
                 "id": 83,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2405679,
                 "cup_qualified": true,
-                "entry_rank": 1324,
-                "entry_last_rank": 4366
+                "entry_rank": 1075,
+                "entry_last_rank": 967
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 22610,
-                "entry_last_rank": 75453
+                "entry_rank": 16986,
+                "entry_last_rank": 17262
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 22614,
-                "entry_last_rank": 75477
+                "entry_rank": 16988,
+                "entry_last_rank": 17264
             },
             {
                 "id": 12718,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 69,
-                "entry_last_rank": 169
+                "entry_rank": 48,
+                "entry_last_rank": 58
             },
             {
                 "id": 15954,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 139,
-                "entry_last_rank": 379
+                "entry_rank": 103,
+                "entry_last_rank": 112
             },
             {
                 "id": 21098,
@@ -154,14 +154,14 @@
                 "scoring": "c",
                 "admin_entry": 95230,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 230,
-                "entry_last_rank": 615
+                "cup_league": 2448138,
+                "cup_qualified": true,
+                "entry_rank": 184,
+                "entry_last_rank": 174
             },
             {
                 "id": 124369,
@@ -265,8 +265,8 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 3153,
-                "entry_last_rank": 10193
+                "entry_rank": 2578,
+                "entry_last_rank": 2345
             },
             {
                 "id": 1402591,
@@ -328,8 +328,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 48,
-                "entry_last_rank": 396
+                "entry_rank": 54,
+                "entry_last_rank": 40
             },
             {
                 "id": 2403165,
@@ -462,11 +462,11 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 102936880,
-                "entry_1_entry": 4142008,
-                "entry_1_name": "أبو البنات",
-                "entry_1_player_name": "Mohamed Shaaban",
-                "entry_1_points": 60,
+                "id": 106993898,
+                "entry_1_entry": 9474907,
+                "entry_1_name": "hkm",
+                "entry_1_player_name": "hosam alsahli",
+                "entry_1_points": 51,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -474,7 +474,7 @@
                 "entry_2_entry": 7224658,
                 "entry_2_name": "Fendi",
                 "entry_2_player_name": "Amr Fendi",
-                "entry_2_points": 88,
+                "entry_2_points": 50,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -483,25 +483,25 @@
                 "league": 2405675,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103105221,
+                "id": 107035289,
                 "entry_1_entry": 7224658,
                 "entry_1_name": "Fendi",
                 "entry_1_player_name": "Amr Fendi",
-                "entry_1_points": 88,
+                "entry_1_points": 50,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2840231,
-                "entry_2_name": "Semsem Qusai",
-                "entry_2_player_name": "semsem zoher",
-                "entry_2_points": 62,
+                "entry_2_entry": 81275,
+                "entry_2_name": "EL-Terpeno �️",
+                "entry_2_player_name": "Tarek Khaled",
+                "entry_2_points": 49,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -510,17 +510,44 @@
                 "league": 2405679,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109881761,
+                "entry_1_entry": 7224658,
+                "entry_1_name": "Fendi",
+                "entry_1_player_name": "Amr Fendi",
+                "entry_1_points": 50,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448138,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Fendi",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 25,
-    "last_deadline_value": 1026,
-    "last_deadline_total_transfers": 34
+    "last_deadline_bank": 8,
+    "last_deadline_value": 1025,
+    "last_deadline_total_transfers": 36
 }

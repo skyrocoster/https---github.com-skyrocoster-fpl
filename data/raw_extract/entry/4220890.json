@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1490,
-    "summary_overall_rank": 49,
-    "summary_event_points": 79,
-    "summary_event_rank": 147426,
-    "current_event": 22,
+    "summary_overall_points": 1561,
+    "summary_overall_rank": 67,
+    "summary_event_points": 44,
+    "summary_event_rank": 4148435,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2431352,
                 "cup_qualified": true,
-                "entry_rank": 1,
-                "entry_last_rank": 4
+                "entry_rank": 3,
+                "entry_last_rank": 1
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 10,
-                "entry_last_rank": 34
+                "entry_rank": 18,
+                "entry_last_rank": 9
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 49,
-                "entry_last_rank": 122
+                "entry_rank": 67,
+                "entry_last_rank": 43
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 49,
-                "entry_last_rank": 122
+                "entry_rank": 67,
+                "entry_last_rank": 43
             },
             {
                 "id": 716,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 14,
-                "entry_last_rank": 43
+                "entry_rank": 23,
+                "entry_last_rank": 13
             },
             {
                 "id": 2036274,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3250,
-                "entry_last_rank": 9557
+                "entry_rank": 5882,
+                "entry_last_rank": 2305
             }
         ],
         "h2h": [],
@@ -315,19 +315,19 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 102481034,
-                "entry_1_entry": 4220890,
-                "entry_1_name": "The Haaland Fling",
-                "entry_1_player_name": "Matt Harris",
-                "entry_1_points": 79,
+                "id": 106756165,
+                "entry_1_entry": 6231483,
+                "entry_1_name": "Muppets",
+                "entry_1_player_name": "Anthony Mattick",
+                "entry_1_points": 32,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 8729658,
-                "entry_2_name": "Samahjoe",
-                "entry_2_player_name": "Joseph Samah",
-                "entry_2_points": 61,
+                "entry_2_entry": 4220890,
+                "entry_2_name": "The Haaland Fling",
+                "entry_2_player_name": "Matt Harris",
+                "entry_2_points": 44,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -336,25 +336,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103917677,
-                "entry_1_entry": 1302834,
-                "entry_1_name": "Abra Dubravka",
-                "entry_1_player_name": "Fay Morgan",
-                "entry_1_points": 55,
+                "id": 107476569,
+                "entry_1_entry": 4220890,
+                "entry_1_name": "The Haaland Fling",
+                "entry_1_player_name": "Matt Harris",
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 4220890,
-                "entry_2_name": "The Haaland Fling",
-                "entry_2_player_name": "Matt Harris",
-                "entry_2_points": 79,
+                "entry_2_entry": 7261125,
+                "entry_2_name": "MichBar",
+                "entry_2_player_name": "Michał Barczyński",
+                "entry_2_points": 45,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -363,17 +363,17 @@
                 "league": 2431352,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "The Haaland Fling",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 29,
-    "last_deadline_value": 1039,
-    "last_deadline_total_transfers": 29
+    "last_deadline_bank": 4,
+    "last_deadline_value": 1040,
+    "last_deadline_total_transfers": 30
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1337,
-    "summary_overall_rank": 303130,
-    "summary_event_points": 76,
-    "summary_event_rank": 234795,
-    "current_event": 22,
+    "summary_overall_points": 1410,
+    "summary_overall_rank": 269884,
+    "summary_event_points": 50,
+    "summary_event_rank": 2648528,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 29,
-                "entry_last_rank": 44
+                "entry_rank": 25,
+                "entry_last_rank": 25
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 302944,
-                "entry_last_rank": 498604
+                "entry_rank": 269706,
+                "entry_last_rank": 243267
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 303130,
-                "entry_last_rank": 499102
+                "entry_rank": 269884,
+                "entry_last_rank": 243397
             },
             {
                 "id": 2385997,
@@ -97,8 +97,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 387003,
-                "entry_last_rank": 991790
+                "entry_rank": 354141,
+                "entry_last_rank": 268262
             }
         ],
         "h2h": [],
@@ -145,7 +145,7 @@
     "name": "Backup",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 1,
+    "last_deadline_bank": 4,
     "last_deadline_value": 1008,
-    "last_deadline_total_transfers": 32
+    "last_deadline_total_transfers": 34
 }

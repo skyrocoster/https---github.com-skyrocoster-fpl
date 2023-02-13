@@ -9,11 +9,11 @@
     "player_region_name": "Singapore",
     "player_region_iso_code_short": "SG",
     "player_region_iso_code_long": "SGP",
-    "summary_overall_points": 1368,
-    "summary_overall_rank": 99826,
-    "summary_event_points": 101,
-    "summary_event_rank": 302,
-    "current_event": 22,
+    "summary_overall_points": 1449,
+    "summary_overall_rank": 64339,
+    "summary_event_points": 54,
+    "summary_event_rank": 1691634,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 24182,
-                "entry_last_rank": 99078
+                "entry_rank": 16460,
+                "entry_last_rank": 19321
             },
             {
                 "id": 213,
@@ -53,10 +53,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 869,
-                "entry_last_rank": 3224
+                "cup_league": 2448126,
+                "cup_qualified": true,
+                "entry_rank": 560,
+                "entry_last_rank": 710
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 99798,
-                "entry_last_rank": 416927
+                "entry_rank": 64319,
+                "entry_last_rank": 78114
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 99826,
-                "entry_last_rank": 417267
+                "entry_rank": 64339,
+                "entry_last_rank": 78140
             },
             {
                 "id": 511625,
@@ -137,10 +137,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 869,
-                "entry_last_rank": 3224
+                "cup_league": 2448146,
+                "cup_qualified": true,
+                "entry_rank": 560,
+                "entry_last_rank": 710
             },
             {
                 "id": 2385997,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 38,
-                "entry_last_rank": 1831
+                "entry_rank": 25,
+                "entry_last_rank": 27
             }
         ],
         "h2h": [],
@@ -177,19 +177,19 @@
         },
         "cup_matches": [
             {
-                "id": 102537078,
-                "entry_1_entry": 4377999,
-                "entry_1_name": "Nath’s Nutty",
-                "entry_1_player_name": "Nathan Nowland",
-                "entry_1_points": 40,
+                "id": 106764330,
+                "entry_1_entry": 1861898,
+                "entry_1_name": "gonna win",
+                "entry_1_player_name": "Imagine Arsenal",
+                "entry_1_points": 54,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1861898,
-                "entry_2_name": "gonna win",
-                "entry_2_player_name": "Imagine Arsenal",
-                "entry_2_points": 101,
+                "entry_2_entry": 3903272,
+                "entry_2_name": "Stranger Mings",
+                "entry_2_player_name": "Reuben Cane",
+                "entry_2_points": 68,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -198,25 +198,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102551059,
-                "entry_1_entry": 4585871,
-                "entry_1_name": "Frenkie De Shlong",
-                "entry_1_player_name": "Freddie Palmer",
-                "entry_1_points": 30,
+                "id": 106793730,
+                "entry_1_entry": 1861898,
+                "entry_1_name": "gonna win",
+                "entry_1_player_name": "Imagine Arsenal",
+                "entry_1_points": 54,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1861898,
-                "entry_2_name": "gonna win",
-                "entry_2_player_name": "Imagine Arsenal",
-                "entry_2_points": 101,
+                "entry_2_entry": 3095972,
+                "entry_2_name": "Jangan Baling Botol",
+                "entry_2_player_name": "Karim Park Tae-Su",
+                "entry_2_points": 55,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -225,17 +225,71 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109488332,
+                "entry_1_entry": 1861898,
+                "entry_1_name": "gonna win",
+                "entry_1_player_name": "Imagine Arsenal",
+                "entry_1_points": 54,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448126,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 110143691,
+                "entry_1_entry": 1861898,
+                "entry_1_name": "gonna win",
+                "entry_1_player_name": "Imagine Arsenal",
+                "entry_1_points": 54,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448146,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "gonna win",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 35,
-    "last_deadline_value": 1017,
-    "last_deadline_total_transfers": 30
+    "last_deadline_bank": 1,
+    "last_deadline_value": 1022,
+    "last_deadline_total_transfers": 31
 }

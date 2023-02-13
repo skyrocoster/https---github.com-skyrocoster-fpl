@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1467,
-    "summary_overall_rank": 273,
-    "summary_event_points": 81,
-    "summary_event_rank": 88972,
-    "current_event": 22,
+    "summary_overall_points": 1541,
+    "summary_overall_rank": 264,
+    "summary_event_points": 47,
+    "summary_event_rank": 3217116,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 66,
-                "entry_last_rank": 187
+                "entry_rank": 62,
+                "entry_last_rank": 46
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 13,
-                "entry_last_rank": 33
+                "entry_rank": 9,
+                "entry_last_rank": 6
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 273,
-                "entry_last_rank": 794
+                "entry_rank": 264,
+                "entry_last_rank": 199
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 273,
-                "entry_last_rank": 794
+                "entry_rank": 264,
+                "entry_last_rank": 199
             },
             {
                 "id": 792833,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9201,
-                "entry_last_rank": 35077
+                "entry_rank": 10991,
+                "entry_last_rank": 6475
             }
         ],
         "h2h": [],
@@ -204,19 +204,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102544893,
-                "entry_1_entry": 5794957,
-                "entry_1_name": "Fruadiola",
-                "entry_1_player_name": "Rory Keogh",
-                "entry_1_points": 81,
+                "id": 106789061,
+                "entry_1_entry": 232015,
+                "entry_1_name": "ShadyManu",
+                "entry_1_player_name": "Shady Anis",
+                "entry_1_points": 56,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1462932,
-                "entry_2_name": "ok",
-                "entry_2_player_name": "Jeremy Wilde",
-                "entry_2_points": 37,
+                "entry_2_entry": 5794957,
+                "entry_2_name": "Fruadiola",
+                "entry_2_player_name": "Rory Keogh",
+                "entry_2_points": 47,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -225,17 +225,17 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103341580,
-                "entry_1_entry": 4221153,
-                "entry_1_name": "Stranger Ings",
-                "entry_1_player_name": "Philip Ryan",
-                "entry_1_points": 47,
+                "id": 107173190,
+                "entry_1_entry": 5845380,
+                "entry_1_name": "Reillo's Colts",
+                "entry_1_player_name": "Bob O Reilly",
+                "entry_1_points": 50,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -243,7 +243,7 @@
                 "entry_2_entry": 5794957,
                 "entry_2_name": "Fruadiola",
                 "entry_2_player_name": "Rory Keogh",
-                "entry_2_points": 81,
+                "entry_2_points": 47,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -252,10 +252,10 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -263,6 +263,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 16,
-    "last_deadline_value": 1024,
+    "last_deadline_value": 1027,
     "last_deadline_total_transfers": 23
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Colombia",
     "player_region_iso_code_short": "CO",
     "player_region_iso_code_long": "COL",
-    "summary_overall_points": 1427,
-    "summary_overall_rank": 4792,
-    "summary_event_points": 101,
-    "summary_event_rank": 265,
-    "current_event": 22,
+    "summary_overall_points": 1499,
+    "summary_overall_rank": 4913,
+    "summary_event_points": 49,
+    "summary_event_rank": 2892334,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2437795,
                 "cup_qualified": true,
-                "entry_rank": 76,
-                "entry_last_rank": 550
+                "entry_rank": 77,
+                "entry_last_rank": 56
             },
             {
                 "id": 68,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 18
+                "entry_rank": 10,
+                "entry_last_rank": 7
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4791,
-                "entry_last_rank": 37944
+                "entry_rank": 4912,
+                "entry_last_rank": 3605
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 4792,
-                "entry_last_rank": 37958
+                "entry_rank": 4913,
+                "entry_last_rank": 3605
             },
             {
                 "id": 29112,
@@ -119,7 +119,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 3
+                "entry_last_rank": 1
             },
             {
                 "id": 666382,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 22,
-                "entry_last_rank": 199
+                "entry_rank": 29,
+                "entry_last_rank": 21
             },
             {
                 "id": 829946,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 27,
-                "entry_last_rank": 1395
+                "entry_rank": 66,
+                "entry_last_rank": 18
             },
             {
                 "id": 2423946,
@@ -246,19 +246,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 105161403,
-                "entry_1_entry": 1997028,
-                "entry_1_name": "Mayer Cancelo",
-                "entry_1_player_name": "Santiago Leal",
-                "entry_1_points": 101,
+                "id": 108092766,
+                "entry_1_entry": 4448196,
+                "entry_1_name": "Crida soccer",
+                "entry_1_player_name": "Davide De Marchi",
+                "entry_1_points": 54,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 1997028,
+                "entry_2_name": "Mayer Cancelo",
+                "entry_2_player_name": "Santiago Leal",
+                "entry_2_points": 45,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -267,17 +267,17 @@
                 "league": 2437795,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Mayer Cancelo",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#4a53e2\",\"kit_shirt_sleeves\":\"#594ae2\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"no-racism\",\"kit_shorts\":\"#ffffff\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#4e4ae2\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 53,
-    "last_deadline_value": 1022,
-    "last_deadline_total_transfers": 36
+    "last_deadline_bank": 14,
+    "last_deadline_value": 1026,
+    "last_deadline_total_transfers": 38
 }

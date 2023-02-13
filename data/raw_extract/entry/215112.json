@@ -9,11 +9,11 @@
     "player_region_name": "Denmark",
     "player_region_iso_code_short": "DK",
     "player_region_iso_code_long": "DNK",
-    "summary_overall_points": 1433,
-    "summary_overall_rank": 3215,
-    "summary_event_points": 70,
-    "summary_event_rank": 505710,
-    "current_event": 22,
+    "summary_overall_points": 1486,
+    "summary_overall_rank": 10140,
+    "summary_event_points": 40,
+    "summary_event_rank": 5154616,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 18,
-                "entry_last_rank": 16
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 57,
+                "entry_last_rank": 28
             },
             {
                 "id": 78,
@@ -53,10 +53,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 34,
-                "entry_last_rank": 53
+                "cup_league": 2448112,
+                "cup_qualified": true,
+                "entry_rank": 92,
+                "entry_last_rank": 57
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3214,
-                "entry_last_rank": 4179
+                "entry_rank": 10139,
+                "entry_last_rank": 5709
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 3215,
-                "entry_last_rank": 4179
+                "entry_rank": 10140,
+                "entry_last_rank": 5710
             },
             {
                 "id": 513213,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 442,
-                "entry_last_rank": 561
+                "entry_rank": 1324,
+                "entry_last_rank": 792
             },
             {
                 "id": 992987,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 15,
-                "entry_last_rank": 18
+                "entry_rank": 30,
+                "entry_last_rank": 20
             },
             {
                 "id": 1133984,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 29069,
-                "entry_last_rank": 39423
+                "entry_rank": 139198,
+                "entry_last_rank": 62202
             }
         ],
         "h2h": [],
@@ -250,13 +250,67 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 262144"
+            },
+            {
+                "id": 108772254,
+                "entry_1_entry": 215112,
+                "entry_1_name": "Sterling Dived",
+                "entry_1_player_name": "Morten Troelsen",
+                "entry_1_points": 40,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109033346,
+                "entry_1_entry": 215112,
+                "entry_1_name": "Sterling Dived",
+                "entry_1_player_name": "Morten Troelsen",
+                "entry_1_points": 40,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448112,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Sterling Dived",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#000000\",\"kit_shirt_sleeves\":\"#000000\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#000000\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#000000\",\"kit_socks_secondary\":\"#d0021b\"}",
-    "last_deadline_bank": 6,
-    "last_deadline_value": 1043,
-    "last_deadline_total_transfers": 26
+    "last_deadline_bank": 21,
+    "last_deadline_value": 1040,
+    "last_deadline_total_transfers": 27
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1371,
-    "summary_overall_rank": 89271,
-    "summary_event_points": 67,
-    "summary_event_rank": 782518,
-    "current_event": 22,
+    "summary_overall_points": 1434,
+    "summary_overall_rank": 119207,
+    "summary_event_points": 44,
+    "summary_event_rank": 4022660,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 12667,
-                "entry_last_rank": 13149
+                "entry_rank": 16409,
+                "entry_last_rank": 13544
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 8
+                "entry_rank": 11,
+                "entry_last_rank": 9
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 89246,
-                "entry_last_rank": 90568
+                "entry_rank": 119163,
+                "entry_last_rank": 97066
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 89271,
-                "entry_last_rank": 90598
+                "entry_rank": 119207,
+                "entry_last_rank": 97096
             },
             {
                 "id": 357,
@@ -112,14 +112,14 @@
                 "scoring": "c",
                 "admin_entry": 40,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 1398,
-                "entry_last_rank": 1165
+                "cup_league": 2448130,
+                "cup_qualified": true,
+                "entry_rank": 1931,
+                "entry_last_rank": 1617
             },
             {
                 "id": 440,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2431365,
                 "cup_qualified": true,
-                "entry_rank": 1497,
-                "entry_last_rank": 1488
+                "entry_rank": 2070,
+                "entry_last_rank": 1612
             },
             {
                 "id": 1413,
@@ -154,14 +154,14 @@
                 "scoring": "c",
                 "admin_entry": 1266,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 2665,
-                "entry_last_rank": 2119
+                "cup_league": 2448132,
+                "cup_qualified": true,
+                "entry_rank": 3593,
+                "entry_last_rank": 3145
             },
             {
                 "id": 4194,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 6010,
-                "entry_last_rank": 4982
+                "entry_rank": 7867,
+                "entry_last_rank": 7062
             },
             {
                 "id": 7184,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 2351,
-                "entry_last_rank": 1989
+                "entry_rank": 3137,
+                "entry_last_rank": 2651
             },
             {
                 "id": 15857,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 643,
-                "entry_last_rank": 532
+                "entry_rank": 866,
+                "entry_last_rank": 770
             },
             {
                 "id": 15950,
@@ -238,14 +238,14 @@
                 "scoring": "c",
                 "admin_entry": 469,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 1843,
-                "entry_last_rank": 1575
+                "cup_league": 2448135,
+                "cup_qualified": true,
+                "entry_rank": 2454,
+                "entry_last_rank": 2125
             },
             {
                 "id": 217541,
@@ -265,8 +265,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1247,
-                "entry_last_rank": 947
+                "entry_rank": 1627,
+                "entry_last_rank": 1540
             },
             {
                 "id": 483645,
@@ -307,8 +307,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 19,
-                "entry_last_rank": 19
+                "entry_rank": 28,
+                "entry_last_rank": 22
             },
             {
                 "id": 843754,
@@ -328,8 +328,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
-                "entry_last_rank": 8
+                "entry_rank": 12,
+                "entry_last_rank": 11
             },
             {
                 "id": 1245454,
@@ -370,8 +370,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 14,
-                "entry_last_rank": 16
+                "entry_rank": 25,
+                "entry_last_rank": 18
             },
             {
                 "id": 2385997,
@@ -391,8 +391,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1406754,
-                "entry_last_rank": 2047946
+                "entry_rank": 1593880,
+                "entry_last_rank": 1337646
             }
         ],
         "h2h": [],
@@ -466,7 +466,7 @@
                 "entry_1_entry": 128931,
                 "entry_1_name": "TheMayor&CityCouncil",
                 "entry_1_player_name": "Sir Miksha Crossman",
-                "entry_1_points": 63,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -474,14 +474,14 @@
                 "entry_2_entry": 720607,
                 "entry_2_name": "Horror Game",
                 "entry_2_player_name": "MO Abdelsalam",
-                "entry_2_points": 67,
+                "entry_2_points": 95,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431365,
-                "winner": null,
+                "winner": 720607,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -493,7 +493,7 @@
                 "entry_1_entry": 128931,
                 "entry_1_name": "TheMayor&CityCouncil",
                 "entry_1_player_name": "Sir Miksha Crossman",
-                "entry_1_points": 63,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -501,14 +501,14 @@
                 "entry_2_entry": 2198513,
                 "entry_2_name": "Corpus De Ligt",
                 "entry_2_player_name": "Petar Žderić",
-                "entry_2_points": 73,
+                "entry_2_points": 100,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 2198513,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -516,11 +516,38 @@
                 "knockout_name": "Round of 131072"
             },
             {
-                "id": 106031452,
+                "id": 108522573,
+                "entry_1_entry": 484420,
+                "entry_1_name": "TSHIKALI MUHUYUNI FC",
+                "entry_1_player_name": "Ambaniavx Netsianda",
+                "entry_1_points": 55,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 128931,
+                "entry_2_name": "TheMayor&CityCouncil",
+                "entry_2_player_name": "Sir Miksha Crossman",
+                "entry_2_points": 44,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437809,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109631613,
                 "entry_1_entry": 128931,
                 "entry_1_name": "TheMayor&CityCouncil",
                 "entry_1_player_name": "Sir Miksha Crossman",
-                "entry_1_points": 63,
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -534,13 +561,67 @@
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2437809,
+                "league": 2448130,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109692689,
+                "entry_1_entry": 128931,
+                "entry_1_name": "TheMayor&CityCouncil",
+                "entry_1_player_name": "Sir Miksha Crossman",
+                "entry_1_points": 44,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 6836103,
+                "entry_2_name": "Amoory",
+                "entry_2_player_name": "M.Amr Khaled",
+                "entry_2_points": 69,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448132,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109798308,
+                "entry_1_entry": 2020880,
+                "entry_1_name": "#LETMEDIE",
+                "entry_1_player_name": "Stephen Laverick",
+                "entry_1_points": 41,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 128931,
+                "entry_2_name": "TheMayor&CityCouncil",
+                "entry_2_player_name": "Sir Miksha Crossman",
+                "entry_2_points": 44,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448135,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },

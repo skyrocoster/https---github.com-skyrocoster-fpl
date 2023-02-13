@@ -9,11 +9,11 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1228,
-    "summary_overall_rank": 2307934,
-    "summary_event_points": 39,
-    "summary_event_rank": 4716228,
-    "current_event": 22,
+    "summary_overall_points": 1279,
+    "summary_overall_rank": 2563930,
+    "summary_event_points": 40,
+    "summary_event_rank": 5024752,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 57617,
-                "entry_last_rank": 51686
+                "entry_rank": 63962,
+                "entry_last_rank": 59968
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2289189,
-                "entry_last_rank": 2052591
+                "entry_rank": 2536902,
+                "entry_last_rank": 2369499
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2307934,
-                "entry_last_rank": 2066149
+                "entry_rank": 2563930,
+                "entry_last_rank": 2390292
             },
             {
                 "id": 553,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 22,
-                "entry_last_rank": 18
+                "entry_rank": 25,
+                "entry_last_rank": 24
             },
             {
                 "id": 513209,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 57617,
-                "entry_last_rank": 51686
+                "entry_rank": 63962,
+                "entry_last_rank": 59968
             },
             {
                 "id": 1088868,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 37,
-                "entry_last_rank": 33
+                "entry_rank": 41,
+                "entry_last_rank": 37
             },
             {
                 "id": 1571120,
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             },
             {
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3424160,
-                "entry_last_rank": 2981173
+                "entry_rank": 3827193,
+                "entry_last_rank": 3542645
             }
         ],
         "h2h": [],
@@ -256,7 +256,7 @@
                 "entry_1_entry": 5404699,
                 "entry_1_name": "CFCFOREVER",
                 "entry_1_player_name": "Gowtham Gunashekaran",
-                "entry_1_points": 44,
+                "entry_1_points": 53,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -264,14 +264,14 @@
                 "entry_2_entry": 1611178,
                 "entry_2_name": "one size fitz hall",
                 "entry_2_player_name": "Siddhant Khandelwal",
-                "entry_2_points": 39,
+                "entry_2_points": 50,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431356,
-                "winner": null,
+                "winner": 5404699,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -284,6 +284,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 2,
-    "last_deadline_value": 1033,
+    "last_deadline_value": 1032,
     "last_deadline_total_transfers": 15
 }

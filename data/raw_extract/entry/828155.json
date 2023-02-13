@@ -9,11 +9,11 @@
     "player_region_name": "Egypt",
     "player_region_iso_code_short": "EG",
     "player_region_iso_code_long": "EGY",
-    "summary_overall_points": 1493,
-    "summary_overall_rank": 40,
-    "summary_event_points": 71,
-    "summary_event_rank": 445758,
-    "current_event": 22,
+    "summary_overall_points": 1572,
+    "summary_overall_rank": 30,
+    "summary_event_points": 61,
+    "summary_event_rank": 548411,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 7,
-                "entry_last_rank": 10
+                "entry_rank": 5,
+                "entry_last_rank": 9
             },
             {
                 "id": 83,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2405679,
                 "cup_qualified": true,
-                "entry_rank": 4,
-                "entry_last_rank": 1
+                "entry_rank": 2,
+                "entry_last_rank": 4
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 40,
-                "entry_last_rank": 51
+                "entry_rank": 30,
+                "entry_last_rank": 55
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 40,
-                "entry_last_rank": 51
+                "entry_rank": 30,
+                "entry_last_rank": 55
             },
             {
                 "id": 129615,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 7,
-                "entry_last_rank": 6
+                "entry_rank": 5,
+                "entry_last_rank": 9
             },
             {
                 "id": 2385997,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9735,
-                "entry_last_rank": 12536
+                "entry_rank": 7311,
+                "entry_last_rank": 15943
             }
         ],
         "h2h": [],
@@ -231,19 +231,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 102689381,
-                "entry_1_entry": 828155,
-                "entry_1_name": "Ffgall",
-                "entry_1_player_name": "Em Orgaga",
-                "entry_1_points": 71,
+                "id": 106835718,
+                "entry_1_entry": 8848526,
+                "entry_1_name": "Abol Villa",
+                "entry_1_player_name": "Ahmad Aboulmagd",
+                "entry_1_points": 58,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 5399611,
-                "entry_2_name": "dreamteam",
-                "entry_2_player_name": "Youcef You",
-                "entry_2_points": 42,
+                "entry_2_entry": 828155,
+                "entry_2_name": "Ffgall",
+                "entry_2_player_name": "Em Orgaga",
+                "entry_2_points": 61,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -252,25 +252,25 @@
                 "league": 2381816,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102966857,
-                "entry_1_entry": 10879710,
-                "entry_1_name": "MSC",
-                "entry_1_player_name": "Mari Christoffersen",
-                "entry_1_points": 29,
+                "id": 106980368,
+                "entry_1_entry": 828155,
+                "entry_1_name": "Ffgall",
+                "entry_1_player_name": "Em Orgaga",
+                "entry_1_points": 61,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 828155,
-                "entry_2_name": "Ffgall",
-                "entry_2_player_name": "Em Orgaga",
-                "entry_2_points": 71,
+                "entry_2_entry": 787577,
+                "entry_2_name": "Powerful FC",
+                "entry_2_player_name": "Kuranga Habeeb",
+                "entry_2_points": 52,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -279,10 +279,10 @@
                 "league": 2405675,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -290,6 +290,6 @@
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#e2844a\",\"kit_shirt_sleeves\":\"#000000\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#000000\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#000000\",\"kit_socks_secondary\":\"#E1E1E1\"}",
     "last_deadline_bank": 7,
-    "last_deadline_value": 1052,
+    "last_deadline_value": 1054,
     "last_deadline_total_transfers": 34
 }

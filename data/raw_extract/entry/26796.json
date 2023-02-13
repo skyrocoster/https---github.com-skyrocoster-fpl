@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1295,
-    "summary_overall_rank": 861984,
-    "summary_event_points": 63,
-    "summary_event_rank": 1115731,
-    "current_event": 22,
+    "summary_overall_points": 1351,
+    "summary_overall_rank": 1055747,
+    "summary_event_points": 41,
+    "summary_event_rank": 4927225,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 68624,
-                "entry_last_rank": 80324
+                "entry_rank": 84407,
+                "entry_last_rank": 72251
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 300194,
-                "entry_last_rank": 354309
+                "entry_rank": 359368,
+                "entry_last_rank": 316262
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 860373,
-                "entry_last_rank": 1012952
+                "entry_rank": 1052923,
+                "entry_last_rank": 907403
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 861984,
-                "entry_last_rank": 1015305
+                "entry_rank": 1055747,
+                "entry_last_rank": 909259
             },
             {
                 "id": 2413,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 58,
-                "entry_last_rank": 56
+                "entry_rank": 62,
+                "entry_last_rank": 60
             },
             {
                 "id": 5974,
@@ -140,7 +140,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 3,
-                "entry_last_rank": 4
+                "entry_last_rank": 3
             },
             {
                 "id": 6235,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2068,
-                "entry_last_rank": 2063
+                "entry_rank": 2344,
+                "entry_last_rank": 2253
             },
             {
                 "id": 9189,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 22,
-                "entry_last_rank": 21
+                "entry_rank": 24,
+                "entry_last_rank": 22
             },
             {
                 "id": 19843,
@@ -224,7 +224,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 9,
-                "entry_last_rank": 11
+                "entry_last_rank": 9
             },
             {
                 "id": 24432,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9051,
-                "entry_last_rank": 9228
+                "entry_rank": 10270,
+                "entry_last_rank": 9633
             },
             {
                 "id": 35310,
@@ -265,8 +265,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
-                "entry_last_rank": 6
+                "entry_rank": 6,
+                "entry_last_rank": 5
             },
             {
                 "id": 35315,
@@ -286,8 +286,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 243,
-                "entry_last_rank": 258
+                "entry_rank": 287,
+                "entry_last_rank": 256
             },
             {
                 "id": 130433,
@@ -307,8 +307,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 48,
-                "entry_last_rank": 47
+                "entry_rank": 53,
+                "entry_last_rank": 51
             },
             {
                 "id": 131471,
@@ -328,8 +328,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
-                "entry_last_rank": 12
+                "entry_rank": 12,
+                "entry_last_rank": 11
             },
             {
                 "id": 421670,
@@ -349,8 +349,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
-                "entry_last_rank": 10
+                "entry_rank": 13,
+                "entry_last_rank": 12
             },
             {
                 "id": 640657,
@@ -370,8 +370,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
-                "entry_last_rank": 6
+                "entry_rank": 6,
+                "entry_last_rank": 5
             },
             {
                 "id": 669476,
@@ -412,8 +412,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 3
+                "entry_rank": 4,
+                "entry_last_rank": 4
             },
             {
                 "id": 1056913,
@@ -433,8 +433,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1216,
-                "entry_last_rank": 1289
+                "entry_rank": 1454,
+                "entry_last_rank": 1305
             },
             {
                 "id": 1171461,
@@ -454,8 +454,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 338492,
-                "entry_last_rank": 400247
+                "entry_rank": 405226,
+                "entry_last_rank": 356644
             },
             {
                 "id": 1233573,
@@ -475,8 +475,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 357,
-                "entry_last_rank": 388
+                "entry_rank": 417,
+                "entry_last_rank": 374
             },
             {
                 "id": 1506945,
@@ -496,8 +496,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 6
+                "entry_rank": 5,
+                "entry_last_rank": 3
             },
             {
                 "id": 2385997,
@@ -517,8 +517,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1602194,
-                "entry_last_rank": 2362429
+                "entry_rank": 2094983,
+                "entry_last_rank": 1694238
             }
         ],
         "h2h": [],
@@ -619,7 +619,7 @@
     "name": "Boehly Legal",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#9b9b9b\",\"kit_shirt_sleeves\":\"#f8e71c\",\"kit_shirt_secondary\":\"#f8e71c\",\"kit_shirt_logo\":\"rainbow-laces\",\"kit_shorts\":\"#9b9b9b\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#9b9b9b\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 29,
-    "last_deadline_value": 1023,
-    "last_deadline_total_transfers": 38
+    "last_deadline_bank": 21,
+    "last_deadline_value": 1020,
+    "last_deadline_total_transfers": 39
 }

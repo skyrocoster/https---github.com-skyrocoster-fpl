@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1376,
-    "summary_overall_rank": 70155,
-    "summary_event_points": 52,
-    "summary_event_rank": 2557293,
-    "current_event": 22,
+    "summary_overall_points": 1458,
+    "summary_overall_rank": 42639,
+    "summary_event_points": 56,
+    "summary_event_rank": 1300240,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 16987,
-                "entry_last_rank": 9649
+                "entry_rank": 10921,
+                "entry_last_rank": 14126
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
-                "entry_last_rank": 3
+                "entry_rank": 3,
+                "entry_last_rank": 6
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 70132,
-                "entry_last_rank": 40987
+                "entry_rank": 42628,
+                "entry_last_rank": 56944
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 70155,
-                "entry_last_rank": 41001
+                "entry_rank": 42639,
+                "entry_last_rank": 56960
             },
             {
                 "id": 19675,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 1
+                "entry_rank": 1,
+                "entry_last_rank": 2
             },
             {
                 "id": 1714353,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 1
+                "entry_rank": 1,
+                "entry_last_rank": 2
             },
             {
                 "id": 2385997,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1843070,
-                "entry_last_rank": 1866571
+                "entry_rank": 1158737,
+                "entry_last_rank": 1401012
             }
         ],
         "h2h": [],
@@ -235,7 +235,7 @@
     "name": "JP United",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 18,
-    "last_deadline_value": 1020,
-    "last_deadline_total_transfers": 24
+    "last_deadline_bank": 16,
+    "last_deadline_value": 1018,
+    "last_deadline_total_transfers": 25
 }

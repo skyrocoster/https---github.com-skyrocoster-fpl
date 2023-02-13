@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1448,
-    "summary_overall_rank": 1108,
-    "summary_event_points": 60,
-    "summary_event_rank": 1439374,
-    "current_event": 22,
+    "summary_overall_points": 1529,
+    "summary_overall_rank": 636,
+    "summary_event_points": 56,
+    "summary_event_rank": 1300240,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 250,
-                "entry_last_rank": 158
+                "entry_rank": 155,
+                "entry_last_rank": 218
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 46,
-                "entry_last_rank": 28
+                "entry_rank": 26,
+                "entry_last_rank": 45
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1108,
-                "entry_last_rank": 670
+                "entry_rank": 636,
+                "entry_last_rank": 952
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1108,
-                "entry_last_rank": 670
+                "entry_rank": 636,
+                "entry_last_rank": 952
             },
             {
                 "id": 829756,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 279728,
-                "entry_last_rank": 247214
+                "entry_rank": 164974,
+                "entry_last_rank": 217504
             }
         ],
         "h2h": [
@@ -204,8 +204,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 2
+                "entry_rank": 3,
+                "entry_last_rank": 3
             }
         ],
         "cup": {
@@ -251,7 +251,7 @@
                 "entry_1_entry": 2967831,
                 "entry_1_name": "Your mom",
                 "entry_1_player_name": "Ranjan Prabhu",
-                "entry_1_points": 79,
+                "entry_1_points": 106,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -259,14 +259,14 @@
                 "entry_2_entry": 3929365,
                 "entry_2_name": "The Trashers",
                 "entry_2_player_name": "James Clancy",
-                "entry_2_points": 60,
+                "entry_2_points": 85,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 2967831,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -274,19 +274,19 @@
                 "knockout_name": "Round of 131072"
             },
             {
-                "id": 103362694,
+                "id": 107188795,
                 "entry_1_entry": 3929365,
                 "entry_1_name": "The Trashers",
                 "entry_1_player_name": "James Clancy",
-                "entry_1_points": 60,
+                "entry_1_points": 56,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 5172417,
-                "entry_2_name": "Alisson Wonderland",
-                "entry_2_player_name": "ciara cooney",
-                "entry_2_points": 43,
+                "entry_2_entry": 1737012,
+                "entry_2_name": "Harrington Rovers",
+                "entry_2_player_name": "Evan Keon",
+                "entry_2_points": 37,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -295,17 +295,17 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "The Trashers",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 8,
-    "last_deadline_value": 1050,
-    "last_deadline_total_transfers": 17
+    "last_deadline_bank": 3,
+    "last_deadline_value": 1052,
+    "last_deadline_total_transfers": 18
 }

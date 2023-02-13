@@ -9,11 +9,11 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1358,
-    "summary_overall_rank": 145532,
-    "summary_event_points": 79,
-    "summary_event_rank": 147426,
-    "current_event": 22,
+    "summary_overall_points": 1428,
+    "summary_overall_rank": 145364,
+    "summary_event_points": 43,
+    "summary_event_rank": 4420399,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 10803,
-                "entry_last_rank": 17840
+                "entry_rank": 10730,
+                "entry_last_rank": 8519
             },
             {
                 "id": 120,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 2929,
-                "entry_last_rank": 4760
+                "entry_rank": 3073,
+                "entry_last_rank": 2378
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 145469,
-                "entry_last_rank": 241995
+                "entry_rank": 145304,
+                "entry_last_rank": 114680
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 145532,
-                "entry_last_rank": 242135
+                "entry_rank": 145364,
+                "entry_last_rank": 114719
             },
             {
                 "id": 550,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
-                "entry_last_rank": 7
+                "entry_rank": 4,
+                "entry_last_rank": 3
             },
             {
                 "id": 553,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 3
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 18950,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 5
+                "entry_rank": 2,
+                "entry_last_rank": 3
             },
             {
                 "id": 53237,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 5
+                "entry_rank": 5,
+                "entry_last_rank": 3
             },
             {
                 "id": 272138,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 679,
-                "entry_last_rank": 926
+                "entry_rank": 683,
+                "entry_last_rank": 561
             },
             {
                 "id": 329400,
@@ -217,14 +217,14 @@
                 "scoring": "c",
                 "admin_entry": 1733314,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 2838,
-                "entry_last_rank": 3923
+                "cup_league": 2448144,
+                "cup_qualified": true,
+                "entry_rank": 2818,
+                "entry_last_rank": 2406
             },
             {
                 "id": 383167,
@@ -265,8 +265,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
-                "entry_last_rank": 13
+                "entry_rank": 9,
+                "entry_last_rank": 9
             },
             {
                 "id": 509463,
@@ -328,8 +328,8 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 2929,
-                "entry_last_rank": 4760
+                "entry_rank": 3073,
+                "entry_last_rank": 2378
             },
             {
                 "id": 699584,
@@ -349,8 +349,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 246,
-                "entry_last_rank": 376
+                "entry_rank": 255,
+                "entry_last_rank": 196
             },
             {
                 "id": 814181,
@@ -370,8 +370,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
-                "entry_last_rank": 4
+                "entry_rank": 3,
+                "entry_last_rank": 3
             },
             {
                 "id": 844605,
@@ -391,8 +391,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1425,
-                "entry_last_rank": 1999
+                "entry_rank": 1370,
+                "entry_last_rank": 1197
             },
             {
                 "id": 857499,
@@ -413,7 +413,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 3
+                "entry_last_rank": 2
             },
             {
                 "id": 1546766,
@@ -454,8 +454,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 57,
-                "entry_last_rank": 75
+                "entry_rank": 61,
+                "entry_last_rank": 45
             },
             {
                 "id": 2385997,
@@ -475,8 +475,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 162324,
-                "entry_last_rank": 393041
+                "entry_rank": 190588,
+                "entry_last_rank": 110953
             }
         ],
         "h2h": [],
@@ -546,19 +546,46 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 104227615,
-                "entry_1_entry": 6095,
-                "entry_1_name": "KlichBate FC",
-                "entry_1_player_name": "Dhruv Inamdar",
-                "entry_1_points": 75,
+                "id": 104818136,
+                "entry_1_entry": 7293080,
+                "entry_1_name": "DeathzoneFC",
+                "entry_1_player_name": "Sathish Viswanathan",
+                "entry_1_points": 104,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 224464,
-                "entry_2_name": "Slumdog Mignolet",
-                "entry_2_player_name": "Akshay Dev",
-                "entry_2_points": 54,
+                "entry_2_entry": 6095,
+                "entry_2_name": "KlichBate FC",
+                "entry_2_player_name": "Dhruv Inamdar",
+                "entry_2_points": 102,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2431366,
+                "winner": 7293080,
+                "seed_value": null,
+                "event": 22,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 131072"
+            },
+            {
+                "id": 107600283,
+                "entry_1_entry": 10212275,
+                "entry_1_name": "Sayantan FC",
+                "entry_1_player_name": "Suman Maity",
+                "entry_1_points": 33,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 6095,
+                "entry_2_name": "KlichBate FC",
+                "entry_2_player_name": "Dhruv Inamdar",
+                "entry_2_points": 43,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -567,44 +594,44 @@
                 "league": 2431356,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104818136,
-                "entry_1_entry": 7293080,
-                "entry_1_name": "DeathzoneFC",
-                "entry_1_player_name": "Sathish Viswanathan",
-                "entry_1_points": 85,
+                "id": 110080797,
+                "entry_1_entry": 6095,
+                "entry_1_name": "KlichBate FC",
+                "entry_1_player_name": "Dhruv Inamdar",
+                "entry_1_points": 43,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6095,
-                "entry_2_name": "KlichBate FC",
-                "entry_2_player_name": "Dhruv Inamdar",
-                "entry_2_points": 75,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2431366,
+                "league": 2448144,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "KlichBate FC",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 27,
+    "last_deadline_bank": 2,
     "last_deadline_value": 1022,
-    "last_deadline_total_transfers": 23
+    "last_deadline_total_transfers": 24
 }

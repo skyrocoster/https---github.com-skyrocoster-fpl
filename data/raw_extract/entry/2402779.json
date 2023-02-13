@@ -9,11 +9,11 @@
     "player_region_name": "Canada",
     "player_region_iso_code_short": "CA",
     "player_region_iso_code_long": "CAN",
-    "summary_overall_points": 1419,
-    "summary_overall_rank": 7502,
-    "summary_event_points": 82,
-    "summary_event_rank": 72158,
-    "current_event": 22,
+    "summary_overall_points": 1487,
+    "summary_overall_rank": 9558,
+    "summary_event_points": 45,
+    "summary_event_rank": 3953463,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 36,
-                "entry_last_rank": 102
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 53,
+                "entry_last_rank": 26
             },
             {
                 "id": 59,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2437796,
                 "cup_qualified": true,
-                "entry_rank": 56,
-                "entry_last_rank": 179
+                "entry_rank": 78,
+                "entry_last_rank": 42
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7501,
-                "entry_last_rank": 20246
+                "entry_rank": 9557,
+                "entry_last_rank": 5638
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 7502,
-                "entry_last_rank": 20250
+                "entry_rank": 9558,
+                "entry_last_rank": 5639
             },
             {
                 "id": 513214,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2437812,
                 "cup_qualified": true,
-                "entry_rank": 56,
-                "entry_last_rank": 179
+                "entry_rank": 78,
+                "entry_last_rank": 42
             },
             {
                 "id": 743984,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18236,
-                "entry_last_rank": 76726
+                "entry_rank": 33633,
+                "entry_last_rank": 12608
             }
         ],
         "h2h": [],
@@ -204,19 +204,19 @@
                 "knockout_name": "Round of 8388608"
             },
             {
-                "id": 105239587,
-                "entry_1_entry": 2402779,
-                "entry_1_name": "Watt City",
-                "entry_1_player_name": "Jesse Watt",
-                "entry_1_points": 82,
+                "id": 108141917,
+                "entry_1_entry": 763673,
+                "entry_1_name": "I ♥️ Soccer FC",
+                "entry_1_player_name": "Mark Melnichuk",
+                "entry_1_points": 60,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 2402779,
+                "entry_2_name": "Watt City",
+                "entry_2_player_name": "Jesse Watt",
+                "entry_2_points": 41,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -225,17 +225,44 @@
                 "league": 2437796,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 106222441,
+                "id": 108632244,
                 "entry_1_entry": 2402779,
                 "entry_1_name": "Watt City",
                 "entry_1_player_name": "Jesse Watt",
-                "entry_1_points": 82,
+                "entry_1_points": 41,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 11021110,
+                "entry_2_name": "AA",
+                "entry_2_player_name": "Amir Abakar",
+                "entry_2_points": 53,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437812,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108767771,
+                "entry_1_entry": 2402779,
+                "entry_1_name": "Watt City",
+                "entry_1_player_name": "Jesse Watt",
+                "entry_1_points": 41,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -249,20 +276,20 @@
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2437812,
+                "league": 2448104,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Watt City",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 26,
-    "last_deadline_value": 1042,
-    "last_deadline_total_transfers": 22
+    "last_deadline_bank": 17,
+    "last_deadline_value": 1036,
+    "last_deadline_total_transfers": 24
 }

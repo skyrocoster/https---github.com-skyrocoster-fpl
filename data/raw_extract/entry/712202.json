@@ -9,11 +9,11 @@
     "player_region_name": "Serbia",
     "player_region_iso_code_short": "RS",
     "player_region_iso_code_long": "SRB",
-    "summary_overall_points": 1522,
-    "summary_overall_rank": 5,
-    "summary_event_points": 69,
-    "summary_event_rank": 587767,
-    "current_event": 22,
+    "summary_overall_points": 1603,
+    "summary_overall_rank": 3,
+    "summary_event_points": 62,
+    "summary_event_rank": 495315,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,8 +32,8 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448108,
+                "cup_qualified": true,
                 "entry_rank": 1,
                 "entry_last_rank": 1
             },
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
+                "entry_rank": 3,
                 "entry_last_rank": 5
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 5,
+                "entry_rank": 3,
                 "entry_last_rank": 5
             },
             {
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 19299,
-                "entry_last_rank": 21767
+                "entry_rank": 11614,
+                "entry_last_rank": 27113
             }
         ],
         "h2h": [
@@ -266,7 +266,7 @@
                 "entry_1_entry": 412749,
                 "entry_1_name": "RullstolPerras IF",
                 "entry_1_player_name": "Alexander Persson",
-                "entry_1_points": 71,
+                "entry_1_points": 96,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -274,14 +274,14 @@
                 "entry_2_entry": 712202,
                 "entry_2_name": "FK Karaguz",
                 "entry_2_player_name": "Ivan Capko",
-                "entry_2_points": 69,
+                "entry_2_points": 88,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 412749,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -289,11 +289,11 @@
                 "knockout_name": "Round of 131072"
             },
             {
-                "id": 104947808,
-                "entry_1_entry": 1057508,
-                "entry_1_name": "Susto United",
-                "entry_1_player_name": "Tomaz Sustarsic",
-                "entry_1_points": 60,
+                "id": 107964298,
+                "entry_1_entry": 6686953,
+                "entry_1_name": "Citizens Niš",
+                "entry_1_player_name": "Aleksa Stojkov",
+                "entry_1_points": 24,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -301,7 +301,7 @@
                 "entry_2_entry": 712202,
                 "entry_2_name": "FK Karaguz",
                 "entry_2_player_name": "Ivan Capko",
-                "entry_2_points": 69,
+                "entry_2_points": 62,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -310,17 +310,44 @@
                 "league": 2431371,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105366365,
+                "id": 108207725,
                 "entry_1_entry": 712202,
                 "entry_1_name": "FK Karaguz",
                 "entry_1_player_name": "Ivan Capko",
-                "entry_1_points": 69,
+                "entry_1_points": 62,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 8142660,
+                "entry_2_name": "CRVENA ZVEZDA",
+                "entry_2_player_name": "Nenad Miladinovic",
+                "entry_2_points": 17,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437798,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108902336,
+                "entry_1_entry": 712202,
+                "entry_1_name": "FK Karaguz",
+                "entry_1_player_name": "Ivan Capko",
+                "entry_1_points": 62,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -334,20 +361,20 @@
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2437798,
+                "league": 2448108,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "FK Karaguz",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#0404b6\",\"kit_shirt_sleeves\":\"#180a0a\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#2a0202\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#1529a1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 14,
-    "last_deadline_value": 1028,
-    "last_deadline_total_transfers": 34
+    "last_deadline_bank": 35,
+    "last_deadline_value": 1030,
+    "last_deadline_total_transfers": 35
 }

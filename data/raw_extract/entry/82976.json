@@ -9,11 +9,11 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1240,
-    "summary_overall_rank": 2033112,
-    "summary_event_points": 60,
-    "summary_event_rank": 1481702,
-    "current_event": 22,
+    "summary_overall_points": 1313,
+    "summary_overall_rank": 1821608,
+    "summary_event_points": 46,
+    "summary_event_rank": 3473516,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 490221,
-                "entry_last_rank": 528080
+                "entry_rank": 451916,
+                "entry_last_rank": 430982
             },
             {
                 "id": 120,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 50533,
-                "entry_last_rank": 55896
+                "entry_rank": 44862,
+                "entry_last_rank": 43420
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2019862,
-                "entry_last_rank": 2211732
+                "entry_rank": 1810886,
+                "entry_last_rank": 1752651
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2033112,
-                "entry_last_rank": 2228343
+                "entry_rank": 1821608,
+                "entry_last_rank": 1761913
             },
             {
                 "id": 550,
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 26,
+                "entry_rank": 23,
                 "entry_last_rank": 24
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 19,
+                "entry_rank": 20,
                 "entry_last_rank": 19
             },
             {
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
-                "entry_last_rank": 5
+                "entry_rank": 4,
+                "entry_last_rank": 4
             },
             {
                 "id": 53237,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 33,
-                "entry_last_rank": 35
+                "entry_rank": 30,
+                "entry_last_rank": 30
             },
             {
                 "id": 70531,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 489,
-                "entry_last_rank": 501
+                "entry_rank": 455,
+                "entry_last_rank": 444
             },
             {
                 "id": 513209,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 50533,
-                "entry_last_rank": 55896
+                "entry_rank": 44862,
+                "entry_last_rank": 43420
             },
             {
                 "id": 1132033,
@@ -265,8 +265,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1105,
-                "entry_last_rank": 1178
+                "entry_rank": 1027,
+                "entry_last_rank": 1006
             },
             {
                 "id": 1412441,
@@ -307,8 +307,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2149886,
-                "entry_last_rank": 2618766
+                "entry_rank": 1776071,
+                "entry_last_rank": 1607153
             }
         ],
         "h2h": [],
@@ -378,19 +378,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 104187157,
-                "entry_1_entry": 71300,
-                "entry_1_name": "Clamour",
-                "entry_1_player_name": "Prasunkali Bag",
-                "entry_1_points": 48,
+                "id": 107591801,
+                "entry_1_entry": 82976,
+                "entry_1_name": "rancho utd fc",
+                "entry_1_player_name": "Sanket Manmode",
+                "entry_1_points": 46,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 82976,
-                "entry_2_name": "rancho utd fc",
-                "entry_2_player_name": "Sanket Manmode",
-                "entry_2_points": 56,
+                "entry_2_entry": 4374276,
+                "entry_2_name": "Ranveer",
+                "entry_2_player_name": "Ranveer Bakshi",
+                "entry_2_points": 35,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -399,17 +399,17 @@
                 "league": 2431356,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104822850,
-                "entry_1_entry": 529600,
-                "entry_1_name": "Manchester united",
-                "entry_1_player_name": "Vipin Vasu",
-                "entry_1_points": 62,
+                "id": 107887777,
+                "entry_1_entry": 3513547,
+                "entry_1_name": "Hzrdus Bloom",
+                "entry_1_player_name": "Tanny Manny",
+                "entry_1_points": 51,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -417,7 +417,7 @@
                 "entry_2_entry": 82976,
                 "entry_2_name": "rancho utd fc",
                 "entry_2_player_name": "Sanket Manmode",
-                "entry_2_points": 56,
+                "entry_2_points": 46,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -426,10 +426,10 @@
                 "league": 2431366,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -437,6 +437,6 @@
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#e03e3e\",\"kit_shirt_sleeves\":\"#e23a3a\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"ukraine\",\"kit_shorts\":\"#fff7f7\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#fefafa\",\"kit_socks_secondary\":\"#fd3838\"}",
     "last_deadline_bank": 21,
-    "last_deadline_value": 1027,
+    "last_deadline_value": 1028,
     "last_deadline_total_transfers": 73
 }

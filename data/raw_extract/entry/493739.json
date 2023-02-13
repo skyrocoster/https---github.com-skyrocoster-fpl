@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1357,
-    "summary_overall_rank": 152179,
-    "summary_event_points": 68,
-    "summary_event_rank": 666398,
-    "current_event": 22,
+    "summary_overall_points": 1420,
+    "summary_overall_rank": 193901,
+    "summary_event_points": 44,
+    "summary_event_rank": 4148435,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 36883,
-                "entry_last_rank": 46146
+                "entry_rank": 49307,
+                "entry_last_rank": 39988
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 15,
-                "entry_last_rank": 19
+                "entry_rank": 17,
+                "entry_last_rank": 14
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 152114,
-                "entry_last_rank": 195355
+                "entry_rank": 193796,
+                "entry_last_rank": 161263
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 152179,
-                "entry_last_rank": 195454
+                "entry_rank": 193901,
+                "entry_last_rank": 161329
             },
             {
                 "id": 440,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2431365,
                 "cup_qualified": true,
-                "entry_rank": 2617,
-                "entry_last_rank": 3361
+                "entry_rank": 3486,
+                "entry_last_rank": 2731
             },
             {
                 "id": 1413,
@@ -133,14 +133,14 @@
                 "scoring": "c",
                 "admin_entry": 1266,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 4454,
-                "entry_last_rank": 4527
+                "cup_league": 2448132,
+                "cup_qualified": true,
+                "entry_rank": 5591,
+                "entry_last_rank": 5059
             },
             {
                 "id": 4194,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 9990,
-                "entry_last_rank": 10601
+                "entry_rank": 12422,
+                "entry_last_rank": 11410
             },
             {
                 "id": 292954,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 213,
-                "entry_last_rank": 221
+                "entry_rank": 260,
+                "entry_last_rank": 241
             },
             {
                 "id": 1140312,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1031769,
-                "entry_last_rank": 1796728
+                "entry_rank": 1242459,
+                "entry_last_rank": 1003083
             }
         ],
         "h2h": [],
@@ -315,19 +315,19 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 104759131,
-                "entry_1_entry": 3511064,
-                "entry_1_name": "Iyanuolamide",
-                "entry_1_player_name": "Olamide Iyanu",
-                "entry_1_points": 42,
+                "id": 107852054,
+                "entry_1_entry": 493739,
+                "entry_1_name": "BigStePPerS",
+                "entry_1_player_name": "Simeon Castello",
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 493739,
-                "entry_2_name": "BigStePPerS",
-                "entry_2_player_name": "Simeon Castello",
-                "entry_2_points": 68,
+                "entry_2_entry": 4827573,
+                "entry_2_name": "الطحالب",
+                "entry_2_player_name": "M7md Rabi3",
+                "entry_2_points": 47,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -336,17 +336,17 @@
                 "league": 2431365,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105973104,
-                "entry_1_entry": 136571,
-                "entry_1_name": "The Pedro-philes",
-                "entry_1_player_name": "Freddy Whitehouse",
-                "entry_1_points": 66,
+                "id": 108497309,
+                "entry_1_entry": 786853,
+                "entry_1_name": "Krox Wrld",
+                "entry_1_player_name": "Nicolai borup sørensen",
+                "entry_1_points": 48,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -354,7 +354,7 @@
                 "entry_2_entry": 493739,
                 "entry_2_name": "BigStePPerS",
                 "entry_2_player_name": "Simeon Castello",
-                "entry_2_points": 68,
+                "entry_2_points": 44,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -363,17 +363,44 @@
                 "league": 2437808,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109712126,
+                "entry_1_entry": 493739,
+                "entry_1_name": "BigStePPerS",
+                "entry_1_player_name": "Simeon Castello",
+                "entry_1_points": 44,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 449475,
+                "entry_2_name": "KGee",
+                "entry_2_player_name": "K Gee",
+                "entry_2_points": 44,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448132,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "BigStePPerS",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 23,
-    "last_deadline_value": 1030,
-    "last_deadline_total_transfers": 27
+    "last_deadline_bank": 54,
+    "last_deadline_value": 1027,
+    "last_deadline_total_transfers": 28
 }

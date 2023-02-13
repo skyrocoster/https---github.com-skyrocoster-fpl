@@ -1,4 +1,3 @@
-from db_tables import *
 import streamlit as st
 import plotly.express as px
 import numpy as np
@@ -8,18 +7,15 @@ import pyarrow as pa
 st.set_page_config(layout="wide")
 sidebar = st.sidebar
 
-app_context = app.app_context()
-app_context.push()
 
-
-@st.cache
+@st.cache_data
 def team_list():
-    teams = Teams().query.all()
+    teams = pq.read_table(f"data/streamlit/all/teams.parquet").to_pandas()
     team_list = [team.team_name for team in teams]
     return team_list
 
 
-@st.cache(allow_output_mutation=True)
+@st.cache_data(allow_output_mutation=True)
 def load_fixture_stats():
     df_fixture_stats = pq.read_table(
         f"data/streamlit/team_performance/fixture_stats.parquet"

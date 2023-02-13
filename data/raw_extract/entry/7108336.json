@@ -9,11 +9,11 @@
     "player_region_name": "Wales",
     "player_region_iso_code_short": "WA",
     "player_region_iso_code_long": "WAL",
-    "summary_overall_points": 1433,
-    "summary_overall_rank": 3202,
-    "summary_event_points": 80,
-    "summary_event_rank": 114618,
-    "current_event": 22,
+    "summary_overall_points": 1505,
+    "summary_overall_rank": 3267,
+    "summary_event_points": 45,
+    "summary_event_rank": 3867521,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448104,
+                "cup_qualified": true,
                 "entry_rank": 17,
-                "entry_last_rank": 36
+                "entry_last_rank": 13
             },
             {
                 "id": 264,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2437806,
                 "cup_qualified": true,
-                "entry_rank": 41,
-                "entry_last_rank": 99
+                "entry_rank": 36,
+                "entry_last_rank": 26
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3201,
-                "entry_last_rank": 7970
+                "entry_rank": 3267,
+                "entry_last_rank": 2406
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 3202,
-                "entry_last_rank": 7972
+                "entry_rank": 3267,
+                "entry_last_rank": 2406
             },
             {
                 "id": 554799,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1322,
-                "entry_last_rank": 3469
+                "entry_rank": 1303,
+                "entry_last_rank": 989
             },
             {
                 "id": 1246905,
@@ -161,7 +161,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 2385997,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 171873,
-                "entry_last_rank": 577798
+                "entry_rank": 178000,
+                "entry_last_rank": 117620
             }
         ],
         "h2h": [],
@@ -252,19 +252,19 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 105864151,
-                "entry_1_entry": 7108336,
-                "entry_1_name": "Cheese’s Champions",
-                "entry_1_player_name": "Lewis Haynes",
-                "entry_1_points": 80,
+                "id": 108409371,
+                "entry_1_entry": 1726314,
+                "entry_1_name": "Pathetico Madrid",
+                "entry_1_player_name": "Nathan Williams",
+                "entry_1_points": 36,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2373932,
-                "entry_2_name": "Chopper’s XI",
-                "entry_2_player_name": "Matthew Harris",
-                "entry_2_points": 50,
+                "entry_2_entry": 7108336,
+                "entry_2_name": "Cheese’s Champions",
+                "entry_2_player_name": "Lewis Haynes",
+                "entry_2_points": 45,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -273,17 +273,44 @@
                 "league": 2437806,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108767916,
+                "entry_1_entry": 7108336,
+                "entry_1_name": "Cheese’s Champions",
+                "entry_1_player_name": "Lewis Haynes",
+                "entry_1_points": 45,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Cheese’s Champions",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 40,
-    "last_deadline_value": 1045,
-    "last_deadline_total_transfers": 25
+    "last_deadline_bank": 17,
+    "last_deadline_value": 1043,
+    "last_deadline_total_transfers": 26
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1448,
-    "summary_overall_rank": 1118,
-    "summary_event_points": 71,
-    "summary_event_rank": 462845,
-    "current_event": 22,
+    "summary_overall_points": 1525,
+    "summary_overall_rank": 855,
+    "summary_event_points": 50,
+    "summary_event_rank": 2473286,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 254,
-                "entry_last_rank": 367
+                "entry_rank": 203,
+                "entry_last_rank": 196
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 48,
-                "entry_last_rank": 65
+                "entry_rank": 36,
+                "entry_last_rank": 39
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1118,
-                "entry_last_rank": 1558
+                "entry_rank": 855,
+                "entry_last_rank": 848
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1118,
-                "entry_last_rank": 1558
+                "entry_rank": 855,
+                "entry_last_rank": 848
             },
             {
                 "id": 357,
@@ -112,14 +112,14 @@
                 "scoring": "c",
                 "admin_entry": 40,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 20,
-                "entry_last_rank": 20
+                "cup_league": 2448130,
+                "cup_qualified": true,
+                "entry_rank": 18,
+                "entry_last_rank": 17
             },
             {
                 "id": 536171,
@@ -196,14 +196,14 @@
                 "scoring": "c",
                 "admin_entry": 2884094,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 17,
-                "entry_last_rank": 21
+                "cup_league": 2448148,
+                "cup_qualified": true,
+                "entry_rank": 13,
+                "entry_last_rank": 15
             },
             {
                 "id": 1287462,
@@ -307,8 +307,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 193082,
-                "entry_last_rank": 356692
+                "entry_rank": 145753,
+                "entry_last_rank": 132424
             }
         ],
         "h2h": [],
@@ -403,6 +403,60 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 262144"
+            },
+            {
+                "id": 109624840,
+                "entry_1_entry": 1245646,
+                "entry_1_name": "Flying without Mings",
+                "entry_1_player_name": "Daire OBrien",
+                "entry_1_points": 50,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448130,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 110212970,
+                "entry_1_entry": 1245646,
+                "entry_1_name": "Flying without Mings",
+                "entry_1_player_name": "Daire OBrien",
+                "entry_1_points": 50,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448148,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -410,6 +464,6 @@
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
     "last_deadline_bank": 36,
-    "last_deadline_value": 1035,
+    "last_deadline_value": 1033,
     "last_deadline_total_transfers": 22
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1474,
-    "summary_overall_rank": 156,
-    "summary_event_points": 72,
-    "summary_event_rank": 385334,
-    "current_event": 22,
+    "summary_overall_points": 1556,
+    "summary_overall_rank": 101,
+    "summary_event_points": 59,
+    "summary_event_rank": 859004,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2431352,
                 "cup_qualified": true,
-                "entry_rank": 9,
-                "entry_last_rank": 16
+                "entry_rank": 4,
+                "entry_last_rank": 7
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 6,
-                "entry_last_rank": 11
+                "entry_rank": 2,
+                "entry_last_rank": 4
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 156,
-                "entry_last_rank": 261
+                "entry_rank": 101,
+                "entry_last_rank": 112
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 156,
-                "entry_last_rank": 261
+                "entry_rank": 101,
+                "entry_last_rank": 112
             },
             {
                 "id": 34968,
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
+                "entry_rank": 3,
                 "entry_last_rank": 4
             },
             {
@@ -307,8 +307,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 58159,
-                "entry_last_rank": 104606
+                "entry_rank": 31929,
+                "entry_last_rank": 39732
             }
         ],
         "h2h": [
@@ -442,19 +442,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 103935812,
-                "entry_1_entry": 2658583,
-                "entry_1_name": "Costa Adeje FC",
-                "entry_1_player_name": "Sam Embleton",
-                "entry_1_points": 62,
+                "id": 107471583,
+                "entry_1_entry": 6243832,
+                "entry_1_name": "Fiercalicious",
+                "entry_1_player_name": "Garrett Smyth",
+                "entry_1_points": 55,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6243832,
-                "entry_2_name": "Fiercalicious",
-                "entry_2_player_name": "Garrett Smyth",
-                "entry_2_points": 72,
+                "entry_2_entry": 3357786,
+                "entry_2_name": "Square One!",
+                "entry_2_player_name": "Tom Smith",
+                "entry_2_points": 39,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -463,17 +463,17 @@
                 "league": 2431352,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Fiercalicious",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 33,
+    "last_deadline_bank": 20,
     "last_deadline_value": 1041,
-    "last_deadline_total_transfers": 26
+    "last_deadline_total_transfers": 28
 }

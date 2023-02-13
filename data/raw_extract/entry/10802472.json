@@ -9,11 +9,11 @@
     "player_region_name": "Algeria",
     "player_region_iso_code_short": "DZ",
     "player_region_iso_code_long": "DZA",
-    "summary_overall_points": 628,
-    "summary_overall_rank": 10382862,
-    "summary_event_points": 95,
-    "summary_event_rank": 2364,
-    "current_event": 22,
+    "summary_overall_points": 692,
+    "summary_overall_rank": 10295221,
+    "summary_event_points": 45,
+    "summary_event_rank": 3743453,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2437795,
                 "cup_qualified": true,
-                "entry_rank": 104996,
-                "entry_last_rank": 105741
+                "entry_rank": 104492,
+                "entry_last_rank": 104857
             },
             {
                 "id": 23,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424302,
                 "cup_qualified": true,
-                "entry_rank": 321803,
-                "entry_last_rank": 330556
+                "entry_rank": 317010,
+                "entry_last_rank": 320062
             },
             {
                 "id": 290,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 26
+                "entry_rank": 4,
+                "entry_last_rank": 3
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 10382862,
-                "entry_last_rank": 10530026
+                "entry_rank": 10295221,
+                "entry_last_rank": 10354713
             },
             {
                 "id": 928434,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 2352594,
-                "entry_last_rank": 2407390
+                "entry_rank": 2320087,
+                "entry_last_rank": 2341688
             },
             {
                 "id": 1074977,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21,
-                "entry_last_rank": 489
+                "entry_rank": 158,
+                "entry_last_rank": 53
             }
         ],
         "h2h": [],
@@ -204,19 +204,19 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 102728972,
+                "id": 106846646,
                 "entry_1_entry": 10802472,
                 "entry_1_name": "Lanyouk di lanyouk",
                 "entry_1_player_name": "Abd elghani Bouzzrnana",
-                "entry_1_points": 95,
+                "entry_1_points": 45,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 7004890,
-                "entry_2_name": "Arsenal",
-                "entry_2_player_name": "didin aissa",
-                "entry_2_points": 53,
+                "entry_2_entry": 1685391,
+                "entry_2_name": "Red’M",
+                "entry_2_player_name": "Amir Moghadam",
+                "entry_2_points": 41,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -225,17 +225,17 @@
                 "league": 2381816,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103283873,
-                "entry_1_entry": 1345176,
-                "entry_1_name": "Algérie",
-                "entry_1_player_name": "Ahmed Debbar",
-                "entry_1_points": 24,
+                "id": 107143325,
+                "entry_1_entry": 420833,
+                "entry_1_name": "Haki39",
+                "entry_1_player_name": "abdelhak touil",
+                "entry_1_points": 34,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -243,7 +243,7 @@
                 "entry_2_entry": 10802472,
                 "entry_2_name": "Lanyouk di lanyouk",
                 "entry_2_player_name": "Abd elghani Bouzzrnana",
-                "entry_2_points": 95,
+                "entry_2_points": 45,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -252,25 +252,25 @@
                 "league": 2424302,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105160296,
-                "entry_1_entry": 10802472,
-                "entry_1_name": "Lanyouk di lanyouk",
-                "entry_1_player_name": "Abd elghani Bouzzrnana",
-                "entry_1_points": 95,
+                "id": 108099068,
+                "entry_1_entry": 165618,
+                "entry_1_name": "Daffenberg",
+                "entry_1_player_name": "robert nilsen",
+                "entry_1_points": 38,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 10802472,
+                "entry_2_name": "Lanyouk di lanyouk",
+                "entry_2_player_name": "Abd elghani Bouzzrnana",
+                "entry_2_points": 45,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -279,10 +279,10 @@
                 "league": 2437795,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -290,6 +290,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 6,
-    "last_deadline_value": 1027,
+    "last_deadline_value": 1033,
     "last_deadline_total_transfers": 37
 }

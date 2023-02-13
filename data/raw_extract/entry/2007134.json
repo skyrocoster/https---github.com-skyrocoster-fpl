@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1437,
-    "summary_overall_rank": 2432,
-    "summary_event_points": 51,
-    "summary_event_rank": 2737528,
-    "current_event": 22,
+    "summary_overall_points": 1498,
+    "summary_overall_rank": 5019,
+    "summary_event_points": 43,
+    "summary_event_rank": 4420399,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 12,
-                "entry_last_rank": 4
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 24,
+                "entry_last_rank": 16
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 872,
-                "entry_last_rank": 277
+                "entry_rank": 1780,
+                "entry_last_rank": 1168
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2432,
-                "entry_last_rank": 800
+                "entry_rank": 5018,
+                "entry_last_rank": 3268
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2432,
-                "entry_last_rank": 800
+                "entry_rank": 5019,
+                "entry_last_rank": 3268
             },
             {
                 "id": 917062,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1004,
-                "entry_last_rank": 326
+                "entry_rank": 2031,
+                "entry_last_rank": 1353
             },
             {
                 "id": 1581294,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1236700,
-                "entry_last_rank": 1016414
+                "entry_rank": 1522529,
+                "entry_last_rank": 1225889
             }
         ],
         "h2h": [],
@@ -319,13 +319,40 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 2097152"
+            },
+            {
+                "id": 108778307,
+                "entry_1_entry": 2007134,
+                "entry_1_name": "Lallanas in pyjamas",
+                "entry_1_player_name": "Cedric Jirsell",
+                "entry_1_points": 43,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Lallanas in pyjamas",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 7,
-    "last_deadline_value": 1044,
-    "last_deadline_total_transfers": 23
+    "last_deadline_bank": 16,
+    "last_deadline_value": 1041,
+    "last_deadline_total_transfers": 24
 }

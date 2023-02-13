@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1502,
-    "summary_overall_rank": 24,
-    "summary_event_points": 66,
-    "summary_event_rank": 810006,
-    "current_event": 22,
+    "summary_overall_points": 1566,
+    "summary_overall_rank": 45,
+    "summary_event_points": 49,
+    "summary_event_rank": 2938793,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -35,7 +35,7 @@
                 "cup_league": 2405678,
                 "cup_qualified": true,
                 "entry_rank": 3,
-                "entry_last_rank": 2
+                "entry_last_rank": 3
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 4,
-                "entry_last_rank": 3
+                "entry_rank": 10,
+                "entry_last_rank": 5
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 24,
-                "entry_last_rank": 23
+                "entry_rank": 45,
+                "entry_last_rank": 29
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 24,
-                "entry_last_rank": 23
+                "entry_rank": 45,
+                "entry_last_rank": 29
             },
             {
                 "id": 457,
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_rank": 5,
+                "entry_last_rank": 4
             },
             {
                 "id": 5896,
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -455,7 +455,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 1
+                "entry_last_rank": 2
             },
             {
                 "id": 273256,
@@ -518,7 +518,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 1
+                "entry_last_rank": 2
             },
             {
                 "id": 666382,
@@ -539,7 +539,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 1
+                "entry_last_rank": 2
             },
             {
                 "id": 1004164,
@@ -601,8 +601,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 7,
-                "entry_last_rank": 6
+                "entry_rank": 12,
+                "entry_last_rank": 8
             },
             {
                 "id": 2385997,
@@ -622,8 +622,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1972,
-                "entry_last_rank": 1007
+                "entry_rank": 7801,
+                "entry_last_rank": 3469
             }
         ],
         "h2h": [],
@@ -643,7 +643,7 @@
                 "entry_1_entry": 17775,
                 "entry_1_name": "semi enders",
                 "entry_1_player_name": "mark bleakley",
-                "entry_1_points": 66,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -651,14 +651,14 @@
                 "entry_2_entry": 7635,
                 "entry_2_name": "Dolce & bananas",
                 "entry_2_player_name": "Alex Dolce",
-                "entry_2_points": 72,
+                "entry_2_points": 91,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 7635,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -666,19 +666,19 @@
                 "knockout_name": "Round of 131072"
             },
             {
-                "id": 102622914,
-                "entry_1_entry": 728104,
-                "entry_1_name": "Cheesy Iheanachos",
-                "entry_1_player_name": "Ollie Kavanagh",
-                "entry_1_points": 51,
+                "id": 106813351,
+                "entry_1_entry": 17775,
+                "entry_1_name": "semi enders",
+                "entry_1_player_name": "mark bleakley",
+                "entry_1_points": 45,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 17775,
-                "entry_2_name": "semi enders",
-                "entry_2_player_name": "mark bleakley",
-                "entry_2_points": 66,
+                "entry_2_entry": 4652804,
+                "entry_2_name": "Moves like Agger",
+                "entry_2_player_name": "Nayan Verma",
+                "entry_2_points": 49,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -687,25 +687,25 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102749738,
+                "id": 106882055,
                 "entry_1_entry": 17775,
                 "entry_1_name": "semi enders",
                 "entry_1_player_name": "mark bleakley",
-                "entry_1_points": 66,
+                "entry_1_points": 45,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 3402591,
-                "entry_2_name": "Hammersville",
-                "entry_2_player_name": "Paul Ventris",
-                "entry_2_points": 48,
+                "entry_2_entry": 655409,
+                "entry_2_name": "Krul intentions",
+                "entry_2_player_name": "Calum Aujla",
+                "entry_2_points": 50,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -714,25 +714,25 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103020959,
-                "entry_1_entry": 4737596,
-                "entry_1_name": "lwas",
-                "entry_1_player_name": "Wassim Rbh",
-                "entry_1_points": 63,
+                "id": 107022209,
+                "entry_1_entry": 17775,
+                "entry_1_name": "semi enders",
+                "entry_1_player_name": "mark bleakley",
+                "entry_1_points": 45,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 17775,
-                "entry_2_name": "semi enders",
-                "entry_2_player_name": "mark bleakley",
-                "entry_2_points": 66,
+                "entry_2_entry": 8808935,
+                "entry_2_name": "Arezki team's",
+                "entry_2_player_name": "Boulouata Arezki",
+                "entry_2_points": 59,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -741,25 +741,25 @@
                 "league": 2405678,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105951501,
+                "id": 108497496,
                 "entry_1_entry": 17775,
                 "entry_1_name": "semi enders",
                 "entry_1_player_name": "mark bleakley",
-                "entry_1_points": 66,
+                "entry_1_points": 45,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 4364540,
+                "entry_2_name": "HaalandGlobeTrotters",
+                "entry_2_player_name": "James Tolcher",
+                "entry_2_points": 59,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -768,17 +768,17 @@
                 "league": 2437808,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "semi enders",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#0bf1e9\",\"kit_shirt_sleeves\":\"#04e7f8\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#73d0f4\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#129df4\",\"kit_socks_secondary\":\"#93f851\"}",
-    "last_deadline_bank": 26,
-    "last_deadline_value": 1052,
-    "last_deadline_total_transfers": 28
+    "last_deadline_bank": 2,
+    "last_deadline_value": 1048,
+    "last_deadline_total_transfers": 31
 }

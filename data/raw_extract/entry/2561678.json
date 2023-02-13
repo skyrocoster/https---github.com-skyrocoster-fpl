@@ -9,11 +9,11 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1428,
-    "summary_overall_rank": 4513,
-    "summary_event_points": 105,
-    "summary_event_rank": 70,
-    "current_event": 22,
+    "summary_overall_points": 1495,
+    "summary_overall_rank": 6310,
+    "summary_event_points": 44,
+    "summary_event_rank": 4271418,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2437795,
                 "cup_qualified": true,
-                "entry_rank": 68,
-                "entry_last_rank": 644
+                "entry_rank": 96,
+                "entry_last_rank": 51
             },
             {
                 "id": 120,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 72,
-                "entry_last_rank": 722
+                "entry_rank": 115,
+                "entry_last_rank": 49
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4512,
-                "entry_last_rank": 44544
+                "entry_rank": 6309,
+                "entry_last_rank": 3424
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 4513,
-                "entry_last_rank": 44558
+                "entry_rank": 6310,
+                "entry_last_rank": 3424
             },
             {
                 "id": 486,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 99,
-                "entry_last_rank": 693
+                "entry_rank": 139,
+                "entry_last_rank": 75
             },
             {
                 "id": 4194,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 319,
-                "entry_last_rank": 2434
+                "entry_rank": 438,
+                "entry_last_rank": 260
             },
             {
                 "id": 4607,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 94,
-                "entry_last_rank": 591
+                "entry_rank": 127,
+                "entry_last_rank": 78
             },
             {
                 "id": 90662,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
-                "entry_last_rank": 63
+                "entry_rank": 8,
+                "entry_last_rank": 4
             },
             {
                 "id": 513209,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 72,
-                "entry_last_rank": 722
+                "entry_rank": 115,
+                "entry_last_rank": 49
             },
             {
                 "id": 684293,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": 2437815,
                 "cup_qualified": true,
-                "entry_rank": 169,
-                "entry_last_rank": 1488
+                "entry_rank": 226,
+                "entry_last_rank": 138
             },
             {
                 "id": 2385997,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
-                "entry_last_rank": 276
+                "entry_rank": 14,
+                "entry_last_rank": 4
             },
             {
                 "id": 2408096,
@@ -282,19 +282,19 @@
         },
         "cup_matches": [
             {
-                "id": 102488459,
+                "id": 106758757,
                 "entry_1_entry": 2561678,
                 "entry_1_name": "JuanMataDi",
                 "entry_1_player_name": "Kalpak Berry",
-                "entry_1_points": 105,
+                "entry_1_points": 40,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 8234665,
-                "entry_2_name": "smart Omar",
-                "entry_2_player_name": "عمر الهاشمي",
-                "entry_2_points": 33,
+                "entry_2_entry": 564087,
+                "entry_2_name": "LP Lions © ©",
+                "entry_2_player_name": "Lyall Paterson",
+                "entry_2_points": 34,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -303,17 +303,17 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104210173,
-                "entry_1_entry": 3491304,
-                "entry_1_name": "Gallant",
-                "entry_1_player_name": "Meigel Faehnle",
-                "entry_1_points": 20,
+                "id": 107611215,
+                "entry_1_entry": 4549923,
+                "entry_1_name": "F11",
+                "entry_1_player_name": "Aboobaker K",
+                "entry_1_points": 48,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -321,7 +321,7 @@
                 "entry_2_entry": 2561678,
                 "entry_2_name": "JuanMataDi",
                 "entry_2_player_name": "Kalpak Berry",
-                "entry_2_points": 105,
+                "entry_2_points": 40,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -330,25 +330,25 @@
                 "league": 2431356,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104810104,
+                "id": 107911571,
                 "entry_1_entry": 2561678,
                 "entry_1_name": "JuanMataDi",
                 "entry_1_player_name": "Kalpak Berry",
-                "entry_1_points": 105,
+                "entry_1_points": 40,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2439846,
-                "entry_2_name": "El Conquistador",
-                "entry_2_player_name": "Rakshit Chopra",
-                "entry_2_points": 52,
+                "entry_2_entry": 2430804,
+                "entry_2_name": "Mavericks",
+                "entry_2_player_name": "Sagar Joshi",
+                "entry_2_points": 49,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -357,25 +357,25 @@
                 "league": 2431366,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105160026,
+                "id": 108104662,
                 "entry_1_entry": 2561678,
                 "entry_1_name": "JuanMataDi",
                 "entry_1_player_name": "Kalpak Berry",
-                "entry_1_points": 105,
+                "entry_1_points": 40,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 5367693,
+                "entry_2_name": "Silas squard",
+                "entry_2_player_name": "Silas Silas",
+                "entry_2_points": 18,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -384,25 +384,25 @@
                 "league": 2437795,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105946560,
+                "id": 108503245,
                 "entry_1_entry": 2561678,
                 "entry_1_name": "JuanMataDi",
                 "entry_1_player_name": "Kalpak Berry",
-                "entry_1_points": 105,
+                "entry_1_points": 40,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 10901,
+                "entry_2_name": "Sam’s XI",
+                "entry_2_player_name": "Sam Burden",
+                "entry_2_points": 51,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -411,25 +411,25 @@
                 "league": 2437808,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 106451226,
+                "id": 108731177,
                 "entry_1_entry": 2561678,
                 "entry_1_name": "JuanMataDi",
                 "entry_1_player_name": "Kalpak Berry",
-                "entry_1_points": 105,
+                "entry_1_points": 40,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6060658,
-                "entry_2_name": "Harry Kaine",
-                "entry_2_player_name": "Kaine Morrison",
-                "entry_2_points": 38,
+                "entry_2_entry": 1912813,
+                "entry_2_name": "Peta’s Rejects",
+                "entry_2_player_name": "Peter Sprong",
+                "entry_2_points": 32,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -438,17 +438,17 @@
                 "league": 2437815,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "JuanMataDi",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 18,
-    "last_deadline_value": 1016,
-    "last_deadline_total_transfers": 51
+    "last_deadline_bank": 0,
+    "last_deadline_value": 1015,
+    "last_deadline_total_transfers": 54
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1476,
-    "summary_overall_rank": 130,
-    "summary_event_points": 68,
-    "summary_event_rank": 640456,
-    "current_event": 22,
+    "summary_overall_points": 1531,
+    "summary_overall_rank": 569,
+    "summary_event_points": 37,
+    "summary_event_rank": 5856741,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 10,
-                "entry_last_rank": 11
+                "entry_rank": 46,
+                "entry_last_rank": 13
             },
             {
                 "id": 124,
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 4,
+                "entry_rank": 22,
                 "entry_last_rank": 7
             },
             {
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 130,
-                "entry_last_rank": 158
+                "entry_rank": 569,
+                "entry_last_rank": 201
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 130,
-                "entry_last_rank": 158
+                "entry_rank": 569,
+                "entry_last_rank": 201
             },
             {
                 "id": 1432038,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 48550,
-                "entry_last_rank": 58604
+                "entry_rank": 178715,
+                "entry_last_rank": 66978
             }
         ],
         "h2h": [],
@@ -183,19 +183,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102514142,
+                "id": 106742522,
                 "entry_1_entry": 6925330,
                 "entry_1_name": "DJ Kalidou",
                 "entry_1_player_name": "Greg Bateson",
-                "entry_1_points": 68,
+                "entry_1_points": 37,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 4377607,
-                "entry_2_name": "Assists Above All",
-                "entry_2_player_name": "Charles Baumgardner",
-                "entry_2_points": 25,
+                "entry_2_entry": 1169473,
+                "entry_2_name": "Earth, Wind, Maguire",
+                "entry_2_player_name": "James Hart",
+                "entry_2_points": 58,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -204,25 +204,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102901774,
-                "entry_1_entry": 6925330,
-                "entry_1_name": "DJ Kalidou",
-                "entry_1_player_name": "Greg Bateson",
-                "entry_1_points": 68,
+                "id": 106961832,
+                "entry_1_entry": 4441849,
+                "entry_1_name": "BlouZNa",
+                "entry_1_player_name": "NAsRô AGhà",
+                "entry_1_points": 61,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 340909,
-                "entry_2_name": "SKERT FCC",
-                "entry_2_player_name": "Kelvin Awuku",
-                "entry_2_points": 42,
+                "entry_2_entry": 6925330,
+                "entry_2_name": "DJ Kalidou",
+                "entry_2_player_name": "Greg Bateson",
+                "entry_2_points": 37,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -231,17 +231,17 @@
                 "league": 2405671,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "DJ Kalidou",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 34,
+    "last_deadline_bank": 10,
     "last_deadline_value": 1026,
-    "last_deadline_total_transfers": 25
+    "last_deadline_total_transfers": 27
 }

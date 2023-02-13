@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1337,
-    "summary_overall_rank": 304119,
-    "summary_event_points": 50,
-    "summary_event_rank": 2923045,
-    "current_event": 22,
+    "summary_overall_points": 1406,
+    "summary_overall_rank": 305190,
+    "summary_event_points": 60,
+    "summary_event_rank": 692408,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 74053,
-                "entry_last_rank": 50479
+                "entry_rank": 77277,
+                "entry_last_rank": 101445
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 30,
-                "entry_last_rank": 22
+                "entry_rank": 32,
+                "entry_last_rank": 39
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 303932,
-                "entry_last_rank": 213518
+                "entry_rank": 304969,
+                "entry_last_rank": 409609
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 304119,
-                "entry_last_rank": 213628
+                "entry_rank": 305190,
+                "entry_last_rank": 409925
             },
             {
                 "id": 1192094,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 2
+                "entry_rank": 2,
+                "entry_last_rank": 3
             },
             {
                 "id": 1429627,
@@ -140,7 +140,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 2
+                "entry_last_rank": 3
             },
             {
                 "id": 2385997,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 431426,
-                "entry_last_rank": 206451
+                "entry_rank": 473224,
+                "entry_last_rank": 714392
             }
         ],
         "h2h": [],
@@ -208,7 +208,7 @@
                 "entry_1_entry": 6449594,
                 "entry_1_name": "bokachoda 11",
                 "entry_1_player_name": "George Shoeb",
-                "entry_1_points": 68,
+                "entry_1_points": 91,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -216,14 +216,14 @@
                 "entry_2_entry": 6309253,
                 "entry_2_name": "⚽️�Ballerz �⚽️",
                 "entry_2_player_name": "Trevon Davidson",
-                "entry_2_points": 50,
+                "entry_2_points": 59,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 6449594,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -235,7 +235,7 @@
     "name": "⚽️�Ballerz �⚽️",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 21,
-    "last_deadline_value": 1024,
-    "last_deadline_total_transfers": 35
+    "last_deadline_bank": 40,
+    "last_deadline_value": 1023,
+    "last_deadline_total_transfers": 36
 }

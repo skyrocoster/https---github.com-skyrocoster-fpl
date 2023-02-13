@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1373,
-    "summary_overall_rank": 79186,
-    "summary_event_points": 59,
-    "summary_event_rank": 1579967,
-    "current_event": 22,
+    "summary_overall_points": 1434,
+    "summary_overall_rank": 115595,
+    "summary_event_points": 44,
+    "summary_event_rank": 4148435,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 19121,
-                "entry_last_rank": 15687
+                "entry_rank": 29415,
+                "entry_last_rank": 23265
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
-                "entry_last_rank": 6
+                "entry_rank": 10,
+                "entry_last_rank": 8
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 79163,
-                "entry_last_rank": 66442
+                "entry_rank": 115554,
+                "entry_last_rank": 93853
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 79186,
-                "entry_last_rank": 66462
+                "entry_rank": 115595,
+                "entry_last_rank": 93882
             },
             {
                 "id": 463372,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 3
+                "entry_rank": 5,
+                "entry_last_rank": 4
             },
             {
                 "id": 2385997,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3082137,
-                "entry_last_rank": 4243358
+                "entry_rank": 3096282,
+                "entry_last_rank": 2914311
             }
         ],
         "h2h": [],
@@ -214,7 +214,7 @@
     "name": "BLYXI",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 1,
-    "last_deadline_value": 1027,
-    "last_deadline_total_transfers": 18
+    "last_deadline_bank": 18,
+    "last_deadline_value": 1026,
+    "last_deadline_total_transfers": 19
 }

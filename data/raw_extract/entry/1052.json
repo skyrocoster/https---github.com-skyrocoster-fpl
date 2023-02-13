@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1510,
-    "summary_overall_rank": 12,
-    "summary_event_points": 99,
-    "summary_event_rank": 805,
-    "current_event": 22,
+    "summary_overall_points": 1588,
+    "summary_overall_rank": 7,
+    "summary_event_points": 55,
+    "summary_event_rank": 1554664,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 3,
-                "entry_last_rank": 30
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 261,
@@ -56,7 +56,7 @@
                 "cup_league": 2381814,
                 "cup_qualified": true,
                 "entry_rank": 2,
-                "entry_last_rank": 35
+                "entry_last_rank": 2
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 12,
-                "entry_last_rank": 126
+                "entry_rank": 7,
+                "entry_last_rank": 8
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 12,
-                "entry_last_rank": 126
+                "entry_rank": 7,
+                "entry_last_rank": 8
             },
             {
                 "id": 720,
@@ -154,14 +154,14 @@
                 "scoring": "c",
                 "admin_entry": 1733314,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448144,
+                "cup_qualified": true,
                 "entry_rank": 1,
-                "entry_last_rank": 3
+                "entry_last_rank": 1
             },
             {
                 "id": 728861,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 3,
-                "entry_last_rank": 44
+                "entry_rank": 2,
+                "entry_last_rank": 3
             },
             {
                 "id": 2385997,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5263,
-                "entry_last_rank": 116444
+                "entry_rank": 4548,
+                "entry_last_rank": 3682
             }
         ],
         "h2h": [
@@ -337,19 +337,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102571909,
-                "entry_1_entry": 1052,
-                "entry_1_name": "Dude where's my Sarr",
-                "entry_1_player_name": "Zak Bickerstaffe",
-                "entry_1_points": 99,
+                "id": 106772476,
+                "entry_1_entry": 6375129,
+                "entry_1_name": "Zebra FC",
+                "entry_1_player_name": "Zjan Shirinian",
+                "entry_1_points": 49,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 3410174,
-                "entry_2_name": "WhatsTheMata",
-                "entry_2_player_name": "Peter McCollum",
-                "entry_2_points": 57,
+                "entry_2_entry": 1052,
+                "entry_2_name": "Dude where's my Sarr",
+                "entry_2_player_name": "Zak Bickerstaffe",
+                "entry_2_points": 51,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -358,25 +358,25 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102756302,
+                "id": 106879567,
                 "entry_1_entry": 1052,
                 "entry_1_name": "Dude where's my Sarr",
                 "entry_1_player_name": "Zak Bickerstaffe",
-                "entry_1_points": 99,
+                "entry_1_points": 51,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 49575,
-                "entry_2_name": "Knuckleheads",
-                "entry_2_player_name": "George Harvey",
-                "entry_2_points": 63,
+                "entry_2_entry": 159281,
+                "entry_2_name": "Game Of Stones",
+                "entry_2_player_name": "Charlotte Quarmby",
+                "entry_2_points": 42,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -385,17 +385,44 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 110078169,
+                "entry_1_entry": 1052,
+                "entry_1_name": "Dude where's my Sarr",
+                "entry_1_player_name": "Zak Bickerstaffe",
+                "entry_1_points": 51,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448144,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Dude where's my Sarr",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#8fc4c5\",\"kit_shirt_sleeves\":\"#9b9a9f\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#ab5757\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#738263\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 3,
-    "last_deadline_value": 1042,
-    "last_deadline_total_transfers": 35
+    "last_deadline_bank": 14,
+    "last_deadline_value": 1044,
+    "last_deadline_total_transfers": 37
 }

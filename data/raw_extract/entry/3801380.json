@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1359,
-    "summary_overall_rank": 139621,
-    "summary_event_points": 27,
-    "summary_event_rank": 7510962,
-    "current_event": 22,
+    "summary_overall_points": 1390,
+    "summary_overall_rank": 463333,
+    "summary_event_points": 31,
+    "summary_event_rank": 7090757,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 19700,
-                "entry_last_rank": 3853
+                "entry_rank": 62916,
+                "entry_last_rank": 38499
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 14,
-                "entry_last_rank": 1
+                "entry_rank": 49,
+                "entry_last_rank": 30
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 139562,
-                "entry_last_rank": 26557
+                "entry_rank": 462845,
+                "entry_last_rank": 279166
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 139621,
-                "entry_last_rank": 26566
+                "entry_rank": 463333,
+                "entry_last_rank": 279327
             },
             {
                 "id": 545398,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 1
+                "entry_rank": 18,
+                "entry_last_rank": 13
             },
             {
                 "id": 545560,
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2173850,
-                "entry_last_rank": 727552
+                "entry_rank": 3799712,
+                "entry_last_rank": 3015649
             }
         ],
         "h2h": [],
@@ -235,7 +235,7 @@
     "name": "2 Girls 1 Schlupp",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 6,
-    "last_deadline_value": 1020,
-    "last_deadline_total_transfers": 20
+    "last_deadline_bank": 12,
+    "last_deadline_value": 1019,
+    "last_deadline_total_transfers": 21
 }

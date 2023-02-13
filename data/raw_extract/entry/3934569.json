@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1350,
-    "summary_overall_rank": 196904,
-    "summary_event_points": 49,
-    "summary_event_rank": 3092320,
-    "current_event": 22,
+    "summary_overall_points": 1415,
+    "summary_overall_rank": 229928,
+    "summary_event_points": 52,
+    "summary_event_rank": 2207871,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 27601,
-                "entry_last_rank": 17548
+                "entry_rank": 31371,
+                "entry_last_rank": 30515
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21,
-                "entry_last_rank": 12
+                "entry_rank": 22,
+                "entry_last_rank": 23
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 196819,
-                "entry_last_rank": 121590
+                "entry_rank": 229794,
+                "entry_last_rank": 219853
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 196904,
-                "entry_last_rank": 121646
+                "entry_rank": 229928,
+                "entry_last_rank": 219957
             },
             {
                 "id": 2268427,
@@ -119,7 +119,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 3,
-                "entry_last_rank": 2
+                "entry_last_rank": 3
             },
             {
                 "id": 2385997,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2541585,
-                "entry_last_rank": 2597099
+                "entry_rank": 2472207,
+                "entry_last_rank": 2438456
             }
         ],
         "h2h": [],
@@ -214,7 +214,7 @@
     "name": "Renegade XI",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 3,
+    "last_deadline_bank": 7,
     "last_deadline_value": 1029,
-    "last_deadline_total_transfers": 29
+    "last_deadline_total_transfers": 31
 }

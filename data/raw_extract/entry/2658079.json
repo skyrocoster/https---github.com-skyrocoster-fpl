@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1490,
-    "summary_overall_rank": 48,
-    "summary_event_points": 69,
-    "summary_event_rank": 587767,
-    "current_event": 22,
+    "summary_overall_points": 1559,
+    "summary_overall_rank": 76,
+    "summary_event_points": 42,
+    "summary_event_rank": 4680705,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 16,
-                "entry_last_rank": 12
+                "entry_rank": 19,
+                "entry_last_rank": 13
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 9,
-                "entry_last_rank": 13
+                "entry_rank": 24,
+                "entry_last_rank": 8
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 48,
-                "entry_last_rank": 52
+                "entry_rank": 76,
+                "entry_last_rank": 41
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 48,
-                "entry_last_rank": 52
+                "entry_rank": 76,
+                "entry_last_rank": 41
             },
             {
                 "id": 512405,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 13,
-                "entry_last_rank": 17
+                "entry_rank": 29,
+                "entry_last_rank": 12
             },
             {
                 "id": 2385997,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4339,
-                "entry_last_rank": 3815
+                "entry_rank": 9149,
+                "entry_last_rank": 3049
             }
         ],
         "h2h": [],
@@ -229,7 +229,7 @@
                 "entry_1_entry": 3456956,
                 "entry_1_name": "CamayeloGalactico",
                 "entry_1_player_name": "Saifan Rifqi",
-                "entry_1_points": 72,
+                "entry_1_points": 97,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -237,14 +237,14 @@
                 "entry_2_entry": 2658079,
                 "entry_2_name": "MartsXI",
                 "entry_2_player_name": "Ike Martin",
-                "entry_2_points": 69,
+                "entry_2_points": 96,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 3456956,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -256,7 +256,7 @@
                 "entry_1_entry": 2658079,
                 "entry_1_name": "MartsXI",
                 "entry_1_player_name": "Ike Martin",
-                "entry_1_points": 69,
+                "entry_1_points": 96,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -264,34 +264,34 @@
                 "entry_2_entry": 4781398,
                 "entry_2_name": "Squez",
                 "entry_2_player_name": "Andrew Humphrey",
-                "entry_2_points": 77,
+                "entry_2_points": 96,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 4781398,
                 "seed_value": null,
                 "event": 22,
-                "tiebreak": null,
+                "tiebreak": "goals_scored",
                 "is_bye": false,
                 "knockout_name": "Round of 131072"
             },
             {
-                "id": 102742214,
-                "entry_1_entry": 2658079,
-                "entry_1_name": "MartsXI",
-                "entry_1_player_name": "Ike Martin",
-                "entry_1_points": 69,
+                "id": 106882485,
+                "entry_1_entry": 2625689,
+                "entry_1_name": "Erik's Been Had",
+                "entry_1_player_name": "d e",
+                "entry_1_points": 47,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 843310,
-                "entry_2_name": "The winners",
-                "entry_2_player_name": "Liz Wilson",
-                "entry_2_points": 48,
+                "entry_2_entry": 2658079,
+                "entry_2_name": "MartsXI",
+                "entry_2_player_name": "Ike Martin",
+                "entry_2_points": 42,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -300,17 +300,17 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "MartsXI",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 8,
-    "last_deadline_value": 1041,
-    "last_deadline_total_transfers": 20
+    "last_deadline_bank": 18,
+    "last_deadline_value": 1042,
+    "last_deadline_total_transfers": 21
 }

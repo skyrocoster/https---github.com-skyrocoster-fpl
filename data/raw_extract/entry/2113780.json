@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1323,
-    "summary_overall_rank": 450350,
-    "summary_event_points": 69,
-    "summary_event_rank": 587767,
-    "current_event": 22,
+    "summary_overall_points": 1406,
+    "summary_overall_rank": 303471,
+    "summary_event_points": 64,
+    "summary_event_rank": 339823,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 43,
-                "entry_last_rank": 57
+                "entry_rank": 30,
+                "entry_last_rank": 44
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 449950,
-                "entry_last_rank": 602369
+                "entry_rank": 303250,
+                "entry_last_rank": 452051
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 450350,
-                "entry_last_rank": 603110
+                "entry_rank": 303471,
+                "entry_last_rank": 452450
             },
             {
                 "id": 9559,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 891,
-                "entry_last_rank": 979
+                "entry_rank": 647,
+                "entry_last_rank": 940
             },
             {
                 "id": 459267,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 7
+                "entry_rank": 6,
+                "entry_last_rank": 8
             },
             {
                 "id": 463372,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 12,
-                "entry_last_rank": 11
+                "entry_rank": 10,
+                "entry_last_rank": 13
             },
             {
                 "id": 659068,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 81,
-                "entry_last_rank": 81
+                "entry_rank": 56,
+                "entry_last_rank": 88
             },
             {
                 "id": 1510198,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 9
+                "entry_rank": 5,
+                "entry_last_rank": 8
             },
             {
                 "id": 1714353,
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 3,
                 "entry_last_rank": 4
             },
             {
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 613879,
-                "entry_last_rank": 1095308
+                "entry_rank": 333634,
+                "entry_last_rank": 624692
             }
         ],
         "h2h": [],
@@ -271,7 +271,7 @@
     "name": "Dream Team XI",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 16,
-    "last_deadline_value": 1023,
-    "last_deadline_total_transfers": 30
+    "last_deadline_bank": 37,
+    "last_deadline_value": 1022,
+    "last_deadline_total_transfers": 31
 }

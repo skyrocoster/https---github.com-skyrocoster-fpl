@@ -9,11 +9,11 @@
     "player_region_name": "Norway",
     "player_region_iso_code_short": "NO",
     "player_region_iso_code_long": "NOR",
-    "summary_overall_points": 1416,
-    "summary_overall_rank": 8999,
-    "summary_event_points": 74,
-    "summary_event_rank": 290124,
-    "current_event": 22,
+    "summary_overall_points": 1497,
+    "summary_overall_rank": 5316,
+    "summary_event_points": 55,
+    "summary_event_rank": 1490578,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 41,
-                "entry_last_rank": 74
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 26,
+                "entry_last_rank": 36
             },
             {
                 "id": 181,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431360,
                 "cup_qualified": true,
-                "entry_rank": 610,
-                "entry_last_rank": 998
+                "entry_rank": 367,
+                "entry_last_rank": 515
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8998,
-                "entry_last_rank": 15375
+                "entry_rank": 5315,
+                "entry_last_rank": 7207
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 8999,
-                "entry_last_rank": 15379
+                "entry_rank": 5316,
+                "entry_last_rank": 7208
             },
             {
                 "id": 513213,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 1190,
-                "entry_last_rank": 1937
+                "entry_rank": 725,
+                "entry_last_rank": 989
             },
             {
                 "id": 846188,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 318564,
-                "entry_last_rank": 735834
+                "entry_rank": 188357,
+                "entry_last_rank": 233118
             }
         ],
         "h2h": [],
@@ -273,19 +273,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 104451263,
+                "id": 107728100,
                 "entry_1_entry": 5037342,
                 "entry_1_name": "Bow Wow Athletic",
                 "entry_1_player_name": "Christoffer Lund",
-                "entry_1_points": 74,
+                "entry_1_points": 55,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6172161,
-                "entry_2_name": "Totspurt",
-                "entry_2_player_name": "Tinius Wetteland",
-                "entry_2_points": 42,
+                "entry_2_entry": 4871921,
+                "entry_2_name": "TnbUnited",
+                "entry_2_player_name": "Sindre Johnsen",
+                "entry_2_points": 45,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -294,10 +294,37 @@
                 "league": 2431360,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108768575,
+                "entry_1_entry": 5037342,
+                "entry_1_name": "Bow Wow Athletic",
+                "entry_1_player_name": "Christoffer Lund",
+                "entry_1_points": 55,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -306,5 +333,5 @@
     "kit": null,
     "last_deadline_bank": 5,
     "last_deadline_value": 1035,
-    "last_deadline_total_transfers": 23
+    "last_deadline_total_transfers": 24
 }

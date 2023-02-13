@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1481,
-    "summary_overall_rank": 87,
-    "summary_event_points": 78,
-    "summary_event_rank": 168153,
-    "current_event": 22,
+    "summary_overall_points": 1556,
+    "summary_overall_rank": 97,
+    "summary_event_points": 56,
+    "summary_event_rank": 1300240,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,8 +32,8 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448106,
+                "cup_qualified": true,
                 "entry_rank": 1,
                 "entry_last_rank": 1
             },
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 25,
-                "entry_last_rank": 74
+                "entry_rank": 29,
+                "entry_last_rank": 36
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 87,
-                "entry_last_rank": 241
+                "entry_rank": 97,
+                "entry_last_rank": 119
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 87,
-                "entry_last_rank": 241
+                "entry_rank": 97,
+                "entry_last_rank": 119
             },
             {
                 "id": 158547,
@@ -112,14 +112,14 @@
                 "scoring": "c",
                 "admin_entry": 640845,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448142,
+                "cup_qualified": true,
                 "entry_rank": 1,
-                "entry_last_rank": 3
+                "entry_last_rank": 1
             },
             {
                 "id": 308623,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 32,
-                "entry_last_rank": 91
+                "entry_rank": 34,
+                "entry_last_rank": 43
             },
             {
                 "id": 2096026,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10420,
-                "entry_last_rank": 29229
+                "entry_rank": 11241,
+                "entry_last_rank": 15464
             }
         ],
         "h2h": [],
@@ -273,19 +273,19 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 102633239,
-                "entry_1_entry": 669222,
-                "entry_1_name": "Backstreet Moyes",
-                "entry_1_player_name": "Jack Ballinger",
-                "entry_1_points": 78,
+                "id": 106831264,
+                "entry_1_entry": 599147,
+                "entry_1_name": "The Wenger Boys",
+                "entry_1_player_name": "Alex Whiteaker",
+                "entry_1_points": 52,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1428963,
-                "entry_2_name": "els 11",
-                "entry_2_player_name": "Ellis Shaw",
-                "entry_2_points": 43,
+                "entry_2_entry": 669222,
+                "entry_2_name": "Backstreet Moyes",
+                "entry_2_player_name": "Jack Ballinger",
+                "entry_2_points": 56,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -294,17 +294,71 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108834504,
+                "entry_1_entry": 669222,
+                "entry_1_name": "Backstreet Moyes",
+                "entry_1_player_name": "Jack Ballinger",
+                "entry_1_points": 56,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448106,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 110015982,
+                "entry_1_entry": 669222,
+                "entry_1_name": "Backstreet Moyes",
+                "entry_1_player_name": "Jack Ballinger",
+                "entry_1_points": 56,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448142,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Backstreet Moyes",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 29,
-    "last_deadline_value": 1043,
-    "last_deadline_total_transfers": 25
+    "last_deadline_bank": 4,
+    "last_deadline_value": 1045,
+    "last_deadline_total_transfers": 26
 }

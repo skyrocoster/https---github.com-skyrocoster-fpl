@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1449,
-    "summary_overall_rank": 1088,
-    "summary_event_points": 77,
-    "summary_event_rank": 194820,
-    "current_event": 22,
+    "summary_overall_points": 1537,
+    "summary_overall_rank": 362,
+    "summary_event_points": 55,
+    "summary_event_rank": 1490578,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 247,
-                "entry_last_rank": 523
+                "entry_rank": 88,
+                "entry_last_rank": 124
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 45,
-                "entry_last_rank": 89
+                "entry_rank": 11,
+                "entry_last_rank": 23
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1088,
-                "entry_last_rank": 2301
+                "entry_rank": 362,
+                "entry_last_rank": 523
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1088,
-                "entry_last_rank": 2301
+                "entry_rank": 362,
+                "entry_last_rank": 523
             },
             {
                 "id": 66527,
@@ -119,7 +119,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 444597,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 4
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 2385997,
@@ -265,8 +265,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 92585,
-                "entry_last_rank": 256965
+                "entry_rank": 31791,
+                "entry_last_rank": 39732
             }
         ],
         "h2h": [
@@ -358,19 +358,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 103388715,
-                "entry_1_entry": 10169887,
-                "entry_1_name": "Who ate depay",
-                "entry_1_player_name": "Marcus Conroy",
-                "entry_1_points": 31,
+                "id": 107167446,
+                "entry_1_entry": 990882,
+                "entry_1_name": "Maz Magicians",
+                "entry_1_player_name": "nathan mc ivor",
+                "entry_1_points": 55,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 990882,
-                "entry_2_name": "Maz Magicians",
-                "entry_2_player_name": "nathan mc ivor",
-                "entry_2_points": 77,
+                "entry_2_entry": 808439,
+                "entry_2_name": "Bissoumas Boys",
+                "entry_2_player_name": "Dean Byrne",
+                "entry_2_points": 37,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -379,17 +379,17 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Maz Magicians",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 41,
-    "last_deadline_value": 1038,
-    "last_deadline_total_transfers": 30
+    "last_deadline_bank": 19,
+    "last_deadline_value": 1039,
+    "last_deadline_total_transfers": 31
 }

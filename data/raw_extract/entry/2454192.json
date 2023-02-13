@@ -9,11 +9,11 @@
     "player_region_name": "Oman",
     "player_region_iso_code_short": "OM",
     "player_region_iso_code_long": "OMN",
-    "summary_overall_points": 1396,
-    "summary_overall_rank": 28183,
-    "summary_event_points": 88,
-    "summary_event_rank": 22309,
-    "current_event": 22,
+    "summary_overall_points": 1481,
+    "summary_overall_rank": 13801,
+    "summary_event_points": 58,
+    "summary_event_rank": 960154,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 6824,
-                "entry_last_rank": 21407
+                "entry_rank": 3526,
+                "entry_last_rank": 5356
             },
             {
                 "id": 182,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 35,
-                "entry_last_rank": 89
+                "entry_rank": 19,
+                "entry_last_rank": 25
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 28177,
-                "entry_last_rank": 90629
+                "entry_rank": 13800,
+                "entry_last_rank": 21458
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 28183,
-                "entry_last_rank": 90659
+                "entry_rank": 13801,
+                "entry_last_rank": 21460
             },
             {
                 "id": 467022,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 40,
-                "entry_last_rank": 96
+                "entry_rank": 23,
+                "entry_last_rank": 31
             },
             {
                 "id": 488125,
@@ -161,7 +161,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 3
+                "entry_last_rank": 2
             },
             {
                 "id": 928434,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 3931,
-                "entry_last_rank": 12311
+                "entry_rank": 2047,
+                "entry_last_rank": 2918
             },
             {
                 "id": 2385997,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 34,
-                "entry_last_rank": 267
+                "entry_rank": 10,
+                "entry_last_rank": 23
             }
         ],
         "h2h": [],
@@ -219,19 +219,19 @@
         },
         "cup_matches": [
             {
-                "id": 102591061,
-                "entry_1_entry": 2454192,
-                "entry_1_name": "Strong Corps",
-                "entry_1_player_name": "Salim Ali",
-                "entry_1_points": 88,
+                "id": 106770058,
+                "entry_1_entry": 3253787,
+                "entry_1_name": "King Erik",
+                "entry_1_player_name": "kevin murphy",
+                "entry_1_points": 46,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2130551,
-                "entry_2_name": "Winter Wondehaaland",
-                "entry_2_player_name": "Vincent Sithole",
-                "entry_2_points": 50,
+                "entry_2_entry": 2454192,
+                "entry_2_name": "Strong Corps",
+                "entry_2_player_name": "Salim Ali",
+                "entry_2_points": 58,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -240,25 +240,25 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102692404,
-                "entry_1_entry": 2454192,
-                "entry_1_name": "Strong Corps",
-                "entry_1_player_name": "Salim Ali",
-                "entry_1_points": 88,
+                "id": 106855190,
+                "entry_1_entry": 9482729,
+                "entry_1_name": "liverpool",
+                "entry_1_player_name": "adham mohamed",
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6255911,
-                "entry_2_name": "H.Ameen",
-                "entry_2_player_name": "HUSSEIN AMEEN",
-                "entry_2_points": 40,
+                "entry_2_entry": 2454192,
+                "entry_2_name": "Strong Corps",
+                "entry_2_player_name": "Salim Ali",
+                "entry_2_points": 58,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -267,17 +267,17 @@
                 "league": 2381816,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Strong Corps",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#c72121\",\"kit_shirt_sleeves\":\"#c52d2d\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#e9d6d6\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#d0021b\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 27,
-    "last_deadline_value": 1032,
-    "last_deadline_total_transfers": 39
+    "last_deadline_bank": 14,
+    "last_deadline_value": 1035,
+    "last_deadline_total_transfers": 40
 }

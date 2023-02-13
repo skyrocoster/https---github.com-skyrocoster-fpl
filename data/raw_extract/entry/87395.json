@@ -9,11 +9,11 @@
     "player_region_name": "Poland",
     "player_region_iso_code_short": "PL",
     "player_region_iso_code_long": "POL",
-    "summary_overall_points": 1277,
-    "summary_overall_rank": 1200667,
-    "summary_event_points": 75,
-    "summary_event_rank": 251787,
-    "current_event": 22,
+    "summary_overall_points": 1351,
+    "summary_overall_rank": 1057001,
+    "summary_event_points": 47,
+    "summary_event_rank": 3332102,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2437792,
                 "cup_qualified": true,
-                "entry_rank": 14319,
-                "entry_last_rank": 20594
+                "entry_rank": 12570,
+                "entry_last_rank": 12249
             },
             {
                 "id": 192,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2437797,
                 "cup_qualified": true,
-                "entry_rank": 13656,
-                "entry_last_rank": 18043
+                "entry_rank": 12364,
+                "entry_last_rank": 11936
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1197136,
-                "entry_last_rank": 1726156
+                "entry_rank": 1054171,
+                "entry_last_rank": 1012625
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1200667,
-                "entry_last_rank": 1734814
+                "entry_rank": 1057001,
+                "entry_last_rank": 1014994
             },
             {
                 "id": 731,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 703,
-                "entry_last_rank": 875
+                "entry_rank": 662,
+                "entry_last_rank": 627
             },
             {
                 "id": 1152,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5153,
-                "entry_last_rank": 6651
+                "entry_rank": 4670,
+                "entry_last_rank": 4631
             },
             {
                 "id": 15954,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5934,
-                "entry_last_rank": 7555
+                "entry_rank": 5405,
+                "entry_last_rank": 5250
             },
             {
                 "id": 64770,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 134,
-                "entry_last_rank": 159
+                "entry_rank": 129,
+                "entry_last_rank": 125
             },
             {
                 "id": 287680,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 110348,
-                "entry_last_rank": 150586
+                "entry_rank": 97939,
+                "entry_last_rank": 96237
             },
             {
                 "id": 559411,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 194,
-                "entry_last_rank": 249
+                "entry_rank": 179,
+                "entry_last_rank": 165
             },
             {
                 "id": 1063842,
@@ -265,8 +265,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1459,
-                "entry_last_rank": 1799
+                "entry_rank": 1344,
+                "entry_last_rank": 1306
             },
             {
                 "id": 1505204,
@@ -286,8 +286,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 20,
-                "entry_last_rank": 24
+                "entry_rank": 18,
+                "entry_last_rank": 17
             },
             {
                 "id": 2385997,
@@ -307,8 +307,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 26,
-                "entry_last_rank": 19
+                "entry_rank": 48,
+                "entry_last_rank": 17
             }
         ],
         "h2h": [],
@@ -351,19 +351,19 @@
                 "knockout_name": "Round of 8388608"
             },
             {
-                "id": 103159356,
-                "entry_1_entry": 2301712,
-                "entry_1_name": "<*((()))><",
-                "entry_1_player_name": "Justus Winbladh",
-                "entry_1_points": 57,
+                "id": 107078682,
+                "entry_1_entry": 87395,
+                "entry_1_name": "FutureAudiCupWinners",
+                "entry_1_player_name": "Patryk Krawczyk",
+                "entry_1_points": 47,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 87395,
-                "entry_2_name": "FutureAudiCupWinners",
-                "entry_2_player_name": "Patryk Krawczyk",
-                "entry_2_points": 75,
+                "entry_2_entry": 576896,
+                "entry_2_name": "Vilnius FC",
+                "entry_2_player_name": "Audrius Daugelavicius",
+                "entry_2_points": 44,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -372,25 +372,25 @@
                 "league": 2412737,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104963672,
-                "entry_1_entry": 87395,
-                "entry_1_name": "FutureAudiCupWinners",
-                "entry_1_player_name": "Patryk Krawczyk",
-                "entry_1_points": 75,
+                "id": 108001453,
+                "entry_1_entry": 4256474,
+                "entry_1_name": "Ivory Toast",
+                "entry_1_player_name": "Oliver Sudborough",
+                "entry_1_points": 56,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 87395,
+                "entry_2_name": "FutureAudiCupWinners",
+                "entry_2_player_name": "Patryk Krawczyk",
+                "entry_2_points": 47,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -399,25 +399,25 @@
                 "league": 2437792,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105291061,
+                "id": 108148339,
                 "entry_1_entry": 87395,
                 "entry_1_name": "FutureAudiCupWinners",
                 "entry_1_player_name": "Patryk Krawczyk",
-                "entry_1_points": 75,
+                "entry_1_points": 47,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 4601888,
+                "entry_2_name": "GingerTeam",
+                "entry_2_player_name": "Bartosz Pawlica",
+                "entry_2_points": 58,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -426,17 +426,17 @@
                 "league": 2437797,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "FutureAudiCupWinners",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#ffffff\",\"kit_shirt_sleeves\":\"#4a90e2\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"pl-inspires\",\"kit_shorts\":\"#4a90e2\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#ffffff\",\"kit_socks_secondary\":\"#4a90e2\"}",
-    "last_deadline_bank": 10,
-    "last_deadline_value": 1031,
-    "last_deadline_total_transfers": 44
+    "last_deadline_bank": 4,
+    "last_deadline_value": 1035,
+    "last_deadline_total_transfers": 45
 }

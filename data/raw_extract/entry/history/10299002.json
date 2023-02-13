@@ -197,16 +197,29 @@
         },
         {
             "event": 22,
-            "points": 67,
-            "total_points": 967,
-            "rank": 717620,
-            "rank_sort": 729348,
-            "overall_rank": 7739231,
+            "points": 86,
+            "total_points": 986,
+            "rank": 824191,
+            "rank_sort": 834287,
+            "overall_rank": 7577343,
             "bank": 1,
             "value": 1021,
             "event_transfers": 0,
             "event_transfers_cost": 0,
             "points_on_bench": 26
+        },
+        {
+            "event": 23,
+            "points": 59,
+            "total_points": 1045,
+            "rank": 812532,
+            "rank_sort": 857806,
+            "overall_rank": 7110629,
+            "bank": 22,
+            "value": 1027,
+            "event_transfers": 1,
+            "event_transfers_cost": 0,
+            "points_on_bench": 14
         }
     ],
     "past": [],
@@ -225,6 +238,11 @@
             "name": "wildcard",
             "time": "2023-01-22T12:36:26.123724Z",
             "event": 22
+        },
+        {
+            "name": "3xc",
+            "time": "2023-02-11T08:29:55.739102Z",
+            "event": 23
         }
     ]
 }

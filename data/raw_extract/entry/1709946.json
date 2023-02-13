@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1291,
-    "summary_overall_rank": 931665,
-    "summary_event_points": 65,
-    "summary_event_rank": 922183,
-    "current_event": 22,
+    "summary_overall_points": 1341,
+    "summary_overall_rank": 1240928,
+    "summary_event_points": 35,
+    "summary_event_rank": 6097571,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 226266,
-                "entry_last_rank": 272738
+                "entry_rank": 309995,
+                "entry_last_rank": 240440
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 323200,
-                "entry_last_rank": 396939
+                "entry_rank": 418879,
+                "entry_last_rank": 338649
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 929723,
-                "entry_last_rank": 1141128
+                "entry_rank": 1236745,
+                "entry_last_rank": 974925
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 931665,
-                "entry_last_rank": 1144198
+                "entry_rank": 1240928,
+                "entry_last_rank": 977099
             },
             {
                 "id": 6235,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 21279,
-                "entry_last_rank": 23361
+                "entry_rank": 26922,
+                "entry_last_rank": 22657
             },
             {
                 "id": 32104,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 28,
-                "entry_last_rank": 33
+                "entry_rank": 32,
+                "entry_last_rank": 28
             },
             {
                 "id": 32296,
@@ -182,7 +182,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 18,
-                "entry_last_rank": 19
+                "entry_last_rank": 17
             },
             {
                 "id": 35310,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
-                "entry_last_rank": 7
+                "entry_rank": 8,
+                "entry_last_rank": 6
             },
             {
                 "id": 42629,
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
+                "entry_rank": 8,
                 "entry_last_rank": 7
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 4,
                 "entry_last_rank": 4
             },
             {
@@ -307,8 +307,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 364526,
-                "entry_last_rank": 448367
+                "entry_rank": 472457,
+                "entry_last_rank": 381995
             },
             {
                 "id": 2385997,
@@ -328,8 +328,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1706121,
-                "entry_last_rank": 2695777
+                "entry_rank": 2479677,
+                "entry_last_rank": 1790630
             }
         ],
         "h2h": [],
@@ -453,19 +453,19 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 106054017,
-                "entry_1_entry": 1709946,
-                "entry_1_name": "Winning XI",
-                "entry_1_player_name": "Sameer Mannick",
-                "entry_1_points": 65,
+                "id": 108531885,
+                "entry_1_entry": 5479432,
+                "entry_1_name": "mugiwara",
+                "entry_1_player_name": "nunul .",
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 1709946,
+                "entry_2_name": "Winning XI",
+                "entry_2_player_name": "Sameer Mannick",
+                "entry_2_points": 35,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -474,10 +474,10 @@
                 "league": 2437809,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },

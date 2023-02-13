@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1443,
-    "summary_overall_rank": 1581,
-    "summary_event_points": 67,
-    "summary_event_rank": 730128,
-    "current_event": 22,
+    "summary_overall_points": 1505,
+    "summary_overall_rank": 3202,
+    "summary_event_points": 49,
+    "summary_event_rank": 2892334,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 6
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 14,
+                "entry_last_rank": 12
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 552,
-                "entry_last_rank": 607
+                "entry_rank": 1103,
+                "entry_last_rank": 846
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1581,
-                "entry_last_rank": 1655
+                "entry_rank": 3202,
+                "entry_last_rank": 2358
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1581,
-                "entry_last_rank": 1655
+                "entry_rank": 3202,
+                "entry_last_rank": 2358
             },
             {
                 "id": 4194,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 112,
-                "entry_last_rank": 104
+                "entry_rank": 230,
+                "entry_last_rank": 185
             },
             {
                 "id": 568346,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2437815,
                 "cup_qualified": true,
-                "entry_rank": 61,
-                "entry_last_rank": 53
+                "entry_rank": 119,
+                "entry_last_rank": 99
             },
             {
                 "id": 859558,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 643,
-                "entry_last_rank": 702
+                "entry_rank": 1271,
+                "entry_last_rank": 967
             },
             {
                 "id": 2385997,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 15138,
-                "entry_last_rank": 13252
+                "entry_rank": 45936,
+                "entry_last_rank": 25886
             }
         ],
         "h2h": [],
@@ -342,11 +342,65 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 105952072,
+                "id": 108478723,
                 "entry_1_entry": 333232,
                 "entry_1_name": "Mount Dracula",
                 "entry_1_player_name": "Billy Coghlin",
-                "entry_1_points": 67,
+                "entry_1_points": 45,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 1366158,
+                "entry_2_name": "Pep is bald",
+                "entry_2_player_name": "Max McGovern",
+                "entry_2_points": 43,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437808,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108708042,
+                "entry_1_entry": 20757,
+                "entry_1_name": "Drain Gang 831",
+                "entry_1_player_name": "Raihan Naufaldi",
+                "entry_1_points": 38,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 333232,
+                "entry_2_name": "Mount Dracula",
+                "entry_2_player_name": "Billy Coghlin",
+                "entry_2_points": 45,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437815,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108771887,
+                "entry_1_entry": 333232,
+                "entry_1_name": "Mount Dracula",
+                "entry_1_player_name": "Billy Coghlin",
+                "entry_1_points": 45,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -360,47 +414,20 @@
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2437808,
+                "league": 2448104,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": true,
-                "knockout_name": "Round of 131072"
-            },
-            {
-                "id": 106438922,
-                "entry_1_entry": 333232,
-                "entry_1_name": "Mount Dracula",
-                "entry_1_player_name": "Billy Coghlin",
-                "entry_1_points": 67,
-                "entry_1_win": 0,
-                "entry_1_draw": 0,
-                "entry_1_loss": 0,
-                "entry_1_total": 0,
-                "entry_2_entry": 3363738,
-                "entry_2_name": "Sons of Anarchy",
-                "entry_2_player_name": "Sandesh Baral",
-                "entry_2_points": 44,
-                "entry_2_win": 0,
-                "entry_2_draw": 0,
-                "entry_2_loss": 0,
-                "entry_2_total": 0,
-                "is_knockout": true,
-                "league": 2437815,
-                "winner": null,
-                "seed_value": null,
-                "event": 22,
-                "tiebreak": null,
-                "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Mount Dracula",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 23,
+    "last_deadline_bank": 1,
     "last_deadline_value": 1034,
-    "last_deadline_total_transfers": 18
+    "last_deadline_total_transfers": 20
 }

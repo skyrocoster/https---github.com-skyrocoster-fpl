@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1354,
-    "summary_overall_rank": 171836,
-    "summary_event_points": 90,
-    "summary_event_rank": 10384,
-    "current_event": 22,
+    "summary_overall_points": 1425,
+    "summary_overall_rank": 164802,
+    "summary_event_points": 44,
+    "summary_event_rank": 4148435,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 62798,
-                "entry_last_rank": 166305
+                "entry_rank": 58920,
+                "entry_last_rank": 50009
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 171766,
-                "entry_last_rank": 457994
+                "entry_rank": 164723,
+                "entry_last_rank": 135939
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 171836,
-                "entry_last_rank": 458400
+                "entry_rank": 164802,
+                "entry_last_rank": 135993
             },
             {
                 "id": 228653,
@@ -98,7 +98,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 775828,
@@ -119,7 +119,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 809700,
@@ -140,7 +140,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 6
+                "entry_last_rank": 2
             },
             {
                 "id": 1171461,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 70854,
-                "entry_last_rank": 187671
+                "entry_rank": 66550,
+                "entry_last_rank": 56385
             },
             {
                 "id": 1488302,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 12,
-                "entry_last_rank": 100
+                "entry_rank": 31,
+                "entry_last_rank": 9
             }
         ],
         "h2h": [],
@@ -246,19 +246,19 @@
                 "knockout_name": "Round of 8388608"
             },
             {
-                "id": 102631826,
-                "entry_1_entry": 1156123,
-                "entry_1_name": "Wesley Hoolahan",
-                "entry_1_player_name": "Greg Smith",
-                "entry_1_points": 90,
+                "id": 106831889,
+                "entry_1_entry": 10254,
+                "entry_1_name": "Cash Cowtinho",
+                "entry_1_player_name": "Luke Daniels",
+                "entry_1_points": 49,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2497923,
-                "entry_2_name": "Jams Allstars",
-                "entry_2_player_name": "James Hall",
-                "entry_2_points": 66,
+                "entry_2_entry": 1156123,
+                "entry_2_name": "Wesley Hoolahan",
+                "entry_2_player_name": "Greg Smith",
+                "entry_2_points": 44,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -267,25 +267,25 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102765807,
-                "entry_1_entry": 3325519,
-                "entry_1_name": "The Duke's Washers",
-                "entry_1_player_name": "Giles Davidson",
-                "entry_1_points": 42,
+                "id": 106889748,
+                "entry_1_entry": 1156123,
+                "entry_1_name": "Wesley Hoolahan",
+                "entry_1_player_name": "Greg Smith",
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1156123,
-                "entry_2_name": "Wesley Hoolahan",
-                "entry_2_player_name": "Greg Smith",
-                "entry_2_points": 90,
+                "entry_2_entry": 1732858,
+                "entry_2_name": "Playboi Partey",
+                "entry_2_player_name": "Enrico Conte",
+                "entry_2_points": 46,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -294,17 +294,17 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Wesley Hoolahan",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 31,
-    "last_deadline_value": 1029,
-    "last_deadline_total_transfers": 33
+    "last_deadline_bank": 29,
+    "last_deadline_value": 1034,
+    "last_deadline_total_transfers": 34
 }

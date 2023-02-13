@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1319,
-    "summary_overall_rank": 501431,
-    "summary_event_points": 38,
-    "summary_event_rank": 5030470,
-    "current_event": 22,
+    "summary_overall_points": 1386,
+    "summary_overall_rank": 517924,
+    "summary_event_points": 58,
+    "summary_event_rank": 901844,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 39227,
-                "entry_last_rank": 19623
+                "entry_rank": 40406,
+                "entry_last_rank": 49805
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 46,
-                "entry_last_rank": 24
+                "entry_rank": 54,
+                "entry_last_rank": 63
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 500944,
-                "entry_last_rank": 264562
+                "entry_rank": 517310,
+                "entry_last_rank": 630452
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 501431,
-                "entry_last_rank": 264719
+                "entry_rank": 517924,
+                "entry_last_rank": 631245
             },
             {
                 "id": 1796967,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1698394,
-                "entry_last_rank": 834761
+                "entry_rank": 1671524,
+                "entry_last_rank": 2080325
             }
         ],
         "h2h": [],
@@ -215,6 +215,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 49,
-    "last_deadline_value": 1042,
+    "last_deadline_value": 1041,
     "last_deadline_total_transfers": 33
 }

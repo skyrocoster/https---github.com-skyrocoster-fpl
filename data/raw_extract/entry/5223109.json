@@ -9,11 +9,11 @@
     "player_region_name": "Netherlands",
     "player_region_iso_code_short": "NL",
     "player_region_iso_code_long": "NLD",
-    "summary_overall_points": 1503,
-    "summary_overall_rank": 22,
-    "summary_event_points": 65,
-    "summary_event_rank": 922183,
-    "current_event": 22,
+    "summary_overall_points": 1573,
+    "summary_overall_rank": 27,
+    "summary_event_points": 43,
+    "summary_event_rank": 4290053,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,8 +32,8 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448123,
+                "cup_qualified": true,
                 "entry_rank": 1,
                 "entry_last_rank": 1
             },
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 22,
-                "entry_last_rank": 18
+                "entry_rank": 27,
+                "entry_last_rank": 15
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 22,
-                "entry_last_rank": 18
+                "entry_rank": 27,
+                "entry_last_rank": 15
             },
             {
                 "id": 40878,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 8,
-                "entry_last_rank": 9
+                "entry_rank": 10,
+                "entry_last_rank": 5
             },
             {
                 "id": 1147191,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 27396,
-                "entry_last_rank": 21411
+                "entry_rank": 40231,
+                "entry_last_rank": 18916
             }
         ],
         "h2h": [],
@@ -204,11 +204,11 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102527319,
-                "entry_1_entry": 3031266,
-                "entry_1_name": "CHUKWUEMEKA ME CRAZY",
-                "entry_1_player_name": "Peter Magier",
-                "entry_1_points": 71,
+                "id": 106758449,
+                "entry_1_entry": 3306459,
+                "entry_1_name": "Pisang Bakar",
+                "entry_1_player_name": "Cak Pisang",
+                "entry_1_points": 60,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -216,7 +216,7 @@
                 "entry_2_entry": 5223109,
                 "entry_2_name": "Ball on the Roof FC˚",
                 "entry_2_player_name": "Pieter van den Akker",
-                "entry_2_points": 65,
+                "entry_2_points": 43,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -225,10 +225,37 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109392269,
+                "entry_1_entry": 5223109,
+                "entry_1_name": "Ball on the Roof FC˚",
+                "entry_1_player_name": "Pieter van den Akker",
+                "entry_1_points": 43,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448123,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -236,6 +263,6 @@
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
     "last_deadline_bank": 19,
-    "last_deadline_value": 1060,
+    "last_deadline_value": 1061,
     "last_deadline_total_transfers": 31
 }

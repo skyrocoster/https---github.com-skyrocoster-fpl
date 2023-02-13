@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1331,
-    "summary_overall_rank": 363740,
-    "summary_event_points": 75,
-    "summary_event_rank": 265658,
-    "current_event": 22,
+    "summary_overall_points": 1400,
+    "summary_overall_rank": 362357,
+    "summary_event_points": 44,
+    "summary_event_rank": 4022660,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 27976,
-                "entry_last_rank": 44285
+                "entry_rank": 27783,
+                "entry_last_rank": 23841
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 36,
-                "entry_last_rank": 56
+                "entry_rank": 41,
+                "entry_last_rank": 32
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 363471,
-                "entry_last_rank": 574729
+                "entry_rank": 362055,
+                "entry_last_rank": 311547
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 363740,
-                "entry_last_rank": 575392
+                "entry_rank": 362357,
+                "entry_last_rank": 311747
             },
             {
                 "id": 360,
@@ -112,14 +112,14 @@
                 "scoring": "c",
                 "admin_entry": 40,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 5271,
-                "entry_last_rank": 7053
+                "cup_league": 2448131,
+                "cup_qualified": true,
+                "entry_rank": 5357,
+                "entry_last_rank": 4790
             },
             {
                 "id": 4194,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 22292,
-                "entry_last_rank": 28705
+                "entry_rank": 21928,
+                "entry_last_rank": 20630
             },
             {
                 "id": 15857,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2478,
-                "entry_last_rank": 3229
+                "entry_rank": 2420,
+                "entry_last_rank": 2267
             },
             {
                 "id": 30228,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 2
+                "entry_rank": 1,
+                "entry_last_rank": 1
             },
             {
                 "id": 34968,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2921,
-                "entry_last_rank": 3630
+                "entry_rank": 2942,
+                "entry_last_rank": 2707
             },
             {
                 "id": 57876,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1321,
-                "entry_last_rank": 1705
+                "entry_rank": 1286,
+                "entry_last_rank": 1206
             },
             {
                 "id": 217541,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4371,
-                "entry_last_rank": 5216
+                "entry_rank": 4240,
+                "entry_last_rank": 4180
             },
             {
                 "id": 463372,
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
+                "entry_rank": 12,
                 "entry_last_rank": 10
             },
             {
@@ -287,7 +287,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 3
+                "entry_last_rank": 2
             },
             {
                 "id": 845949,
@@ -307,8 +307,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 356,
-                "entry_last_rank": 520
+                "entry_rank": 350,
+                "entry_last_rank": 322
             },
             {
                 "id": 1382977,
@@ -329,7 +329,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 4,
-                "entry_last_rank": 6
+                "entry_last_rank": 4
             },
             {
                 "id": 1382981,
@@ -350,7 +350,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 3
+                "entry_last_rank": 2
             },
             {
                 "id": 1510198,
@@ -370,8 +370,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
-                "entry_last_rank": 8
+                "entry_rank": 7,
+                "entry_last_rank": 5
             },
             {
                 "id": 2385997,
@@ -391,8 +391,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 618881,
-                "entry_last_rank": 1470591
+                "entry_rank": 647204,
+                "entry_last_rank": 477376
             }
         ],
         "h2h": [],
@@ -462,19 +462,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 105969560,
+                "id": 108486796,
                 "entry_1_entry": 1364207,
                 "entry_1_name": "fish & chips",
                 "entry_1_player_name": "Judah Stephney",
-                "entry_1_points": 75,
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 197940,
-                "entry_2_name": "PaddyWaddy FC",
-                "entry_2_player_name": "paddy ward",
-                "entry_2_points": 67,
+                "entry_2_entry": 223061,
+                "entry_2_name": "West Prosciutto",
+                "entry_2_player_name": "Blake Young",
+                "entry_2_points": 54,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -483,17 +483,44 @@
                 "league": 2437808,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109656145,
+                "entry_1_entry": 1364207,
+                "entry_1_name": "fish & chips",
+                "entry_1_player_name": "Judah Stephney",
+                "entry_1_points": 44,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448131,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "fish & chips",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 33,
-    "last_deadline_value": 1039,
+    "last_deadline_bank": 7,
+    "last_deadline_value": 1036,
     "last_deadline_total_transfers": 37
 }

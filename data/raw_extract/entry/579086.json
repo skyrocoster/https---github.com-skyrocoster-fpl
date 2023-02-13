@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1475,
-    "summary_overall_rank": 137,
-    "summary_event_points": 65,
-    "summary_event_rank": 922183,
-    "current_event": 22,
+    "summary_overall_points": 1543,
+    "summary_overall_rank": 227,
+    "summary_event_points": 49,
+    "summary_event_rank": 2809851,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 29,
-                "entry_last_rank": 33
+                "entry_rank": 55,
+                "entry_last_rank": 45
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 41,
-                "entry_last_rank": 36
+                "entry_rank": 63,
+                "entry_last_rank": 59
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 137,
-                "entry_last_rank": 129
+                "entry_rank": 227,
+                "entry_last_rank": 197
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 137,
-                "entry_last_rank": 129
+                "entry_rank": 227,
+                "entry_last_rank": 197
             },
             {
                 "id": 37974,
@@ -286,8 +286,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 50,
-                "entry_last_rank": 45
+                "entry_rank": 77,
+                "entry_last_rank": 73
             },
             {
                 "id": 2385997,
@@ -307,8 +307,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 65627,
-                "entry_last_rank": 62511
+                "entry_rank": 98799,
+                "entry_last_rank": 81824
             }
         ],
         "h2h": [],
@@ -409,7 +409,7 @@
                 "entry_1_entry": 579086,
                 "entry_1_name": "Watermelon EBars FC",
                 "entry_1_player_name": "Sonny Fattore",
-                "entry_1_points": 65,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -417,14 +417,14 @@
                 "entry_2_entry": 609297,
                 "entry_2_name": "Walker’s @ The Wheel",
                 "entry_2_player_name": "Charlie Walker",
-                "entry_2_points": 84,
+                "entry_2_points": 100,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 609297,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -436,7 +436,7 @@
     "name": "Watermelon EBars FC",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#ce1919\",\"kit_shirt_sleeves\":\"#111111\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#0a0a0a\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#0e0e0e\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 26,
+    "last_deadline_bank": 1,
     "last_deadline_value": 1048,
-    "last_deadline_total_transfers": 19
+    "last_deadline_total_transfers": 20
 }

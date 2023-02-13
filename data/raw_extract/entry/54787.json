@@ -9,11 +9,11 @@
     "player_region_name": "Egypt",
     "player_region_iso_code_short": "EG",
     "player_region_iso_code_long": "EGY",
-    "summary_overall_points": 1386,
-    "summary_overall_rank": 45853,
-    "summary_event_points": 97,
-    "summary_event_rank": 1479,
-    "current_event": 22,
+    "summary_overall_points": 1461,
+    "summary_overall_rank": 38242,
+    "summary_event_points": 48,
+    "summary_event_rank": 3144725,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 5591,
-                "entry_last_rank": 24381
+                "entry_rank": 4624,
+                "entry_last_rank": 4269
             },
             {
                 "id": 83,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2405679,
                 "cup_qualified": true,
-                "entry_rank": 2781,
-                "entry_last_rank": 12178
+                "entry_rank": 2412,
+                "entry_last_rank": 2030
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 45840,
-                "entry_last_rank": 199068
+                "entry_rank": 38235,
+                "entry_last_rank": 35462
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 45853,
-                "entry_last_rank": 199169
+                "entry_rank": 38242,
+                "entry_last_rank": 35469
             },
             {
                 "id": 21098,
@@ -112,14 +112,14 @@
                 "scoring": "c",
                 "admin_entry": 95230,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 444,
-                "entry_last_rank": 1510
+                "cup_league": 2448138,
+                "cup_qualified": true,
+                "entry_rank": 396,
+                "entry_last_rank": 354
             },
             {
                 "id": 134776,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 6533,
-                "entry_last_rank": 27800
+                "entry_rank": 5819,
+                "entry_last_rank": 4897
             },
             {
                 "id": 1304876,
@@ -238,14 +238,14 @@
                 "scoring": "c",
                 "admin_entry": 6753253,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 577,
-                "entry_last_rank": 2147
+                "cup_league": 2448152,
+                "cup_qualified": true,
+                "entry_rank": 500,
+                "entry_last_rank": 450
             },
             {
                 "id": 2385997,
@@ -265,8 +265,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
-                "entry_last_rank": 274
+                "entry_rank": 13,
+                "entry_last_rank": 8
             }
         ],
         "h2h": [],
@@ -336,19 +336,19 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 102954470,
-                "entry_1_entry": 4746068,
-                "entry_1_name": "Tabana",
-                "entry_1_player_name": "Mohamed Tabana",
-                "entry_1_points": 42,
+                "id": 106979943,
+                "entry_1_entry": 54787,
+                "entry_1_name": "Zamalek FC",
+                "entry_1_player_name": "youssef Hossam",
+                "entry_1_points": 48,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 54787,
-                "entry_2_name": "Zamalek FC",
-                "entry_2_player_name": "youssef Hossam",
-                "entry_2_points": 97,
+                "entry_2_entry": 3785527,
+                "entry_2_name": "Will's Wanderers",
+                "entry_2_player_name": "Will Horsnell",
+                "entry_2_points": 46,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -357,25 +357,25 @@
                 "league": 2405675,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103098853,
+                "id": 107049160,
                 "entry_1_entry": 54787,
                 "entry_1_name": "Zamalek FC",
                 "entry_1_player_name": "youssef Hossam",
-                "entry_1_points": 97,
+                "entry_1_points": 48,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1341568,
-                "entry_2_name": "FC Bouta",
-                "entry_2_player_name": "Mohamad Thabet",
-                "entry_2_points": 52,
+                "entry_2_entry": 5273116,
+                "entry_2_name": "zamalek",
+                "entry_2_player_name": "seddik kamal",
+                "entry_2_points": 53,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -384,17 +384,71 @@
                 "league": 2405679,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109881564,
+                "entry_1_entry": 54787,
+                "entry_1_name": "Zamalek FC",
+                "entry_1_player_name": "youssef Hossam",
+                "entry_1_points": 48,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448138,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 110307556,
+                "entry_1_entry": 54787,
+                "entry_1_name": "Zamalek FC",
+                "entry_1_player_name": "youssef Hossam",
+                "entry_1_points": 48,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448152,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Zamalek FC",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 10,
-    "last_deadline_value": 1046,
-    "last_deadline_total_transfers": 49
+    "last_deadline_bank": 30,
+    "last_deadline_value": 1047,
+    "last_deadline_total_transfers": 51
 }

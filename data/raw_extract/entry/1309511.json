@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1320,
-    "summary_overall_rank": 490613,
-    "summary_event_points": 61,
-    "summary_event_rank": 1341640,
-    "current_event": 22,
+    "summary_overall_points": 1385,
+    "summary_overall_rank": 532838,
+    "summary_event_points": 45,
+    "summary_event_rank": 3867521,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405678,
                 "cup_qualified": true,
-                "entry_rank": 32544,
-                "entry_last_rank": 37003
+                "entry_rank": 35001,
+                "entry_last_rank": 30751
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 174856,
-                "entry_last_rank": 191111
+                "entry_rank": 186454,
+                "entry_last_rank": 171314
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 490148,
-                "entry_last_rank": 530131
+                "entry_rank": 532193,
+                "entry_last_rank": 478641
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 490613,
-                "entry_last_rank": 530692
+                "entry_rank": 532838,
+                "entry_last_rank": 479089
             },
             {
                 "id": 73334,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 206,
-                "entry_last_rank": 216
+                "entry_rank": 222,
+                "entry_last_rank": 201
             },
             {
                 "id": 108527,
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
+                "entry_rank": 6,
                 "entry_last_rank": 5
             },
             {
@@ -154,14 +154,35 @@
                 "scoring": "c",
                 "admin_entry": 640845,
                 "start_event": 1,
+                "entry_can_leave": false,
+                "entry_can_admin": false,
+                "entry_can_invite": false,
+                "has_cup": true,
+                "cup_league": 2448142,
+                "cup_qualified": true,
+                "entry_rank": 5833,
+                "entry_last_rank": 5503
+            },
+            {
+                "id": 166468,
+                "name": "FPL Alex",
+                "short_name": null,
+                "created": "2022-07-06T18:38:53.296329Z",
+                "closed": false,
+                "rank": null,
+                "max_entries": null,
+                "league_type": "x",
+                "scoring": "c",
+                "admin_entry": 861333,
+                "start_event": 1,
                 "entry_can_leave": true,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5479,
-                "entry_last_rank": 5534
+                "entry_rank": 21,
+                "entry_last_rank": 0
             },
             {
                 "id": 245279,
@@ -203,7 +224,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 3,
-                "entry_last_rank": 2
+                "entry_last_rank": 3
             },
             {
                 "id": 306818,
@@ -265,8 +286,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3609,
-                "entry_last_rank": 0
+                "entry_rank": 3760,
+                "entry_last_rank": 3531
             },
             {
                 "id": 664416,
@@ -286,8 +307,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1899,
-                "entry_last_rank": 2009
+                "entry_rank": 2039,
+                "entry_last_rank": 1890
             },
             {
                 "id": 1156764,
@@ -307,8 +328,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1013,
-                "entry_last_rank": 1047
+                "entry_rank": 1074,
+                "entry_last_rank": 1007
             },
             {
                 "id": 1171461,
@@ -328,8 +349,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 197132,
-                "entry_last_rank": 215728
+                "entry_rank": 210074,
+                "entry_last_rank": 193101
             },
             {
                 "id": 2385997,
@@ -349,8 +370,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 29,
-                "entry_last_rank": 6
+                "entry_rank": 170,
+                "entry_last_rank": 58
             },
             {
                 "id": 2399676,
@@ -414,8 +435,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 3
+                "entry_rank": 4,
+                "entry_last_rank": 4
             }
         ],
         "cup": {
@@ -484,19 +505,46 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102653714,
-                "entry_1_entry": 1309511,
-                "entry_1_name": "It’s always Haaland",
-                "entry_1_player_name": "Blake Dixon",
-                "entry_1_points": 61,
+                "id": 102763148,
+                "entry_1_entry": 811277,
+                "entry_1_name": "Darwinism",
+                "entry_1_player_name": "Oscar Jack",
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1780699,
-                "entry_2_name": "Hag TU FC",
-                "entry_2_player_name": "raj gupta",
-                "entry_2_points": 54,
+                "entry_2_entry": 1309511,
+                "entry_2_name": "It’s always Haaland",
+                "entry_2_player_name": "Blake Dixon",
+                "entry_2_points": 81,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2381818,
+                "winner": 811277,
+                "seed_value": null,
+                "event": 22,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 131072"
+            },
+            {
+                "id": 106833564,
+                "entry_1_entry": 1309511,
+                "entry_1_name": "It’s always Haaland",
+                "entry_1_player_name": "Blake Dixon",
+                "entry_1_points": 45,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 5598411,
+                "entry_2_name": "Blue Moon",
+                "entry_2_player_name": "Mr Singh",
+                "entry_2_points": 58,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -505,44 +553,44 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102763148,
-                "entry_1_entry": 811277,
-                "entry_1_name": "Darwinism",
-                "entry_1_player_name": "Oscar Jack",
-                "entry_1_points": 66,
+                "id": 110022200,
+                "entry_1_entry": 1309511,
+                "entry_1_name": "It’s always Haaland",
+                "entry_1_player_name": "Blake Dixon",
+                "entry_1_points": 45,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1309511,
-                "entry_2_name": "It’s always Haaland",
-                "entry_2_player_name": "Blake Dixon",
-                "entry_2_points": 61,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2381818,
+                "league": 2448142,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "It’s always Haaland",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 15,
-    "last_deadline_value": 1024,
-    "last_deadline_total_transfers": 40
+    "last_deadline_bank": 20,
+    "last_deadline_value": 1026,
+    "last_deadline_total_transfers": 41
 }

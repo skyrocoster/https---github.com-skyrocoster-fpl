@@ -275,16 +275,29 @@
         },
         {
             "event": 22,
-            "points": 90,
-            "total_points": 1424,
-            "rank": 11360,
-            "rank_sort": 11405,
-            "overall_rank": 5646,
+            "points": 117,
+            "total_points": 1451,
+            "rank": 10232,
+            "rank_sort": 10285,
+            "overall_rank": 4238,
             "bank": 39,
             "value": 1036,
             "event_transfers": 2,
             "event_transfers_cost": 0,
             "points_on_bench": 5
+        },
+        {
+            "event": 23,
+            "points": 56,
+            "total_points": 1503,
+            "rank": 1368360,
+            "rank_sort": 1368557,
+            "overall_rank": 3749,
+            "bank": 0,
+            "value": 1034,
+            "event_transfers": 2,
+            "event_transfers_cost": 4,
+            "points_on_bench": 15
         }
     ],
     "past": [

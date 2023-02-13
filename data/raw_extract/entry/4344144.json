@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1453,
-    "summary_overall_rank": 788,
-    "summary_event_points": 77,
-    "summary_event_rank": 203324,
-    "current_event": 22,
+    "summary_overall_points": 1519,
+    "summary_overall_rank": 1272,
+    "summary_event_points": 45,
+    "summary_event_rank": 3953463,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 183,
-                "entry_last_rank": 297
+                "entry_rank": 315,
+                "entry_last_rank": 161
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 33,
-                "entry_last_rank": 53
+                "entry_rank": 56,
+                "entry_last_rank": 34
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 788,
-                "entry_last_rank": 1271
+                "entry_rank": 1272,
+                "entry_last_rank": 687
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 788,
-                "entry_last_rank": 1271
+                "entry_rank": 1272,
+                "entry_last_rank": 687
             },
             {
                 "id": 946560,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 26331,
-                "entry_last_rank": 47297
+                "entry_rank": 53002,
+                "entry_last_rank": 21728
             }
         ],
         "h2h": [],
@@ -210,19 +210,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 103385455,
-                "entry_1_entry": 4771970,
-                "entry_1_name": "Braziliant",
-                "entry_1_player_name": "Bob McLean",
-                "entry_1_points": 45,
+                "id": 107190412,
+                "entry_1_entry": 4344144,
+                "entry_1_name": "In the bag Ten Hag",
+                "entry_1_player_name": "Owen Gubbins",
+                "entry_1_points": 41,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 4344144,
-                "entry_2_name": "In the bag Ten Hag",
-                "entry_2_player_name": "Owen Gubbins",
-                "entry_2_points": 73,
+                "entry_2_entry": 5147042,
+                "entry_2_name": "Ten Hags Rovers",
+                "entry_2_player_name": "Colin Ledwith",
+                "entry_2_points": 59,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -231,17 +231,17 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "In the bag Ten Hag",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 54,
-    "last_deadline_value": 1037,
-    "last_deadline_total_transfers": 23
+    "last_deadline_bank": 22,
+    "last_deadline_value": 1039,
+    "last_deadline_total_transfers": 25
 }

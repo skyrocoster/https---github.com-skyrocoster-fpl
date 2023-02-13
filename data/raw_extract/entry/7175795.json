@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1478,
-    "summary_overall_rank": 115,
-    "summary_event_points": 51,
-    "summary_event_rank": 2737528,
-    "current_event": 22,
+    "summary_overall_points": 1559,
+    "summary_overall_rank": 79,
+    "summary_event_points": 63,
+    "summary_event_rank": 442806,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 17,
-                "entry_last_rank": 7
+                "entry_rank": 12,
+                "entry_last_rank": 20
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 34,
-                "entry_last_rank": 8
+                "entry_rank": 25,
+                "entry_last_rank": 54
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 115,
-                "entry_last_rank": 37
+                "entry_rank": 79,
+                "entry_last_rank": 184
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 115,
-                "entry_last_rank": 37
+                "entry_rank": 79,
+                "entry_last_rank": 184
             },
             {
                 "id": 506616,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 42,
-                "entry_last_rank": 11
+                "entry_rank": 30,
+                "entry_last_rank": 66
             },
             {
                 "id": 2385997,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8409,
-                "entry_last_rank": 788
+                "entry_rank": 5325,
+                "entry_last_rank": 14068
             }
         ],
         "h2h": [],
@@ -321,19 +321,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102946765,
-                "entry_1_entry": 4659933,
-                "entry_1_name": "MarMoonz",
-                "entry_1_player_name": "Pannathorn Tantiwongwat",
-                "entry_1_points": 52,
+                "id": 106987549,
+                "entry_1_entry": 7175795,
+                "entry_1_name": "One Hit Wonders",
+                "entry_1_player_name": "Amit Nathwani",
+                "entry_1_points": 63,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 7175795,
-                "entry_2_name": "One Hit Wonders",
-                "entry_2_player_name": "Amit Nathwani",
-                "entry_2_points": 51,
+                "entry_2_entry": 6049562,
+                "entry_2_name": "Special One",
+                "entry_2_player_name": "Yassen 🐺",
+                "entry_2_points": 57,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -342,17 +342,17 @@
                 "league": 2405675,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "One Hit Wonders",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 3,
-    "last_deadline_value": 1051,
-    "last_deadline_total_transfers": 28
+    "last_deadline_bank": 47,
+    "last_deadline_value": 1049,
+    "last_deadline_total_transfers": 30
 }

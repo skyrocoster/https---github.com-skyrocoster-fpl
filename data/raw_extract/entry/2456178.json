@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1438,
-    "summary_overall_rank": 2374,
-    "summary_event_points": 93,
-    "summary_event_rank": 4105,
-    "current_event": 22,
+    "summary_overall_points": 1518,
+    "summary_overall_rank": 1431,
+    "summary_event_points": 57,
+    "summary_event_rank": 1185385,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 572,
-                "entry_last_rank": 3189
+                "entry_rank": 355,
+                "entry_last_rank": 424
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 843,
-                "entry_last_rank": 5109
+                "entry_rank": 487,
+                "entry_last_rank": 625
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2374,
-                "entry_last_rank": 13419
+                "entry_rank": 1431,
+                "entry_last_rank": 1752
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2374,
-                "entry_last_rank": 13422
+                "entry_rank": 1431,
+                "entry_last_rank": 1752
             },
             {
                 "id": 4194,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 157,
-                "entry_last_rank": 720
+                "entry_rank": 108,
+                "entry_last_rank": 129
             },
             {
                 "id": 490735,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9,
-                "entry_last_rank": 37
+                "entry_rank": 5,
+                "entry_last_rank": 7
             },
             {
                 "id": 1171461,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 972,
-                "entry_last_rank": 5833
+                "entry_rank": 555,
+                "entry_last_rank": 716
             },
             {
                 "id": 2385997,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 35,
-                "entry_last_rank": 548
+                "entry_rank": 26,
+                "entry_last_rank": 24
             }
         ],
         "h2h": [],
@@ -294,19 +294,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102620612,
+                "id": 106825839,
                 "entry_1_entry": 2456178,
                 "entry_1_name": "Pfizer Chiefs",
                 "entry_1_player_name": "Dan Wiseman",
-                "entry_1_points": 93,
+                "entry_1_points": 53,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1094818,
-                "entry_2_name": "Redcap Warriors XI",
-                "entry_2_player_name": "Ian Waldeis",
-                "entry_2_points": 42,
+                "entry_2_entry": 2715118,
+                "entry_2_name": "Gills flying high",
+                "entry_2_player_name": "stuart kemsley",
+                "entry_2_points": 56,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -315,25 +315,25 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102787835,
-                "entry_1_entry": 2456178,
-                "entry_1_name": "Pfizer Chiefs",
-                "entry_1_player_name": "Dan Wiseman",
-                "entry_1_points": 93,
+                "id": 106893052,
+                "entry_1_entry": 2905220,
+                "entry_1_name": "Chopper central",
+                "entry_1_player_name": "Callum Trowers",
+                "entry_1_points": 48,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 5046100,
-                "entry_2_name": "The Pharaohs",
-                "entry_2_player_name": "Sherif El Sheikh",
-                "entry_2_points": 87,
+                "entry_2_entry": 2456178,
+                "entry_2_name": "Pfizer Chiefs",
+                "entry_2_player_name": "Dan Wiseman",
+                "entry_2_points": 53,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -342,25 +342,25 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105957566,
-                "entry_1_entry": 2456178,
-                "entry_1_name": "Pfizer Chiefs",
-                "entry_1_player_name": "Dan Wiseman",
-                "entry_1_points": 93,
+                "id": 108498240,
+                "entry_1_entry": 5441206,
+                "entry_1_name": "DEATH AND TAXES",
+                "entry_1_player_name": "Mark Trombley",
+                "entry_1_points": 40,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 2456178,
+                "entry_2_name": "Pfizer Chiefs",
+                "entry_2_player_name": "Dan Wiseman",
+                "entry_2_points": 53,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -369,17 +369,17 @@
                 "league": 2437808,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Pfizer Chiefs",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 44,
-    "last_deadline_value": 1032,
-    "last_deadline_total_transfers": 38
+    "last_deadline_bank": 61,
+    "last_deadline_value": 1038,
+    "last_deadline_total_transfers": 40
 }

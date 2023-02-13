@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1111,
-    "summary_overall_rank": 5174973,
-    "summary_event_points": 32,
-    "summary_event_rank": 6095040,
-    "current_event": 22,
+    "summary_overall_points": 1159,
+    "summary_overall_rank": 5153864,
+    "summary_event_points": 40,
+    "summary_event_rank": 5024752,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2424301,
                 "cup_qualified": true,
-                "entry_rank": 227556,
-                "entry_last_rank": 220729
+                "entry_rank": 224489,
+                "entry_last_rank": 228111
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 1574136,
-                "entry_last_rank": 1559076
+                "entry_rank": 1557123,
+                "entry_last_rank": 1579466
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4949947,
-                "entry_last_rank": 4889148
+                "entry_rank": 4920155,
+                "entry_last_rank": 4972911
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 5174973,
-                "entry_last_rank": 5100813
+                "entry_rank": 5153864,
+                "entry_last_rank": 5204138
             },
             {
                 "id": 6345,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 896,
-                "entry_last_rank": 873
+                "entry_rank": 890,
+                "entry_last_rank": 894
             },
             {
                 "id": 157317,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 369,
-                "entry_last_rank": 364
+                "entry_rank": 367,
+                "entry_last_rank": 369
             },
             {
                 "id": 341673,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 28,
-                "entry_last_rank": 29
+                "entry_rank": 29,
+                "entry_last_rank": 28
             },
             {
                 "id": 684293,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": 2437815,
                 "cup_qualified": true,
-                "entry_rank": 100839,
-                "entry_last_rank": 99920
+                "entry_rank": 100356,
+                "entry_last_rank": 101220
             },
             {
                 "id": 695126,
@@ -328,8 +328,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1781549,
-                "entry_last_rank": 1765110
+                "entry_rank": 1761594,
+                "entry_last_rank": 1787519
             },
             {
                 "id": 2385997,
@@ -349,8 +349,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4551218,
-                "entry_last_rank": 3975467
+                "entry_rank": 4769576,
+                "entry_last_rank": 4694859
             }
         ],
         "h2h": [],
@@ -451,7 +451,7 @@
                 "entry_1_entry": 747477,
                 "entry_1_name": "RodallegaBomb",
                 "entry_1_player_name": "Charlie Kabey",
-                "entry_1_points": 32,
+                "entry_1_points": 40,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -459,14 +459,14 @@
                 "entry_2_entry": 1100105,
                 "entry_2_name": "I am Jose Mourinho",
                 "entry_2_player_name": "Will Elkeles",
-                "entry_2_points": 76,
+                "entry_2_points": 92,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437815,
-                "winner": null,
+                "winner": 1100105,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -479,6 +479,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 0,
-    "last_deadline_value": 997,
+    "last_deadline_value": 995,
     "last_deadline_total_transfers": 26
 }

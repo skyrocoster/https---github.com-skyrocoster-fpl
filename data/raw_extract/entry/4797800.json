@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1480,
-    "summary_overall_rank": 95,
-    "summary_event_points": 61,
-    "summary_event_rank": 1301838,
-    "current_event": 22,
+    "summary_overall_points": 1551,
+    "summary_overall_rank": 127,
+    "summary_event_points": 54,
+    "summary_event_rank": 1609821,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 28,
-                "entry_last_rank": 17
+                "entry_rank": 35,
+                "entry_last_rank": 49
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 95,
-                "entry_last_rank": 65
+                "entry_rank": 127,
+                "entry_last_rank": 163
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 95,
-                "entry_last_rank": 65
+                "entry_rank": 127,
+                "entry_last_rank": 163
             },
             {
                 "id": 127883,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 35,
-                "entry_last_rank": 22
+                "entry_rank": 42,
+                "entry_last_rank": 57
             },
             {
                 "id": 2385997,
@@ -265,8 +265,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18110,
-                "entry_last_rank": 8080
+                "entry_rank": 26127,
+                "entry_last_rank": 30186
             }
         ],
         "h2h": [],
@@ -340,7 +340,7 @@
                 "entry_1_entry": 4797800,
                 "entry_1_name": "Drawonce FC",
                 "entry_1_player_name": "Dan Crowe",
-                "entry_1_points": 61,
+                "entry_1_points": 78,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -348,14 +348,14 @@
                 "entry_2_entry": 5398694,
                 "entry_2_name": "Chelsea Carney-val",
                 "entry_2_player_name": "Kerry Usher",
-                "entry_2_points": 63,
+                "entry_2_points": 82,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 5398694,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -368,6 +368,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 1,
-    "last_deadline_value": 1042,
+    "last_deadline_value": 1044,
     "last_deadline_total_transfers": 19
 }

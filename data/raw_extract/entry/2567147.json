@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1474,
-    "summary_overall_rank": 161,
-    "summary_event_points": 79,
-    "summary_event_rank": 147426,
-    "current_event": 22,
+    "summary_overall_points": 1529,
+    "summary_overall_rank": 669,
+    "summary_event_points": 39,
+    "summary_event_rank": 5373989,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 18,
-                "entry_last_rank": 54
+                "entry_rank": 81,
+                "entry_last_rank": 39
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 46,
-                "entry_last_rank": 140
+                "entry_rank": 210,
+                "entry_last_rank": 86
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 161,
-                "entry_last_rank": 429
+                "entry_rank": 669,
+                "entry_last_rank": 286
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 161,
-                "entry_last_rank": 429
+                "entry_rank": 669,
+                "entry_last_rank": 286
             },
             {
                 "id": 38386,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 55,
-                "entry_last_rank": 167
+                "entry_rank": 244,
+                "entry_last_rank": 105
             },
             {
                 "id": 1225664,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2324,
-                "entry_last_rank": 6676
+                "entry_rank": 19674,
+                "entry_last_rank": 5516
             }
         ],
         "h2h": [],
@@ -261,19 +261,19 @@
         },
         "cup_matches": [
             {
-                "id": 102538209,
+                "id": 106766569,
                 "entry_1_entry": 2567147,
                 "entry_1_name": "Kroos Control",
                 "entry_1_player_name": "Cameron Crombie",
-                "entry_1_points": 79,
+                "entry_1_points": 39,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 225547,
-                "entry_2_name": "Bob Marley FC",
-                "entry_2_player_name": "Trevor Katerere",
-                "entry_2_points": 55,
+                "entry_2_entry": 1845894,
+                "entry_2_name": "WillosWarriors",
+                "entry_2_player_name": "Mark Wilson",
+                "entry_2_points": 43,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -282,25 +282,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102643678,
+                "id": 106822651,
                 "entry_1_entry": 2567147,
                 "entry_1_name": "Kroos Control",
                 "entry_1_player_name": "Cameron Crombie",
-                "entry_1_points": 79,
+                "entry_1_points": 39,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 3795406,
-                "entry_2_name": "Get your Koch out",
-                "entry_2_player_name": "Kay Tappenden",
-                "entry_2_points": 51,
+                "entry_2_entry": 1876048,
+                "entry_2_name": "Saka Potatoes",
+                "entry_2_player_name": "Dale Camp",
+                "entry_2_points": 42,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -309,17 +309,17 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102755047,
-                "entry_1_entry": 4375923,
-                "entry_1_name": "frisk",
-                "entry_1_player_name": "Victor Spencer",
-                "entry_1_points": 53,
+                "id": 106878553,
+                "entry_1_entry": 910648,
+                "entry_1_name": "Beard",
+                "entry_1_player_name": "Brad Knight",
+                "entry_1_points": 37,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -327,7 +327,7 @@
                 "entry_2_entry": 2567147,
                 "entry_2_name": "Kroos Control",
                 "entry_2_player_name": "Cameron Crombie",
-                "entry_2_points": 79,
+                "entry_2_points": 39,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -336,25 +336,25 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102841830,
+                "id": 106927584,
                 "entry_1_entry": 2567147,
                 "entry_1_name": "Kroos Control",
                 "entry_1_player_name": "Cameron Crombie",
-                "entry_1_points": 79,
+                "entry_1_points": 39,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 580872,
-                "entry_2_name": "ŻyroZŻyrardowa",
-                "entry_2_player_name": "Paweł Guszkowski",
-                "entry_2_points": 72,
+                "entry_2_entry": 7628974,
+                "entry_2_name": "Assna Fc",
+                "entry_2_player_name": "Mohamed Sy",
+                "entry_2_points": 68,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -363,17 +363,17 @@
                 "league": 2405666,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Kroos Control",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#d0021b\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#d0021b\"}",
-    "last_deadline_bank": 2,
-    "last_deadline_value": 1051,
-    "last_deadline_total_transfers": 32
+    "last_deadline_bank": 11,
+    "last_deadline_value": 1056,
+    "last_deadline_total_transfers": 33
 }

@@ -9,11 +9,11 @@
     "player_region_name": "USA",
     "player_region_iso_code_short": "US",
     "player_region_iso_code_long": "USA",
-    "summary_overall_points": 1252,
-    "summary_overall_rank": 1744534,
-    "summary_event_points": 76,
-    "summary_event_rank": 234795,
-    "current_event": 22,
+    "summary_overall_points": 1316,
+    "summary_overall_rank": 1754306,
+    "summary_event_points": 45,
+    "summary_event_rank": 4002896,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 144418,
-                "entry_last_rank": 198048
+                "entry_rank": 145134,
+                "entry_last_rank": 122584
             },
             {
                 "id": 249,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424308,
                 "cup_qualified": true,
-                "entry_rank": 52398,
-                "entry_last_rank": 70372
+                "entry_rank": 51763,
+                "entry_last_rank": 44801
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1735612,
-                "entry_last_rank": 2318851
+                "entry_rank": 1744568,
+                "entry_last_rank": 1494180
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1744534,
-                "entry_last_rank": 2337849
+                "entry_rank": 1754306,
+                "entry_last_rank": 1500335
             },
             {
                 "id": 550,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 22,
-                "entry_last_rank": 27
+                "entry_rank": 21,
+                "entry_last_rank": 21
             },
             {
                 "id": 553,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18,
-                "entry_last_rank": 23
+                "entry_rank": 19,
+                "entry_last_rank": 17
             },
             {
                 "id": 928433,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2424311,
                 "cup_qualified": true,
-                "entry_rank": 52539,
-                "entry_last_rank": 70593
+                "entry_rank": 51907,
+                "entry_last_rank": 44923
             },
             {
                 "id": 979352,
@@ -224,7 +224,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 3
+                "entry_last_rank": 2
             },
             {
                 "id": 2385997,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2028248,
-                "entry_last_rank": 3819577
+                "entry_rank": 2094983,
+                "entry_last_rank": 1507122
             }
         ],
         "h2h": [],
@@ -342,19 +342,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 103822004,
+                "id": 107393895,
                 "entry_1_entry": 5898479,
                 "entry_1_name": "Rooney Tunes",
                 "entry_1_player_name": "Rohan (Adeep) Kulkarni",
-                "entry_1_points": 72,
+                "entry_1_points": 37,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6762735,
-                "entry_2_name": "Doomsday destroyers",
-                "entry_2_player_name": "David Santos",
-                "entry_2_points": 40,
+                "entry_2_entry": 5037501,
+                "entry_2_name": "Tadeusz-Max-Kazimir",
+                "entry_2_player_name": "Eugenie Voitkevich",
+                "entry_2_points": 42,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -363,17 +363,17 @@
                 "league": 2424311,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Rooney Tunes",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#db1a1a\",\"kit_shirt_sleeves\":\"#0b6fe3\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"rainbow-laces\",\"kit_shorts\":\"#0e6ede\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#f71818\",\"kit_socks_secondary\":\"#1170de\"}",
-    "last_deadline_bank": 2,
-    "last_deadline_value": 1016,
-    "last_deadline_total_transfers": 37
+    "last_deadline_bank": 9,
+    "last_deadline_value": 1017,
+    "last_deadline_total_transfers": 40
 }

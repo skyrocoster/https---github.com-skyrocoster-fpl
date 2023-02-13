@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1482,
-    "summary_overall_rank": 84,
-    "summary_event_points": 66,
-    "summary_event_rank": 810006,
-    "current_event": 22,
+    "summary_overall_points": 1583,
+    "summary_overall_rank": 10,
+    "summary_event_points": 74,
+    "summary_event_rank": 37745,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2431352,
                 "cup_qualified": true,
-                "entry_rank": 5,
-                "entry_last_rank": 2
+                "entry_rank": 1,
+                "entry_last_rank": 5
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 23,
-                "entry_last_rank": 21
+                "entry_rank": 3,
+                "entry_last_rank": 16
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 84,
-                "entry_last_rank": 82
+                "entry_rank": 10,
+                "entry_last_rank": 61
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 84,
-                "entry_last_rank": 82
+                "entry_rank": 10,
+                "entry_last_rank": 61
             },
             {
                 "id": 539793,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 29,
-                "entry_last_rank": 28
+                "entry_rank": 3,
+                "entry_last_rank": 22
             },
             {
                 "id": 1405097,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8469,
-                "entry_last_rank": 5818
+                "entry_rank": 574,
+                "entry_last_rank": 5942
             }
         ],
         "h2h": [],
@@ -240,19 +240,19 @@
         },
         "cup_matches": [
             {
-                "id": 102509533,
+                "id": 106741337,
                 "entry_1_entry": 1213511,
                 "entry_1_name": "JoelinToon",
                 "entry_1_player_name": "Daniel Hart",
-                "entry_1_points": 66,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2147472,
-                "entry_2_name": "Mein Denis Bergkampf",
-                "entry_2_player_name": "John McAlery",
-                "entry_2_points": 66,
+                "entry_2_entry": 3850196,
+                "entry_2_name": "TBC",
+                "entry_2_player_name": "benjamin scrace",
+                "entry_2_points": 50,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -261,17 +261,17 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102633653,
-                "entry_1_entry": 2038350,
-                "entry_1_name": "MushyFc",
-                "entry_1_player_name": "Mushfiq Chowdhury",
-                "entry_1_points": 47,
+                "id": 106828390,
+                "entry_1_entry": 67612,
+                "entry_1_name": "Salt n’ Kepa",
+                "entry_1_player_name": "William Ringer",
+                "entry_1_points": 32,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -279,7 +279,7 @@
                 "entry_2_entry": 1213511,
                 "entry_2_name": "JoelinToon",
                 "entry_2_player_name": "Daniel Hart",
-                "entry_2_points": 66,
+                "entry_2_points": 74,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -288,25 +288,25 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102773974,
-                "entry_1_entry": 1213511,
-                "entry_1_name": "JoelinToon",
-                "entry_1_player_name": "Daniel Hart",
-                "entry_1_points": 66,
+                "id": 106891652,
+                "entry_1_entry": 1854561,
+                "entry_1_name": "Uyghur United",
+                "entry_1_player_name": "Shukhrat Issabayev",
+                "entry_1_points": 58,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 882592,
-                "entry_2_name": "Patel²",
-                "entry_2_player_name": "Suneet Patel",
-                "entry_2_points": 52,
+                "entry_2_entry": 1213511,
+                "entry_2_name": "JoelinToon",
+                "entry_2_player_name": "Daniel Hart",
+                "entry_2_points": 74,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -315,25 +315,25 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103923916,
-                "entry_1_entry": 6541144,
-                "entry_1_name": "Baldilocks FC",
-                "entry_1_player_name": "Scott Unsworth",
-                "entry_1_points": 28,
+                "id": 107459473,
+                "entry_1_entry": 1213511,
+                "entry_1_name": "JoelinToon",
+                "entry_1_player_name": "Daniel Hart",
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1213511,
-                "entry_2_name": "JoelinToon",
-                "entry_2_player_name": "Daniel Hart",
-                "entry_2_points": 66,
+                "entry_2_entry": 4175588,
+                "entry_2_name": "No Mo Salad",
+                "entry_2_player_name": "Chris Townsend",
+                "entry_2_points": 41,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -342,17 +342,17 @@
                 "league": 2431352,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "JoelinToon",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 16,
-    "last_deadline_value": 1039,
-    "last_deadline_total_transfers": 26
+    "last_deadline_bank": 18,
+    "last_deadline_value": 1041,
+    "last_deadline_total_transfers": 27
 }

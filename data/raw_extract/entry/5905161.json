@@ -9,11 +9,11 @@
     "player_region_name": "Denmark",
     "player_region_iso_code_short": "DK",
     "player_region_iso_code_long": "DNK",
-    "summary_overall_points": 1454,
-    "summary_overall_rank": 761,
-    "summary_event_points": 58,
-    "summary_event_rank": 1714543,
-    "current_event": 22,
+    "summary_overall_points": 1514,
+    "summary_overall_rank": 1887,
+    "summary_event_points": 45,
+    "summary_event_rank": 3953463,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 4,
-                "entry_last_rank": 2
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 6,
+                "entry_last_rank": 5
             },
             {
                 "id": 78,
@@ -53,10 +53,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 13,
-                "entry_last_rank": 11
+                "cup_league": 2448112,
+                "cup_qualified": true,
+                "entry_rank": 23,
+                "entry_last_rank": 14
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 761,
-                "entry_last_rank": 397
+                "entry_rank": 1887,
+                "entry_last_rank": 1006
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 761,
-                "entry_last_rank": 397
+                "entry_rank": 1887,
+                "entry_last_rank": 1006
             },
             {
                 "id": 513213,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 115,
-                "entry_last_rank": 72
+                "entry_rank": 270,
+                "entry_last_rank": 146
             },
             {
                 "id": 992987,
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
+                "entry_rank": 9,
                 "entry_last_rank": 8
             },
             {
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 292598,
-                "entry_last_rank": 224526
+                "entry_rank": 521572,
+                "entry_last_rank": 318231
             }
         ],
         "h2h": [],
@@ -267,19 +267,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 103162823,
+                "id": 107074887,
                 "entry_1_entry": 5905161,
                 "entry_1_name": "Malta",
                 "entry_1_player_name": "Michael Sorensen",
-                "entry_1_points": 58,
+                "entry_1_points": 41,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1837842,
-                "entry_2_name": "kockamuffens knubbis",
-                "entry_2_player_name": "Lisa Björkert Eliasson",
-                "entry_2_points": 42,
+                "entry_2_entry": 1309911,
+                "entry_2_name": "FC FAJFUSY",
+                "entry_2_player_name": "Przemek Kapciak",
+                "entry_2_points": 57,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -288,17 +288,71 @@
                 "league": 2412737,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108774602,
+                "entry_1_entry": 5905161,
+                "entry_1_name": "Malta",
+                "entry_1_player_name": "Michael Sorensen",
+                "entry_1_points": 41,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109035224,
+                "entry_1_entry": 5905161,
+                "entry_1_name": "Malta",
+                "entry_1_player_name": "Michael Sorensen",
+                "entry_1_points": 41,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448112,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Malta",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#ffffff\",\"kit_shirt_sleeves\":\"#000000\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"pl-kicks\",\"kit_shorts\":\"#000000\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#ffffff\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 38,
-    "last_deadline_value": 1031,
-    "last_deadline_total_transfers": 33
+    "last_deadline_bank": 20,
+    "last_deadline_value": 1023,
+    "last_deadline_total_transfers": 35
 }

@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1476,
-    "summary_overall_rank": 135,
-    "summary_event_points": 78,
-    "summary_event_rank": 168153,
-    "current_event": 22,
+    "summary_overall_points": 1562,
+    "summary_overall_rank": 62,
+    "summary_event_points": 59,
+    "summary_event_rank": 859004,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 39,
-                "entry_last_rank": 116
+                "entry_rank": 16,
+                "entry_last_rank": 28
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 135,
-                "entry_last_rank": 356
+                "entry_rank": 62,
+                "entry_last_rank": 98
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 135,
-                "entry_last_rank": 356
+                "entry_rank": 62,
+                "entry_last_rank": 98
             },
             {
                 "id": 1413,
@@ -91,14 +91,14 @@
                 "scoring": "c",
                 "admin_entry": 1266,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 11
+                "cup_league": 2448132,
+                "cup_qualified": true,
+                "entry_rank": 6,
+                "entry_last_rank": 8
             },
             {
                 "id": 2020,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 2
+                "entry_rank": 1,
+                "entry_last_rank": 1
             },
             {
                 "id": 4194,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 14,
-                "entry_last_rank": 21
+                "entry_rank": 10,
+                "entry_last_rank": 11
             },
             {
                 "id": 40275,
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 2
             },
             {
@@ -245,7 +245,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 4
+                "entry_last_rank": 2
             },
             {
                 "id": 197384,
@@ -349,8 +349,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 48,
-                "entry_last_rank": 139
+                "entry_rank": 21,
+                "entry_last_rank": 34
             },
             {
                 "id": 1573341,
@@ -391,8 +391,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6556,
-                "entry_last_rank": 17662
+                "entry_rank": 2433,
+                "entry_last_rank": 4562
             }
         ],
         "h2h": [],
@@ -489,11 +489,38 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 105959359,
+                "id": 108478012,
+                "entry_1_entry": 1872651,
+                "entry_1_name": "Happy World of Aribo",
+                "entry_1_player_name": "Will Macfarlane",
+                "entry_1_points": 46,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 533457,
+                "entry_2_name": "Steve will be 3rd",
+                "entry_2_player_name": "James Lee",
+                "entry_2_points": 59,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437808,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109691535,
                 "entry_1_entry": 533457,
                 "entry_1_name": "Steve will be 3rd",
                 "entry_1_player_name": "James Lee",
-                "entry_1_points": 78,
+                "entry_1_points": 59,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -507,20 +534,20 @@
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2437808,
+                "league": 2448132,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Steve will be 3rd",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 31,
-    "last_deadline_value": 1038,
-    "last_deadline_total_transfers": 38
+    "last_deadline_bank": 18,
+    "last_deadline_value": 1033,
+    "last_deadline_total_transfers": 40
 }

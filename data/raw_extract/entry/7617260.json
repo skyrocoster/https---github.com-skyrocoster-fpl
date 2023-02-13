@@ -9,11 +9,11 @@
     "player_region_name": "Norway",
     "player_region_iso_code_short": "NO",
     "player_region_iso_code_long": "NOR",
-    "summary_overall_points": 1438,
-    "summary_overall_rank": 2300,
-    "summary_event_points": 89,
-    "summary_event_rank": 16484,
-    "current_event": 22,
+    "summary_overall_points": 1521,
+    "summary_overall_rank": 1110,
+    "summary_event_points": 56,
+    "summary_event_rank": 1233213,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 313,
-                "entry_last_rank": 1464
+                "entry_rank": 140,
+                "entry_last_rank": 215
             },
             {
                 "id": 181,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431360,
                 "cup_qualified": true,
-                "entry_rank": 165,
-                "entry_last_rank": 688
+                "entry_rank": 66,
+                "entry_last_rank": 122
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2300,
-                "entry_last_rank": 10187
+                "entry_rank": 1110,
+                "entry_last_rank": 1687
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 2300,
-                "entry_last_rank": 10189
+                "entry_rank": 1110,
+                "entry_last_rank": 1687
             },
             {
                 "id": 513213,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 327,
-                "entry_last_rank": 1315
+                "entry_rank": 150,
+                "entry_last_rank": 248
             },
             {
                 "id": 1207703,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 33,
-                "entry_last_rank": 299
+                "entry_rank": 15,
+                "entry_last_rank": 22
             }
         ],
         "h2h": [],
@@ -177,11 +177,11 @@
         },
         "cup_matches": [
             {
-                "id": 102825239,
-                "entry_1_entry": 1994405,
-                "entry_1_name": "WernerBros.",
-                "entry_1_player_name": "Brad Pitt",
-                "entry_1_points": 64,
+                "id": 106911776,
+                "entry_1_entry": 10187366,
+                "entry_1_name": "arsenal",
+                "entry_1_player_name": "Samir Chine",
+                "entry_1_points": 61,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -189,7 +189,7 @@
                 "entry_2_entry": 7617260,
                 "entry_2_name": "Smid FC",
                 "entry_2_player_name": "Nicolai Smith",
-                "entry_2_points": 89,
+                "entry_2_points": 56,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -198,25 +198,25 @@
                 "league": 2405666,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103191557,
-                "entry_1_entry": 7617260,
-                "entry_1_name": "Smid FC",
-                "entry_1_player_name": "Nicolai Smith",
-                "entry_1_points": 89,
+                "id": 107076010,
+                "entry_1_entry": 4707580,
+                "entry_1_name": "KingKullen LIF",
+                "entry_1_player_name": "Per Bergström",
+                "entry_1_points": 53,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6180677,
-                "entry_2_name": "LosMartinellis",
-                "entry_2_player_name": "Heine Lossius",
-                "entry_2_points": 51,
+                "entry_2_entry": 7617260,
+                "entry_2_name": "Smid FC",
+                "entry_2_player_name": "Nicolai Smith",
+                "entry_2_points": 56,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -225,25 +225,25 @@
                 "league": 2412737,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104478483,
-                "entry_1_entry": 406993,
-                "entry_1_name": "Tacos Hermanos",
-                "entry_1_player_name": "Herman Frogner",
-                "entry_1_points": 65,
+                "id": 107749793,
+                "entry_1_entry": 7617260,
+                "entry_1_name": "Smid FC",
+                "entry_1_player_name": "Nicolai Smith",
+                "entry_1_points": 56,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 7617260,
-                "entry_2_name": "Smid FC",
-                "entry_2_player_name": "Nicolai Smith",
-                "entry_2_points": 89,
+                "entry_2_entry": 1556323,
+                "entry_2_name": "Jesus Slottsfjell FC",
+                "entry_2_player_name": "Nikolai Thomas Steinnes",
+                "entry_2_points": 56,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -252,10 +252,10 @@
                 "league": 2431360,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -263,6 +263,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 12,
-    "last_deadline_value": 1030,
+    "last_deadline_value": 1034,
     "last_deadline_total_transfers": 25
 }

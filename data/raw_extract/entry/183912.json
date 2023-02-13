@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1420,
-    "summary_overall_rank": 7371,
-    "summary_event_points": 90,
-    "summary_event_rank": 10384,
-    "current_event": 22,
+    "summary_overall_points": 1504,
+    "summary_overall_rank": 3586,
+    "summary_event_points": 60,
+    "summary_event_rank": 648874,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 34,
-                "entry_last_rank": 155
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 19,
+                "entry_last_rank": 32
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 302,
-                "entry_last_rank": 1338
+                "entry_rank": 145,
+                "entry_last_rank": 279
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7370,
-                "entry_last_rank": 30862
+                "entry_rank": 3586,
+                "entry_last_rank": 6683
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 7371,
-                "entry_last_rank": 30872
+                "entry_rank": 3586,
+                "entry_last_rank": 6684
             },
             {
                 "id": 965,
@@ -119,7 +119,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 1082,
@@ -265,8 +265,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 14631,
-                "entry_last_rank": 127502
+                "entry_rank": 6691,
+                "entry_last_rank": 13490
             }
         ],
         "h2h": [
@@ -352,19 +352,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 103341487,
-                "entry_1_entry": 6142478,
-                "entry_1_name": "Change Name",
-                "entry_1_player_name": "James Mason",
-                "entry_1_points": 58,
+                "id": 107168497,
+                "entry_1_entry": 183912,
+                "entry_1_name": "ToneySopranos",
+                "entry_1_player_name": "Matt Griffin",
+                "entry_1_points": 60,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 183912,
-                "entry_2_name": "ToneySopranos",
-                "entry_2_player_name": "Matt Griffin",
-                "entry_2_points": 90,
+                "entry_2_entry": 3688379,
+                "entry_2_name": "Yuuuup the bois",
+                "entry_2_player_name": "dean walsh",
+                "entry_2_points": 23,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -373,17 +373,44 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108767570,
+                "entry_1_entry": 183912,
+                "entry_1_name": "ToneySopranos",
+                "entry_1_player_name": "Matt Griffin",
+                "entry_1_points": 60,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "ToneySopranos",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 16,
-    "last_deadline_value": 1036,
+    "last_deadline_bank": 26,
+    "last_deadline_value": 1041,
     "last_deadline_total_transfers": 38
 }

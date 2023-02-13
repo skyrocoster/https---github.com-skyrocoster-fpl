@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1480,
-    "summary_overall_rank": 98,
-    "summary_event_points": 58,
-    "summary_event_rank": 1714543,
-    "current_event": 22,
+    "summary_overall_points": 1546,
+    "summary_overall_rank": 182,
+    "summary_event_points": 47,
+    "summary_event_rank": 3332102,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 13,
-                "entry_last_rank": 9
+                "entry_rank": 24,
+                "entry_last_rank": 14
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 29,
-                "entry_last_rank": 12
+                "entry_rank": 48,
+                "entry_last_rank": 38
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 98,
-                "entry_last_rank": 49
+                "entry_rank": 182,
+                "entry_last_rank": 129
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 98,
-                "entry_last_rank": 49
+                "entry_rank": 182,
+                "entry_last_rank": 129
             },
             {
                 "id": 89854,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 37,
-                "entry_last_rank": 16
+                "entry_rank": 58,
+                "entry_last_rank": 45
             },
             {
                 "id": 1280576,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 44523,
-                "entry_last_rank": 18470
+                "entry_rank": 81714,
+                "entry_last_rank": 57448
             }
         ],
         "h2h": [],
@@ -315,19 +315,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102782829,
-                "entry_1_entry": 1811364,
-                "entry_1_name": "Daddy the Baddy",
-                "entry_1_player_name": "Charlie Lander",
-                "entry_1_points": 58,
+                "id": 106874953,
+                "entry_1_entry": 5117060,
+                "entry_1_name": "Maddison Sq Gardens",
+                "entry_1_player_name": "Jordan Garland",
+                "entry_1_points": 46,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2376463,
-                "entry_2_name": "Tactical Genius FC",
-                "entry_2_player_name": "Isaac Watkinson",
-                "entry_2_points": 57,
+                "entry_2_entry": 1811364,
+                "entry_2_name": "Daddy the Baddy",
+                "entry_2_player_name": "Charlie Lander",
+                "entry_2_points": 47,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -336,25 +336,25 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102933243,
+                "id": 106982187,
                 "entry_1_entry": 1811364,
                 "entry_1_name": "Daddy the Baddy",
                 "entry_1_player_name": "Charlie Lander",
-                "entry_1_points": 58,
+                "entry_1_points": 47,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 7621667,
-                "entry_2_name": "TAA",
-                "entry_2_player_name": "Omr Mamdoh",
-                "entry_2_points": 30,
+                "entry_2_entry": 6249798,
+                "entry_2_name": "Teba Team",
+                "entry_2_player_name": "Mohammad Mohin Uddin",
+                "entry_2_points": 59,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -363,17 +363,17 @@
                 "league": 2405675,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Daddy the Baddy",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 26,
-    "last_deadline_value": 1038,
-    "last_deadline_total_transfers": 22
+    "last_deadline_bank": 34,
+    "last_deadline_value": 1037,
+    "last_deadline_total_transfers": 23
 }

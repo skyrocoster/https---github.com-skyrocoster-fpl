@@ -9,11 +9,11 @@
     "player_region_name": "Egypt",
     "player_region_iso_code_short": "EG",
     "player_region_iso_code_long": "EGY",
-    "summary_overall_points": 1507,
-    "summary_overall_rank": 16,
-    "summary_event_points": 92,
-    "summary_event_rank": 6445,
-    "current_event": 22,
+    "summary_overall_points": 1584,
+    "summary_overall_rank": 8,
+    "summary_event_points": 50,
+    "summary_event_rank": 2573121,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -35,7 +35,7 @@
                 "cup_league": 2405679,
                 "cup_qualified": true,
                 "entry_rank": 1,
-                "entry_last_rank": 5
+                "entry_last_rank": 1
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 16,
-                "entry_last_rank": 92
+                "entry_rank": 8,
+                "entry_last_rank": 11
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 16,
-                "entry_last_rank": 92
+                "entry_rank": 8,
+                "entry_last_rank": 11
             },
             {
                 "id": 5751,
@@ -91,12 +91,12 @@
                 "scoring": "c",
                 "admin_entry": 4452,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448133,
+                "cup_qualified": true,
                 "entry_rank": 1,
                 "entry_last_rank": 1
             },
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 2,
-                "entry_last_rank": 10
+                "entry_rank": 1,
+                "entry_last_rank": 1
             },
             {
                 "id": 1315901,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 17548,
-                "entry_last_rank": 176050
+                "entry_rank": 15244,
+                "entry_last_rank": 12157
             }
         ],
         "h2h": [],
@@ -267,19 +267,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 102479919,
-                "entry_1_entry": 63790,
-                "entry_1_name": "ReD WaVe",
-                "entry_1_player_name": "Mohamed El Nahrawy",
-                "entry_1_points": 92,
+                "id": 106765207,
+                "entry_1_entry": 50543,
+                "entry_1_name": "Liggeunderlaget",
+                "entry_1_player_name": "Embrik Buflod Bovollen",
+                "entry_1_points": 48,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 201210,
-                "entry_2_name": "Eleven Masterclass",
-                "entry_2_player_name": "Shubha Sigdel",
-                "entry_2_points": 57,
+                "entry_2_entry": 63790,
+                "entry_2_name": "ReD WaVe",
+                "entry_2_player_name": "Mohamed El Nahrawy",
+                "entry_2_points": 50,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -288,24 +288,24 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103115254,
+                "id": 107057698,
                 "entry_1_entry": 63790,
                 "entry_1_name": "ReD WaVe",
                 "entry_1_player_name": "Mohamed El Nahrawy",
-                "entry_1_points": 92,
+                "entry_1_points": 50,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6442813,
-                "entry_2_name": "3 M O R Y",
-                "entry_2_player_name": "OMAR MOHAMMED",
+                "entry_2_entry": 1389295,
+                "entry_2_name": "Vampire_99",
+                "entry_2_player_name": "maher sherif",
                 "entry_2_points": 46,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
@@ -315,17 +315,44 @@
                 "league": 2405679,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109717788,
+                "entry_1_entry": 63790,
+                "entry_1_name": "ReD WaVe",
+                "entry_1_player_name": "Mohamed El Nahrawy",
+                "entry_1_points": 50,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448133,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "ReD WaVe",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 34,
-    "last_deadline_value": 1049,
-    "last_deadline_total_transfers": 34
+    "last_deadline_bank": 50,
+    "last_deadline_value": 1051,
+    "last_deadline_total_transfers": 35
 }

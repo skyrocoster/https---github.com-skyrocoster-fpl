@@ -9,11 +9,11 @@
     "player_region_name": "Egypt",
     "player_region_iso_code_short": "EG",
     "player_region_iso_code_long": "EGY",
-    "summary_overall_points": 1386,
-    "summary_overall_rank": 45853,
-    "summary_event_points": 98,
-    "summary_event_rank": 1099,
-    "current_event": 22,
+    "summary_overall_points": 1455,
+    "summary_overall_rank": 50268,
+    "summary_event_points": 50,
+    "summary_event_rank": 2573121,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 11080,
-                "entry_last_rank": 48828
+                "entry_rank": 12806,
+                "entry_last_rank": 12766
             },
             {
                 "id": 83,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2405679,
                 "cup_qualified": true,
-                "entry_rank": 2781,
-                "entry_last_rank": 12638
+                "entry_rank": 3210,
+                "entry_last_rank": 2997
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 45840,
-                "entry_last_rank": 206668
+                "entry_rank": 50253,
+                "entry_last_rank": 51438
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 45853,
-                "entry_last_rank": 206774
+                "entry_rank": 50268,
+                "entry_last_rank": 51452
             },
             {
                 "id": 928434,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 6533,
-                "entry_last_rank": 28856
+                "entry_rank": 7627,
+                "entry_last_rank": 7167
             },
             {
                 "id": 980032,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 26,
-                "entry_last_rank": 101
+                "entry_rank": 23,
+                "entry_last_rank": 25
             },
             {
                 "id": 2204960,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 22,
-                "entry_last_rank": 833
+                "entry_rank": 99,
+                "entry_last_rank": 57
             },
             {
                 "id": 2433063,
@@ -203,7 +203,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 0
+                "entry_last_rank": 1
             }
         ],
         "h2h": [],
@@ -246,11 +246,11 @@
                 "knockout_name": "Round of 8388608"
             },
             {
-                "id": 102572591,
-                "entry_1_entry": 7512565,
-                "entry_1_name": "WYFC",
-                "entry_1_player_name": "waqas yasin",
-                "entry_1_points": 37,
+                "id": 106785152,
+                "entry_1_entry": 2222640,
+                "entry_1_name": "mans55",
+                "entry_1_player_name": "Mansour Elkayal",
+                "entry_1_points": 50,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -258,7 +258,7 @@
                 "entry_2_entry": 5979738,
                 "entry_2_name": "mo7ahmedalwan",
                 "entry_2_player_name": "mo7ahmed alwan",
-                "entry_2_points": 98,
+                "entry_2_points": 50,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -267,25 +267,25 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102721059,
+                "id": 106861607,
                 "entry_1_entry": 5979738,
                 "entry_1_name": "mo7ahmedalwan",
                 "entry_1_player_name": "mo7ahmed alwan",
-                "entry_1_points": 98,
+                "entry_1_points": 50,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 8486068,
-                "entry_2_name": "Fc Monir",
-                "entry_2_player_name": "monir el boujadi",
-                "entry_2_points": 37,
+                "entry_2_entry": 420487,
+                "entry_2_name": "Muhammed elgmal",
+                "entry_2_player_name": "muhammed elgamal",
+                "entry_2_points": 42,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -294,25 +294,25 @@
                 "league": 2381816,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103080711,
-                "entry_1_entry": 7239938,
-                "entry_1_name": "weza",
-                "entry_1_player_name": "Motaz Mohamed",
-                "entry_1_points": 36,
+                "id": 107063445,
+                "entry_1_entry": 5979738,
+                "entry_1_name": "mo7ahmedalwan",
+                "entry_1_player_name": "mo7ahmed alwan",
+                "entry_1_points": 50,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 5979738,
-                "entry_2_name": "mo7ahmedalwan",
-                "entry_2_player_name": "mo7ahmed alwan",
-                "entry_2_points": 98,
+                "entry_2_entry": 2279460,
+                "entry_2_name": "Mo@ Elmaghraby",
+                "entry_2_player_name": "Mostafa Elmghrby",
+                "entry_2_points": 52,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -321,10 +321,10 @@
                 "league": 2405679,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -332,6 +332,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 2,
-    "last_deadline_value": 1045,
-    "last_deadline_total_transfers": 49
+    "last_deadline_value": 1048,
+    "last_deadline_total_transfers": 50
 }

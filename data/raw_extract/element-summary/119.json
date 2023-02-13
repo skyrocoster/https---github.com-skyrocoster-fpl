@@ -1,22 +1,6 @@
 {
     "fixtures": [
         {
-            "id": 223,
-            "code": 2293032,
-            "team_h": 7,
-            "team_h_score": null,
-            "team_a": 5,
-            "team_a_score": null,
-            "event": 23,
-            "finished": false,
-            "minutes": 0,
-            "provisional_start_time": false,
-            "kickoff_time": "2023-02-11T15:00:00Z",
-            "event_name": "Gameweek 23",
-            "is_home": false,
-            "difficulty": 3
-        },
-        {
             "id": 233,
             "code": 2293042,
             "team_h": 5,
@@ -62,6 +46,22 @@
             "kickoff_time": "2023-03-11T15:00:00Z",
             "event_name": "Gameweek 27",
             "is_home": false,
+            "difficulty": 2
+        },
+        {
+            "id": 73,
+            "code": 2292882,
+            "team_h": 5,
+            "team_h_score": null,
+            "team_a": 7,
+            "team_a_score": null,
+            "event": 27,
+            "finished": false,
+            "minutes": 0,
+            "provisional_start_time": false,
+            "kickoff_time": "2023-03-16T19:30:00Z",
+            "event_name": "Gameweek 27",
+            "is_home": true,
             "difficulty": 2
         },
         {
@@ -253,21 +253,6 @@
             "provisional_start_time": false,
             "kickoff_time": null,
             "is_home": false,
-            "difficulty": 2
-        },
-        {
-            "id": 73,
-            "code": 2292882,
-            "team_h": 5,
-            "team_h_score": null,
-            "team_a": 7,
-            "team_a_score": null,
-            "event": null,
-            "finished": false,
-            "minutes": 0,
-            "provisional_start_time": false,
-            "kickoff_time": null,
-            "is_home": true,
             "difficulty": 2
         },
         {
@@ -1046,6 +1031,44 @@
             "selected": 5137,
             "transfers_in": 195,
             "transfers_out": 356
+        },
+        {
+            "element": 119,
+            "fixture": 223,
+            "opponent_team": 7,
+            "total_points": 0,
+            "was_home": false,
+            "kickoff_time": "2023-02-11T15:00:00Z",
+            "team_h_score": 1,
+            "team_a_score": 1,
+            "round": 23,
+            "minutes": 0,
+            "goals_scored": 0,
+            "assists": 0,
+            "clean_sheets": 0,
+            "goals_conceded": 0,
+            "own_goals": 0,
+            "penalties_saved": 0,
+            "penalties_missed": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "saves": 0,
+            "bonus": 0,
+            "bps": 0,
+            "influence": "0.0",
+            "creativity": "0.0",
+            "threat": "0.0",
+            "ict_index": "0.0",
+            "starts": 0,
+            "expected_goals": "0.00",
+            "expected_assists": "0.00",
+            "expected_goal_involvements": "0.00",
+            "expected_goals_conceded": "0.00",
+            "value": 45,
+            "transfers_balance": 56,
+            "selected": 5237,
+            "transfers_in": 238,
+            "transfers_out": 182
         }
     ],
     "history_past": [

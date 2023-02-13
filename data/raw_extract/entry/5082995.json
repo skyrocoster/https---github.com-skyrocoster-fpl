@@ -9,11 +9,11 @@
     "player_region_name": "Portugal",
     "player_region_iso_code_short": "PT",
     "player_region_iso_code_long": "PRT",
-    "summary_overall_points": 1507,
-    "summary_overall_rank": 15,
-    "summary_event_points": 84,
-    "summary_event_rank": 48985,
-    "current_event": 22,
+    "summary_overall_points": 1580,
+    "summary_overall_rank": 12,
+    "summary_event_points": 46,
+    "summary_event_rank": 3473516,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405678,
                 "cup_qualified": true,
-                "entry_rank": 2,
-                "entry_last_rank": 4
+                "entry_rank": 1,
+                "entry_last_rank": 1
             },
             {
                 "id": 193,
@@ -53,8 +53,8 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448125,
+                "cup_qualified": true,
                 "entry_rank": 1,
                 "entry_last_rank": 1
             },
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 15,
-                "entry_last_rank": 44
+                "entry_rank": 12,
+                "entry_last_rank": 10
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 15,
-                "entry_last_rank": 44
+                "entry_rank": 12,
+                "entry_last_rank": 10
             },
             {
                 "id": 8427,
@@ -137,8 +137,8 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448153,
+                "cup_qualified": true,
                 "entry_rank": 1,
                 "entry_last_rank": 1
             },
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5018,
-                "entry_last_rank": 25912
+                "entry_rank": 6978,
+                "entry_last_rank": 3498
             }
         ],
         "h2h": [],
@@ -229,13 +229,67 @@
                 "tiebreak": "goals_scored",
                 "is_bye": false,
                 "knockout_name": "Round of 524288"
+            },
+            {
+                "id": 109455695,
+                "entry_1_entry": 5082995,
+                "entry_1_name": "Xaimite +15",
+                "entry_1_player_name": "João Martins",
+                "entry_1_points": 46,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448125,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 110340421,
+                "entry_1_entry": 5082995,
+                "entry_1_name": "Xaimite +15",
+                "entry_1_player_name": "João Martins",
+                "entry_1_points": 46,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448153,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Xaimite +15",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 9,
-    "last_deadline_value": 1044,
+    "last_deadline_bank": 0,
+    "last_deadline_value": 1040,
     "last_deadline_total_transfers": 23
 }

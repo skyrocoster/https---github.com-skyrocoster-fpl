@@ -9,11 +9,11 @@
     "player_region_name": "Vietnam",
     "player_region_iso_code_short": "VN",
     "player_region_iso_code_long": "VNM",
-    "summary_overall_points": 1491,
-    "summary_overall_rank": 46,
-    "summary_event_points": 80,
-    "summary_event_rank": 114618,
-    "current_event": 22,
+    "summary_overall_points": 1562,
+    "summary_overall_rank": 59,
+    "summary_event_points": 44,
+    "summary_event_rank": 4148435,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 15,
-                "entry_last_rank": 28
+                "entry_rank": 17,
+                "entry_last_rank": 10
             },
             {
                 "id": 254,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 46,
-                "entry_last_rank": 120
+                "entry_rank": 59,
+                "entry_last_rank": 37
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 46,
-                "entry_last_rank": 120
+                "entry_rank": 59,
+                "entry_last_rank": 37
             },
             {
                 "id": 486,
@@ -133,13 +133,13 @@
                 "scoring": "c",
                 "admin_entry": 1266,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 4,
+                "cup_league": 2448132,
+                "cup_qualified": true,
+                "entry_rank": 5,
                 "entry_last_rank": 4
             },
             {
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 7,
-                "entry_last_rank": 9
+                "entry_rank": 8,
+                "entry_last_rank": 7
             },
             {
                 "id": 7184,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_rank": 2,
+                "entry_last_rank": 1
             },
             {
                 "id": 15857,
@@ -328,8 +328,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10420,
-                "entry_last_rank": 35848
+                "entry_rank": 16191,
+                "entry_last_rank": 7309
             },
             {
                 "id": 2397519,
@@ -393,19 +393,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102543733,
+                "id": 106771421,
                 "entry_1_entry": 2657830,
                 "entry_1_name": "Snerkle Perkle FC",
                 "entry_1_player_name": "toby mcfarlane",
-                "entry_1_points": 80,
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6447530,
-                "entry_2_name": "GSN FC",
-                "entry_2_player_name": "Gagan Singh",
-                "entry_2_points": 58,
+                "entry_2_entry": 555550,
+                "entry_2_name": "MSKE XI",
+                "entry_2_player_name": "Mohammed Shameem",
+                "entry_2_points": 49,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -414,25 +414,25 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 106006573,
-                "entry_1_entry": 2836793,
-                "entry_1_name": "Shaw Mee De Mané",
-                "entry_1_player_name": "Felipe Crespo",
-                "entry_1_points": 23,
+                "id": 108482289,
+                "entry_1_entry": 2657830,
+                "entry_1_name": "Snerkle Perkle FC",
+                "entry_1_player_name": "toby mcfarlane",
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2657830,
-                "entry_2_name": "Snerkle Perkle FC",
-                "entry_2_player_name": "toby mcfarlane",
-                "entry_2_points": 80,
+                "entry_2_entry": 504739,
+                "entry_2_name": "Hollandaise United",
+                "entry_2_player_name": "Thean Yeoh",
+                "entry_2_points": 59,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -441,17 +441,44 @@
                 "league": 2437808,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 106029610,
+                "id": 108525378,
                 "entry_1_entry": 2657830,
                 "entry_1_name": "Snerkle Perkle FC",
                 "entry_1_player_name": "toby mcfarlane",
-                "entry_1_points": 80,
+                "entry_1_points": 44,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 2461884,
+                "entry_2_name": "Blue's Army",
+                "entry_2_player_name": "Aman T",
+                "entry_2_points": 49,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437809,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109690027,
+                "entry_1_entry": 2657830,
+                "entry_1_name": "Snerkle Perkle FC",
+                "entry_1_player_name": "toby mcfarlane",
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -465,20 +492,20 @@
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2437809,
+                "league": 2448132,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Snerkle Perkle FC",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"hoops\",\"kit_shirt_base\":\"#ed78d4\",\"kit_shirt_sleeves\":\"#ffffff\",\"kit_shirt_secondary\":\"#50dce3\",\"kit_shirt_logo\":\"rainbow-laces\",\"kit_shorts\":\"#ffffff\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#55d4eb\",\"kit_socks_secondary\":\"#de91ed\"}",
-    "last_deadline_bank": 31,
+    "last_deadline_bank": 6,
     "last_deadline_value": 1039,
-    "last_deadline_total_transfers": 28
+    "last_deadline_total_transfers": 29
 }

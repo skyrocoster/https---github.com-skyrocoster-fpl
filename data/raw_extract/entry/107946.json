@@ -9,11 +9,11 @@
     "player_region_name": "Norway",
     "player_region_iso_code_short": "NO",
     "player_region_iso_code_long": "NOR",
-    "summary_overall_points": 1422,
-    "summary_overall_rank": 6505,
-    "summary_event_points": 66,
-    "summary_event_rank": 834584,
-    "current_event": 22,
+    "summary_overall_points": 1495,
+    "summary_overall_rank": 6236,
+    "summary_event_points": 54,
+    "summary_event_rank": 1691634,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 30,
-                "entry_last_rank": 32
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 32,
+                "entry_last_rank": 40
             },
             {
                 "id": 181,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431360,
                 "cup_qualified": true,
-                "entry_rank": 436,
-                "entry_last_rank": 460
+                "entry_rank": 430,
+                "entry_last_rank": 556
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6504,
-                "entry_last_rank": 6814
+                "entry_rank": 6235,
+                "entry_last_rank": 7851
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 6505,
-                "entry_last_rank": 6816
+                "entry_rank": 6236,
+                "entry_last_rank": 7852
             },
             {
                 "id": 66245,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 869,
-                "entry_last_rank": 890
+                "entry_rank": 852,
+                "entry_last_rank": 1070
             },
             {
                 "id": 842324,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9,
-                "entry_last_rank": 6
+                "entry_rank": 8,
+                "entry_last_rank": 10
             },
             {
                 "id": 1148348,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 38905,
-                "entry_last_rank": 36523
+                "entry_rank": 43578,
+                "entry_last_rank": 50741
             }
         ],
         "h2h": [
@@ -310,19 +310,46 @@
                 "knockout_name": "Round of 8388608"
             },
             {
-                "id": 103136027,
+                "id": 104491425,
                 "entry_1_entry": 107946,
                 "entry_1_name": "Svingvoll Bees",
                 "entry_1_player_name": "Vegard Bjørnstad",
-                "entry_1_points": 66,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 4622579,
-                "entry_2_name": "Dalot vi her",
-                "entry_2_player_name": "Jens Martin Velo Stenshorne",
-                "entry_2_points": 42,
+                "entry_2_entry": 4640487,
+                "entry_2_name": "Bianconeri ⚪️⚫️",
+                "entry_2_player_name": "Taha Usmani",
+                "entry_2_points": 86,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2431360,
+                "winner": 4640487,
+                "seed_value": null,
+                "event": 22,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 131072"
+            },
+            {
+                "id": 107092944,
+                "entry_1_entry": 9012376,
+                "entry_1_name": "Rozzy FC",
+                "entry_1_player_name": "Thyra Rosvold",
+                "entry_1_points": 59,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 107946,
+                "entry_2_name": "Svingvoll Bees",
+                "entry_2_player_name": "Vegard Bjørnstad",
+                "entry_2_points": 54,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -331,44 +358,44 @@
                 "league": 2412737,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104491425,
+                "id": 108771667,
                 "entry_1_entry": 107946,
                 "entry_1_name": "Svingvoll Bees",
                 "entry_1_player_name": "Vegard Bjørnstad",
-                "entry_1_points": 66,
+                "entry_1_points": 54,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 4640487,
-                "entry_2_name": "Bianconeri ⚪️⚫️",
-                "entry_2_player_name": "Taha Usmani",
-                "entry_2_points": 66,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2431360,
+                "league": 2448104,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Svingvoll Bees",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#da001a\",\"kit_shirt_sleeves\":\"#d0021b\",\"kit_shirt_secondary\":\"#ffffff\",\"kit_shirt_logo\":\"rainbow-laces\",\"kit_shorts\":\"#000000\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#000000\",\"kit_socks_secondary\":\"#d0021b\"}",
-    "last_deadline_bank": 9,
-    "last_deadline_value": 1045,
-    "last_deadline_total_transfers": 34
+    "last_deadline_bank": 24,
+    "last_deadline_value": 1043,
+    "last_deadline_total_transfers": 35
 }

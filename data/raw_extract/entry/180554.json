@@ -9,11 +9,11 @@
     "player_region_name": "Croatia",
     "player_region_iso_code_short": "HR",
     "player_region_iso_code_long": "HRV",
-    "summary_overall_points": 1414,
-    "summary_overall_rank": 10420,
-    "summary_event_points": 62,
-    "summary_event_rank": 1220725,
-    "current_event": 22,
+    "summary_overall_points": 1490,
+    "summary_overall_rank": 8262,
+    "summary_event_points": 57,
+    "summary_event_rank": 1125235,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 50,
-                "entry_last_rank": 31
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 46,
+                "entry_last_rank": 70
             },
             {
                 "id": 182,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 5
+                "entry_rank": 9,
+                "entry_last_rank": 11
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10419,
-                "entry_last_rank": 6800
+                "entry_rank": 8261,
+                "entry_last_rank": 12406
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 10420,
-                "entry_last_rank": 6802
+                "entry_rank": 8262,
+                "entry_last_rank": 12407
             },
             {
                 "id": 15857,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 67,
-                "entry_last_rank": 34
+                "entry_rank": 62,
+                "entry_last_rank": 96
             },
             {
                 "id": 15950,
@@ -133,14 +133,14 @@
                 "scoring": "c",
                 "admin_entry": 469,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 210,
-                "entry_last_rank": 92
+                "cup_league": 2448135,
+                "cup_qualified": true,
+                "entry_rank": 163,
+                "entry_last_rank": 287
             },
             {
                 "id": 140133,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 121,
-                "entry_last_rank": 61
+                "entry_rank": 92,
+                "entry_last_rank": 143
             },
             {
                 "id": 870165,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
-                "entry_last_rank": 2
+                "entry_rank": 3,
+                "entry_last_rank": 6
             },
             {
                 "id": 928434,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 1347,
-                "entry_last_rank": 766
+                "entry_rank": 1171,
+                "entry_last_rank": 1633
             },
             {
                 "id": 987104,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 20746,
-                "entry_last_rank": 6592
+                "entry_rank": 19495,
+                "entry_last_rank": 28890
             }
         ],
         "h2h": [],
@@ -261,19 +261,19 @@
         },
         "cup_matches": [
             {
-                "id": 102477498,
-                "entry_1_entry": 180554,
-                "entry_1_name": "Domagoj Vida FC",
-                "entry_1_player_name": "Andreas Parsmyr",
-                "entry_1_points": 58,
+                "id": 106768375,
+                "entry_1_entry": 3624813,
+                "entry_1_name": "HUNTERS",
+                "entry_1_player_name": "OMAR SABER",
+                "entry_1_points": 52,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 8833680,
-                "entry_2_name": "Sage FC",
-                "entry_2_player_name": "Rebone Ramadie",
-                "entry_2_points": 40,
+                "entry_2_entry": 180554,
+                "entry_2_name": "Domagoj Vida FC",
+                "entry_2_player_name": "Andreas Parsmyr",
+                "entry_2_points": 57,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -282,25 +282,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102685838,
+                "id": 106849900,
                 "entry_1_entry": 180554,
                 "entry_1_name": "Domagoj Vida FC",
                 "entry_1_player_name": "Andreas Parsmyr",
-                "entry_1_points": 58,
+                "entry_1_points": 57,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1850371,
-                "entry_2_name": "فخر اليمن",
-                "entry_2_player_name": "Rami Alariki",
-                "entry_2_points": 50,
+                "entry_2_entry": 10450229,
+                "entry_2_name": "السفاح",
+                "entry_2_player_name": "Mohamed hosny",
+                "entry_2_points": 58,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -309,17 +309,71 @@
                 "league": 2381816,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108772977,
+                "entry_1_entry": 180554,
+                "entry_1_name": "Domagoj Vida FC",
+                "entry_1_player_name": "Andreas Parsmyr",
+                "entry_1_points": 57,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109792431,
+                "entry_1_entry": 4565625,
+                "entry_1_name": "L'appel du vide",
+                "entry_1_player_name": "Nyombi David",
+                "entry_1_points": 48,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 180554,
+                "entry_2_name": "Domagoj Vida FC",
+                "entry_2_player_name": "Andreas Parsmyr",
+                "entry_2_points": 57,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448135,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Domagoj Vida FC",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 85,
-    "last_deadline_value": 1037,
-    "last_deadline_total_transfers": 33
+    "last_deadline_bank": 60,
+    "last_deadline_value": 1041,
+    "last_deadline_total_transfers": 34
 }

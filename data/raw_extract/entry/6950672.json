@@ -9,11 +9,11 @@
     "player_region_name": "Australia",
     "player_region_iso_code_short": "AU",
     "player_region_iso_code_long": "AUS",
-    "summary_overall_points": 1417,
-    "summary_overall_rank": 8455,
-    "summary_event_points": 59,
-    "summary_event_rank": 1621676,
-    "current_event": 22,
+    "summary_overall_points": 1468,
+    "summary_overall_rank": 26356,
+    "summary_event_points": 34,
+    "summary_event_rank": 6466758,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 38,
-                "entry_last_rank": 22
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 147,
+                "entry_last_rank": 64
             },
             {
                 "id": 33,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431354,
                 "cup_qualified": true,
-                "entry_rank": 158,
-                "entry_last_rank": 104
+                "entry_rank": 483,
+                "entry_last_rank": 204
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8454,
-                "entry_last_rank": 5729
+                "entry_rank": 26353,
+                "entry_last_rank": 11377
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 8455,
-                "entry_last_rank": 5731
+                "entry_rank": 26356,
+                "entry_last_rank": 11378
             },
             {
                 "id": 189183,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2431368,
                 "cup_qualified": true,
-                "entry_rank": 158,
-                "entry_last_rank": 104
+                "entry_rank": 483,
+                "entry_last_rank": 204
             },
             {
                 "id": 2385997,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 600899,
-                "entry_last_rank": 607478
+                "entry_rank": 1234572,
+                "entry_last_rank": 668397
             }
         ],
         "h2h": [],
@@ -256,7 +256,7 @@
                 "entry_1_entry": 3865364,
                 "entry_1_name": "Son Tzu FC",
                 "entry_1_player_name": "Peter Wills",
-                "entry_1_points": 67,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -264,26 +264,53 @@
                 "entry_2_entry": 6950672,
                 "entry_2_name": "Royal Menyagi FC",
                 "entry_2_player_name": "Matt Skinner",
-                "entry_2_points": 59,
+                "entry_2_points": 76,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431368,
-                "winner": null,
+                "winner": 3865364,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 131072"
+            },
+            {
+                "id": 108775139,
+                "entry_1_entry": 6950672,
+                "entry_1_name": "Royal Menyagi FC",
+                "entry_1_player_name": "Matt Skinner",
+                "entry_1_points": 34,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Royal Menyagi FC",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 31,
-    "last_deadline_value": 1042,
-    "last_deadline_total_transfers": 23
+    "last_deadline_bank": 20,
+    "last_deadline_value": 1043,
+    "last_deadline_total_transfers": 24
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1455,
-    "summary_overall_rank": 652,
-    "summary_event_points": 79,
-    "summary_event_rank": 139113,
-    "current_event": 22,
+    "summary_overall_points": 1528,
+    "summary_overall_rank": 687,
+    "summary_event_points": 46,
+    "summary_event_rank": 3595463,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 27,
-                "entry_last_rank": 71
+                "entry_rank": 29,
+                "entry_last_rank": 21
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 652,
-                "entry_last_rank": 1658
+                "entry_rank": 687,
+                "entry_last_rank": 492
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 652,
-                "entry_last_rank": 1658
+                "entry_rank": 687,
+                "entry_last_rank": 492
             },
             {
                 "id": 852708,
@@ -118,8 +118,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 40474,
-                "entry_last_rank": 130526
+                "entry_rank": 45255,
+                "entry_last_rank": 27873
             }
         ],
         "h2h": [],
@@ -162,19 +162,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 103383705,
+                "id": 107172347,
                 "entry_1_entry": 6605746,
                 "entry_1_name": "Whyndon Wanderers",
                 "entry_1_player_name": "Aisling Corbally",
-                "entry_1_points": 79,
+                "entry_1_points": 46,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6972737,
-                "entry_2_name": "Oram Koppites",
-                "entry_2_player_name": "Paul Graham",
-                "entry_2_points": 36,
+                "entry_2_entry": 5005164,
+                "entry_2_name": "hit or miss",
+                "entry_2_player_name": "Jimmy Ruske",
+                "entry_2_points": 73,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -183,17 +183,17 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Whyndon Wanderers",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 19,
-    "last_deadline_value": 1042,
-    "last_deadline_total_transfers": 19
+    "last_deadline_bank": 28,
+    "last_deadline_value": 1040,
+    "last_deadline_total_transfers": 20
 }

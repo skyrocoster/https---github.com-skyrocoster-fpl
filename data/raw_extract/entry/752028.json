@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1294,
-    "summary_overall_rank": 873469,
-    "summary_event_points": 57,
-    "summary_event_rank": 1928661,
-    "current_event": 22,
+    "summary_overall_points": 1352,
+    "summary_overall_rank": 1031748,
+    "summary_event_points": 41,
+    "summary_event_rank": 4927225,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 304230,
-                "entry_last_rank": 267378
+                "entry_rank": 351814,
+                "entry_last_rank": 308811
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 871802,
-                "entry_last_rank": 751735
+                "entry_rank": 1029059,
+                "entry_last_rank": 884748
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 873469,
-                "entry_last_rank": 752939
+                "entry_rank": 1031748,
+                "entry_last_rank": 886504
             },
             {
                 "id": 1152,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4046,
-                "entry_last_rank": 3387
+                "entry_rank": 4587,
+                "entry_last_rank": 4149
             },
             {
                 "id": 6345,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 721,
-                "entry_last_rank": 590
+                "entry_rank": 840,
+                "entry_last_rank": 752
             },
             {
                 "id": 1171461,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 343062,
-                "entry_last_rank": 301845
+                "entry_rank": 396674,
+                "entry_last_rank": 348257
             },
             {
                 "id": 2385997,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1856701,
-                "entry_last_rank": 1656744
+                "entry_rank": 2230906,
+                "entry_last_rank": 1829341
             }
         ],
         "h2h": [],
@@ -283,7 +283,7 @@
     "name": "Sevilla Depression",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 1,
+    "last_deadline_bank": 4,
     "last_deadline_value": 1024,
-    "last_deadline_total_transfers": 27
+    "last_deadline_total_transfers": 28
 }

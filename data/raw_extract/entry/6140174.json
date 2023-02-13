@@ -9,11 +9,11 @@
     "player_region_name": "Norway",
     "player_region_iso_code_short": "NO",
     "player_region_iso_code_long": "NOR",
-    "summary_overall_points": 1494,
-    "summary_overall_rank": 35,
-    "summary_event_points": 62,
-    "summary_event_rank": 1220725,
-    "current_event": 22,
+    "summary_overall_points": 1550,
+    "summary_overall_rank": 138,
+    "summary_event_points": 38,
+    "summary_event_rank": 5597371,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 11,
-                "entry_last_rank": 7
+                "entry_rank": 36,
+                "entry_last_rank": 15
             },
             {
                 "id": 181,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431360,
                 "cup_qualified": true,
-                "entry_rank": 7,
-                "entry_last_rank": 5
+                "entry_rank": 14,
+                "entry_last_rank": 7
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 35,
-                "entry_last_rank": 27
+                "entry_rank": 138,
+                "entry_last_rank": 50
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 35,
-                "entry_last_rank": 27
+                "entry_rank": 138,
+                "entry_last_rank": 50
             },
             {
                 "id": 2126,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 14,
-                "entry_last_rank": 12
+                "entry_rank": 31,
+                "entry_last_rank": 16
             },
             {
                 "id": 1389600,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11106,
-                "entry_last_rank": 4832
+                "entry_rank": 56282,
+                "entry_last_rank": 18037
             },
             {
                 "id": 2428683,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 5
+                "entry_rank": 5,
+                "entry_last_rank": 3
             }
         ],
         "h2h": [],
@@ -246,19 +246,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102479944,
+                "id": 106763580,
                 "entry_1_entry": 6140174,
                 "entry_1_name": "Wooden Palace",
                 "entry_1_player_name": "Ørjan Johansen",
-                "entry_1_points": 62,
+                "entry_1_points": 38,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 612027,
-                "entry_2_name": "DeaThRow",
-                "entry_2_player_name": "Pres_ Hudini",
-                "entry_2_points": 56,
+                "entry_2_entry": 7928358,
+                "entry_2_name": "dawod",
+                "entry_2_player_name": "Mostafa Dawood",
+                "entry_2_points": 44,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -267,25 +267,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102568591,
+                "id": 106793672,
                 "entry_1_entry": 6140174,
                 "entry_1_name": "Wooden Palace",
                 "entry_1_player_name": "Ørjan Johansen",
-                "entry_1_points": 62,
+                "entry_1_points": 38,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2378266,
-                "entry_2_name": "Löv Ham",
-                "entry_2_player_name": "Jeremy Whyatt",
-                "entry_2_points": 43,
+                "entry_2_entry": 8723111,
+                "entry_2_name": "Edo Medo",
+                "entry_2_player_name": "Senahed Fetoski",
+                "entry_2_points": 53,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -294,17 +294,17 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104460587,
-                "entry_1_entry": 912513,
-                "entry_1_name": "Handropork",
-                "entry_1_player_name": "Asle Handro Nybakk",
-                "entry_1_points": 40,
+                "id": 107737448,
+                "entry_1_entry": 683718,
+                "entry_1_name": "Reece’s Rockets",
+                "entry_1_player_name": "Even Johnsen Solberg",
+                "entry_1_points": 54,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -312,7 +312,7 @@
                 "entry_2_entry": 6140174,
                 "entry_2_name": "Wooden Palace",
                 "entry_2_player_name": "Ørjan Johansen",
-                "entry_2_points": 62,
+                "entry_2_points": 38,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -321,17 +321,17 @@
                 "league": 2431360,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Wooden Palace",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"hoops\",\"kit_shirt_base\":\"#f31515\",\"kit_shirt_sleeves\":\"#f3973f\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#f01b0b\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#f5a623\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 28,
-    "last_deadline_value": 1040,
-    "last_deadline_total_transfers": 18
+    "last_deadline_bank": 37,
+    "last_deadline_value": 1045,
+    "last_deadline_total_transfers": 19
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1453,
-    "summary_overall_rank": 833,
-    "summary_event_points": 76,
-    "summary_event_rank": 234795,
-    "current_event": 22,
+    "summary_overall_points": 1510,
+    "summary_overall_rank": 2436,
+    "summary_event_points": 38,
+    "summary_event_rank": 5597371,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 194,
-                "entry_last_rank": 388
+                "entry_rank": 619,
+                "entry_last_rank": 243
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 35,
-                "entry_last_rank": 68
+                "entry_rank": 102,
+                "entry_last_rank": 51
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 833,
-                "entry_last_rank": 1625
+                "entry_rank": 2436,
+                "entry_last_rank": 1068
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 833,
-                "entry_last_rank": 1625
+                "entry_rank": 2436,
+                "entry_last_rank": 1068
             },
             {
                 "id": 9282,
@@ -133,14 +133,14 @@
                 "scoring": "c",
                 "admin_entry": 593251,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 22,
-                "entry_last_rank": 35
+                "cup_league": 2448141,
+                "cup_qualified": true,
+                "entry_rank": 59,
+                "entry_last_rank": 31
             },
             {
                 "id": 448103,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_rank": 2,
+                "entry_last_rank": 1
             },
             {
                 "id": 2385997,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 188782,
-                "entry_last_rank": 489326
+                "entry_rank": 430965,
+                "entry_last_rank": 213662
             }
         ],
         "h2h": [],
@@ -267,19 +267,19 @@
                 "knockout_name": "Round of 8388608"
             },
             {
-                "id": 102547917,
-                "entry_1_entry": 3390,
-                "entry_1_name": "Blessington Babes",
-                "entry_1_player_name": "Conor's Team",
-                "entry_1_points": 76,
+                "id": 106773623,
+                "entry_1_entry": 2114201,
+                "entry_1_name": "Red Titans FC",
+                "entry_1_player_name": "Shreyas Tulpule",
+                "entry_1_points": 37,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6929708,
-                "entry_2_name": "Delight",
-                "entry_2_player_name": "Paul Gomey",
-                "entry_2_points": 40,
+                "entry_2_entry": 3390,
+                "entry_2_name": "Blessington Babes",
+                "entry_2_player_name": "Conor's Team",
+                "entry_2_points": 38,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -288,25 +288,25 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103373367,
+                "id": 107174454,
                 "entry_1_entry": 3390,
                 "entry_1_name": "Blessington Babes",
                 "entry_1_player_name": "Conor's Team",
-                "entry_1_points": 76,
+                "entry_1_points": 38,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 257849,
-                "entry_2_name": "dealers 11",
-                "entry_2_player_name": "Jake Downing",
-                "entry_2_points": 61,
+                "entry_2_entry": 1007548,
+                "entry_2_name": "DZIKIE RYJE",
+                "entry_2_player_name": "Adam Cyganik",
+                "entry_2_points": 59,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -315,17 +315,44 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109986927,
+                "entry_1_entry": 3390,
+                "entry_1_name": "Blessington Babes",
+                "entry_1_player_name": "Conor's Team",
+                "entry_1_points": 38,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448141,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Blessington Babes",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"hoops\",\"kit_shirt_base\":\"#f8e71c\",\"kit_shirt_sleeves\":\"#d00243\",\"kit_shirt_secondary\":\"#b8e986\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#b8e986\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#d0021b\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 3,
-    "last_deadline_value": 1032,
-    "last_deadline_total_transfers": 34
+    "last_deadline_bank": 19,
+    "last_deadline_value": 1034,
+    "last_deadline_total_transfers": 35
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1318,
-    "summary_overall_rank": 507282,
-    "summary_event_points": 79,
-    "summary_event_rank": 139113,
-    "current_event": 22,
+    "summary_overall_points": 1406,
+    "summary_overall_rank": 299271,
+    "summary_event_points": 61,
+    "summary_event_rank": 548411,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 123181,
-                "entry_last_rank": 204962
+                "entry_rank": 75802,
+                "entry_last_rank": 102499
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 47,
-                "entry_last_rank": 75
+                "entry_rank": 29,
+                "entry_last_rank": 41
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 506786,
-                "entry_last_rank": 859257
+                "entry_rank": 299056,
+                "entry_last_rank": 413844
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 507282,
-                "entry_last_rank": 860891
+                "entry_rank": 299271,
+                "entry_last_rank": 414167
             },
             {
                 "id": 2385997,
@@ -118,8 +118,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18110,
-                "entry_last_rank": 57202
+                "entry_rank": 5681,
+                "entry_last_rank": 12538
             }
         ],
         "h2h": [],
@@ -162,19 +162,19 @@
                 "knockout_name": "Round of 8388608"
             },
             {
-                "id": 102569224,
-                "entry_1_entry": 2056589,
-                "entry_1_name": "MAFKHAN",
-                "entry_1_player_name": "Mahmood Khan",
-                "entry_1_points": 79,
+                "id": 106782927,
+                "entry_1_entry": 7068746,
+                "entry_1_name": "ECO-Chen",
+                "entry_1_player_name": "diandian chen",
+                "entry_1_points": 52,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 5934096,
-                "entry_2_name": "Adam",
-                "entry_2_player_name": "Adam Mostafa",
-                "entry_2_points": 72,
+                "entry_2_entry": 2056589,
+                "entry_2_name": "MAFKHAN",
+                "entry_2_player_name": "Mahmood Khan",
+                "entry_2_points": 61,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -183,10 +183,10 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -194,6 +194,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 0,
-    "last_deadline_value": 1043,
+    "last_deadline_value": 1045,
     "last_deadline_total_transfers": 21
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1351,
-    "summary_overall_rank": 189828,
-    "summary_event_points": 60,
-    "summary_event_rank": 1481702,
-    "current_event": 22,
+    "summary_overall_points": 1419,
+    "summary_overall_rank": 201261,
+    "summary_event_points": 53,
+    "summary_event_rank": 1990857,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 23598,
-                "entry_last_rank": 22165
+                "entry_rank": 24880,
+                "entry_last_rank": 24641
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 20,
-                "entry_last_rank": 17
+                "entry_rank": 18,
+                "entry_last_rank": 22
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 189744,
-                "entry_last_rank": 181333
+                "entry_rank": 201150,
+                "entry_last_rank": 198637
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 189828,
-                "entry_last_rank": 181420
+                "entry_rank": 201261,
+                "entry_last_rank": 198724
             },
             {
                 "id": 1413,
@@ -112,14 +112,14 @@
                 "scoring": "c",
                 "admin_entry": 1266,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 5476,
-                "entry_last_rank": 4217
+                "cup_league": 2448132,
+                "cup_qualified": true,
+                "entry_rank": 5811,
+                "entry_last_rank": 6192
             },
             {
                 "id": 4194,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 12364,
-                "entry_last_rank": 9863
+                "entry_rank": 12895,
+                "entry_last_rank": 13891
             },
             {
                 "id": 1041544,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 525286,
-                "entry_last_rank": 547092
+                "entry_rank": 588542,
+                "entry_last_rank": 542214
             }
         ],
         "h2h": [],
@@ -256,7 +256,7 @@
                 "entry_1_entry": 1544297,
                 "entry_1_name": "JMC The Belligerent",
                 "entry_1_player_name": "John Chung",
-                "entry_1_points": 60,
+                "entry_1_points": 79,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -264,26 +264,53 @@
                 "entry_2_entry": 67725,
                 "entry_2_name": "KremmerHuus",
                 "entry_2_player_name": "Jo Huus",
-                "entry_2_points": 63,
+                "entry_2_points": 80,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 67725,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 131072"
+            },
+            {
+                "id": 109704717,
+                "entry_1_entry": 5465055,
+                "entry_1_name": "Grizzly Hunters",
+                "entry_1_player_name": "Aldrich Mendes",
+                "entry_1_points": 45,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 1544297,
+                "entry_2_name": "JMC The Belligerent",
+                "entry_2_player_name": "John Chung",
+                "entry_2_points": 49,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448132,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "JMC The Belligerent",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 45,
-    "last_deadline_value": 1016,
-    "last_deadline_total_transfers": 28
+    "last_deadline_bank": 21,
+    "last_deadline_value": 1015,
+    "last_deadline_total_transfers": 30
 }

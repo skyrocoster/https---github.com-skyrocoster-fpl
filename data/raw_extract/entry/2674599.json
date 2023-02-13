@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1463,
-    "summary_overall_rank": 362,
-    "summary_event_points": 79,
-    "summary_event_rank": 139113,
-    "current_event": 22,
+    "summary_overall_points": 1537,
+    "summary_overall_rank": 354,
+    "summary_event_points": 51,
+    "summary_event_rank": 2422063,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 88,
-                "entry_last_rank": 221
+                "entry_rank": 86,
+                "entry_last_rank": 66
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 18,
-                "entry_last_rank": 43
+                "entry_rank": 10,
+                "entry_last_rank": 12
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 362,
-                "entry_last_rank": 938
+                "entry_rank": 354,
+                "entry_last_rank": 281
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 362,
-                "entry_last_rank": 938
+                "entry_rank": 354,
+                "entry_last_rank": 281
             },
             {
                 "id": 23214,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 194319,
-                "entry_last_rank": 612201
+                "entry_rank": 177321,
+                "entry_last_rank": 133218
             }
         ],
         "h2h": [],
@@ -273,19 +273,19 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 103360272,
-                "entry_1_entry": 6610748,
-                "entry_1_name": "Watson for Canton",
-                "entry_1_player_name": "Michael O'Donoghue",
-                "entry_1_points": 36,
+                "id": 107164520,
+                "entry_1_entry": 2674599,
+                "entry_1_name": "Man Red",
+                "entry_1_player_name": "David Crean",
+                "entry_1_points": 47,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2674599,
-                "entry_2_name": "Man Red",
-                "entry_2_player_name": "David Crean",
-                "entry_2_points": 79,
+                "entry_2_entry": 2709341,
+                "entry_2_name": "Boomtown FC",
+                "entry_2_player_name": "grahame kennedy",
+                "entry_2_points": 43,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -294,17 +294,17 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Man Red",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 58,
-    "last_deadline_value": 1046,
-    "last_deadline_total_transfers": 25
+    "last_deadline_bank": 67,
+    "last_deadline_value": 1044,
+    "last_deadline_total_transfers": 27
 }

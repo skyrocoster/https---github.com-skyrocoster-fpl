@@ -9,11 +9,11 @@
     "player_region_name": "Norway",
     "player_region_iso_code_short": "NO",
     "player_region_iso_code_long": "NOR",
-    "summary_overall_points": 1503,
-    "summary_overall_rank": 23,
-    "summary_event_points": 88,
-    "summary_event_rank": 23730,
-    "current_event": 22,
+    "summary_overall_points": 1584,
+    "summary_overall_rank": 8,
+    "summary_event_points": 58,
+    "summary_event_rank": 1009666,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 6,
-                "entry_last_rank": 22
+                "entry_rank": 3,
+                "entry_last_rank": 5
             },
             {
                 "id": 181,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431360,
                 "cup_qualified": true,
-                "entry_rank": 4,
-                "entry_last_rank": 12
+                "entry_rank": 1,
+                "entry_last_rank": 3
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 23,
-                "entry_last_rank": 91
+                "entry_rank": 8,
+                "entry_last_rank": 16
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 23,
-                "entry_last_rank": 91
+                "entry_rank": 8,
+                "entry_last_rank": 16
             },
             {
                 "id": 119645,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 2
+                "entry_rank": 1,
+                "entry_last_rank": 1
             },
             {
                 "id": 171502,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 9,
-                "entry_last_rank": 24
+                "entry_rank": 3,
+                "entry_last_rank": 6
             },
             {
                 "id": 692776,
@@ -370,8 +370,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 347,
-                "entry_last_rank": 3107
+                "entry_rank": 238,
+                "entry_last_rank": 243
             }
         ],
         "h2h": [],
@@ -387,19 +387,19 @@
         },
         "cup_matches": [
             {
-                "id": 102518467,
-                "entry_1_entry": 3592082,
-                "entry_1_name": "Mee Goreng Mamak",
-                "entry_1_player_name": "Syahid Ibrahim",
-                "entry_1_points": 38,
+                "id": 106751731,
+                "entry_1_entry": 370837,
+                "entry_1_name": "GGMU",
+                "entry_1_player_name": "Erik Rieber-Mohn",
+                "entry_1_points": 54,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 370837,
-                "entry_2_name": "GGMU",
-                "entry_2_player_name": "Erik Rieber-Mohn",
-                "entry_2_points": 88,
+                "entry_2_entry": 5413540,
+                "entry_2_name": "Lowfields Boys Pen",
+                "entry_2_player_name": "Peter Moss",
+                "entry_2_points": 64,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -408,25 +408,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102597266,
-                "entry_1_entry": 2597953,
-                "entry_1_name": "Erik Ten'S hag's",
-                "entry_1_player_name": "Filip Michalak",
-                "entry_1_points": 70,
+                "id": 106784633,
+                "entry_1_entry": 370837,
+                "entry_1_name": "GGMU",
+                "entry_1_player_name": "Erik Rieber-Mohn",
+                "entry_1_points": 54,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 370837,
-                "entry_2_name": "GGMU",
-                "entry_2_player_name": "Erik Rieber-Mohn",
-                "entry_2_points": 88,
+                "entry_2_entry": 6352330,
+                "entry_2_name": "IndoUnited",
+                "entry_2_player_name": "Akilu Musa Muhammad",
+                "entry_2_points": 60,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -435,25 +435,25 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103129348,
-                "entry_1_entry": 6820711,
-                "entry_1_name": "Indianer och Cowboys",
-                "entry_1_player_name": "Annika Fogelström Helmer",
-                "entry_1_points": 42,
+                "id": 107063777,
+                "entry_1_entry": 370837,
+                "entry_1_name": "GGMU",
+                "entry_1_player_name": "Erik Rieber-Mohn",
+                "entry_1_points": 54,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 370837,
-                "entry_2_name": "GGMU",
-                "entry_2_player_name": "Erik Rieber-Mohn",
-                "entry_2_points": 88,
+                "entry_2_entry": 2523115,
+                "entry_2_name": "kubaiszymon",
+                "entry_2_player_name": "Kuba Skrobek",
+                "entry_2_points": 45,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -462,25 +462,25 @@
                 "league": 2412737,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104504104,
-                "entry_1_entry": 5024377,
-                "entry_1_name": "Flatfield Turfers",
-                "entry_1_player_name": "Kristoffer fladmark",
-                "entry_1_points": 30,
+                "id": 107725988,
+                "entry_1_entry": 370837,
+                "entry_1_name": "GGMU",
+                "entry_1_player_name": "Erik Rieber-Mohn",
+                "entry_1_points": 54,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 370837,
-                "entry_2_name": "GGMU",
-                "entry_2_player_name": "Erik Rieber-Mohn",
-                "entry_2_points": 88,
+                "entry_2_entry": 2311903,
+                "entry_2_name": "Kjelleteien FK",
+                "entry_2_player_name": "Eivind Haugland",
+                "entry_2_points": 24,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -489,17 +489,17 @@
                 "league": 2431360,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "GGMU",
     "name_change_blocked": false,
-    "kit": null,
-    "last_deadline_bank": 46,
-    "last_deadline_value": 1052,
-    "last_deadline_total_transfers": 33
+    "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#ffffff\",\"kit_shirt_sleeves\":\"#ffffff\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"no-racism\",\"kit_shorts\":\"#000000\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#000000\",\"kit_socks_secondary\":\"#E1E1E1\"}",
+    "last_deadline_bank": 45,
+    "last_deadline_value": 1050,
+    "last_deadline_total_transfers": 35
 }

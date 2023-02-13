@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1416,
-    "summary_overall_rank": 9029,
-    "summary_event_points": 64,
-    "summary_event_rank": 987598,
-    "current_event": 22,
+    "summary_overall_points": 1480,
+    "summary_overall_rank": 14131,
+    "summary_event_points": 50,
+    "summary_event_rank": 2648528,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 42,
-                "entry_last_rank": 38
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 79,
+                "entry_last_rank": 65
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 3319,
-                "entry_last_rank": 3214
+                "entry_rank": 4968,
+                "entry_last_rank": 4178
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9028,
-                "entry_last_rank": 8460
+                "entry_rank": 14130,
+                "entry_last_rank": 11405
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 9029,
-                "entry_last_rank": 8462
+                "entry_rank": 14131,
+                "entry_last_rank": 11406
             },
             {
                 "id": 314259,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 3798,
-                "entry_last_rank": 3669
+                "entry_rank": 5692,
+                "entry_last_rank": 4779
             },
             {
                 "id": 2167098,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 184413,
-                "entry_last_rank": 202038
+                "entry_rank": 298287,
+                "entry_last_rank": 221639
             }
         ],
         "h2h": [],
@@ -298,13 +298,40 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 1048576"
+            },
+            {
+                "id": 108772522,
+                "entry_1_entry": 2173745,
+                "entry_1_name": "Martinellitubbies",
+                "entry_1_player_name": "Luke Shillito",
+                "entry_1_points": 46,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Martinellitubbies",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 56,
-    "last_deadline_value": 1040,
-    "last_deadline_total_transfers": 24
+    "last_deadline_bank": 90,
+    "last_deadline_value": 1042,
+    "last_deadline_total_transfers": 26
 }

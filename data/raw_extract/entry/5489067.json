@@ -9,11 +9,11 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1516,
-    "summary_overall_rank": 7,
-    "summary_event_points": 80,
-    "summary_event_rank": 102857,
-    "current_event": 22,
+    "summary_overall_points": 1577,
+    "summary_overall_rank": 19,
+    "summary_event_points": 48,
+    "summary_event_rank": 2958218,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405678,
                 "cup_qualified": true,
-                "entry_rank": 1,
-                "entry_last_rank": 3
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 120,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
-                "entry_last_rank": 24
+                "entry_rank": 19,
+                "entry_last_rank": 17
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 7,
-                "entry_last_rank": 24
+                "entry_rank": 19,
+                "entry_last_rank": 17
             },
             {
                 "id": 513209,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6508,
-                "entry_last_rank": 21915
+                "entry_rank": 25478,
+                "entry_last_rank": 17571
             }
         ],
         "h2h": [],
@@ -204,11 +204,38 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 103015329,
-                "entry_1_entry": 9070844,
-                "entry_1_name": "ceez69",
-                "entry_1_player_name": "Cesar Zebian",
-                "entry_1_points": 54,
+                "id": 104814964,
+                "entry_1_entry": 5489067,
+                "entry_1_name": "abhi11",
+                "entry_1_player_name": "Abhishek Kumar Singh",
+                "entry_1_points": 93,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 63625,
+                "entry_2_name": "Reds",
+                "entry_2_player_name": "Amod Nagpure",
+                "entry_2_points": 102,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2431366,
+                "winner": 63625,
+                "seed_value": null,
+                "event": 22,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 131072"
+            },
+            {
+                "id": 107001192,
+                "entry_1_entry": 73473,
+                "entry_1_name": "_SOUFIAN00_",
+                "entry_1_player_name": "Soufiane Rami",
+                "entry_1_points": 38,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -216,7 +243,7 @@
                 "entry_2_entry": 5489067,
                 "entry_2_name": "abhi11",
                 "entry_2_player_name": "Abhishek Kumar Singh",
-                "entry_2_points": 80,
+                "entry_2_points": 48,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -225,25 +252,25 @@
                 "league": 2405678,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104178304,
-                "entry_1_entry": 8185568,
-                "entry_1_name": "RiSa FC",
-                "entry_1_player_name": "Lalrinawma Khawlhring",
-                "entry_1_points": 43,
+                "id": 107589819,
+                "entry_1_entry": 5489067,
+                "entry_1_name": "abhi11",
+                "entry_1_player_name": "Abhishek Kumar Singh",
+                "entry_1_points": 48,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 5489067,
-                "entry_2_name": "abhi11",
-                "entry_2_player_name": "Abhishek Kumar Singh",
-                "entry_2_points": 80,
+                "entry_2_entry": 2480,
+                "entry_2_name": "FTWFC",
+                "entry_2_player_name": "Ronak Chopra",
+                "entry_2_points": 45,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -252,37 +279,10 @@
                 "league": 2431356,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
-            },
-            {
-                "id": 104814964,
-                "entry_1_entry": 5489067,
-                "entry_1_name": "abhi11",
-                "entry_1_player_name": "Abhishek Kumar Singh",
-                "entry_1_points": 80,
-                "entry_1_win": 0,
-                "entry_1_draw": 0,
-                "entry_1_loss": 0,
-                "entry_1_total": 0,
-                "entry_2_entry": 63625,
-                "entry_2_name": "Reds",
-                "entry_2_player_name": "Amod Nagpure",
-                "entry_2_points": 75,
-                "entry_2_win": 0,
-                "entry_2_draw": 0,
-                "entry_2_loss": 0,
-                "entry_2_total": 0,
-                "is_knockout": true,
-                "league": 2431366,
-                "winner": null,
-                "seed_value": null,
-                "event": 22,
-                "tiebreak": null,
-                "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -290,6 +290,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 15,
-    "last_deadline_value": 1049,
+    "last_deadline_value": 1056,
     "last_deadline_total_transfers": 36
 }

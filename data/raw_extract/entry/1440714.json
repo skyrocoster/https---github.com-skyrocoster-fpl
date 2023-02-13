@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1485,
-    "summary_overall_rank": 66,
-    "summary_event_points": 76,
-    "summary_event_rank": 226723,
-    "current_event": 22,
+    "summary_overall_points": 1564,
+    "summary_overall_rank": 47,
+    "summary_event_points": 60,
+    "summary_event_rank": 648874,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 6,
-                "entry_last_rank": 18
+                "entry_rank": 4,
+                "entry_last_rank": 6
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 15,
-                "entry_last_rank": 42
+                "entry_rank": 11,
+                "entry_last_rank": 24
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 66,
-                "entry_last_rank": 147
+                "entry_rank": 47,
+                "entry_last_rank": 84
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 66,
-                "entry_last_rank": 147
+                "entry_rank": 47,
+                "entry_last_rank": 84
             },
             {
                 "id": 150756,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 7
+                "entry_rank": 1,
+                "entry_last_rank": 2
             },
             {
                 "id": 599694,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 19,
-                "entry_last_rank": 54
+                "entry_rank": 14,
+                "entry_last_rank": 30
             },
             {
                 "id": 2322800,
@@ -307,8 +307,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 24091,
-                "entry_last_rank": 58226
+                "entry_rank": 17329,
+                "entry_last_rank": 33036
             },
             {
                 "id": 2392877,
@@ -426,19 +426,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 102656583,
-                "entry_1_entry": 2935,
-                "entry_1_name": "No Mané, Mo Problems",
-                "entry_1_player_name": "Jacob Haycox",
-                "entry_1_points": 57,
+                "id": 106813870,
+                "entry_1_entry": 1440714,
+                "entry_1_name": "Burkamp FC",
+                "entry_1_player_name": "Nick Burke",
+                "entry_1_points": 60,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1440714,
-                "entry_2_name": "Burkamp FC",
-                "entry_2_player_name": "Nick Burke",
-                "entry_2_points": 76,
+                "entry_2_entry": 10783195,
+                "entry_2_name": "Ball of Duty",
+                "entry_2_player_name": "Richard Wallace",
+                "entry_2_points": 41,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -447,17 +447,17 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Burkamp FC",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#d0021b\",\"kit_shirt_sleeves\":\"#ffffff\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#ffffff\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#d0021b\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 25,
-    "last_deadline_value": 1044,
+    "last_deadline_bank": 32,
+    "last_deadline_value": 1041,
     "last_deadline_total_transfers": 25
 }

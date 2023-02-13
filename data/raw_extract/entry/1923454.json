@@ -9,11 +9,11 @@
     "player_region_name": "Wales",
     "player_region_iso_code_short": "WA",
     "player_region_iso_code_long": "WAL",
-    "summary_overall_points": 1503,
-    "summary_overall_rank": 21,
-    "summary_event_points": 77,
-    "summary_event_rank": 203324,
-    "current_event": 22,
+    "summary_overall_points": 1563,
+    "summary_overall_rank": 52,
+    "summary_event_points": 41,
+    "summary_event_rank": 4927225,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 4,
-                "entry_last_rank": 8
+                "entry_rank": 8,
+                "entry_last_rank": 4
             },
             {
                 "id": 264,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21,
-                "entry_last_rank": 39
+                "entry_rank": 52,
+                "entry_last_rank": 26
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 21,
-                "entry_last_rank": 39
+                "entry_rank": 52,
+                "entry_last_rank": 26
             },
             {
                 "id": 2099,
@@ -175,13 +175,13 @@
                 "scoring": "c",
                 "admin_entry": 1733314,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 2,
+                "cup_league": 2448144,
+                "cup_qualified": true,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             },
             {
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_rank": 2,
+                "entry_last_rank": 1
             },
             {
                 "id": 983083,
@@ -307,8 +307,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 6,
-                "entry_last_rank": 12
+                "entry_rank": 16,
+                "entry_last_rank": 7
             },
             {
                 "id": 1184224,
@@ -349,8 +349,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 57831,
-                "entry_last_rank": 158641
+                "entry_rank": 149422,
+                "entry_last_rank": 72779
             }
         ],
         "h2h": [],
@@ -393,19 +393,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 102485572,
-                "entry_1_entry": 1468617,
-                "entry_1_name": "Lallanas in Pyjamas",
-                "entry_1_player_name": "Jack Kirby",
-                "entry_1_points": 49,
+                "id": 106742210,
+                "entry_1_entry": 1923454,
+                "entry_1_name": "Team Name",
+                "entry_1_player_name": "Rhydian Eldridge",
+                "entry_1_points": 41,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1923454,
-                "entry_2_name": "Team Name",
-                "entry_2_player_name": "Rhydian Eldridge",
-                "entry_2_points": 77,
+                "entry_2_entry": 629324,
+                "entry_2_name": "ClarkeXI",
+                "entry_2_player_name": "George Clarke",
+                "entry_2_points": 38,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -414,25 +414,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102985488,
-                "entry_1_entry": 1923454,
-                "entry_1_name": "Team Name",
-                "entry_1_player_name": "Rhydian Eldridge",
-                "entry_1_points": 77,
+                "id": 106972046,
+                "entry_1_entry": 240322,
+                "entry_1_name": "Hempys Heroes",
+                "entry_1_player_name": "Niall Hempenstall",
+                "entry_1_points": 39,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 10256872,
-                "entry_2_name": "حسام احمد�Howard",
-                "entry_2_player_name": "Hossam Ahmed",
-                "entry_2_points": 22,
+                "entry_2_entry": 1923454,
+                "entry_2_name": "Team Name",
+                "entry_2_player_name": "Rhydian Eldridge",
+                "entry_2_points": 41,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -441,17 +441,44 @@
                 "league": 2405675,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105818109,
+                "id": 108411672,
                 "entry_1_entry": 1923454,
                 "entry_1_name": "Team Name",
                 "entry_1_player_name": "Rhydian Eldridge",
-                "entry_1_points": 77,
+                "entry_1_points": 41,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 4546697,
+                "entry_2_name": "Mally BFC",
+                "entry_2_player_name": "Mally Bishop",
+                "entry_2_points": 40,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437806,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 110084230,
+                "entry_1_entry": 1923454,
+                "entry_1_name": "Team Name",
+                "entry_1_player_name": "Rhydian Eldridge",
+                "entry_1_points": 41,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -465,20 +492,20 @@
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2437806,
+                "league": 2448144,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Team Name",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 10,
-    "last_deadline_value": 1049,
-    "last_deadline_total_transfers": 29
+    "last_deadline_bank": 26,
+    "last_deadline_value": 1052,
+    "last_deadline_total_transfers": 30
 }

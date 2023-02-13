@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1428,
-    "summary_overall_rank": 4307,
-    "summary_event_points": 66,
-    "summary_event_rank": 834584,
-    "current_event": 22,
+    "summary_overall_points": 1505,
+    "summary_overall_rank": 3220,
+    "summary_event_points": 52,
+    "summary_event_rank": 2134200,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 22,
-                "entry_last_rank": 14
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 16,
+                "entry_last_rank": 17
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 1549,
-                "entry_last_rank": 1278
+                "entry_rank": 1111,
+                "entry_last_rank": 1322
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4306,
-                "entry_last_rank": 3343
+                "entry_rank": 3220,
+                "entry_last_rank": 3676
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 4307,
-                "entry_last_rank": 3343
+                "entry_rank": 3220,
+                "entry_last_rank": 3676
             },
             {
                 "id": 2289,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1782,
-                "entry_last_rank": 1465
+                "entry_rank": 1281,
+                "entry_last_rank": 1521
             },
             {
                 "id": 2385997,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 84044,
-                "entry_last_rank": 63732
+                "entry_rank": 66234,
+                "entry_last_rank": 66667
             }
         ],
         "h2h": [
@@ -316,11 +316,11 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102492094,
-                "entry_1_entry": 4442416,
-                "entry_1_name": "Nohope",
-                "entry_1_player_name": "Daniel Levett",
-                "entry_1_points": 57,
+                "id": 106744255,
+                "entry_1_entry": 2251797,
+                "entry_1_name": "Pny Fc",
+                "entry_1_player_name": "Mohamed sayedahmed",
+                "entry_1_points": 48,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -328,7 +328,7 @@
                 "entry_2_entry": 3358780,
                 "entry_2_name": "It doesn’t Mata",
                 "entry_2_player_name": "Dev Solanki",
-                "entry_2_points": 62,
+                "entry_2_points": 52,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -337,17 +337,44 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108770035,
+                "entry_1_entry": 3358780,
+                "entry_1_name": "It doesn’t Mata",
+                "entry_1_player_name": "Dev Solanki",
+                "entry_1_points": 52,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "It doesn’t Mata",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 28,
-    "last_deadline_value": 1044,
-    "last_deadline_total_transfers": 22
+    "last_deadline_bank": 47,
+    "last_deadline_value": 1046,
+    "last_deadline_total_transfers": 23
 }

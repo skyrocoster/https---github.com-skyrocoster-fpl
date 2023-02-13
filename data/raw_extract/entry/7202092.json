@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1480,
-    "summary_overall_rank": 100,
-    "summary_event_points": 79,
-    "summary_event_rank": 147426,
-    "current_event": 22,
+    "summary_overall_points": 1551,
+    "summary_overall_rank": 132,
+    "summary_event_points": 49,
+    "summary_event_rank": 2892334,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 30,
-                "entry_last_rank": 87
+                "entry_rank": 36,
+                "entry_last_rank": 19
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 100,
-                "entry_last_rank": 280
+                "entry_rank": 132,
+                "entry_last_rank": 73
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 100,
-                "entry_last_rank": 280
+                "entry_rank": 132,
+                "entry_last_rank": 73
             },
             {
                 "id": 814632,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 38,
-                "entry_last_rank": 106
+                "entry_rank": 43,
+                "entry_last_rank": 25
             },
             {
                 "id": 2385997,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 49113,
-                "entry_last_rank": 158641
+                "entry_rank": 62839,
+                "entry_last_rank": 36460
             }
         ],
         "h2h": [],
@@ -241,7 +241,7 @@
     "name": "Beeches Rovers",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#2168b8\",\"kit_shirt_sleeves\":\"#ffffff\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#431eb6\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#ffffff\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 30,
-    "last_deadline_value": 1052,
-    "last_deadline_total_transfers": 28
+    "last_deadline_bank": 1,
+    "last_deadline_value": 1053,
+    "last_deadline_total_transfers": 30
 }

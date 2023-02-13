@@ -9,11 +9,11 @@
     "player_region_name": "Bosnia-Herzegovina",
     "player_region_iso_code_short": "BA",
     "player_region_iso_code_long": "BIH",
-    "summary_overall_points": 1424,
-    "summary_overall_rank": 5687,
-    "summary_event_points": 79,
-    "summary_event_rank": 147426,
-    "current_event": 22,
+    "summary_overall_points": 1509,
+    "summary_overall_rank": 2584,
+    "summary_event_points": 58,
+    "summary_event_rank": 960154,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 28,
-                "entry_last_rank": 56
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 11,
+                "entry_last_rank": 20
             },
             {
                 "id": 47,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 12,
-                "entry_last_rank": 47
+                "entry_rank": 10,
+                "entry_last_rank": 10
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5686,
-                "entry_last_rank": 13235
+                "entry_rank": 2584,
+                "entry_last_rank": 4273
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 5687,
-                "entry_last_rank": 13238
+                "entry_rank": 2584,
+                "entry_last_rank": 4273
             },
             {
                 "id": 440,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2431365,
                 "cup_qualified": true,
-                "entry_rank": 79,
-                "entry_last_rank": 204
+                "entry_rank": 41,
+                "entry_last_rank": 57
             },
             {
                 "id": 22461,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 16
+                "entry_rank": 6,
+                "entry_last_rank": 9
             },
             {
                 "id": 162684,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
-                "entry_last_rank": 13
+                "entry_rank": 4,
+                "entry_last_rank": 7
             },
             {
                 "id": 168081,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 16
+                "entry_rank": 5,
+                "entry_last_rank": 7
             },
             {
                 "id": 248924,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 7
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 250214,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
-                "entry_last_rank": 11
+                "entry_rank": 6,
+                "entry_last_rank": 7
             },
             {
                 "id": 327768,
@@ -286,8 +286,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 3
+                "entry_rank": 1,
+                "entry_last_rank": 2
             },
             {
                 "id": 632453,
@@ -307,8 +307,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9,
-                "entry_last_rank": 21
+                "entry_rank": 5,
+                "entry_last_rank": 10
             },
             {
                 "id": 760064,
@@ -328,8 +328,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 31,
-                "entry_last_rank": 64
+                "entry_rank": 14,
+                "entry_last_rank": 26
             },
             {
                 "id": 760565,
@@ -391,8 +391,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 10
+                "entry_rank": 1,
+                "entry_last_rank": 5
             },
             {
                 "id": 796973,
@@ -412,8 +412,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 14
+                "entry_rank": 6,
+                "entry_last_rank": 9
             },
             {
                 "id": 905862,
@@ -433,8 +433,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
-                "entry_last_rank": 10
+                "entry_rank": 2,
+                "entry_last_rank": 4
             },
             {
                 "id": 1087698,
@@ -454,8 +454,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
-                "entry_last_rank": 30
+                "entry_rank": 7,
+                "entry_last_rank": 10
             },
             {
                 "id": 1137592,
@@ -475,8 +475,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 15,
-                "entry_last_rank": 30
+                "entry_rank": 9,
+                "entry_last_rank": 13
             },
             {
                 "id": 1171462,
@@ -496,8 +496,8 @@
                 "has_cup": true,
                 "cup_league": 2431371,
                 "cup_qualified": true,
-                "entry_rank": 110,
-                "entry_last_rank": 281
+                "entry_rank": 60,
+                "entry_last_rank": 89
             },
             {
                 "id": 1226319,
@@ -517,8 +517,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
-                "entry_last_rank": 11
+                "entry_rank": 2,
+                "entry_last_rank": 3
             },
             {
                 "id": 1387203,
@@ -538,8 +538,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
-                "entry_last_rank": 16
+                "entry_rank": 5,
+                "entry_last_rank": 11
             },
             {
                 "id": 1932628,
@@ -560,7 +560,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 5
+                "entry_last_rank": 2
             },
             {
                 "id": 2385997,
@@ -580,8 +580,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 24845,
-                "entry_last_rank": 79574
+                "entry_rank": 10408,
+                "entry_last_rank": 17148
             }
         ],
         "h2h": [],
@@ -597,19 +597,19 @@
         },
         "cup_matches": [
             {
-                "id": 104723240,
-                "entry_1_entry": 1458762,
-                "entry_1_name": "የጣናው ሞገድ",
-                "entry_1_player_name": "Yared Kassahun",
-                "entry_1_points": 52,
+                "id": 107864346,
+                "entry_1_entry": 63783,
+                "entry_1_name": "GRETNA",
+                "entry_1_player_name": "Dragan Bursac",
+                "entry_1_points": 58,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 63783,
-                "entry_2_name": "GRETNA",
-                "entry_2_player_name": "Dragan Bursac",
-                "entry_2_points": 79,
+                "entry_2_entry": 2007521,
+                "entry_2_name": "Morry seals",
+                "entry_2_player_name": "Morry Ngash",
+                "entry_2_points": 32,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -618,25 +618,25 @@
                 "league": 2431365,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104932437,
-                "entry_1_entry": 63783,
-                "entry_1_name": "GRETNA",
-                "entry_1_player_name": "Dragan Bursac",
-                "entry_1_points": 79,
+                "id": 107958214,
+                "entry_1_entry": 10829626,
+                "entry_1_name": "terminatori",
+                "entry_1_player_name": "nakov game",
+                "entry_1_points": 51,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 3029066,
-                "entry_2_name": "sale2019",
-                "entry_2_player_name": "Aleksandar Todorovic",
-                "entry_2_points": 29,
+                "entry_2_entry": 63783,
+                "entry_2_name": "GRETNA",
+                "entry_2_player_name": "Dragan Bursac",
+                "entry_2_points": 58,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -645,17 +645,44 @@
                 "league": 2431371,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108768041,
+                "entry_1_entry": 63783,
+                "entry_1_name": "GRETNA",
+                "entry_1_player_name": "Dragan Bursac",
+                "entry_1_points": 58,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "GRETNA",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 40,
-    "last_deadline_value": 1031,
-    "last_deadline_total_transfers": 30
+    "last_deadline_bank": 56,
+    "last_deadline_value": 1033,
+    "last_deadline_total_transfers": 31
 }

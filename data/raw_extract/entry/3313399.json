@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1333,
-    "summary_overall_rank": 339503,
-    "summary_event_points": 54,
-    "summary_event_rank": 2243586,
-    "current_event": 22,
+    "summary_overall_points": 1395,
+    "summary_overall_rank": 410785,
+    "summary_event_points": 41,
+    "summary_event_rank": 4927225,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 2112,
-                "entry_last_rank": 1770
+                "cup_league": 2448108,
+                "cup_qualified": true,
+                "entry_rank": 2525,
+                "entry_last_rank": 2075
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 122322,
-                "entry_last_rank": 103856
+                "entry_rank": 145118,
+                "entry_last_rank": 118250
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 339268,
-                "entry_last_rank": 281356
+                "entry_rank": 410400,
+                "entry_last_rank": 326288
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 339503,
-                "entry_last_rank": 281530
+                "entry_rank": 410785,
+                "entry_last_rank": 326500
             },
             {
                 "id": 689740,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 137930,
-                "entry_last_rank": 117278
+                "entry_rank": 163463,
+                "entry_last_rank": 133301
             },
             {
                 "id": 2385997,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 32,
-                "entry_last_rank": 2
+                "entry_rank": 262,
+                "entry_last_rank": 55
             }
         ],
         "h2h": [
@@ -199,19 +199,19 @@
         },
         "cup_matches": [
             {
-                "id": 102628794,
-                "entry_1_entry": 3313399,
-                "entry_1_name": "Playing Loud",
-                "entry_1_player_name": "David Wyatt",
-                "entry_1_points": 54,
+                "id": 106803384,
+                "entry_1_entry": 1776,
+                "entry_1_name": "Not a Kalou",
+                "entry_1_player_name": "Tom Day",
+                "entry_1_points": 38,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2747849,
-                "entry_2_name": "Harry Hill FC",
-                "entry_2_player_name": "Jack Mason",
-                "entry_2_points": 45,
+                "entry_2_entry": 3313399,
+                "entry_2_name": "Playing Loud",
+                "entry_2_player_name": "David Wyatt",
+                "entry_2_points": 41,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -220,17 +220,17 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102736484,
-                "entry_1_entry": 1377655,
-                "entry_1_name": "Pique Blinders",
-                "entry_1_player_name": "Simon Shaw",
-                "entry_1_points": 53,
+                "id": 106884811,
+                "entry_1_entry": 3574884,
+                "entry_1_name": "Burtons buffoons",
+                "entry_1_player_name": "George Burton",
+                "entry_1_points": 49,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -238,7 +238,7 @@
                 "entry_2_entry": 3313399,
                 "entry_2_name": "Playing Loud",
                 "entry_2_player_name": "David Wyatt",
-                "entry_2_points": 54,
+                "entry_2_points": 41,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -247,17 +247,44 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108907514,
+                "entry_1_entry": 3313399,
+                "entry_1_name": "Playing Loud",
+                "entry_1_player_name": "David Wyatt",
+                "entry_1_points": 41,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448108,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Playing Loud",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 25,
-    "last_deadline_value": 1029,
-    "last_deadline_total_transfers": 27
+    "last_deadline_bank": 46,
+    "last_deadline_value": 1030,
+    "last_deadline_total_transfers": 28
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1377,
-    "summary_overall_rank": 67160,
-    "summary_event_points": 89,
-    "summary_event_rank": 14720,
-    "current_event": 22,
+    "summary_overall_points": 1457,
+    "summary_overall_rank": 44619,
+    "summary_event_points": 48,
+    "summary_event_rank": 3066280,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 16225,
-                "entry_last_rank": 47739
+                "entry_rank": 11399,
+                "entry_last_rank": 10313
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
-                "entry_last_rank": 20
+                "entry_rank": 4,
+                "entry_last_rank": 4
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 67138,
-                "entry_last_rank": 202021
+                "entry_rank": 44608,
+                "entry_last_rank": 41443
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 67160,
-                "entry_last_rank": 202126
+                "entry_rank": 44619,
+                "entry_last_rank": 41453
             },
             {
                 "id": 19675,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_rank": 2,
+                "entry_last_rank": 1
             },
             {
                 "id": 2385997,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 71766,
-                "entry_last_rank": 474684
+                "entry_rank": 45506,
+                "entry_last_rank": 32904
             }
         ],
         "h2h": [
@@ -205,11 +205,11 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 102491624,
-                "entry_1_entry": 2801299,
-                "entry_1_name": "Einton Rovers",
-                "entry_1_player_name": "Einar Tønnessen",
-                "entry_1_points": 67,
+                "id": 106759030,
+                "entry_1_entry": 2381863,
+                "entry_1_name": "NopalianoUTD",
+                "entry_1_player_name": "Teerasak Kritsamrong",
+                "entry_1_points": 34,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -217,7 +217,7 @@
                 "entry_2_entry": 957089,
                 "entry_2_name": "Bramoviç FC",
                 "entry_2_player_name": "Le Andrea Gillis",
-                "entry_2_points": 89,
+                "entry_2_points": 48,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -226,17 +226,17 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Bramoviç FC",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"hoops\",\"kit_shirt_base\":\"#dfc4c4\",\"kit_shirt_sleeves\":\"#543131\",\"kit_shirt_secondary\":\"#0f2318\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#330e0e\",\"kit_socks_secondary\":\"#b49c9c\"}",
-    "last_deadline_bank": 6,
-    "last_deadline_value": 1022,
-    "last_deadline_total_transfers": 24
+    "last_deadline_bank": 30,
+    "last_deadline_value": 1023,
+    "last_deadline_total_transfers": 25
 }

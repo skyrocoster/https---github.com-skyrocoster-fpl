@@ -9,11 +9,11 @@
     "player_region_name": "Bulgaria",
     "player_region_iso_code_short": "BG",
     "player_region_iso_code_long": "BGR",
-    "summary_overall_points": 1414,
-    "summary_overall_rank": 10270,
-    "summary_event_points": 72,
-    "summary_event_rank": 402794,
-    "current_event": 22,
+    "summary_overall_points": 1485,
+    "summary_overall_rank": 10845,
+    "summary_event_points": 56,
+    "summary_event_rank": 1368360,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 49,
-                "entry_last_rank": 53
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 64,
+                "entry_last_rank": 68
             },
             {
                 "id": 54,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 45,
-                "entry_last_rank": 57
+                "entry_rank": 49,
+                "entry_last_rank": 52
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10269,
-                "entry_last_rank": 12415
+                "entry_rank": 10844,
+                "entry_last_rank": 12234
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 10270,
-                "entry_last_rank": 12418
+                "entry_rank": 10845,
+                "entry_last_rank": 12235
             },
             {
                 "id": 916,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
-                "entry_last_rank": 7
+                "entry_rank": 6,
+                "entry_last_rank": 8
             },
             {
                 "id": 102187,
@@ -132,15 +132,15 @@
                 "league_type": "x",
                 "scoring": "c",
                 "admin_entry": 1370708,
-                "start_event": 22,
+                "start_event": 23,
                 "entry_can_leave": true,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 57,
-                "entry_last_rank": 86
+                "entry_rank": 33,
+                "entry_last_rank": 76
             },
             {
                 "id": 169926,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 15,
-                "entry_last_rank": 14
+                "entry_rank": 14,
+                "entry_last_rank": 17
             },
             {
                 "id": 240787,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 17,
-                "entry_last_rank": 17
+                "entry_rank": 21,
+                "entry_last_rank": 21
             },
             {
                 "id": 481846,
@@ -286,8 +286,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 104732,
-                "entry_last_rank": 142649
+                "entry_rank": 121908,
+                "entry_last_rank": 124695
             },
             {
                 "id": 2423694,
@@ -307,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 4,
                 "entry_last_rank": 3
             },
             {
@@ -351,8 +351,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
-                "entry_last_rank": 10
+                "entry_rank": 14,
+                "entry_last_rank": 14
             },
             {
                 "id": 844683,
@@ -372,8 +372,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 54,
-                "entry_last_rank": 54
+                "entry_rank": 72,
+                "entry_last_rank": 72
             }
         ],
         "cup": {
@@ -413,13 +413,40 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 2097152"
+            },
+            {
+                "id": 108770049,
+                "entry_1_entry": 1129792,
+                "entry_1_name": "Bako Team",
+                "entry_1_player_name": "Ivan Krastilov",
+                "entry_1_points": 52,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Bako Team",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#000000\",\"kit_shirt_sleeves\":\"#ffffff\",\"kit_shirt_secondary\":\"#ffffff\",\"kit_shirt_logo\":\"no-racism\",\"kit_shorts\":\"#ffffff\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#ffffff\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 38,
-    "last_deadline_value": 1042,
-    "last_deadline_total_transfers": 28
+    "last_deadline_bank": 0,
+    "last_deadline_value": 1043,
+    "last_deadline_total_transfers": 30
 }

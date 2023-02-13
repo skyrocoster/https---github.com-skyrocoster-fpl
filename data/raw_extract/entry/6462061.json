@@ -9,11 +9,11 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1070,
-    "summary_overall_rank": 6005765,
+    "summary_overall_points": 1096,
+    "summary_overall_rank": 6281870,
     "summary_event_points": 21,
-    "summary_event_rank": 8826118,
-    "current_event": 22,
+    "summary_event_rank": 8938830,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2437795,
                 "cup_qualified": true,
-                "entry_rank": 68696,
-                "entry_last_rank": 66162
+                "entry_rank": 71311,
+                "entry_last_rank": 69392
             },
             {
                 "id": 120,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 145615,
-                "entry_last_rank": 140754
+                "entry_rank": 151276,
+                "entry_last_rank": 147181
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5627054,
-                "entry_last_rank": 5448342
+                "entry_rank": 5820353,
+                "entry_last_rank": 5675755
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 6005765,
-                "entry_last_rank": 5774101
+                "entry_rank": 6281870,
+                "entry_last_rank": 6071815
             },
             {
                 "id": 440,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2431365,
                 "cup_qualified": true,
-                "entry_rank": 149017,
-                "entry_last_rank": 142375
+                "entry_rank": 155821,
+                "entry_last_rank": 150660
             },
             {
                 "id": 550,
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 32,
+                "entry_rank": 33,
                 "entry_last_rank": 32
             },
             {
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 12453,
-                "entry_last_rank": 12261
+                "entry_rank": 12599,
+                "entry_last_rank": 12517
             },
             {
                 "id": 7184,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 64661,
-                "entry_last_rank": 63511
+                "entry_rank": 65731,
+                "entry_last_rank": 64983
             },
             {
                 "id": 33657,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 145615,
-                "entry_last_rank": 140754
+                "entry_rank": 151276,
+                "entry_last_rank": 147181
             },
             {
                 "id": 2385997,
@@ -265,8 +265,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8726781,
-                "entry_last_rank": 8575798
+                "entry_rank": 8904509,
+                "entry_last_rank": 8811468
             }
         ],
         "h2h": [],
@@ -340,7 +340,7 @@
                 "entry_1_entry": 2364288,
                 "entry_1_name": "UTD024",
                 "entry_1_player_name": "Rahul E",
-                "entry_1_points": 55,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -348,14 +348,14 @@
                 "entry_2_entry": 6462061,
                 "entry_2_name": "Fc_Imperio�FCImperio",
                 "entry_2_player_name": "Sahil Sehgal",
-                "entry_2_points": 21,
+                "entry_2_points": 26,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431356,
-                "winner": null,
+                "winner": 2364288,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -367,7 +367,7 @@
                 "entry_1_entry": 6462061,
                 "entry_1_name": "Fc_Imperio�FCImperio",
                 "entry_1_player_name": "Sahil Sehgal",
-                "entry_1_points": 21,
+                "entry_1_points": 26,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -375,14 +375,14 @@
                 "entry_2_entry": 4234434,
                 "entry_2_name": "Dangerous Divas",
                 "entry_2_player_name": "Foecke David",
-                "entry_2_points": 24,
+                "entry_2_points": 28,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 4234434,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -394,7 +394,7 @@
                 "entry_1_entry": 2784634,
                 "entry_1_name": "Roble fc",
                 "entry_1_player_name": "Roble Mohammed",
-                "entry_1_points": 42,
+                "entry_1_points": 66,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -402,14 +402,14 @@
                 "entry_2_entry": 6462061,
                 "entry_2_name": "Fc_Imperio�FCImperio",
                 "entry_2_player_name": "Sahil Sehgal",
-                "entry_2_points": 21,
+                "entry_2_points": 26,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437795,
-                "winner": null,
+                "winner": 2784634,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -421,7 +421,7 @@
                 "entry_1_entry": 698693,
                 "entry_1_name": "Olympians",
                 "entry_1_player_name": "Alfred Sesay",
-                "entry_1_points": 36,
+                "entry_1_points": 63,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -429,14 +429,14 @@
                 "entry_2_entry": 6462061,
                 "entry_2_name": "Fc_Imperio�FCImperio",
                 "entry_2_player_name": "Sahil Sehgal",
-                "entry_2_points": 21,
+                "entry_2_points": 26,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437809,
-                "winner": null,
+                "winner": 698693,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -449,6 +449,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 38,
-    "last_deadline_value": 994,
+    "last_deadline_value": 992,
     "last_deadline_total_transfers": 5
 }

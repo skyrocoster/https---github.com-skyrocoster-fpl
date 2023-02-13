@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1481,
-    "summary_overall_rank": 92,
-    "summary_event_points": 61,
-    "summary_event_rank": 1341640,
-    "current_event": 22,
+    "summary_overall_points": 1554,
+    "summary_overall_rank": 114,
+    "summary_event_points": 54,
+    "summary_event_rank": 1691634,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 22,
-                "entry_last_rank": 13
+                "entry_rank": 31,
+                "entry_last_rank": 28
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 3,
-                "entry_last_rank": 3
+                "entry_rank": 4,
+                "entry_last_rank": 5
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 92,
-                "entry_last_rank": 58
+                "entry_rank": 114,
+                "entry_last_rank": 123
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 92,
-                "entry_last_rank": 58
+                "entry_rank": 114,
+                "entry_last_rank": 123
             },
             {
                 "id": 216085,
@@ -133,14 +133,14 @@
                 "scoring": "c",
                 "admin_entry": 4223584,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": true,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448151,
+                "cup_qualified": true,
                 "entry_rank": 2,
-                "entry_last_rank": 1
+                "entry_last_rank": 2
             },
             {
                 "id": 1283563,
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 3
             },
             {
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1702347,
-                "entry_last_rank": 2358518
+                "entry_rank": 1416873,
+                "entry_last_rank": 1598444
             }
         ],
         "h2h": [],
@@ -294,11 +294,11 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 103375732,
-                "entry_1_entry": 2661723,
-                "entry_1_name": "Padmans Radmans",
-                "entry_1_player_name": "Paddy Griffith",
-                "entry_1_points": 56,
+                "id": 107163197,
+                "entry_1_entry": 3928049,
+                "entry_1_name": "SakaPotatoes",
+                "entry_1_player_name": "RASH AAAAAAAAAAA",
+                "entry_1_points": 49,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -306,7 +306,7 @@
                 "entry_2_entry": 6373152,
                 "entry_2_name": "Come on the Pegs",
                 "entry_2_player_name": "Peter Lougheed",
-                "entry_2_points": 61,
+                "entry_2_points": 54,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -315,17 +315,44 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 110285731,
+                "entry_1_entry": 6373152,
+                "entry_1_name": "Come on the Pegs",
+                "entry_1_player_name": "Peter Lougheed",
+                "entry_1_points": 54,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448151,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Come on the Pegs",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 54,
-    "last_deadline_value": 1035,
-    "last_deadline_total_transfers": 28
+    "last_deadline_bank": 11,
+    "last_deadline_value": 1031,
+    "last_deadline_total_transfers": 29
 }

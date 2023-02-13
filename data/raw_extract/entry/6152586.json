@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1475,
-    "summary_overall_rank": 141,
-    "summary_event_points": 68,
-    "summary_event_rank": 666398,
-    "current_event": 22,
+    "summary_overall_points": 1545,
+    "summary_overall_rank": 203,
+    "summary_event_points": 44,
+    "summary_event_rank": 4148435,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 11,
-                "entry_last_rank": 15
+                "entry_rank": 14,
+                "entry_last_rank": 7
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 42,
-                "entry_last_rank": 48
+                "entry_rank": 57,
+                "entry_last_rank": 32
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 141,
-                "entry_last_rank": 168
+                "entry_rank": 203,
+                "entry_last_rank": 109
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 141,
-                "entry_last_rank": 168
+                "entry_rank": 203,
+                "entry_last_rank": 109
             },
             {
                 "id": 1057056,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 51,
-                "entry_last_rank": 60
+                "entry_rank": 69,
+                "entry_last_rank": 39
             },
             {
                 "id": 1449324,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18343,
-                "entry_last_rank": 18342
+                "entry_rank": 28721,
+                "entry_last_rank": 13906
             }
         ],
         "h2h": [],
@@ -229,7 +229,7 @@
                 "entry_1_entry": 1531233,
                 "entry_1_name": "AC Statisticos",
                 "entry_1_player_name": "Andy Chapman",
-                "entry_1_points": 76,
+                "entry_1_points": 94,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -237,34 +237,34 @@
                 "entry_2_entry": 6152586,
                 "entry_2_name": "Lost Already",
                 "entry_2_player_name": "Guy Swan",
-                "entry_2_points": 68,
+                "entry_2_points": 94,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 1531233,
                 "seed_value": null,
                 "event": 22,
-                "tiebreak": null,
+                "tiebreak": "goals_scored",
                 "is_bye": false,
                 "knockout_name": "Round of 131072"
             },
             {
-                "id": 102781960,
+                "id": 106868769,
                 "entry_1_entry": 6152586,
                 "entry_1_name": "Lost Already",
                 "entry_1_player_name": "Guy Swan",
-                "entry_1_points": 68,
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 7397120,
-                "entry_2_name": "athleticoruss",
-                "entry_2_player_name": "Russell Mason",
-                "entry_2_points": 44,
+                "entry_2_entry": 9399125,
+                "entry_2_name": "Pepijnnnn",
+                "entry_2_player_name": "Jack Cottrell",
+                "entry_2_points": 55,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -273,17 +273,17 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102918651,
-                "entry_1_entry": 280104,
-                "entry_1_name": "Yamaha FZ Rider",
-                "entry_1_player_name": "Sarvesh Dabholkar",
-                "entry_1_points": 72,
+                "id": 106946139,
+                "entry_1_entry": 8305447,
+                "entry_1_name": "ToddyBoys",
+                "entry_1_player_name": "Garv Sharma",
+                "entry_1_points": 61,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -291,7 +291,7 @@
                 "entry_2_entry": 6152586,
                 "entry_2_name": "Lost Already",
                 "entry_2_player_name": "Guy Swan",
-                "entry_2_points": 68,
+                "entry_2_points": 44,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -300,17 +300,17 @@
                 "league": 2405671,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Lost Already",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 16,
+    "last_deadline_bank": 11,
     "last_deadline_value": 1041,
-    "last_deadline_total_transfers": 23
+    "last_deadline_total_transfers": 24
 }

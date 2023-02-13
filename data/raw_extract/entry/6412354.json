@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1455,
-    "summary_overall_rank": 703,
-    "summary_event_points": 74,
-    "summary_event_rank": 300809,
-    "current_event": 22,
+    "summary_overall_points": 1516,
+    "summary_overall_rank": 1650,
+    "summary_event_points": 38,
+    "summary_event_rank": 5641178,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2437793,
                 "cup_qualified": true,
-                "entry_rank": 8,
-                "entry_last_rank": 17
+                "entry_rank": 18,
+                "entry_last_rank": 5
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 29,
-                "entry_last_rank": 50
+                "entry_rank": 74,
+                "entry_last_rank": 24
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 703,
-                "entry_last_rank": 1233
+                "entry_rank": 1650,
+                "entry_last_rank": 534
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 703,
-                "entry_last_rank": 1233
+                "entry_rank": 1650,
+                "entry_last_rank": 534
             },
             {
                 "id": 217541,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 12,
-                "entry_last_rank": 11
+                "entry_rank": 21,
+                "entry_last_rank": 12
             },
             {
                 "id": 1180827,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 346728,
-                "entry_last_rank": 797230
+                "entry_rank": 569042,
+                "entry_last_rank": 239919
             }
         ],
         "h2h": [
@@ -253,11 +253,11 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 105061932,
-                "entry_1_entry": 769692,
-                "entry_1_name": "DISGASTENG",
-                "entry_1_player_name": "Michael Long",
-                "entry_1_points": 43,
+                "id": 108022790,
+                "entry_1_entry": 2218097,
+                "entry_1_name": "Obi-Wan Iwobi",
+                "entry_1_player_name": "Nick Brabham",
+                "entry_1_points": 30,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -265,7 +265,7 @@
                 "entry_2_entry": 6412354,
                 "entry_2_name": "Spirit of the blues",
                 "entry_2_player_name": "Caelum Kiely",
-                "entry_2_points": 74,
+                "entry_2_points": 34,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -274,17 +274,17 @@
                 "league": 2437793,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Spirit of the blues",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 0,
-    "last_deadline_value": 1041,
-    "last_deadline_total_transfers": 36
+    "last_deadline_bank": 24,
+    "last_deadline_value": 1039,
+    "last_deadline_total_transfers": 38
 }

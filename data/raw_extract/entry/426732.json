@@ -9,11 +9,11 @@
     "player_region_name": "Tunisia",
     "player_region_iso_code_short": "TN",
     "player_region_iso_code_long": "TUN",
-    "summary_overall_points": 1384,
-    "summary_overall_rank": 50430,
-    "summary_event_points": 101,
-    "summary_event_rank": 265,
-    "current_event": 22,
+    "summary_overall_points": 1449,
+    "summary_overall_rank": 65417,
+    "summary_event_points": 38,
+    "summary_event_rank": 5597371,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 3598,
-                "entry_last_rank": 18353
+                "entry_rank": 4709,
+                "entry_last_rank": 2769
             },
             {
                 "id": 238,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2437802,
                 "cup_qualified": true,
-                "entry_rank": 140,
-                "entry_last_rank": 727
+                "entry_rank": 179,
+                "entry_last_rank": 105
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 50414,
-                "entry_last_rank": 248402
+                "entry_rank": 65397,
+                "entry_last_rank": 39055
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 50430,
-                "entry_last_rank": 248546
+                "entry_rank": 65417,
+                "entry_last_rank": 39063
             },
             {
                 "id": 1972,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2437807,
                 "cup_qualified": true,
-                "entry_rank": 1195,
-                "entry_last_rank": 5290
+                "entry_rank": 1605,
+                "entry_last_rank": 906
             },
             {
                 "id": 20804,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 22,
-                "entry_last_rank": 119
+                "entry_rank": 30,
+                "entry_last_rank": 19
             },
             {
                 "id": 914880,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
-                "entry_last_rank": 3
+                "entry_rank": 2,
+                "entry_last_rank": 1
             },
             {
                 "id": 928434,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 7179,
-                "entry_last_rank": 34948
+                "entry_rank": 9923,
+                "entry_last_rank": 5424
             },
             {
                 "id": 1091638,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
-                "entry_last_rank": 30
+                "entry_rank": 6,
+                "entry_last_rank": 5
             },
             {
                 "id": 1305274,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 42,
-                "entry_last_rank": 1927
+                "entry_rank": 216,
+                "entry_last_rank": 32
             }
         ],
         "h2h": [],
@@ -288,19 +288,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 102683107,
-                "entry_1_entry": 426732,
-                "entry_1_name": "bayern of PL",
-                "entry_1_player_name": "Oussema Bavarian",
-                "entry_1_points": 101,
+                "id": 106846644,
+                "entry_1_entry": 10554064,
+                "entry_1_name": "anaass",
+                "entry_1_player_name": "Anass Maamar",
+                "entry_1_points": 52,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2218216,
-                "entry_2_name": "Mohamed zidan",
-                "entry_2_player_name": "Zidan Zidan",
-                "entry_2_points": 52,
+                "entry_2_entry": 426732,
+                "entry_2_name": "bayern of PL",
+                "entry_2_player_name": "Oussema Bavarian",
+                "entry_2_points": 38,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -309,25 +309,25 @@
                 "league": 2381816,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105553265,
-                "entry_1_entry": 426732,
-                "entry_1_name": "bayern of PL",
-                "entry_1_player_name": "Oussema Bavarian",
-                "entry_1_points": 101,
+                "id": 108286067,
+                "entry_1_entry": 7531192,
+                "entry_1_name": "houccem",
+                "entry_1_player_name": "Houssem Eddine Jebri",
+                "entry_1_points": 53,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 426732,
+                "entry_2_name": "bayern of PL",
+                "entry_2_player_name": "Oussema Bavarian",
+                "entry_2_points": 38,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -336,25 +336,25 @@
                 "league": 2437802,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105881236,
+                "id": 108462733,
                 "entry_1_entry": 426732,
                 "entry_1_name": "bayern of PL",
                 "entry_1_player_name": "Oussema Bavarian",
-                "entry_1_points": 101,
+                "entry_1_points": 38,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 103511,
+                "entry_2_name": "ال سالامانكا",
+                "entry_2_player_name": "Mohamed Ahmed",
+                "entry_2_points": 48,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -363,10 +363,10 @@
                 "league": 2437807,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -374,6 +374,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 27,
-    "last_deadline_value": 1029,
-    "last_deadline_total_transfers": 51
+    "last_deadline_value": 1031,
+    "last_deadline_total_transfers": 52
 }

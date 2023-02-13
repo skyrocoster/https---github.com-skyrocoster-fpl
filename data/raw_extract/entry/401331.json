@@ -9,11 +9,11 @@
     "player_region_name": "Scotland",
     "player_region_iso_code_short": "S1",
     "player_region_iso_code_long": "SCO",
-    "summary_overall_points": 1420,
-    "summary_overall_rank": 7108,
-    "summary_event_points": 67,
-    "summary_event_rank": 782518,
-    "current_event": 22,
+    "summary_overall_points": 1465,
+    "summary_overall_rank": 30698,
+    "summary_event_points": 36,
+    "summary_event_rank": 6087074,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 32,
-                "entry_last_rank": 28
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 172,
+                "entry_last_rank": 53
             },
             {
                 "id": 263,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431364,
                 "cup_qualified": true,
-                "entry_rank": 198,
-                "entry_last_rank": 171
+                "entry_rank": 757,
+                "entry_last_rank": 269
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7107,
-                "entry_last_rank": 6123
+                "entry_rank": 30693,
+                "entry_last_rank": 9617
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 7108,
-                "entry_last_rank": 6125
+                "entry_rank": 30698,
+                "entry_last_rank": 9618
             },
             {
                 "id": 4194,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 487,
-                "entry_last_rank": 325
+                "entry_rank": 2052,
+                "entry_last_rank": 736
             },
             {
                 "id": 5896,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 46,
-                "entry_last_rank": 32
+                "entry_rank": 197,
+                "entry_last_rank": 61
             },
             {
                 "id": 59762,
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2989,
-                "entry_last_rank": 2660
+                "entry_rank": 12440,
+                "entry_last_rank": 4052
             },
             {
                 "id": 2127242,
@@ -307,8 +307,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 636494,
-                "entry_last_rank": 822820
+                "entry_rank": 1539161,
+                "entry_last_rank": 703400
             }
         ],
         "h2h": [],
@@ -378,19 +378,19 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 104676466,
-                "entry_1_entry": 1764083,
-                "entry_1_name": "DekeboneRoundaboutFC",
-                "entry_1_player_name": "Iain Stewart",
-                "entry_1_points": 49,
+                "id": 107847865,
+                "entry_1_entry": 401331,
+                "entry_1_name": "Paddy’s Lions",
+                "entry_1_player_name": "Patrick Toland",
+                "entry_1_points": 28,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 401331,
-                "entry_2_name": "Paddy’s Lions",
-                "entry_2_player_name": "Patrick Toland",
-                "entry_2_points": 63,
+                "entry_2_entry": 4687306,
+                "entry_2_name": "JD’s Hero’s",
+                "entry_2_player_name": "John Duncan",
+                "entry_2_points": 41,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -399,25 +399,25 @@
                 "league": 2431364,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105991670,
-                "entry_1_entry": 218473,
-                "entry_1_name": "Salisbury Spires",
-                "entry_1_player_name": "Gary Chambers",
-                "entry_1_points": 55,
+                "id": 108504085,
+                "entry_1_entry": 401331,
+                "entry_1_name": "Paddy’s Lions",
+                "entry_1_player_name": "Patrick Toland",
+                "entry_1_points": 28,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 401331,
-                "entry_2_name": "Paddy’s Lions",
-                "entry_2_player_name": "Patrick Toland",
-                "entry_2_points": 63,
+                "entry_2_entry": 1277369,
+                "entry_2_name": "Jimmy Floyds",
+                "entry_2_player_name": "Jimmy Björkander",
+                "entry_2_points": 44,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -426,17 +426,44 @@
                 "league": 2437808,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108772079,
+                "entry_1_entry": 401331,
+                "entry_1_name": "Paddy’s Lions",
+                "entry_1_player_name": "Patrick Toland",
+                "entry_1_points": 28,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Paddy’s Lions",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 45,
-    "last_deadline_value": 1027,
-    "last_deadline_total_transfers": 24
+    "last_deadline_bank": 8,
+    "last_deadline_value": 1023,
+    "last_deadline_total_transfers": 27
 }

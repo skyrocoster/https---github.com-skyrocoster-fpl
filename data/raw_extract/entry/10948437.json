@@ -9,11 +9,11 @@
     "player_region_name": "Algeria",
     "player_region_iso_code_short": "DZ",
     "player_region_iso_code_long": "DZA",
-    "summary_overall_points": 532,
-    "summary_overall_rank": 10571560,
-    "summary_event_points": 76,
-    "summary_event_rank": 222914,
-    "current_event": 22,
+    "summary_overall_points": 605,
+    "summary_overall_rank": 10505650,
+    "summary_event_points": 47,
+    "summary_event_rank": 3406479,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405678,
                 "cup_qualified": true,
-                "entry_rank": 1049645,
-                "entry_last_rank": 1063180
+                "entry_rank": 1037673,
+                "entry_last_rank": 1044244
             },
             {
                 "id": 23,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424302,
                 "cup_qualified": true,
-                "entry_rank": 333148,
-                "entry_last_rank": 337423
+                "entry_rank": 329443,
+                "entry_last_rank": 331457
             },
             {
                 "id": 292,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 10571560,
-                "entry_last_rank": 10643164
+                "entry_rank": 10505650,
+                "entry_last_rank": 10542836
             },
             {
                 "id": 928434,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": false,
-                "entry_rank": 2423150,
-                "entry_last_rank": 2449560
+                "entry_rank": 2399051,
+                "entry_last_rank": 2412394
             },
             {
                 "id": 2385997,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 15,
-                "entry_last_rank": 13
+                "entry_rank": 34,
+                "entry_last_rank": 11
             }
         ],
         "h2h": [],
@@ -156,19 +156,19 @@
         },
         "cup_matches": [
             {
-                "id": 103061295,
-                "entry_1_entry": 10948437,
-                "entry_1_name": "sid ahmed fantasy",
-                "entry_1_player_name": "Sidahmed Ouargui",
-                "entry_1_points": 76,
+                "id": 107028653,
+                "entry_1_entry": 8194801,
+                "entry_1_name": "Ultimate team",
+                "entry_1_player_name": "Philip Philipp",
+                "entry_1_points": 45,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 8611509,
-                "entry_2_name": "Djelfa",
-                "entry_2_player_name": "Anis Djedal",
-                "entry_2_points": 52,
+                "entry_2_entry": 10948437,
+                "entry_2_name": "sid ahmed fantasy",
+                "entry_2_player_name": "Sidahmed Ouargui",
+                "entry_2_points": 47,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -177,25 +177,25 @@
                 "league": 2405678,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103267978,
+                "id": 107139821,
                 "entry_1_entry": 10948437,
                 "entry_1_name": "sid ahmed fantasy",
                 "entry_1_player_name": "Sidahmed Ouargui",
-                "entry_1_points": 76,
+                "entry_1_points": 47,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 9180859,
-                "entry_2_name": "abdalla",
-                "entry_2_player_name": "Abdalla Khodja",
-                "entry_2_points": 56,
+                "entry_2_entry": 10318529,
+                "entry_2_name": "Man unaited",
+                "entry_2_player_name": "mohamed amin",
+                "entry_2_points": 29,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -204,17 +204,17 @@
                 "league": 2424302,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "sid ahmed fantasy",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 1,
-    "last_deadline_value": 1020,
-    "last_deadline_total_transfers": 3
+    "last_deadline_bank": 0,
+    "last_deadline_value": 1022,
+    "last_deadline_total_transfers": 5
 }

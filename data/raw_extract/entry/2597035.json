@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1352,
-    "summary_overall_rank": 180610,
-    "summary_event_points": 50,
-    "summary_event_rank": 2876203,
-    "current_event": 22,
+    "summary_overall_points": 1413,
+    "summary_overall_rank": 241429,
+    "summary_event_points": 43,
+    "summary_event_rank": 4420399,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18,
-                "entry_last_rank": 9
+                "entry_rank": 23,
+                "entry_last_rank": 21
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 180534,
-                "entry_last_rank": 114476
+                "entry_rank": 241279,
+                "entry_last_rank": 196243
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 180610,
-                "entry_last_rank": 114529
+                "entry_rank": 241429,
+                "entry_last_rank": 196327
             },
             {
                 "id": 2385997,
@@ -97,8 +97,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 858399,
-                "entry_last_rank": 564918
+                "entry_rank": 1146439,
+                "entry_last_rank": 881364
             }
         ],
         "h2h": [],
@@ -145,7 +145,7 @@
     "name": "Virgil Vantastic",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 2,
-    "last_deadline_value": 1044,
-    "last_deadline_total_transfers": 20
+    "last_deadline_bank": 6,
+    "last_deadline_value": 1043,
+    "last_deadline_total_transfers": 21
 }

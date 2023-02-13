@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1148,
-    "summary_overall_rank": 4324623,
-    "summary_event_points": 26,
-    "summary_event_rank": 7764986,
-    "current_event": 22,
+    "summary_overall_points": 1190,
+    "summary_overall_rank": 4532104,
+    "summary_event_points": 42,
+    "summary_event_rank": 4550544,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 635211,
-                "entry_last_rank": 579897
+                "entry_rank": 667591,
+                "entry_last_rank": 673425
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 1341336,
-                "entry_last_rank": 1250712
+                "entry_rank": 1388103,
+                "entry_last_rank": 1405947
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4201888,
-                "entry_last_rank": 3886583
+                "entry_rank": 4380420,
+                "entry_last_rank": 4418081
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 4324623,
-                "entry_last_rank": 3979130
+                "entry_rank": 4532104,
+                "entry_last_rank": 4566392
             },
             {
                 "id": 6235,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 109,
-                "entry_last_rank": 105
+                "entry_rank": 108,
+                "entry_last_rank": 111
             },
             {
                 "id": 832184,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2291,
-                "entry_last_rank": 2079
+                "entry_rank": 2392,
+                "entry_last_rank": 2394
             },
             {
                 "id": 1075902,
@@ -203,7 +203,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 21,
-                "entry_last_rank": 19
+                "entry_last_rank": 21
             },
             {
                 "id": 1171461,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1516441,
-                "entry_last_rank": 1414549
+                "entry_rank": 1568933,
+                "entry_last_rank": 1589703
             },
             {
                 "id": 1301335,
@@ -245,7 +245,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 8,
-                "entry_last_rank": 7
+                "entry_last_rank": 8
             },
             {
                 "id": 1610788,
@@ -307,8 +307,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7145404,
-                "entry_last_rank": 6968149
+                "entry_rank": 6968854,
+                "entry_last_rank": 7518210
             }
         ],
         "h2h": [],
@@ -437,6 +437,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 15,
-    "last_deadline_value": 1007,
+    "last_deadline_value": 1002,
     "last_deadline_total_transfers": 17
 }

@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1223,
-    "summary_overall_rank": 2437659,
-    "summary_event_points": 51,
-    "summary_event_rank": 2737528,
-    "current_event": 22,
+    "summary_overall_points": 1280,
+    "summary_overall_rank": 2545708,
+    "summary_event_points": 41,
+    "summary_event_rank": 4927225,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 337731,
-                "entry_last_rank": 354292
+                "entry_rank": 353115,
+                "entry_last_rank": 330575
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 796745,
-                "entry_last_rank": 836712
+                "entry_rank": 820877,
+                "entry_last_rank": 783031
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2415850,
-                "entry_last_rank": 2527306
+                "entry_rank": 2519155,
+                "entry_last_rank": 2373581
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2437659,
-                "entry_last_rank": 2551719
+                "entry_rank": 2545708,
+                "entry_last_rank": 2394476
             },
             {
                 "id": 6235,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 14,
-                "entry_last_rank": 13
+                "entry_rank": 13,
+                "entry_last_rank": 12
             },
             {
                 "id": 79303,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 20,
-                "entry_last_rank": 20
+                "entry_rank": 21,
+                "entry_last_rank": 21
             },
             {
                 "id": 156790,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 25,
-                "entry_last_rank": 27
+                "entry_rank": 24,
+                "entry_last_rank": 24
             },
             {
                 "id": 1171461,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 899406,
-                "entry_last_rank": 945526
+                "entry_rank": 926300,
+                "entry_last_rank": 883907
             },
             {
                 "id": 2385997,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1563290,
-                "entry_last_rank": 1421358
+                "entry_rank": 2012672,
+                "entry_last_rank": 1611680
             }
         ],
         "h2h": [],
@@ -373,7 +373,7 @@
     "name": "Roopney Gran Fantasy",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#d24b4b\",\"kit_shirt_sleeves\":\"#e55151\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"ukraine\",\"kit_shorts\":\"#f65e5e\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#f8bdbd\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 21,
+    "last_deadline_bank": 28,
     "last_deadline_value": 1002,
-    "last_deadline_total_transfers": 20
+    "last_deadline_total_transfers": 21
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1344,
-    "summary_overall_rank": 244947,
-    "summary_event_points": 81,
-    "summary_event_rank": 98077,
-    "current_event": 22,
+    "summary_overall_points": 1426,
+    "summary_overall_rank": 160401,
+    "summary_event_points": 53,
+    "summary_event_rank": 1908003,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 24,
-                "entry_last_rank": 34
+                "entry_rank": 14,
+                "entry_last_rank": 15
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 244823,
-                "entry_last_rank": 420997
+                "entry_rank": 160328,
+                "entry_last_rank": 182292
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 244947,
-                "entry_last_rank": 421340
+                "entry_rank": 160401,
+                "entry_last_rank": 182368
             },
             {
                 "id": 57876,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 910,
-                "entry_last_rank": 1284
+                "entry_rank": 576,
+                "entry_last_rank": 727
             },
             {
                 "id": 459267,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 4
+                "entry_rank": 1,
+                "entry_last_rank": 1
             },
             {
                 "id": 463372,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 8
+                "entry_rank": 7,
+                "entry_last_rank": 7
             },
             {
                 "id": 1714714,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 216332,
-                "entry_last_rank": 595168
+                "entry_rank": 119043,
+                "entry_last_rank": 130638
             }
         ],
         "h2h": [],
@@ -229,7 +229,7 @@
     "name": "Autopit Allstars",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 39,
-    "last_deadline_value": 1030,
-    "last_deadline_total_transfers": 46
+    "last_deadline_bank": 19,
+    "last_deadline_value": 1033,
+    "last_deadline_total_transfers": 47
 }

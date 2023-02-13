@@ -9,11 +9,11 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1295,
-    "summary_overall_rank": 858989,
-    "summary_event_points": 50,
-    "summary_event_rank": 2973817,
-    "current_event": 22,
+    "summary_overall_points": 1364,
+    "summary_overall_rank": 831302,
+    "summary_event_points": 52,
+    "summary_event_rank": 2134200,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 4147,
-                "entry_last_rank": 3367
+                "cup_league": 2448107,
+                "cup_qualified": true,
+                "entry_rank": 3945,
+                "entry_last_rank": 4183
             },
             {
                 "id": 120,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 20096,
-                "entry_last_rank": 15553
+                "entry_rank": 19862,
+                "entry_last_rank": 20668
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 857387,
-                "entry_last_rank": 685765
+                "entry_rank": 829663,
+                "entry_last_rank": 871108
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 858989,
-                "entry_last_rank": 686748
+                "entry_rank": 831302,
+                "entry_last_rank": 872795
             },
             {
                 "id": 550,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
-                "entry_last_rank": 11
+                "entry_rank": 13,
+                "entry_last_rank": 14
             },
             {
                 "id": 553,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9,
-                "entry_last_rank": 9
+                "entry_rank": 11,
+                "entry_last_rank": 11
             },
             {
                 "id": 33657,
@@ -161,7 +161,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 2
+                "entry_last_rank": 3
             },
             {
                 "id": 54040,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 292,
-                "entry_last_rank": 221
+                "entry_rank": 285,
+                "entry_last_rank": 300
             },
             {
                 "id": 70531,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 208,
-                "entry_last_rank": 167
+                "entry_rank": 209,
+                "entry_last_rank": 217
             },
             {
                 "id": 103986,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 859,
-                "entry_last_rank": 687
+                "entry_rank": 846,
+                "entry_last_rank": 910
             },
             {
                 "id": 188149,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4046,
-                "entry_last_rank": 3074
+                "entry_rank": 3975,
+                "entry_last_rank": 4256
             },
             {
                 "id": 326527,
@@ -286,8 +286,8 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 20096,
-                "entry_last_rank": 15553
+                "entry_rank": 19862,
+                "entry_last_rank": 20668
             },
             {
                 "id": 685387,
@@ -328,8 +328,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 530,
-                "entry_last_rank": 385
+                "entry_rank": 509,
+                "entry_last_rank": 541
             },
             {
                 "id": 1221216,
@@ -349,8 +349,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2642,
-                "entry_last_rank": 1995
+                "entry_rank": 2589,
+                "entry_last_rank": 2771
             },
             {
                 "id": 2306760,
@@ -371,7 +371,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 1
+                "entry_last_rank": 2
             },
             {
                 "id": 2306762,
@@ -433,8 +433,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1449239,
-                "entry_last_rank": 988471
+                "entry_rank": 1375397,
+                "entry_last_rank": 1462365
             }
         ],
         "h2h": [],
@@ -450,19 +450,46 @@
         },
         "cup_matches": [
             {
-                "id": 102536281,
+                "id": 104226321,
                 "entry_1_entry": 46809,
                 "entry_1_name": "acha Silva diya tune",
                 "entry_1_player_name": "Aditya Sarwate",
-                "entry_1_points": 46,
+                "entry_1_points": 63,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6731113,
-                "entry_2_name": "مركز شباب صفط اللبن",
-                "entry_2_player_name": "Ahmed Saad",
-                "entry_2_points": 43,
+                "entry_2_entry": 3888929,
+                "entry_2_name": "NUNEZ NUNEZ NUNEZ!",
+                "entry_2_player_name": "Rohan Naik",
+                "entry_2_points": 66,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2431356,
+                "winner": 3888929,
+                "seed_value": null,
+                "event": 22,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 131072"
+            },
+            {
+                "id": 106736005,
+                "entry_1_entry": 1272475,
+                "entry_1_name": "Heung like a horse",
+                "entry_1_player_name": "Dafydd Cross",
+                "entry_1_points": 43,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 46809,
+                "entry_2_name": "acha Silva diya tune",
+                "entry_2_player_name": "Aditya Sarwate",
+                "entry_2_points": 52,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -471,52 +498,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104226321,
+                "id": 107907802,
                 "entry_1_entry": 46809,
                 "entry_1_name": "acha Silva diya tune",
                 "entry_1_player_name": "Aditya Sarwate",
-                "entry_1_points": 46,
+                "entry_1_points": 52,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 3888929,
-                "entry_2_name": "NUNEZ NUNEZ NUNEZ!",
-                "entry_2_player_name": "Rohan Naik",
-                "entry_2_points": 51,
-                "entry_2_win": 0,
-                "entry_2_draw": 0,
-                "entry_2_loss": 0,
-                "entry_2_total": 0,
-                "is_knockout": true,
-                "league": 2431356,
-                "winner": null,
-                "seed_value": null,
-                "event": 22,
-                "tiebreak": null,
-                "is_bye": false,
-                "knockout_name": "Round of 131072"
-            },
-            {
-                "id": 104811262,
-                "entry_1_entry": 46809,
-                "entry_1_name": "acha Silva diya tune",
-                "entry_1_player_name": "Aditya Sarwate",
-                "entry_1_points": 46,
-                "entry_1_win": 0,
-                "entry_1_draw": 0,
-                "entry_1_loss": 0,
-                "entry_1_total": 0,
-                "entry_2_entry": 1342372,
-                "entry_2_name": "Yunus11",
-                "entry_2_player_name": "Yunus Qureshi",
-                "entry_2_points": 31,
+                "entry_2_entry": 4192746,
+                "entry_2_name": "maestro11",
+                "entry_2_player_name": "karan chhabra",
+                "entry_2_points": 55,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -525,17 +525,44 @@
                 "league": 2431366,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108877424,
+                "entry_1_entry": 46809,
+                "entry_1_name": "acha Silva diya tune",
+                "entry_1_player_name": "Aditya Sarwate",
+                "entry_1_points": 52,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448107,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "acha Silva diya tune",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#ffffff\",\"kit_shirt_sleeves\":\"#000000\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"pl-inspires\",\"kit_shorts\":\"#000000\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#ffffff\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 6,
-    "last_deadline_value": 1038,
-    "last_deadline_total_transfers": 31
+    "last_deadline_bank": 25,
+    "last_deadline_value": 1036,
+    "last_deadline_total_transfers": 32
 }

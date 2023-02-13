@@ -9,11 +9,11 @@
     "player_region_name": "United Arab Emirates",
     "player_region_iso_code_short": "AE",
     "player_region_iso_code_long": "ARE",
-    "summary_overall_points": 1361,
-    "summary_overall_rank": 130870,
-    "summary_event_points": 67,
-    "summary_event_rank": 753780,
-    "current_event": 22,
+    "summary_overall_points": 1435,
+    "summary_overall_rank": 112749,
+    "summary_event_points": 46,
+    "summary_event_rank": 3595463,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 16112,
-                "entry_last_rank": 19608
+                "entry_rank": 13785,
+                "entry_last_rank": 12063
             },
             {
                 "id": 246,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2437804,
                 "cup_qualified": true,
-                "entry_rank": 799,
-                "entry_last_rank": 988
+                "entry_rank": 705,
+                "entry_last_rank": 605
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 130818,
-                "entry_last_rank": 160728
+                "entry_rank": 112710,
+                "entry_last_rank": 99081
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 130870,
-                "entry_last_rank": 160801
+                "entry_rank": 112749,
+                "entry_last_rank": 99112
             },
             {
                 "id": 2099,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 388,
-                "entry_last_rank": 393
+                "entry_rank": 311,
+                "entry_last_rank": 320
             },
             {
                 "id": 6235,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1755,
-                "entry_last_rank": 1806
+                "entry_rank": 1535,
+                "entry_last_rank": 1476
             },
             {
                 "id": 369808,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 18684,
-                "entry_last_rank": 22214
+                "entry_rank": 16958,
+                "entry_last_rank": 13870
             },
             {
                 "id": 2385997,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 130375,
-                "entry_last_rank": 169289
+                "entry_rank": 121908,
+                "entry_last_rank": 82795
             }
         ],
         "h2h": [],
@@ -298,7 +298,7 @@
                 "entry_1_entry": 41748,
                 "entry_1_name": "Kloppage Time",
                 "entry_1_player_name": "Daniel Bloodworth",
-                "entry_1_points": 67,
+                "entry_1_points": 95,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -306,14 +306,14 @@
                 "entry_2_entry": 67452,
                 "entry_2_name": "Montafoner FC09",
                 "entry_2_player_name": "Torben B.",
-                "entry_2_points": 79,
+                "entry_2_points": 106,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 67452,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -321,19 +321,19 @@
                 "knockout_name": "Round of 131072"
             },
             {
-                "id": 105688237,
+                "id": 108345673,
                 "entry_1_entry": 41748,
                 "entry_1_name": "Kloppage Time",
                 "entry_1_player_name": "Daniel Bloodworth",
-                "entry_1_points": 67,
+                "entry_1_points": 46,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 8125049,
+                "entry_2_name": "ahi",
+                "entry_2_player_name": "Ahmed Ayed",
+                "entry_2_points": 13,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -342,17 +342,17 @@
                 "league": 2437804,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Kloppage Time",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#d0021b\",\"kit_shirt_sleeves\":\"#d0021b\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#ffffff\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#d0021b\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 0,
-    "last_deadline_value": 1041,
-    "last_deadline_total_transfers": 27
+    "last_deadline_bank": 11,
+    "last_deadline_value": 1040,
+    "last_deadline_total_transfers": 28
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1334,
-    "summary_overall_rank": 330672,
-    "summary_event_points": 72,
-    "summary_event_rank": 402794,
-    "current_event": 22,
+    "summary_overall_points": 1406,
+    "summary_overall_rank": 303471,
+    "summary_event_points": 49,
+    "summary_event_rank": 2892334,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 1784,
-                "entry_last_rank": 2348
+                "cup_league": 2448106,
+                "cup_qualified": true,
+                "entry_rank": 1602,
+                "entry_last_rank": 1438
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 34,
-                "entry_last_rank": 35
+                "entry_rank": 30,
+                "entry_last_rank": 28
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 330450,
-                "entry_last_rank": 429131
+                "entry_rank": 303250,
+                "entry_last_rank": 265858
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 330672,
-                "entry_last_rank": 429486
+                "entry_rank": 303471,
+                "entry_last_rank": 266008
             },
             {
                 "id": 2385997,
@@ -118,8 +118,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2368619,
-                "entry_last_rank": 3989759
+                "entry_rank": 1997005,
+                "entry_last_rank": 1783570
             }
         ],
         "h2h": [],
@@ -160,13 +160,40 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 2097152"
+            },
+            {
+                "id": 108834239,
+                "entry_1_entry": 3836487,
+                "entry_1_name": "Corentyne Thunder",
+                "entry_1_player_name": "Sunil - S",
+                "entry_1_points": 45,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448106,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Corentyne Thunder",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#f60808\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#e8f807\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#f80707\"}",
-    "last_deadline_bank": 42,
-    "last_deadline_value": 1034,
-    "last_deadline_total_transfers": 29
+    "last_deadline_bank": 20,
+    "last_deadline_value": 1031,
+    "last_deadline_total_transfers": 31
 }

@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1479,
-    "summary_overall_rank": 109,
-    "summary_event_points": 66,
-    "summary_event_rank": 834584,
-    "current_event": 22,
+    "summary_overall_points": 1542,
+    "summary_overall_rank": 246,
+    "summary_event_points": 48,
+    "summary_event_rank": 3144725,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 32,
-                "entry_last_rank": 27
+                "entry_rank": 70,
+                "entry_last_rank": 43
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 109,
-                "entry_last_rank": 104
+                "entry_rank": 246,
+                "entry_last_rank": 148
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 109,
-                "entry_last_rank": 104
+                "entry_rank": 246,
+                "entry_last_rank": 148
             },
             {
                 "id": 1152,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 11,
-                "entry_last_rank": 7
+                "entry_rank": 22,
+                "entry_last_rank": 15
             },
             {
                 "id": 141774,
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -265,8 +265,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 40,
-                "entry_last_rank": 34
+                "entry_rank": 85,
+                "entry_last_rank": 51
             },
             {
                 "id": 1205119,
@@ -328,8 +328,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18602,
-                "entry_last_rank": 14942
+                "entry_rank": 50031,
+                "entry_last_rank": 26181
             }
         ],
         "h2h": [],
@@ -426,19 +426,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 105963470,
+                "id": 108488583,
                 "entry_1_entry": 1206855,
                 "entry_1_name": "Alisson Wonderland",
                 "entry_1_player_name": "Dan Briganti",
-                "entry_1_points": 66,
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 1138507,
+                "entry_2_name": "boneparte",
+                "entry_2_player_name": "yovison1802 Pilpilon",
+                "entry_2_points": 43,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -447,17 +447,17 @@
                 "league": 2437808,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Alisson Wonderland",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"hoops\",\"kit_shirt_base\":\"#062a53\",\"kit_shirt_sleeves\":\"#000000\",\"kit_shirt_secondary\":\"#ffffff\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#ff0000\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#85ff00\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 52,
-    "last_deadline_value": 1036,
-    "last_deadline_total_transfers": 24
+    "last_deadline_bank": 7,
+    "last_deadline_value": 1034,
+    "last_deadline_total_transfers": 26
 }

@@ -9,11 +9,11 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1067,
-    "summary_overall_rank": 6068174,
+    "summary_overall_points": 1110,
+    "summary_overall_rank": 6044957,
     "summary_event_points": 35,
-    "summary_event_rank": 5457622,
-    "current_event": 22,
+    "summary_event_rank": 6097571,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 1397224,
-                "entry_last_rank": 1406048
+                "entry_rank": 1407101,
+                "entry_last_rank": 1406873
             },
             {
                 "id": 120,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 146862,
-                "entry_last_rank": 148125
+                "entry_rank": 146615,
+                "entry_last_rank": 147271
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5675468,
-                "entry_last_rank": 5732817
+                "entry_rank": 5641256,
+                "entry_last_rank": 5679004
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 6068174,
-                "entry_last_rank": 6137362
+                "entry_rank": 6044957,
+                "entry_last_rank": 6075946
             },
             {
                 "id": 553,
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 33,
+                "entry_rank": 32,
                 "entry_last_rank": 33
             },
             {
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 146862,
-                "entry_last_rank": 148125
+                "entry_rank": 146615,
+                "entry_last_rank": 147271
             },
             {
                 "id": 733543,
@@ -161,7 +161,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 8,
-                "entry_last_rank": 9
+                "entry_last_rank": 8
             },
             {
                 "id": 1219881,
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
+                "entry_rank": 6,
                 "entry_last_rank": 7
             },
             {
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7948708,
-                "entry_last_rank": 8390016
+                "entry_rank": 7602073,
+                "entry_last_rank": 7913883
             }
         ],
         "h2h": [],
@@ -298,7 +298,7 @@
                 "entry_1_entry": 607853,
                 "entry_1_name": "Game of Stones",
                 "entry_1_player_name": "Jay Goel",
-                "entry_1_points": 78,
+                "entry_1_points": 105,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -306,14 +306,14 @@
                 "entry_2_entry": 7659067,
                 "entry_2_name": "Dream 11",
                 "entry_2_player_name": "Aditya Thorat",
-                "entry_2_points": 35,
+                "entry_2_points": 43,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431356,
-                "winner": null,
+                "winner": 607853,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -325,7 +325,7 @@
                 "entry_1_entry": 7659067,
                 "entry_1_name": "Dream 11",
                 "entry_1_player_name": "Aditya Thorat",
-                "entry_1_points": 35,
+                "entry_1_points": 43,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -333,14 +333,14 @@
                 "entry_2_entry": 4536160,
                 "entry_2_name": "inittowinit",
                 "entry_2_player_name": "Sanjay Shah",
-                "entry_2_points": 39,
+                "entry_2_points": 50,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 4536160,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,

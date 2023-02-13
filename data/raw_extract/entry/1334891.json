@@ -9,11 +9,11 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1364,
-    "summary_overall_rank": 116916,
+    "summary_overall_points": 1443,
+    "summary_overall_rank": 82272,
     "summary_event_points": 60,
-    "summary_event_rank": 1530697,
-    "current_event": 22,
+    "summary_event_rank": 648874,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 8583,
-                "entry_last_rank": 6178
+                "entry_rank": 5943,
+                "entry_last_rank": 9287
             },
             {
                 "id": 120,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 2316,
-                "entry_last_rank": 1584
+                "entry_rank": 1638,
+                "entry_last_rank": 2629
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 116873,
-                "entry_last_rank": 89033
+                "entry_rank": 82247,
+                "entry_last_rank": 125260
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 116916,
-                "entry_last_rank": 89063
+                "entry_rank": 82272,
+                "entry_last_rank": 125305
             },
             {
                 "id": 553,
@@ -119,7 +119,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 1
+                "entry_last_rank": 3
             },
             {
                 "id": 4194,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 7760,
-                "entry_last_rank": 4842
+                "entry_rank": 5402,
+                "entry_last_rank": 8938
             },
             {
                 "id": 14351,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 131,
-                "entry_last_rank": 76
+                "entry_rank": 91,
+                "entry_last_rank": 140
             },
             {
                 "id": 35391,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
-                "entry_last_rank": 3
+                "entry_rank": 3,
+                "entry_last_rank": 5
             },
             {
                 "id": 62005,
@@ -224,7 +224,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 10,
-                "entry_last_rank": 7
+                "entry_last_rank": 12
             },
             {
                 "id": 118993,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 28,
-                "entry_last_rank": 22
+                "entry_rank": 18,
+                "entry_last_rank": 31
             },
             {
                 "id": 513209,
@@ -265,8 +265,8 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 2316,
-                "entry_last_rank": 1584
+                "entry_rank": 1638,
+                "entry_last_rank": 2629
             },
             {
                 "id": 814181,
@@ -286,8 +286,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 1
+                "entry_rank": 1,
+                "entry_last_rank": 4
             },
             {
                 "id": 1561638,
@@ -328,8 +328,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 640655,
-                "entry_last_rank": 544839
+                "entry_rank": 424094,
+                "entry_last_rank": 649311
             }
         ],
         "h2h": [],
@@ -372,11 +372,11 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 102912059,
-                "entry_1_entry": 8630308,
-                "entry_1_name": "Turbo",
-                "entry_1_player_name": "Abdallah Mahmoud",
-                "entry_1_points": 32,
+                "id": 106942209,
+                "entry_1_entry": 365826,
+                "entry_1_name": "DeUtvalgte",
+                "entry_1_player_name": "Halvor Herlofsen",
+                "entry_1_points": 40,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -384,7 +384,7 @@
                 "entry_2_entry": 1334891,
                 "entry_2_name": "Dream XI",
                 "entry_2_player_name": "Ansh Parasrampuria",
-                "entry_2_points": 56,
+                "entry_2_points": 60,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -393,25 +393,25 @@
                 "league": 2405671,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104221397,
-                "entry_1_entry": 1334891,
-                "entry_1_name": "Dream XI",
-                "entry_1_player_name": "Ansh Parasrampuria",
-                "entry_1_points": 56,
+                "id": 107620226,
+                "entry_1_entry": 502258,
+                "entry_1_name": "Team Nish",
+                "entry_1_player_name": "Nishanth G Suseelan",
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6152484,
-                "entry_2_name": "GGMU",
-                "entry_2_player_name": "Shirsa Maitra",
-                "entry_2_points": 17,
+                "entry_2_entry": 1334891,
+                "entry_2_name": "Dream XI",
+                "entry_2_player_name": "Ansh Parasrampuria",
+                "entry_2_points": 60,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -420,25 +420,25 @@
                 "league": 2431356,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104822958,
+                "id": 107904967,
                 "entry_1_entry": 1334891,
                 "entry_1_name": "Dream XI",
                 "entry_1_player_name": "Ansh Parasrampuria",
-                "entry_1_points": 56,
+                "entry_1_points": 60,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 4900422,
-                "entry_2_name": "Messi@EPL",
-                "entry_2_player_name": "Umesh Patil",
-                "entry_2_points": 44,
+                "entry_2_entry": 10748751,
+                "entry_2_name": "oom.bee",
+                "entry_2_player_name": "Manav M",
+                "entry_2_points": 35,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -447,25 +447,25 @@
                 "league": 2431366,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105997222,
-                "entry_1_entry": 4815115,
-                "entry_1_name": "azkarijalart_19",
-                "entry_1_player_name": "Muhammad azka rijal",
-                "entry_1_points": 45,
+                "id": 108487529,
+                "entry_1_entry": 1334891,
+                "entry_1_name": "Dream XI",
+                "entry_1_player_name": "Ansh Parasrampuria",
+                "entry_1_points": 60,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1334891,
-                "entry_2_name": "Dream XI",
-                "entry_2_player_name": "Ansh Parasrampuria",
-                "entry_2_points": 56,
+                "entry_2_entry": 5870116,
+                "entry_2_name": "FC Bilaman",
+                "entry_2_player_name": "David Bila",
+                "entry_2_points": 50,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -474,10 +474,10 @@
                 "league": 2437808,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -485,6 +485,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 3,
-    "last_deadline_value": 1026,
+    "last_deadline_value": 1027,
     "last_deadline_total_transfers": 29
 }

@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1243,
-    "summary_overall_rank": 1941111,
-    "summary_event_points": 46,
-    "summary_event_rank": 3496185,
-    "current_event": 22,
+    "summary_overall_points": 1290,
+    "summary_overall_rank": 2315787,
+    "summary_event_points": 34,
+    "summary_event_rank": 6498573,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 645271,
-                "entry_last_rank": 621663
+                "entry_rank": 752285,
+                "entry_last_rank": 660585
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1929331,
-                "entry_last_rank": 1838305
+                "entry_rank": 2295382,
+                "entry_last_rank": 1979459
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1941111,
-                "entry_last_rank": 1848487
+                "entry_rank": 2315787,
+                "entry_last_rank": 1992249
             },
             {
                 "id": 6345,
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
+                "entry_rank": 12,
                 "entry_last_rank": 8
             },
             {
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 728221,
-                "entry_last_rank": 702294
+                "entry_rank": 848843,
+                "entry_last_rank": 745484
             },
             {
                 "id": 2385997,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2933138,
-                "entry_last_rank": 2900329
+                "entry_rank": 3650584,
+                "entry_last_rank": 2999620
             }
         ],
         "h2h": [],
@@ -241,7 +241,7 @@
     "name": "Forest are back",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 9,
+    "last_deadline_bank": 69,
     "last_deadline_value": 1011,
-    "last_deadline_total_transfers": 17
+    "last_deadline_total_transfers": 19
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1339,
-    "summary_overall_rank": 280620,
-    "summary_event_points": 65,
-    "summary_event_rank": 922183,
-    "current_event": 22,
+    "summary_overall_points": 1413,
+    "summary_overall_rank": 241677,
+    "summary_event_points": 57,
+    "summary_event_rank": 1059334,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 21254,
-                "entry_last_rank": 24668
+                "entry_rank": 18185,
+                "entry_last_rank": 23380
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 28,
-                "entry_last_rank": 28
+                "entry_rank": 24,
+                "entry_last_rank": 31
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 280454,
-                "entry_last_rank": 329411
+                "entry_rank": 241527,
+                "entry_last_rank": 305660
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 280620,
-                "entry_last_rank": 329642
+                "entry_rank": 241677,
+                "entry_last_rank": 305856
             },
             {
                 "id": 486,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4948,
-                "entry_last_rank": 4664
+                "entry_rank": 4362,
+                "entry_last_rank": 5591
             },
             {
                 "id": 7184,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 7378,
-                "entry_last_rank": 7531
+                "entry_rank": 6440,
+                "entry_last_rank": 8356
             },
             {
                 "id": 10351,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1394,
-                "entry_last_rank": 1482
+                "entry_rank": 1194,
+                "entry_last_rank": 1553
             },
             {
                 "id": 15950,
@@ -175,14 +175,14 @@
                 "scoring": "c",
                 "admin_entry": 469,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 5566,
-                "entry_last_rank": 5656
+                "cup_league": 2448135,
+                "cup_qualified": true,
+                "entry_rank": 4885,
+                "entry_last_rank": 6248
             },
             {
                 "id": 112029,
@@ -196,14 +196,14 @@
                 "scoring": "c",
                 "admin_entry": 593251,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 5823,
-                "entry_last_rank": 5904
+                "cup_league": 2448141,
+                "cup_qualified": true,
+                "entry_rank": 5041,
+                "entry_last_rank": 6589
             },
             {
                 "id": 481620,
@@ -265,8 +265,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 796950,
-                "entry_last_rank": 1189613
+                "entry_rank": 658661,
+                "entry_last_rank": 857338
             }
         ],
         "h2h": [
@@ -288,8 +288,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 2
+                "entry_rank": 3,
+                "entry_last_rank": 3
             },
             {
                 "id": 481810,
@@ -373,11 +373,11 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102506050,
-                "entry_1_entry": 3060825,
-                "entry_1_name": "Mae ilimi",
-                "entry_1_player_name": "usman muhd",
-                "entry_1_points": 48,
+                "id": 106754843,
+                "entry_1_entry": 43545,
+                "entry_1_name": "Bacup Hatters",
+                "entry_1_player_name": "Darren Spokes",
+                "entry_1_points": 59,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -385,7 +385,7 @@
                 "entry_2_entry": 2409306,
                 "entry_2_name": "Deep Dive",
                 "entry_2_player_name": "Sunil Rupee",
-                "entry_2_points": 65,
+                "entry_2_points": 57,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -394,17 +394,71 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 106035042,
+                "id": 108519322,
+                "entry_1_entry": 1052246,
+                "entry_1_name": "Nuqie",
+                "entry_1_player_name": "nuaim shafie",
+                "entry_1_points": 44,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 2409306,
+                "entry_2_name": "Deep Dive",
+                "entry_2_player_name": "Sunil Rupee",
+                "entry_2_points": 57,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437809,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109815610,
                 "entry_1_entry": 2409306,
                 "entry_1_name": "Deep Dive",
                 "entry_1_player_name": "Sunil Rupee",
-                "entry_1_points": 65,
+                "entry_1_points": 57,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 5170607,
+                "entry_2_name": "Change Name",
+                "entry_2_player_name": "yaseen joosab",
+                "entry_2_points": 39,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448135,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109995348,
+                "entry_1_entry": 2409306,
+                "entry_1_name": "Deep Dive",
+                "entry_1_player_name": "Sunil Rupee",
+                "entry_1_points": 57,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -418,13 +472,13 @@
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2437809,
+                "league": 2448141,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -432,6 +486,6 @@
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#2745e0\",\"kit_shirt_sleeves\":\"#2946c7\",\"kit_shirt_secondary\":\"#d4c951\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#3142f3\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#d3cd41\",\"kit_socks_secondary\":\"#E1E1E1\"}",
     "last_deadline_bank": 32,
-    "last_deadline_value": 1027,
+    "last_deadline_value": 1028,
     "last_deadline_total_transfers": 22
 }

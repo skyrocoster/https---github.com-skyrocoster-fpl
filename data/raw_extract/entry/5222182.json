@@ -9,11 +9,11 @@
     "player_region_name": "Norway",
     "player_region_iso_code_short": "NO",
     "player_region_iso_code_long": "NOR",
-    "summary_overall_points": 1499,
-    "summary_overall_rank": 31,
-    "summary_event_points": 67,
-    "summary_event_rank": 717620,
-    "current_event": 22,
+    "summary_overall_points": 1570,
+    "summary_overall_rank": 37,
+    "summary_event_points": 56,
+    "summary_event_rank": 1368360,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 8,
-                "entry_last_rank": 8
+                "entry_rank": 10,
+                "entry_last_rank": 11
             },
             {
                 "id": 181,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431360,
                 "cup_qualified": true,
-                "entry_rank": 6,
-                "entry_last_rank": 6
+                "entry_rank": 7,
+                "entry_last_rank": 5
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 31,
-                "entry_last_rank": 28
+                "entry_rank": 37,
+                "entry_last_rank": 38
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 31,
-                "entry_last_rank": 28
+                "entry_rank": 37,
+                "entry_last_rank": 38
             },
             {
                 "id": 266101,
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 13,
+                "entry_rank": 14,
                 "entry_last_rank": 13
             },
             {
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 106730,
-                "entry_last_rank": 135656
+                "entry_rank": 124117,
+                "entry_last_rank": 126840
             }
         ],
         "h2h": [],
@@ -279,19 +279,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 104458380,
-                "entry_1_entry": 6242216,
-                "entry_1_name": "Boom Xhakalaka",
-                "entry_1_player_name": "Jonas Hegre",
-                "entry_1_points": 45,
+                "id": 107739879,
+                "entry_1_entry": 5222182,
+                "entry_1_name": "ditt lagnavn",
+                "entry_1_player_name": "CHRISTIAN HOFSØY",
+                "entry_1_points": 52,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 5222182,
-                "entry_2_name": "ditt lagnavn",
-                "entry_2_player_name": "CHRISTIAN HOFSØY",
-                "entry_2_points": 67,
+                "entry_2_entry": 5177029,
+                "entry_2_name": "Atlas",
+                "entry_2_player_name": "Aadel Aouragh",
+                "entry_2_points": 34,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -300,17 +300,17 @@
                 "league": 2431360,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "ditt lagnavn",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 37,
+    "last_deadline_bank": 7,
     "last_deadline_value": 1032,
-    "last_deadline_total_transfers": 31
+    "last_deadline_total_transfers": 33
 }

@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1479,
-    "summary_overall_rank": 107,
-    "summary_event_points": 69,
-    "summary_event_rank": 587767,
-    "current_event": 22,
+    "summary_overall_points": 1543,
+    "summary_overall_rank": 228,
+    "summary_event_points": 45,
+    "summary_event_rank": 3867521,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 15,
-                "entry_last_rank": 20
+                "entry_rank": 29,
+                "entry_last_rank": 16
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 31,
-                "entry_last_rank": 37
+                "entry_rank": 64,
+                "entry_last_rank": 42
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 107,
-                "entry_last_rank": 133
+                "entry_rank": 228,
+                "entry_last_rank": 146
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 107,
-                "entry_last_rank": 133
+                "entry_rank": 228,
+                "entry_last_rank": 146
             },
             {
                 "id": 684006,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 39,
-                "entry_last_rank": 48
+                "entry_rank": 78,
+                "entry_last_rank": 50
             },
             {
                 "id": 2385997,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 22255,
-                "entry_last_rank": 25912
+                "entry_rank": 53528,
+                "entry_last_rank": 30797
             }
         ],
         "h2h": [],
@@ -279,19 +279,19 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 102992424,
-                "entry_1_entry": 9724933,
-                "entry_1_name": "Abdallah Shalapy",
-                "entry_1_player_name": "Abdallah shalapy",
-                "entry_1_points": 55,
+                "id": 106992075,
+                "entry_1_entry": 6597972,
+                "entry_1_name": "Mac’s Army",
+                "entry_1_player_name": "John McGaw",
+                "entry_1_points": 45,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6597972,
-                "entry_2_name": "Mac’s Army",
-                "entry_2_player_name": "John McGaw",
-                "entry_2_points": 69,
+                "entry_2_entry": 1146922,
+                "entry_2_name": "DoMa Fc",
+                "entry_2_player_name": "adham gamal",
+                "entry_2_points": 48,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -300,17 +300,17 @@
                 "league": 2405675,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Mac’s Army",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 28,
-    "last_deadline_value": 1031,
-    "last_deadline_total_transfers": 23
+    "last_deadline_bank": 3,
+    "last_deadline_value": 1033,
+    "last_deadline_total_transfers": 24
 }

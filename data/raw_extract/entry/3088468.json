@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1312,
-    "summary_overall_rank": 587334,
-    "summary_event_points": 69,
-    "summary_event_rank": 566782,
-    "current_event": 22,
+    "summary_overall_points": 1389,
+    "summary_overall_rank": 475081,
+    "summary_event_points": 52,
+    "summary_event_rank": 2048901,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2431352,
                 "cup_qualified": true,
-                "entry_rank": 17198,
-                "entry_last_rank": 23533
+                "entry_rank": 13475,
+                "entry_last_rank": 14816
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 207822,
-                "entry_last_rank": 278145
+                "entry_rank": 166837,
+                "entry_last_rank": 180806
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 586657,
-                "entry_last_rank": 784247
+                "entry_rank": 474571,
+                "entry_last_rank": 506072
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 587334,
-                "entry_last_rank": 785568
+                "entry_rank": 475081,
+                "entry_last_rank": 506577
             },
             {
                 "id": 6235,
@@ -119,7 +119,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 5,
-                "entry_last_rank": 6
+                "entry_last_rank": 5
             },
             {
                 "id": 32104,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18,
-                "entry_last_rank": 22
+                "entry_rank": 16,
+                "entry_last_rank": 16
             },
             {
                 "id": 525418,
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
+                "entry_rank": 9,
                 "entry_last_rank": 11
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 3
             },
             {
@@ -265,8 +265,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 234284,
-                "entry_last_rank": 314034
+                "entry_rank": 187946,
+                "entry_last_rank": 203824
             },
             {
                 "id": 2385997,
@@ -286,8 +286,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1018583,
-                "entry_last_rank": 1851909
+                "entry_rank": 740281,
+                "entry_last_rank": 786110
             }
         ],
         "h2h": [],
@@ -384,19 +384,19 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 103924510,
+                "id": 107456859,
                 "entry_1_entry": 3088468,
                 "entry_1_name": "WTF AC United",
                 "entry_1_player_name": "Sahil Mannick",
-                "entry_1_points": 69,
+                "entry_1_points": 52,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2603036,
-                "entry_2_name": "Howe-ay The Lads",
-                "entry_2_player_name": "Dom Fairhurst",
-                "entry_2_points": 20,
+                "entry_2_entry": 3712566,
+                "entry_2_name": "Rafik 79",
+                "entry_2_player_name": "Rafal Sondej",
+                "entry_2_points": 51,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -405,10 +405,10 @@
                 "league": 2431352,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -416,6 +416,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 20,
-    "last_deadline_value": 1018,
+    "last_deadline_value": 1016,
     "last_deadline_total_transfers": 21
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Indonesia",
     "player_region_iso_code_short": "ID",
     "player_region_iso_code_long": "IDN",
-    "summary_overall_points": 1345,
-    "summary_overall_rank": 236672,
-    "summary_event_points": 83,
-    "summary_event_rank": 56592,
-    "current_event": 22,
+    "summary_overall_points": 1432,
+    "summary_overall_rank": 128685,
+    "summary_event_points": 64,
+    "summary_event_rank": 366343,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 57563,
-                "entry_last_rank": 115764
+                "entry_rank": 32723,
+                "entry_last_rank": 46669
             },
             {
                 "id": 121,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431357,
                 "cup_qualified": true,
-                "entry_rank": 3208,
-                "entry_last_rank": 6863
+                "entry_rank": 1758,
+                "entry_last_rank": 2491
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 236553,
-                "entry_last_rank": 487462
+                "entry_rank": 128634,
+                "entry_last_rank": 188334
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 236672,
-                "entry_last_rank": 487932
+                "entry_rank": 128685,
+                "entry_last_rank": 188414
             },
             {
                 "id": 276237,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 115,
-                "entry_last_rank": 214
+                "entry_rank": 63,
+                "entry_last_rank": 100
             },
             {
                 "id": 660607,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 80,
-                "entry_last_rank": 169
+                "entry_rank": 41,
+                "entry_last_rank": 57
             },
             {
                 "id": 981696,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
-                "entry_last_rank": 10
+                "entry_rank": 3,
+                "entry_last_rank": 5
             },
             {
                 "id": 2385997,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 49,
-                "entry_last_rank": 193
+                "entry_rank": 11,
+                "entry_last_rank": 41
             }
         ],
         "h2h": [
@@ -225,8 +225,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21,
-                "entry_last_rank": 21
+                "entry_rank": 19,
+                "entry_last_rank": 19
             }
         ],
         "cup": {
@@ -268,11 +268,11 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102544466,
-                "entry_1_entry": 1034250,
-                "entry_1_name": "Banku FC",
-                "entry_1_player_name": "Jeff Durant",
-                "entry_1_points": 64,
+                "id": 106775868,
+                "entry_1_entry": 5138780,
+                "entry_1_name": "<~>",
+                "entry_1_player_name": "Sarko Namiq",
+                "entry_1_points": 37,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -280,7 +280,7 @@
                 "entry_2_entry": 7442874,
                 "entry_2_name": "DarkBEB",
                 "entry_2_player_name": "Budiman Zhong",
-                "entry_2_points": 83,
+                "entry_2_points": 60,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -289,25 +289,25 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104288245,
-                "entry_1_entry": 7442874,
-                "entry_1_name": "DarkBEB",
-                "entry_1_player_name": "Budiman Zhong",
-                "entry_1_points": 83,
+                "id": 107639930,
+                "entry_1_entry": 11020562,
+                "entry_1_name": "class of 00",
+                "entry_1_player_name": "helmi hafizh",
+                "entry_1_points": 31,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1791279,
-                "entry_2_name": "Smiley",
-                "entry_2_player_name": "Kiyoshi Natanniel R.",
-                "entry_2_points": 45,
+                "entry_2_entry": 7442874,
+                "entry_2_name": "DarkBEB",
+                "entry_2_player_name": "Budiman Zhong",
+                "entry_2_points": 60,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -316,17 +316,17 @@
                 "league": 2431357,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "DarkBEB",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 27,
-    "last_deadline_value": 1047,
-    "last_deadline_total_transfers": 41
+    "last_deadline_bank": 20,
+    "last_deadline_value": 1045,
+    "last_deadline_total_transfers": 43
 }

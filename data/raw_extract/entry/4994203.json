@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1328,
-    "summary_overall_rank": 388918,
-    "summary_event_points": 60,
-    "summary_event_rank": 1481702,
-    "current_event": 22,
+    "summary_overall_points": 1403,
+    "summary_overall_rank": 327054,
+    "summary_event_points": 55,
+    "summary_event_rank": 1422772,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 29996,
-                "entry_last_rank": 30140
+                "entry_rank": 24975,
+                "entry_last_rank": 29495
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 39,
-                "entry_last_rank": 33
+                "entry_rank": 37,
+                "entry_last_rank": 38
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 388626,
-                "entry_last_rank": 399362
+                "entry_rank": 326808,
+                "entry_last_rank": 382262
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 388918,
-                "entry_last_rank": 399682
+                "entry_rank": 327054,
+                "entry_last_rank": 382551
             },
             {
                 "id": 1413,
@@ -112,14 +112,14 @@
                 "scoring": "c",
                 "admin_entry": 1266,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 10723,
-                "entry_last_rank": 9097
+                "cup_league": 2448132,
+                "cup_qualified": true,
+                "entry_rank": 9302,
+                "entry_last_rank": 11279
             },
             {
                 "id": 195074,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1071,
-                "entry_last_rank": 922
+                "entry_rank": 901,
+                "entry_last_rank": 1127
             },
             {
                 "id": 206679,
@@ -182,7 +182,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 641395,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 145,
-                "entry_last_rank": 145
+                "entry_rank": 114,
+                "entry_last_rank": 138
             },
             {
                 "id": 1450910,
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 4,
                 "entry_last_rank": 3
             },
             {
@@ -286,8 +286,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2881198,
-                "entry_last_rank": 4042938
+                "entry_rank": 2254069,
+                "entry_last_rank": 2576073
             }
         ],
         "h2h": [
@@ -377,6 +377,33 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 1048576"
+            },
+            {
+                "id": 109717581,
+                "entry_1_entry": 5777263,
+                "entry_1_name": "Legnicka afera",
+                "entry_1_player_name": "Szymon Cuber",
+                "entry_1_points": 38,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 4994203,
+                "entry_2_name": "Mo’ Salahra",
+                "entry_2_player_name": "Robert Griffith",
+                "entry_2_points": 55,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448132,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -384,6 +411,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 16,
-    "last_deadline_value": 1021,
+    "last_deadline_value": 1023,
     "last_deadline_total_transfers": 22
 }

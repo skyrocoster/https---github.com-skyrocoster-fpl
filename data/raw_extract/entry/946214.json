@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1368,
-    "summary_overall_rank": 100228,
-    "summary_event_points": 72,
-    "summary_event_rank": 402794,
-    "current_event": 22,
+    "summary_overall_points": 1453,
+    "summary_overall_rank": 54394,
+    "summary_event_points": 70,
+    "summary_event_rank": 101418,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 7317,
-                "entry_last_rank": 9046
+                "entry_rank": 3860,
+                "entry_last_rank": 8012
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9,
-                "entry_last_rank": 16
+                "entry_rank": 5,
+                "entry_last_rank": 11
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 100200,
-                "entry_last_rank": 127343
+                "entry_rank": 54378,
+                "entry_last_rank": 108235
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 100228,
-                "entry_last_rank": 127401
+                "entry_rank": 54394,
+                "entry_last_rank": 108270
             },
             {
                 "id": 4194,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 6679,
-                "entry_last_rank": 6960
+                "entry_rank": 3664,
+                "entry_last_rank": 7802
             },
             {
                 "id": 463372,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
-                "entry_last_rank": 5
+                "entry_rank": 3,
+                "entry_last_rank": 6
             },
             {
                 "id": 1510198,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 3
+                "entry_rank": 1,
+                "entry_last_rank": 2
             },
             {
                 "id": 2385997,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 361060,
-                "entry_last_rank": 582726
+                "entry_rank": 169522,
+                "entry_last_rank": 385533
             }
         ],
         "h2h": [],
@@ -198,11 +198,11 @@
         },
         "cup_matches": [
             {
-                "id": 102886426,
-                "entry_1_entry": 3239336,
-                "entry_1_name": "noobis kubis",
-                "entry_1_player_name": "Johnny Sins",
-                "entry_1_points": 48,
+                "id": 106952550,
+                "entry_1_entry": 5696035,
+                "entry_1_name": "Amna FC",
+                "entry_1_player_name": "Syed Salman Syed Ali",
+                "entry_1_points": 38,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -210,7 +210,7 @@
                 "entry_2_entry": 946214,
                 "entry_2_name": "DisguisenutsFC",
                 "entry_2_player_name": "Shoaib Juman-Yassin",
-                "entry_2_points": 68,
+                "entry_2_points": 66,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -219,25 +219,25 @@
                 "league": 2405671,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105998301,
+                "id": 108494121,
                 "entry_1_entry": 946214,
                 "entry_1_name": "DisguisenutsFC",
                 "entry_1_player_name": "Shoaib Juman-Yassin",
-                "entry_1_points": 68,
+                "entry_1_points": 66,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2484841,
-                "entry_2_name": "The one and only",
-                "entry_2_player_name": "Simon Askildsen",
-                "entry_2_points": 68,
+                "entry_2_entry": 141560,
+                "entry_2_name": "Foz FC",
+                "entry_2_player_name": "John Fosberry",
+                "entry_2_points": 39,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -246,17 +246,17 @@
                 "league": 2437808,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "DisguisenutsFC",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 2,
-    "last_deadline_value": 1033,
-    "last_deadline_total_transfers": 32
+    "last_deadline_bank": 22,
+    "last_deadline_value": 1035,
+    "last_deadline_total_transfers": 34
 }

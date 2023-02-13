@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1452,
-    "summary_overall_rank": 892,
-    "summary_event_points": 61,
-    "summary_event_rank": 1341640,
-    "current_event": 22,
+    "summary_overall_points": 1497,
+    "summary_overall_rank": 5500,
+    "summary_event_points": 35,
+    "summary_event_rank": 6282738,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2431352,
                 "cup_qualified": true,
-                "entry_rank": 48,
-                "entry_last_rank": 35
+                "entry_rank": 222,
+                "entry_last_rank": 69
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 40,
-                "entry_last_rank": 26
+                "entry_rank": 221,
+                "entry_last_rank": 73
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 892,
-                "entry_last_rank": 577
+                "entry_rank": 5499,
+                "entry_last_rank": 1608
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 892,
-                "entry_last_rank": 577
+                "entry_rank": 5500,
+                "entry_last_rank": 1608
             },
             {
                 "id": 65548,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 73965,
-                "entry_last_rank": 49217
+                "entry_rank": 408508,
+                "entry_last_rank": 128011
             }
         ],
         "h2h": [],
@@ -246,19 +246,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 103376006,
-                "entry_1_entry": 1245530,
-                "entry_1_name": "Powers Prancers",
-                "entry_1_player_name": "Jack Power",
-                "entry_1_points": 61,
+                "id": 107162233,
+                "entry_1_entry": 4120328,
+                "entry_1_name": "Dime bar fc",
+                "entry_1_player_name": "Aiden Kelly",
+                "entry_1_points": 50,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6027097,
-                "entry_2_name": "Rice and Eze",
-                "entry_2_player_name": "Niamh Minihane",
-                "entry_2_points": 52,
+                "entry_2_entry": 1245530,
+                "entry_2_name": "Powers Prancers",
+                "entry_2_player_name": "Jack Power",
+                "entry_2_points": 31,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -267,25 +267,25 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103938070,
+                "id": 107471269,
                 "entry_1_entry": 1245530,
                 "entry_1_name": "Powers Prancers",
                 "entry_1_player_name": "Jack Power",
-                "entry_1_points": 61,
+                "entry_1_points": 31,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1642718,
-                "entry_2_name": "Targett Practice",
-                "entry_2_player_name": "Tom Morley",
-                "entry_2_points": 54,
+                "entry_2_entry": 3120130,
+                "entry_2_name": "Botman and Robben",
+                "entry_2_player_name": "Arron More",
+                "entry_2_points": 45,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -294,17 +294,17 @@
                 "league": 2431352,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Powers Prancers",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 0,
+    "last_deadline_bank": 13,
     "last_deadline_value": 1038,
-    "last_deadline_total_transfers": 32
+    "last_deadline_total_transfers": 34
 }

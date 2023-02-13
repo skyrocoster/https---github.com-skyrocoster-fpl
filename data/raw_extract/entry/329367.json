@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1307,
-    "summary_overall_rank": 670851,
-    "summary_event_points": 90,
-    "summary_event_rank": 10384,
-    "current_event": 22,
+    "summary_overall_points": 1375,
+    "summary_overall_rank": 668534,
+    "summary_event_points": 46,
+    "summary_event_rank": 3677545,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2437793,
                 "cup_qualified": true,
-                "entry_rank": 7510,
-                "entry_last_rank": 15316
+                "entry_rank": 7295,
+                "entry_last_rank": 6378
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 236109,
-                "entry_last_rank": 465587
+                "entry_rank": 231978,
+                "entry_last_rank": 201348
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 669942,
-                "entry_last_rank": 1352091
+                "entry_rank": 667501,
+                "entry_last_rank": 566435
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 670851,
-                "entry_last_rank": 1356685
+                "entry_rank": 668534,
+                "entry_last_rank": 567058
             },
             {
                 "id": 341394,
@@ -119,7 +119,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 11,
-                "entry_last_rank": 15
+                "entry_last_rank": 11
             },
             {
                 "id": 477409,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 3
+                "entry_rank": 1,
+                "entry_last_rank": 1
             },
             {
                 "id": 654390,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2437814,
                 "cup_qualified": true,
-                "entry_rank": 10707,
-                "entry_last_rank": 20367
+                "entry_rank": 10461,
+                "entry_last_rank": 9204
             },
             {
                 "id": 901516,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 339,
-                "entry_last_rank": 785
+                "entry_rank": 342,
+                "entry_last_rank": 296
             },
             {
                 "id": 1171461,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 266138,
-                "entry_last_rank": 525801
+                "entry_rank": 261485,
+                "entry_last_rank": 226914
             },
             {
                 "id": 2385997,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 25,
-                "entry_last_rank": 278
+                "entry_rank": 118,
+                "entry_last_rank": 20
             },
             {
                 "id": 2387620,
@@ -245,7 +245,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             }
         ],
         "h2h": [
@@ -310,19 +310,19 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 102799551,
+                "id": 106871506,
                 "entry_1_entry": 329367,
                 "entry_1_name": "Champions of Fred.",
                 "entry_1_player_name": "maxwell Cooper",
-                "entry_1_points": 90,
+                "entry_1_points": 42,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 302667,
-                "entry_2_name": "Don antonio’s bros",
-                "entry_2_player_name": "Liam Richardson",
-                "entry_2_points": 81,
+                "entry_2_entry": 5033920,
+                "entry_2_name": "wheres the blonde 1?",
+                "entry_2_player_name": "Jimmy Perkin",
+                "entry_2_points": 43,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -331,25 +331,25 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105028966,
+                "id": 108019845,
                 "entry_1_entry": 329367,
                 "entry_1_name": "Champions of Fred.",
                 "entry_1_player_name": "maxwell Cooper",
-                "entry_1_points": 90,
+                "entry_1_points": 42,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 1292635,
+                "entry_2_name": "Jacks Dream Team",
+                "entry_2_player_name": "Jack Langstaff",
+                "entry_2_points": 33,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -358,25 +358,25 @@
                 "league": 2437793,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 106339738,
-                "entry_1_entry": 329367,
-                "entry_1_name": "Champions of Fred.",
-                "entry_1_player_name": "maxwell Cooper",
-                "entry_1_points": 90,
+                "id": 108670033,
+                "entry_1_entry": 1094765,
+                "entry_1_name": "spurs",
+                "entry_1_player_name": "Josh Rose",
+                "entry_1_points": 47,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 329367,
+                "entry_2_name": "Champions of Fred.",
+                "entry_2_player_name": "maxwell Cooper",
+                "entry_2_points": 42,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -385,17 +385,17 @@
                 "league": 2437814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Champions of Fred.",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 28,
-    "last_deadline_value": 1012,
-    "last_deadline_total_transfers": 56
+    "last_deadline_bank": 45,
+    "last_deadline_value": 1017,
+    "last_deadline_total_transfers": 58
 }

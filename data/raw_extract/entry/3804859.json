@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1498,
-    "summary_overall_rank": 33,
-    "summary_event_points": 71,
-    "summary_event_rank": 445758,
-    "current_event": 22,
+    "summary_overall_points": 1575,
+    "summary_overall_rank": 21,
+    "summary_event_points": 58,
+    "summary_event_rank": 960154,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 10,
-                "entry_last_rank": 10
+                "entry_rank": 6,
+                "entry_last_rank": 12
             },
             {
                 "id": 124,
@@ -56,7 +56,7 @@
                 "cup_league": 2424303,
                 "cup_qualified": true,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 33,
-                "entry_last_rank": 33
+                "entry_rank": 21,
+                "entry_last_rank": 40
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 33,
-                "entry_last_rank": 33
+                "entry_rank": 21,
+                "entry_last_rank": 40
             },
             {
                 "id": 218963,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 28573,
-                "entry_last_rank": 42505
+                "entry_rank": 24102,
+                "entry_last_rank": 38489
             }
         ],
         "h2h": [
@@ -205,11 +205,11 @@
                 "knockout_name": "Round of 8388608"
             },
             {
-                "id": 102593679,
-                "entry_1_entry": 4263733,
-                "entry_1_name": "stylo",
-                "entry_1_player_name": "Wandile Tshayinca",
-                "entry_1_points": 25,
+                "id": 106797770,
+                "entry_1_entry": 6804677,
+                "entry_1_name": "Dark Cygnus MU",
+                "entry_1_player_name": "M PT",
+                "entry_1_points": 60,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -217,7 +217,7 @@
                 "entry_2_entry": 3804859,
                 "entry_2_name": "Ball hopping 11",
                 "entry_2_player_name": "pierce doody",
-                "entry_2_points": 71,
+                "entry_2_points": 58,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -226,25 +226,25 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103345729,
-                "entry_1_entry": 297252,
-                "entry_1_name": "Los Gorditos",
-                "entry_1_player_name": "Gareth Maher",
-                "entry_1_points": 48,
+                "id": 107168382,
+                "entry_1_entry": 3804859,
+                "entry_1_name": "Ball hopping 11",
+                "entry_1_player_name": "pierce doody",
+                "entry_1_points": 58,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 3804859,
-                "entry_2_name": "Ball hopping 11",
-                "entry_2_player_name": "pierce doody",
-                "entry_2_points": 71,
+                "entry_2_entry": 1289536,
+                "entry_2_name": "Killzers XI",
+                "entry_2_player_name": "killian O'Connor",
+                "entry_2_points": 38,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -253,17 +253,17 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Ball hopping 11",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 6,
-    "last_deadline_value": 1048,
-    "last_deadline_total_transfers": 19
+    "last_deadline_bank": 34,
+    "last_deadline_value": 1047,
+    "last_deadline_total_transfers": 20
 }

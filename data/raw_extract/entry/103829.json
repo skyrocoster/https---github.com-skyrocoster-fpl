@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1352,
-    "summary_overall_rank": 184394,
-    "summary_event_points": 61,
-    "summary_event_rank": 1341640,
-    "current_event": 22,
+    "summary_overall_points": 1409,
+    "summary_overall_rank": 277828,
+    "summary_event_points": 38,
+    "summary_event_rank": 5597371,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2424301,
                 "cup_qualified": true,
-                "entry_rank": 7855,
-                "entry_last_rank": 7502
+                "entry_rank": 11798,
+                "entry_last_rank": 8290
             },
             {
                 "id": 111,
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 19,
+                "entry_rank": 27,
                 "entry_last_rank": 18
             },
             {
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 184315,
-                "entry_last_rank": 182725
+                "entry_rank": 277641,
+                "entry_last_rank": 193343
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 184394,
-                "entry_last_rank": 182812
+                "entry_rank": 277828,
+                "entry_last_rank": 193423
             },
             {
                 "id": 94323,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 4
+                "entry_rank": 4,
+                "entry_last_rank": 3
             },
             {
                 "id": 2385997,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3653366,
-                "entry_last_rank": 5179585
+                "entry_rank": 3722286,
+                "entry_last_rank": 3308902
             }
         ],
         "h2h": [
@@ -183,8 +183,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
-                "entry_last_rank": 4
+                "entry_rank": 3,
+                "entry_last_rank": 3
             }
         ],
         "cup": {
@@ -226,19 +226,19 @@
                 "knockout_name": "Round of 4194304"
             },
             {
-                "id": 103247552,
+                "id": 107121052,
                 "entry_1_entry": 103829,
                 "entry_1_name": "Pique Blinders",
                 "entry_1_player_name": "Tamesh D",
-                "entry_1_points": 61,
+                "entry_1_points": 38,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 7875449,
-                "entry_2_name": "spurs to win league",
-                "entry_2_player_name": "Bradley Cleary",
-                "entry_2_points": 29,
+                "entry_2_entry": 3068863,
+                "entry_2_name": "Sonsational",
+                "entry_2_player_name": "James Bignell",
+                "entry_2_points": 38,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -247,17 +247,17 @@
                 "league": 2424301,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Pique Blinders",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#bc3b4c\",\"kit_shirt_sleeves\":\"#1e5ea9\",\"kit_shirt_secondary\":\"#1b5fb0\",\"kit_shirt_logo\":\"ukraine\",\"kit_shorts\":\"#1c5ba5\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#d0021b\",\"kit_socks_secondary\":\"#2376d9\"}",
-    "last_deadline_bank": 22,
+    "last_deadline_bank": 20,
     "last_deadline_value": 1017,
-    "last_deadline_total_transfers": 32
+    "last_deadline_total_transfers": 33
 }

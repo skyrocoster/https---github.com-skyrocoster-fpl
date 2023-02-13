@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1460,
-    "summary_overall_rank": 484,
-    "summary_event_points": 85,
-    "summary_event_rank": 38409,
-    "current_event": 22,
+    "summary_overall_points": 1532,
+    "summary_overall_rank": 549,
+    "summary_event_points": 45,
+    "summary_event_rank": 3867521,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 7
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 3,
+                "entry_last_rank": 1
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 148,
-                "entry_last_rank": 706
+                "entry_rank": 175,
+                "entry_last_rank": 122
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 484,
-                "entry_last_rank": 1897
+                "entry_rank": 549,
+                "entry_last_rank": 362
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 484,
-                "entry_last_rank": 1897
+                "entry_rank": 549,
+                "entry_last_rank": 362
             },
             {
                 "id": 119312,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 175,
-                "entry_last_rank": 825
+                "entry_rank": 203,
+                "entry_last_rank": 146
             },
             {
                 "id": 1509840,
@@ -224,7 +224,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 2385997,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 110602,
-                "entry_last_rank": 526380
+                "entry_rank": 119408,
+                "entry_last_rank": 75643
             }
         ],
         "h2h": [
@@ -362,13 +362,40 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 2097152"
+            },
+            {
+                "id": 108767621,
+                "entry_1_entry": 271538,
+                "entry_1_name": "Stranger Ings",
+                "entry_1_player_name": "Sam Bradshaw",
+                "entry_1_points": 45,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Stranger Ings",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 0,
-    "last_deadline_value": 1035,
-    "last_deadline_total_transfers": 50
+    "last_deadline_bank": 1,
+    "last_deadline_value": 1038,
+    "last_deadline_total_transfers": 51
 }

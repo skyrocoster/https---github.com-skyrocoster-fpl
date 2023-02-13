@@ -9,11 +9,11 @@
     "player_region_name": "Congo, Democratic Republic of",
     "player_region_iso_code_short": "CD",
     "player_region_iso_code_long": "COD",
-    "summary_overall_points": 1416,
-    "summary_overall_rank": 8886,
-    "summary_event_points": 59,
-    "summary_event_rank": 1621676,
-    "current_event": 22,
+    "summary_overall_points": 1482,
+    "summary_overall_rank": 12493,
+    "summary_event_points": 57,
+    "summary_event_rank": 1185385,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 40,
-                "entry_last_rank": 26
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 72,
+                "entry_last_rank": 92
             },
             {
                 "id": 70,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
-                "entry_last_rank": 1
+                "entry_rank": 3,
+                "entry_last_rank": 3
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8885,
-                "entry_last_rank": 6036
+                "entry_rank": 12492,
+                "entry_last_rank": 14884
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 8886,
-                "entry_last_rank": 6038
+                "entry_rank": 12493,
+                "entry_last_rank": 14885
             },
             {
                 "id": 97542,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 1
+                "entry_rank": 1,
+                "entry_last_rank": 2
             },
             {
                 "id": 721339,
@@ -328,8 +328,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 661580,
-                "entry_last_rank": 685938
+                "entry_rank": 777306,
+                "entry_last_rank": 855156
             }
         ],
         "h2h": [
@@ -351,8 +351,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
-                "entry_last_rank": 4
+                "entry_rank": 5,
+                "entry_last_rank": 5
             },
             {
                 "id": 1702516,
@@ -413,13 +413,40 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 2097152"
+            },
+            {
+                "id": 108776952,
+                "entry_1_entry": 3629582,
+                "entry_1_name": "White panthère",
+                "entry_1_player_name": "grace grace",
+                "entry_1_points": 53,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "White panthère",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 13,
-    "last_deadline_value": 1026,
-    "last_deadline_total_transfers": 15
+    "last_deadline_bank": 5,
+    "last_deadline_value": 1028,
+    "last_deadline_total_transfers": 17
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Poland",
     "player_region_iso_code_short": "PL",
     "player_region_iso_code_long": "POL",
-    "summary_overall_points": 1456,
-    "summary_overall_rank": 610,
-    "summary_event_points": 87,
-    "summary_event_rank": 27399,
-    "current_event": 22,
+    "summary_overall_points": 1537,
+    "summary_overall_rank": 345,
+    "summary_event_points": 54,
+    "summary_event_rank": 1609821,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 12
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 192,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2437797,
                 "cup_qualified": true,
-                "entry_rank": 10,
-                "entry_last_rank": 41
+                "entry_rank": 9,
+                "entry_last_rank": 9
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 610,
-                "entry_last_rank": 2753
+                "entry_rank": 345,
+                "entry_last_rank": 449
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 610,
-                "entry_last_rank": 2753
+                "entry_rank": 345,
+                "entry_last_rank": 449
             },
             {
                 "id": 17883,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 10
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 513213,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 90,
-                "entry_last_rank": 367
+                "entry_rank": 60,
+                "entry_last_rank": 71
             },
             {
                 "id": 513776,
@@ -161,7 +161,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 3
+                "entry_last_rank": 1
             },
             {
                 "id": 555889,
@@ -203,7 +203,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 1137974,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
-                "entry_last_rank": 18
+                "entry_rank": 5,
+                "entry_last_rank": 6
             },
             {
                 "id": 1230259,
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 3
             },
             {
@@ -286,8 +286,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 22009,
-                "entry_last_rank": 144216
+                "entry_rank": 13234,
+                "entry_last_rank": 15182
             }
         ],
         "h2h": [
@@ -352,19 +352,19 @@
                 "knockout_name": "Round of 8388608"
             },
             {
-                "id": 103143337,
-                "entry_1_entry": 2977239,
-                "entry_1_name": "MissingPersonIsMe",
-                "entry_1_player_name": "Kamil Bienkowski",
-                "entry_1_points": 87,
+                "id": 107091648,
+                "entry_1_entry": 1618458,
+                "entry_1_name": "11 Polaków",
+                "entry_1_player_name": "Filip Niemczewski",
+                "entry_1_points": 50,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 8273801,
-                "entry_2_name": "AlexFin",
-                "entry_2_player_name": "alex rehn",
-                "entry_2_points": 30,
+                "entry_2_entry": 2977239,
+                "entry_2_name": "MissingPersonIsMe",
+                "entry_2_player_name": "Kamil Bienkowski",
+                "entry_2_points": 54,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -373,17 +373,44 @@
                 "league": 2412737,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105293234,
+                "id": 108146670,
                 "entry_1_entry": 2977239,
                 "entry_1_name": "MissingPersonIsMe",
                 "entry_1_player_name": "Kamil Bienkowski",
-                "entry_1_points": 87,
+                "entry_1_points": 54,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 9527982,
+                "entry_2_name": "daj.",
+                "entry_2_player_name": "Piotrek Franczuk",
+                "entry_2_points": 14,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437797,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108767572,
+                "entry_1_entry": 2977239,
+                "entry_1_name": "MissingPersonIsMe",
+                "entry_1_player_name": "Kamil Bienkowski",
+                "entry_1_points": 54,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -397,13 +424,13 @@
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2437797,
+                "league": 2448104,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -411,6 +438,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 22,
-    "last_deadline_value": 1034,
+    "last_deadline_value": 1036,
     "last_deadline_total_transfers": 21
 }

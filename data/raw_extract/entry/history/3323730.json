@@ -275,16 +275,29 @@
         },
         {
             "event": 22,
-            "points": 62,
-            "total_points": 1416,
-            "rank": 1165648,
-            "rank_sort": 1175468,
-            "overall_rank": 9252,
+            "points": 81,
+            "total_points": 1435,
+            "rank": 1168248,
+            "rank_sort": 1176134,
+            "overall_rank": 11069,
             "bank": 11,
             "value": 1036,
             "event_transfers": 0,
             "event_transfers_cost": 0,
             "points_on_bench": 24
+        },
+        {
+            "event": 23,
+            "points": 59,
+            "total_points": 1490,
+            "rank": 859004,
+            "rank_sort": 874480,
+            "overall_rank": 8262,
+            "bank": 8,
+            "value": 1034,
+            "event_transfers": 2,
+            "event_transfers_cost": 4,
+            "points_on_bench": 6
         }
     ],
     "past": [
@@ -364,6 +377,11 @@
             "name": "freehit",
             "time": "2023-01-31T18:43:44.704954Z",
             "event": 22
+        },
+        {
+            "name": "3xc",
+            "time": "2023-02-09T12:31:57.208370Z",
+            "event": 23
         }
     ]
 }

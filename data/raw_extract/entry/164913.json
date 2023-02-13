@@ -9,11 +9,11 @@
     "player_region_name": "Sri Lanka",
     "player_region_iso_code_short": "LK",
     "player_region_iso_code_long": "LKA",
-    "summary_overall_points": 1331,
-    "summary_overall_rank": 361334,
-    "summary_event_points": 44,
-    "summary_event_rank": 3894277,
-    "current_event": 22,
+    "summary_overall_points": 1398,
+    "summary_overall_rank": 380645,
+    "summary_event_points": 51,
+    "summary_event_rank": 2353945,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 50409,
-                "entry_last_rank": 30506
+                "entry_rank": 51750,
+                "entry_last_rank": 54753
             },
             {
                 "id": 221,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 106,
-                "entry_last_rank": 62
+                "entry_rank": 121,
+                "entry_last_rank": 122
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 361066,
-                "entry_last_rank": 212216
+                "entry_rank": 380312,
+                "entry_last_rank": 396886
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 361334,
-                "entry_last_rank": 212326
+                "entry_rank": 380645,
+                "entry_last_rank": 397193
             },
             {
                 "id": 4194,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 22097,
-                "entry_last_rank": 11514
+                "entry_rank": 22831,
+                "entry_last_rank": 25255
             },
             {
                 "id": 6345,
@@ -154,14 +154,14 @@
                 "scoring": "c",
                 "admin_entry": 640845,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 4200,
-                "entry_last_rank": 2375
+                "cup_league": 2448142,
+                "cup_qualified": true,
+                "entry_rank": 4321,
+                "entry_last_rank": 4661
             },
             {
                 "id": 654390,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2437814,
                 "cup_qualified": true,
-                "entry_rank": 5799,
-                "entry_last_rank": 3312
+                "entry_rank": 6009,
+                "entry_last_rank": 6455
             },
             {
                 "id": 684293,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2437815,
                 "cup_qualified": true,
-                "entry_rank": 12443,
-                "entry_last_rank": 6871
+                "entry_rank": 12997,
+                "entry_last_rank": 14058
             },
             {
                 "id": 711504,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 838,
-                "entry_last_rank": 489
+                "entry_rank": 856,
+                "entry_last_rank": 953
             },
             {
                 "id": 2385997,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2134448,
-                "entry_last_rank": 1664575
+                "entry_rank": 2039790,
+                "entry_last_rank": 2129017
             }
         ],
         "h2h": [],
@@ -315,38 +315,11 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 105980698,
-                "entry_1_entry": 164913,
-                "entry_1_name": "Lord Jesus Christ",
-                "entry_1_player_name": "George Edwards",
-                "entry_1_points": 44,
-                "entry_1_win": 0,
-                "entry_1_draw": 0,
-                "entry_1_loss": 0,
-                "entry_1_total": 0,
-                "entry_2_entry": 5041483,
-                "entry_2_name": "Myles fc",
-                "entry_2_player_name": "Kayawe Kakoma",
-                "entry_2_points": 50,
-                "entry_2_win": 0,
-                "entry_2_draw": 0,
-                "entry_2_loss": 0,
-                "entry_2_total": 0,
-                "is_knockout": true,
-                "league": 2437808,
-                "winner": null,
-                "seed_value": null,
-                "event": 22,
-                "tiebreak": null,
-                "is_bye": false,
-                "knockout_name": "Round of 131072"
-            },
-            {
                 "id": 106402378,
                 "entry_1_entry": 310729,
                 "entry_1_name": "SalahToGlory",
                 "entry_1_player_name": "Ryan Ransom",
-                "entry_1_points": 74,
+                "entry_1_points": 95,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -354,14 +327,14 @@
                 "entry_2_entry": 164913,
                 "entry_2_name": "Lord Jesus Christ",
                 "entry_2_player_name": "George Edwards",
-                "entry_2_points": 44,
+                "entry_2_points": 60,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437814,
-                "winner": null,
+                "winner": 310729,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -373,7 +346,7 @@
                 "entry_1_entry": 522582,
                 "entry_1_name": "Cancelo Culture",
                 "entry_1_player_name": "Matthew Wilkes",
-                "entry_1_points": 70,
+                "entry_1_points": 97,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -381,26 +354,80 @@
                 "entry_2_entry": 164913,
                 "entry_2_name": "Lord Jesus Christ",
                 "entry_2_player_name": "George Edwards",
-                "entry_2_points": 44,
+                "entry_2_points": 60,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437815,
-                "winner": null,
+                "winner": 522582,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 131072"
+            },
+            {
+                "id": 108502114,
+                "entry_1_entry": 164913,
+                "entry_1_name": "Lord Jesus Christ",
+                "entry_1_player_name": "George Edwards",
+                "entry_1_points": 51,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 111005,
+                "entry_2_name": "Hameljana",
+                "entry_2_player_name": "Šura Dino",
+                "entry_2_points": 39,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437808,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 110033230,
+                "entry_1_entry": 164913,
+                "entry_1_name": "Lord Jesus Christ",
+                "entry_1_player_name": "George Edwards",
+                "entry_1_points": 51,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448142,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Lord Jesus Christ",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#4a90e2\",\"kit_shirt_sleeves\":\"#4a90e2\",\"kit_shirt_secondary\":\"#f4f4f4\",\"kit_shirt_logo\":\"no-racism\",\"kit_shorts\":\"#4a90e2\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 22,
-    "last_deadline_value": 1031,
-    "last_deadline_total_transfers": 30
+    "last_deadline_bank": 19,
+    "last_deadline_value": 1029,
+    "last_deadline_total_transfers": 31
 }

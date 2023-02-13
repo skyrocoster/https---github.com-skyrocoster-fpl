@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1457,
-    "summary_overall_rank": 588,
-    "summary_event_points": 80,
-    "summary_event_rank": 105136,
-    "current_event": 22,
+    "summary_overall_points": 1516,
+    "summary_overall_rank": 1582,
+    "summary_event_points": 34,
+    "summary_event_rank": 6466758,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 85,
-                "entry_last_rank": 209
+                "entry_rank": 207,
+                "entry_last_rank": 74
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 25,
-                "entry_last_rank": 66
+                "entry_rank": 69,
+                "entry_last_rank": 22
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 588,
-                "entry_last_rank": 1593
+                "entry_rank": 1582,
+                "entry_last_rank": 510
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 588,
-                "entry_last_rank": 1593
+                "entry_rank": 1582,
+                "entry_last_rank": 510
             },
             {
                 "id": 144416,
@@ -133,14 +133,14 @@
                 "scoring": "c",
                 "admin_entry": 1733314,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 10,
-                "entry_last_rank": 18
+                "cup_league": 2448144,
+                "cup_qualified": true,
+                "entry_rank": 28,
+                "entry_last_rank": 10
             },
             {
                 "id": 841533,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 91589,
-                "entry_last_rank": 318210
+                "entry_rank": 225962,
+                "entry_last_rank": 72400
             }
         ],
         "h2h": [],
@@ -261,19 +261,19 @@
         },
         "cup_matches": [
             {
-                "id": 102523608,
-                "entry_1_entry": 336854,
-                "entry_1_name": "Kilkillahara Rovers",
-                "entry_1_player_name": "Robert O' Connell",
-                "entry_1_points": 80,
+                "id": 106759133,
+                "entry_1_entry": 5583789,
+                "entry_1_name": "The Super Who ops!!!",
+                "entry_1_player_name": "Maurice Pearson",
+                "entry_1_points": 62,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1126959,
-                "entry_2_name": "MAYORGROUP FC",
-                "entry_2_player_name": "Gilbert Squire",
-                "entry_2_points": 78,
+                "entry_2_entry": 336854,
+                "entry_2_name": "Kilkillahara Rovers",
+                "entry_2_player_name": "Robert O' Connell",
+                "entry_2_points": 34,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -282,17 +282,17 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102854402,
-                "entry_1_entry": 3526742,
-                "entry_1_name": "ashawes",
-                "entry_1_player_name": "islam abd_elghafour",
-                "entry_1_points": 53,
+                "id": 106915219,
+                "entry_1_entry": 5206937,
+                "entry_1_name": "Hill Albion",
+                "entry_1_player_name": "Eoin Barry",
+                "entry_1_points": 42,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -300,7 +300,7 @@
                 "entry_2_entry": 336854,
                 "entry_2_name": "Kilkillahara Rovers",
                 "entry_2_player_name": "Robert O' Connell",
-                "entry_2_points": 80,
+                "entry_2_points": 34,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -309,25 +309,25 @@
                 "league": 2405666,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103360529,
+                "id": 107181906,
                 "entry_1_entry": 336854,
                 "entry_1_name": "Kilkillahara Rovers",
                 "entry_1_player_name": "Robert O' Connell",
-                "entry_1_points": 80,
+                "entry_1_points": 34,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 7240451,
-                "entry_2_name": "Castletown 69ers",
-                "entry_2_player_name": "Shane Phelan",
-                "entry_2_points": 39,
+                "entry_2_entry": 7052648,
+                "entry_2_name": "Another last place",
+                "entry_2_player_name": "Ciaran Murphy",
+                "entry_2_points": 41,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -336,17 +336,44 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 110080937,
+                "entry_1_entry": 336854,
+                "entry_1_name": "Kilkillahara Rovers",
+                "entry_1_player_name": "Robert O' Connell",
+                "entry_1_points": 34,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448144,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Kilkillahara Rovers",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"hoops\",\"kit_shirt_base\":\"#d0021b\",\"kit_shirt_sleeves\":\"#d0021b\",\"kit_shirt_secondary\":\"#ffffff\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#ffffff\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#d0021b\",\"kit_socks_secondary\":\"#ffffff\"}",
-    "last_deadline_bank": 13,
-    "last_deadline_value": 1048,
-    "last_deadline_total_transfers": 26
+    "last_deadline_bank": 14,
+    "last_deadline_value": 1050,
+    "last_deadline_total_transfers": 27
 }

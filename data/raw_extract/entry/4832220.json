@@ -9,11 +9,11 @@
     "player_region_name": "Nauru",
     "player_region_iso_code_short": "NR",
     "player_region_iso_code_long": "NRU",
-    "summary_overall_points": 1426,
-    "summary_overall_rank": 5039,
-    "summary_event_points": 67,
-    "summary_event_rank": 753780,
-    "current_event": 22,
+    "summary_overall_points": 1486,
+    "summary_overall_rank": 10269,
+    "summary_event_points": 41,
+    "summary_event_rank": 4927225,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 25,
-                "entry_last_rank": 20
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 61,
+                "entry_last_rank": 30
             },
             {
                 "id": 169,
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5038,
-                "entry_last_rank": 5525
+                "entry_rank": 10268,
+                "entry_last_rank": 6173
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 5039,
-                "entry_last_rank": 5526
+                "entry_rank": 10269,
+                "entry_last_rank": 6174
             },
             {
                 "id": 1516737,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 200645,
-                "entry_last_rank": 278793
+                "entry_rank": 389814,
+                "entry_last_rank": 225584
             }
         ],
         "h2h": [],
@@ -181,13 +181,40 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 4194304"
+            },
+            {
+                "id": 108771443,
+                "entry_1_entry": 4832220,
+                "entry_1_name": "Change Name",
+                "entry_1_player_name": "Matthew Herbert",
+                "entry_1_points": 41,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Change Name",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 5,
-    "last_deadline_value": 1031,
-    "last_deadline_total_transfers": 30
+    "last_deadline_bank": 33,
+    "last_deadline_value": 1029,
+    "last_deadline_total_transfers": 31
 }

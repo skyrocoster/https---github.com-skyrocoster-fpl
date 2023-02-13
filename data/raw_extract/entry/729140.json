@@ -9,11 +9,11 @@
     "player_region_name": "Egypt",
     "player_region_iso_code_short": "EG",
     "player_region_iso_code_long": "EGY",
-    "summary_overall_points": 1493,
-    "summary_overall_rank": 38,
-    "summary_event_points": 89,
-    "summary_event_rank": 16484,
-    "current_event": 22,
+    "summary_overall_points": 1570,
+    "summary_overall_rank": 36,
+    "summary_event_points": 50,
+    "summary_event_rank": 2473286,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -35,7 +35,7 @@
                 "cup_league": 2405679,
                 "cup_qualified": true,
                 "entry_rank": 3,
-                "entry_last_rank": 15
+                "entry_last_rank": 3
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 38,
-                "entry_last_rank": 225
+                "entry_rank": 36,
+                "entry_last_rank": 31
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 38,
-                "entry_last_rank": 225
+                "entry_rank": 36,
+                "entry_last_rank": 31
             },
             {
                 "id": 15950,
@@ -91,14 +91,14 @@
                 "scoring": "c",
                 "admin_entry": 469,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448135,
+                "cup_qualified": true,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 20642,
@@ -161,7 +161,7 @@
                 "cup_league": 2437810,
                 "cup_qualified": true,
                 "entry_rank": 1,
-                "entry_last_rank": 3
+                "entry_last_rank": 1
             },
             {
                 "id": 309911,
@@ -266,7 +266,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 928434,
@@ -287,7 +287,7 @@
                 "cup_league": 2381816,
                 "cup_qualified": true,
                 "entry_rank": 6,
-                "entry_last_rank": 35
+                "entry_last_rank": 6
             },
             {
                 "id": 1262481,
@@ -349,8 +349,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3693,
-                "entry_last_rank": 33069
+                "entry_rank": 3630,
+                "entry_last_rank": 2621
             }
         ],
         "h2h": [],
@@ -366,19 +366,19 @@
         },
         "cup_matches": [
             {
-                "id": 102537605,
-                "entry_1_entry": 729140,
-                "entry_1_name": "Sabra FC",
-                "entry_1_player_name": "Ahmed Sabra",
-                "entry_1_points": 89,
+                "id": 106743662,
+                "entry_1_entry": 6148924,
+                "entry_1_name": "Fc gratis fika",
+                "entry_1_player_name": "Belmin Omerovic",
+                "entry_1_points": 49,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 113188,
-                "entry_2_name": "King Kabala",
-                "entry_2_player_name": "mo Kabala",
-                "entry_2_points": 75,
+                "entry_2_entry": 729140,
+                "entry_2_name": "Sabra FC",
+                "entry_2_player_name": "Ahmed Sabra",
+                "entry_2_points": 50,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -387,25 +387,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102709851,
+                "id": 106856408,
                 "entry_1_entry": 729140,
                 "entry_1_name": "Sabra FC",
                 "entry_1_player_name": "Ahmed Sabra",
-                "entry_1_points": 89,
+                "entry_1_points": 50,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 3583473,
-                "entry_2_name": "Faied",
-                "entry_2_player_name": "Mohamed Faied",
-                "entry_2_points": 51,
+                "entry_2_entry": 1987549,
+                "entry_2_name": "Aysem",
+                "entry_2_player_name": "Issame El Kassili",
+                "entry_2_points": 54,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -414,25 +414,25 @@
                 "league": 2381816,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103103184,
-                "entry_1_entry": 5805105,
-                "entry_1_name": "mostafa khaled",
-                "entry_1_player_name": "mostafa khaled",
+                "id": 107060782,
+                "entry_1_entry": 729140,
+                "entry_1_name": "Sabra FC",
+                "entry_1_player_name": "Ahmed Sabra",
                 "entry_1_points": 50,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 729140,
-                "entry_2_name": "Sabra FC",
-                "entry_2_player_name": "Ahmed Sabra",
-                "entry_2_points": 89,
+                "entry_2_entry": 1830194,
+                "entry_2_name": "FARAMAWY FC",
+                "entry_2_player_name": "Hisham Faramawy",
+                "entry_2_points": 43,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -441,17 +441,44 @@
                 "league": 2405679,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 106089800,
+                "id": 108555750,
+                "entry_1_entry": 2343567,
+                "entry_1_name": "MSB(-_-)",
+                "entry_1_player_name": "Mosab Alharbi",
+                "entry_1_points": 52,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 729140,
+                "entry_2_name": "Sabra FC",
+                "entry_2_player_name": "Ahmed Sabra",
+                "entry_2_points": 50,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437810,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109783735,
                 "entry_1_entry": 729140,
                 "entry_1_name": "Sabra FC",
                 "entry_1_player_name": "Ahmed Sabra",
-                "entry_1_points": 89,
+                "entry_1_points": 50,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -465,13 +492,13 @@
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2437810,
+                "league": 2448135,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -479,6 +506,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 52,
-    "last_deadline_value": 1036,
+    "last_deadline_value": 1039,
     "last_deadline_total_transfers": 31
 }

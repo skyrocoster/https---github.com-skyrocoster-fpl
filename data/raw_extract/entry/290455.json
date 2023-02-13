@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1436,
-    "summary_overall_rank": 2627,
-    "summary_event_points": 79,
-    "summary_event_rank": 139113,
-    "current_event": 22,
+    "summary_overall_points": 1493,
+    "summary_overall_rank": 6922,
+    "summary_event_points": 34,
+    "summary_event_rank": 6517433,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 13,
-                "entry_last_rank": 29
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 38,
+                "entry_last_rank": 11
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 940,
-                "entry_last_rank": 2372
+                "entry_rank": 2477,
+                "entry_last_rank": 692
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2627,
-                "entry_last_rank": 6265
+                "entry_rank": 6921,
+                "entry_last_rank": 1949
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2627,
-                "entry_last_rank": 6267
+                "entry_rank": 6922,
+                "entry_last_rank": 1949
             },
             {
                 "id": 183413,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1083,
-                "entry_last_rank": 2716
+                "entry_rank": 2825,
+                "entry_last_rank": 791
             },
             {
                 "id": 2385997,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 77935,
-                "entry_last_rank": 251895
+                "entry_rank": 225962,
+                "entry_last_rank": 53262
             }
         ],
         "h2h": [],
@@ -246,19 +246,19 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 102636003,
+                "id": 106822296,
                 "entry_1_entry": 290455,
                 "entry_1_name": "He Shoots…He Saves!",
                 "entry_1_player_name": "Matthew McNamee",
-                "entry_1_points": 79,
+                "entry_1_points": 30,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 7750038,
-                "entry_2_name": "SOA Gurkha",
-                "entry_2_player_name": "Anish Sharma",
-                "entry_2_points": 47,
+                "entry_2_entry": 3811947,
+                "entry_2_name": "Milf Utd",
+                "entry_2_player_name": "Ross Milford",
+                "entry_2_points": 37,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -267,17 +267,17 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102778015,
-                "entry_1_entry": 7618676,
-                "entry_1_name": "OHLeuven",
-                "entry_1_player_name": "Stephen Lyons",
-                "entry_1_points": 57,
+                "id": 106897476,
+                "entry_1_entry": 3118960,
+                "entry_1_name": "kloppites",
+                "entry_1_player_name": "Chris Preece",
+                "entry_1_points": 40,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -285,7 +285,7 @@
                 "entry_2_entry": 290455,
                 "entry_2_name": "He Shoots…He Saves!",
                 "entry_2_player_name": "Matthew McNamee",
-                "entry_2_points": 79,
+                "entry_2_points": 30,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -294,17 +294,44 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108768018,
+                "entry_1_entry": 290455,
+                "entry_1_name": "He Shoots…He Saves!",
+                "entry_1_player_name": "Matthew McNamee",
+                "entry_1_points": 30,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "He Shoots…He Saves!",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#d0021b\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#000000\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#d0021b\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 55,
-    "last_deadline_value": 1046,
-    "last_deadline_total_transfers": 27
+    "last_deadline_bank": 3,
+    "last_deadline_value": 1041,
+    "last_deadline_total_transfers": 30
 }

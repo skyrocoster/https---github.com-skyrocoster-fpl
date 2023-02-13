@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1444,
-    "summary_overall_rank": 1552,
-    "summary_event_points": 99,
-    "summary_event_rank": 805,
-    "current_event": 22,
+    "summary_overall_points": 1527,
+    "summary_overall_rank": 788,
+    "summary_event_points": 56,
+    "summary_event_rank": 1300240,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 7,
-                "entry_last_rank": 57
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 4,
+                "entry_last_rank": 6
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 546,
-                "entry_last_rank": 5109
+                "entry_rank": 261,
+                "entry_last_rank": 407
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1552,
-                "entry_last_rank": 13419
+                "entry_rank": 788,
+                "entry_last_rank": 1157
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1552,
-                "entry_last_rank": 13422
+                "entry_rank": 788,
+                "entry_last_rank": 1157
             },
             {
                 "id": 4194,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 111,
-                "entry_last_rank": 720
+                "entry_rank": 57,
+                "entry_last_rank": 93
             },
             {
                 "id": 9907,
@@ -182,7 +182,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 289209,
@@ -224,7 +224,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 577873,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
-                "entry_last_rank": 40
+                "entry_rank": 4,
+                "entry_last_rank": 5
             },
             {
                 "id": 684293,
@@ -265,8 +265,8 @@
                 "has_cup": true,
                 "cup_league": 2437815,
                 "cup_qualified": true,
-                "entry_rank": 58,
-                "entry_last_rank": 422
+                "entry_rank": 29,
+                "entry_last_rank": 44
             },
             {
                 "id": 761867,
@@ -328,8 +328,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 634,
-                "entry_last_rank": 5833
+                "entry_rank": 300,
+                "entry_last_rank": 472
             },
             {
                 "id": 1392256,
@@ -349,8 +349,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 10
+                "entry_rank": 1,
+                "entry_last_rank": 3
             },
             {
                 "id": 1938008,
@@ -371,7 +371,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 2385997,
@@ -391,8 +391,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 13293,
-                "entry_last_rank": 242640
+                "entry_rank": 6691,
+                "entry_last_rank": 9302
             }
         ],
         "h2h": [],
@@ -462,19 +462,19 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 102650263,
-                "entry_1_entry": 334720,
-                "entry_1_name": "McClatchie FC",
-                "entry_1_player_name": "Will McClatchie",
-                "entry_1_points": 99,
+                "id": 106817504,
+                "entry_1_entry": 2656766,
+                "entry_1_name": "The Sixth Spence",
+                "entry_1_player_name": "James Elliott",
+                "entry_1_points": 31,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 3802348,
-                "entry_2_name": "Jonesys XI",
-                "entry_2_player_name": "Harrison Jones",
-                "entry_2_points": 76,
+                "entry_2_entry": 334720,
+                "entry_2_name": "McClatchie FC",
+                "entry_2_player_name": "Will McClatchie",
+                "entry_2_points": 56,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -483,17 +483,71 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105951271,
+                "id": 108488175,
                 "entry_1_entry": 334720,
                 "entry_1_name": "McClatchie FC",
                 "entry_1_player_name": "Will McClatchie",
-                "entry_1_points": 99,
+                "entry_1_points": 56,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 7779821,
+                "entry_2_name": "Best 11",
+                "entry_2_player_name": "Mohammed Mayat",
+                "entry_2_points": 39,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437808,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108713463,
+                "entry_1_entry": 185963,
+                "entry_1_name": "sky blues",
+                "entry_1_player_name": "Vito Jurjević",
+                "entry_1_points": 46,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 334720,
+                "entry_2_name": "McClatchie FC",
+                "entry_2_player_name": "Will McClatchie",
+                "entry_2_points": 56,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437815,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108767438,
+                "entry_1_entry": 334720,
+                "entry_1_name": "McClatchie FC",
+                "entry_1_player_name": "Will McClatchie",
+                "entry_1_points": 56,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -507,47 +561,20 @@
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2437808,
+                "league": 2448104,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": true,
-                "knockout_name": "Round of 131072"
-            },
-            {
-                "id": 106428757,
-                "entry_1_entry": 334720,
-                "entry_1_name": "McClatchie FC",
-                "entry_1_player_name": "Will McClatchie",
-                "entry_1_points": 99,
-                "entry_1_win": 0,
-                "entry_1_draw": 0,
-                "entry_1_loss": 0,
-                "entry_1_total": 0,
-                "entry_2_entry": 4155607,
-                "entry_2_name": "BOOM XHAKASAKA",
-                "entry_2_player_name": "Shane Lyons",
-                "entry_2_points": 44,
-                "entry_2_win": 0,
-                "entry_2_draw": 0,
-                "entry_2_loss": 0,
-                "entry_2_total": 0,
-                "is_knockout": true,
-                "league": 2437815,
-                "winner": null,
-                "seed_value": null,
-                "event": 22,
-                "tiebreak": null,
-                "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "McClatchie FC",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 46,
+    "last_deadline_bank": 28,
     "last_deadline_value": 1035,
-    "last_deadline_total_transfers": 38
+    "last_deadline_total_transfers": 39
 }

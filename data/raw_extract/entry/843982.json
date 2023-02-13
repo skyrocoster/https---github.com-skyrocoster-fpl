@@ -9,11 +9,11 @@
     "player_region_name": "Uganda",
     "player_region_iso_code_short": "UG",
     "player_region_iso_code_long": "UGA",
-    "summary_overall_points": 1409,
-    "summary_overall_rank": 13426,
-    "summary_event_points": 89,
-    "summary_event_rank": 14720,
-    "current_event": 22,
+    "summary_overall_points": 1486,
+    "summary_overall_rank": 10026,
+    "summary_event_points": 58,
+    "summary_event_rank": 901844,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 3292,
-                "entry_last_rank": 11805
+                "entry_rank": 2569,
+                "entry_last_rank": 3943
             },
             {
                 "id": 244,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2437803,
                 "cup_qualified": true,
-                "entry_rank": 27,
-                "entry_last_rank": 99
+                "entry_rank": 19,
+                "entry_last_rank": 27
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 13425,
-                "entry_last_rank": 50073
+                "entry_rank": 10025,
+                "entry_last_rank": 15815
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 13426,
-                "entry_last_rank": 50088
+                "entry_rank": 10026,
+                "entry_last_rank": 15816
             },
             {
                 "id": 450434,
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 2
             },
             {
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 5
+                "entry_rank": 1,
+                "entry_last_rank": 4
             },
             {
                 "id": 1616798,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 37,
-                "entry_last_rank": 339
+                "entry_rank": 42,
+                "entry_last_rank": 79
             }
         ],
         "h2h": [],
@@ -240,19 +240,19 @@
         },
         "cup_matches": [
             {
-                "id": 102510073,
-                "entry_1_entry": 843982,
-                "entry_1_name": "MAZDA",
-                "entry_1_player_name": "Hassan Hassan",
-                "entry_1_points": 89,
+                "id": 106762986,
+                "entry_1_entry": 256312,
+                "entry_1_name": "Alios Bavarian",
+                "entry_1_player_name": "Alios Bavarian",
+                "entry_1_points": 46,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 771748,
-                "entry_2_name": "SHFC",
-                "entry_2_player_name": "Sahir Hussain",
-                "entry_2_points": 60,
+                "entry_2_entry": 843982,
+                "entry_2_name": "MAZDA",
+                "entry_2_player_name": "Hassan Hassan",
+                "entry_2_points": 58,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -261,25 +261,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102589037,
+                "id": 106781854,
                 "entry_1_entry": 843982,
                 "entry_1_name": "MAZDA",
                 "entry_1_player_name": "Hassan Hassan",
-                "entry_1_points": 89,
+                "entry_1_points": 58,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 230424,
-                "entry_2_name": "hanging by a Fred",
-                "entry_2_player_name": "Lucas Taplin",
-                "entry_2_points": 47,
+                "entry_2_entry": 214508,
+                "entry_2_name": "Gregs",
+                "entry_2_player_name": "Liam Cassidy",
+                "entry_2_points": 48,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -288,25 +288,25 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105618545,
+                "id": 108331448,
                 "entry_1_entry": 843982,
                 "entry_1_name": "MAZDA",
                 "entry_1_player_name": "Hassan Hassan",
-                "entry_1_points": 89,
+                "entry_1_points": 58,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 6986418,
+                "entry_2_name": "Banter FC",
+                "entry_2_player_name": "Kabeba Shafik",
+                "entry_2_points": 37,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -315,10 +315,10 @@
                 "league": 2437803,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -326,6 +326,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 38,
-    "last_deadline_value": 1026,
+    "last_deadline_value": 1031,
     "last_deadline_total_transfers": 23
 }

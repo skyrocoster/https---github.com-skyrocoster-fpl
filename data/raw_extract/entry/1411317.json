@@ -9,11 +9,11 @@
     "player_region_name": "Bulgaria",
     "player_region_iso_code_short": "BG",
     "player_region_iso_code_long": "BGR",
-    "summary_overall_points": 1490,
-    "summary_overall_rank": 47,
-    "summary_event_points": 72,
-    "summary_event_rank": 385334,
-    "current_event": 22,
+    "summary_overall_points": 1569,
+    "summary_overall_rank": 40,
+    "summary_event_points": 52,
+    "summary_event_rank": 2134200,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -35,7 +35,7 @@
                 "cup_league": 2431350,
                 "cup_qualified": true,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 54,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 47,
-                "entry_last_rank": 71
+                "entry_rank": 40,
+                "entry_last_rank": 39
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 47,
-                "entry_last_rank": 71
+                "entry_rank": 40,
+                "entry_last_rank": 39
             },
             {
                 "id": 72998,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 512621,
-                "entry_last_rank": 1064360
+                "entry_rank": 341235,
+                "entry_last_rank": 357457
             }
         ],
         "h2h": [
@@ -310,11 +310,11 @@
                 "knockout_name": "Round of 4194304"
             },
             {
-                "id": 103911607,
-                "entry_1_entry": 7364628,
-                "entry_1_name": "Bitton the side",
-                "entry_1_player_name": "Kathryn Frankland",
-                "entry_1_points": 36,
+                "id": 107456273,
+                "entry_1_entry": 2002762,
+                "entry_1_name": "KnutFC",
+                "entry_1_player_name": "albin elfving",
+                "entry_1_points": 19,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -322,7 +322,7 @@
                 "entry_2_entry": 1411317,
                 "entry_2_name": "1912",
                 "entry_2_player_name": "Петър Матански",
-                "entry_2_points": 72,
+                "entry_2_points": 52,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -331,17 +331,17 @@
                 "league": 2431350,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "1912",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 32,
-    "last_deadline_value": 1033,
-    "last_deadline_total_transfers": 18
+    "last_deadline_bank": 4,
+    "last_deadline_value": 1031,
+    "last_deadline_total_transfers": 19
 }

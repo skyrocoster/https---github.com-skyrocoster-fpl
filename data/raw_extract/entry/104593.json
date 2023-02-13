@@ -9,11 +9,11 @@
     "player_region_name": "Norway",
     "player_region_iso_code_short": "NO",
     "player_region_iso_code_long": "NOR",
-    "summary_overall_points": 1526,
-    "summary_overall_rank": 3,
-    "summary_event_points": 85,
-    "summary_event_rank": 37866,
-    "current_event": 22,
+    "summary_overall_points": 1573,
+    "summary_overall_rank": 26,
+    "summary_event_points": 32,
+    "summary_event_rank": 6908770,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2431360,
                 "cup_qualified": true,
-                "entry_rank": 1,
-                "entry_last_rank": 3
+                "entry_rank": 5,
+                "entry_last_rank": 1
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 13
+                "entry_rank": 26,
+                "entry_last_rank": 4
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 3,
-                "entry_last_rank": 13
+                "entry_rank": 26,
+                "entry_last_rank": 4
             },
             {
                 "id": 513213,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 2,
-                "entry_last_rank": 5
+                "entry_rank": 9,
+                "entry_last_rank": 3
             },
             {
                 "id": 1119785,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 162,
-                "entry_last_rank": 1038
+                "entry_rank": 6399,
+                "entry_last_rank": 587
             }
         ],
         "h2h": [
@@ -262,18 +262,18 @@
         },
         "cup_matches": [
             {
-                "id": 102499175,
+                "id": 106753492,
                 "entry_1_entry": 104593,
                 "entry_1_name": "ViDeBa",
                 "entry_1_player_name": "Ragnar Sandin",
-                "entry_1_points": 85,
+                "entry_1_points": 32,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6388028,
-                "entry_2_name": "ETH_Revolution",
-                "entry_2_player_name": "Kunal Jadhav",
+                "entry_2_entry": 4359036,
+                "entry_2_name": "Arsenal",
+                "entry_2_player_name": "Mohamed belmokhtar",
                 "entry_2_points": 47,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
@@ -283,25 +283,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103143250,
-                "entry_1_entry": 104593,
-                "entry_1_name": "ViDeBa",
-                "entry_1_player_name": "Ragnar Sandin",
-                "entry_1_points": 85,
+                "id": 107078395,
+                "entry_1_entry": 764696,
+                "entry_1_name": "King Kai",
+                "entry_1_player_name": "Tawan Khumyat",
+                "entry_1_points": 55,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1140147,
-                "entry_2_name": "R9.",
-                "entry_2_player_name": "Rasmus Franke",
-                "entry_2_points": 51,
+                "entry_2_entry": 104593,
+                "entry_2_name": "ViDeBa",
+                "entry_2_player_name": "Ragnar Sandin",
+                "entry_2_points": 32,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -310,17 +310,17 @@
                 "league": 2412737,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104480141,
-                "entry_1_entry": 4528304,
-                "entry_1_name": "MixMartialArts",
-                "entry_1_player_name": "Aleksander Stensrud",
-                "entry_1_points": 74,
+                "id": 107741912,
+                "entry_1_entry": 4939606,
+                "entry_1_name": "FC Eldorados",
+                "entry_1_player_name": "Eldor Isaksen",
+                "entry_1_points": 38,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -328,7 +328,7 @@
                 "entry_2_entry": 104593,
                 "entry_2_name": "ViDeBa",
                 "entry_2_player_name": "Ragnar Sandin",
-                "entry_2_points": 85,
+                "entry_2_points": 32,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -337,17 +337,17 @@
                 "league": 2431360,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "ViDeBa",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 2,
-    "last_deadline_value": 1035,
-    "last_deadline_total_transfers": 27
+    "last_deadline_bank": 0,
+    "last_deadline_value": 1032,
+    "last_deadline_total_transfers": 29
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1331,
-    "summary_overall_rank": 359816,
-    "summary_event_points": 66,
-    "summary_event_rank": 834584,
-    "current_event": 22,
+    "summary_overall_points": 1385,
+    "summary_overall_rank": 528168,
+    "summary_event_points": 45,
+    "summary_event_rank": 3953463,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 27612,
-                "entry_last_rank": 33452
+                "entry_rank": 41227,
+                "entry_last_rank": 33161
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 35,
-                "entry_last_rank": 37
+                "entry_rank": 55,
+                "entry_last_rank": 42
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 359548,
-                "entry_last_rank": 440740
+                "entry_rank": 527529,
+                "entry_last_rank": 427737
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 359816,
-                "entry_last_rank": 441122
+                "entry_rank": 528168,
+                "entry_last_rank": 428081
             },
             {
                 "id": 4194,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 22009,
-                "entry_last_rank": 22798
+                "entry_rank": 30190,
+                "entry_last_rank": 26813
             },
             {
                 "id": 30228,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
-                "entry_last_rank": 1
+                "entry_rank": 3,
+                "entry_last_rank": 3
             },
             {
                 "id": 1504604,
@@ -161,7 +161,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 3
+                "entry_last_rank": 2
             },
             {
                 "id": 1510198,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
-                "entry_last_rank": 6
+                "entry_rank": 8,
+                "entry_last_rank": 7
             },
             {
                 "id": 2385997,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 183603,
-                "entry_last_rank": 233591
+                "entry_rank": 489016,
+                "entry_last_rank": 293331
             }
         ],
         "h2h": [],
@@ -246,19 +246,19 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 102886176,
+                "id": 106956061,
                 "entry_1_entry": 1620411,
                 "entry_1_name": "mXI",
                 "entry_1_player_name": "Michael Small",
-                "entry_1_points": 66,
+                "entry_1_points": 41,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 133513,
-                "entry_2_name": "Hotel? Thiago",
-                "entry_2_player_name": "Oliver Baxter",
-                "entry_2_points": 55,
+                "entry_2_entry": 4595792,
+                "entry_2_name": "OJDizzle",
+                "entry_2_player_name": "Wale OJD",
+                "entry_2_points": 46,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -267,25 +267,25 @@
                 "league": 2405671,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105977825,
+                "id": 108496589,
                 "entry_1_entry": 1620411,
                 "entry_1_name": "mXI",
                 "entry_1_player_name": "Michael Small",
-                "entry_1_points": 66,
+                "entry_1_points": 41,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 407980,
-                "entry_2_name": "Trizzo FC",
-                "entry_2_player_name": "Tom Butler",
-                "entry_2_points": 60,
+                "entry_2_entry": 2353795,
+                "entry_2_name": "Roca the Casbah",
+                "entry_2_player_name": "Tom Macare",
+                "entry_2_points": 55,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -294,10 +294,10 @@
                 "league": 2437808,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -306,5 +306,5 @@
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#f3cefa\",\"kit_shirt_sleeves\":\"#090808\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#0a0a0a\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#ffffff\",\"kit_socks_secondary\":\"#E1E1E1\"}",
     "last_deadline_bank": 21,
     "last_deadline_value": 1025,
-    "last_deadline_total_transfers": 27
+    "last_deadline_total_transfers": 29
 }

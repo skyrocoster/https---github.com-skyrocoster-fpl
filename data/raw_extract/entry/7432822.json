@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1457,
-    "summary_overall_rank": 596,
-    "summary_event_points": 58,
-    "summary_event_rank": 1688122,
-    "current_event": 22,
+    "summary_overall_points": 1518,
+    "summary_overall_rank": 1393,
+    "summary_event_points": 48,
+    "summary_event_rank": 3066280,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 133,
-                "entry_last_rank": 75
+                "entry_rank": 350,
+                "entry_last_rank": 279
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 26,
-                "entry_last_rank": 14
+                "entry_rank": 61,
+                "entry_last_rank": 56
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 596,
-                "entry_last_rank": 331
+                "entry_rank": 1393,
+                "entry_last_rank": 1214
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 596,
-                "entry_last_rank": 331
+                "entry_rank": 1393,
+                "entry_last_rank": 1214
             },
             {
                 "id": 697683,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 615303,
-                "entry_last_rank": 590883
+                "entry_rank": 885864,
+                "entry_last_rank": 805578
             }
         ],
         "h2h": [],
@@ -256,7 +256,7 @@
                 "entry_1_entry": 1958940,
                 "entry_1_name": "The Straighteners",
                 "entry_1_player_name": "farrell stafford",
-                "entry_1_points": 56,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -264,14 +264,14 @@
                 "entry_2_entry": 7432822,
                 "entry_2_name": "Sauce FC",
                 "entry_2_player_name": "Tomás Hanley",
-                "entry_2_points": 58,
+                "entry_2_points": 71,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 1958940,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -283,7 +283,7 @@
     "name": "Sauce FC",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 6,
-    "last_deadline_value": 1024,
-    "last_deadline_total_transfers": 29
+    "last_deadline_bank": 5,
+    "last_deadline_value": 1021,
+    "last_deadline_total_transfers": 30
 }

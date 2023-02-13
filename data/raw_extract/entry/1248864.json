@@ -9,11 +9,11 @@
     "player_region_name": "South Africa",
     "player_region_iso_code_short": "ZA",
     "player_region_iso_code_long": "ZAF",
-    "summary_overall_points": 1394,
-    "summary_overall_rank": 29945,
-    "summary_event_points": 79,
-    "summary_event_rank": 139113,
-    "current_event": 22,
+    "summary_overall_points": 1476,
+    "summary_overall_rank": 17295,
+    "summary_event_points": 55,
+    "summary_event_rank": 1422772,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 7241,
-                "entry_last_rank": 15052
+                "entry_rank": 4442,
+                "entry_last_rank": 5709
             },
             {
                 "id": 218,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424307,
                 "cup_qualified": true,
-                "entry_rank": 353,
-                "entry_last_rank": 827
+                "entry_rank": 205,
+                "entry_last_rank": 271
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 29938,
-                "entry_last_rank": 63700
+                "entry_rank": 17293,
+                "entry_last_rank": 22834
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 29945,
-                "entry_last_rank": 63719
+                "entry_rank": 17295,
+                "entry_last_rank": 22837
             },
             {
                 "id": 241343,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 12
+                "entry_rank": 7,
+                "entry_last_rank": 7
             },
             {
                 "id": 946912,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 3
+                "entry_rank": 1,
+                "entry_last_rank": 2
             }
         ],
         "h2h": [],
@@ -198,19 +198,19 @@
         },
         "cup_matches": [
             {
-                "id": 102491828,
-                "entry_1_entry": 6682615,
-                "entry_1_name": "UnitedWeStand",
-                "entry_1_player_name": "Mike Plunkett",
-                "entry_1_points": 61,
+                "id": 106766032,
+                "entry_1_entry": 1248864,
+                "entry_1_name": "Ground Zero",
+                "entry_1_player_name": "Jay 17",
+                "entry_1_points": 55,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1248864,
-                "entry_2_name": "Ground Zero",
-                "entry_2_player_name": "Jay 17",
-                "entry_2_points": 79,
+                "entry_2_entry": 2429110,
+                "entry_2_name": "Whitemoss",
+                "entry_2_player_name": "Alan Blake",
+                "entry_2_points": 58,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -219,25 +219,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102541062,
+                "id": 106785195,
                 "entry_1_entry": 1248864,
                 "entry_1_name": "Ground Zero",
                 "entry_1_player_name": "Jay 17",
-                "entry_1_points": 79,
+                "entry_1_points": 55,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2036380,
-                "entry_2_name": "Sancho Unchained",
-                "entry_2_player_name": "Dom Kitching",
-                "entry_2_points": 59,
+                "entry_2_entry": 3254694,
+                "entry_2_name": "MurderOnZidanesFloor",
+                "entry_2_player_name": "Ben Lamb",
+                "entry_2_points": 68,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -246,25 +246,25 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103599037,
-                "entry_1_entry": 1248864,
-                "entry_1_name": "Ground Zero",
-                "entry_1_player_name": "Jay 17",
-                "entry_1_points": 79,
+                "id": 107294719,
+                "entry_1_entry": 3708928,
+                "entry_1_name": "Pea Shooters",
+                "entry_1_player_name": "Lloyd Goliath",
+                "entry_1_points": 40,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 8616198,
-                "entry_2_name": "KidSmallz FC",
-                "entry_2_player_name": "Katleho Tlali",
-                "entry_2_points": 23,
+                "entry_2_entry": 1248864,
+                "entry_2_name": "Ground Zero",
+                "entry_2_player_name": "Jay 17",
+                "entry_2_points": 55,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -273,10 +273,10 @@
                 "league": 2424307,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -284,6 +284,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 29,
-    "last_deadline_value": 1036,
+    "last_deadline_value": 1039,
     "last_deadline_total_transfers": 21
 }

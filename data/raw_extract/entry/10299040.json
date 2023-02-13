@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 824,
-    "summary_overall_rank": 9366297,
-    "summary_event_points": 31,
-    "summary_event_rank": 6320558,
-    "current_event": 22,
+    "summary_overall_points": 868,
+    "summary_overall_rank": 9252219,
+    "summary_event_points": 36,
+    "summary_event_rank": 5891011,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 34439,
-                "entry_last_rank": 34556
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 34086,
+                "entry_last_rank": 34434
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2556138,
-                "entry_last_rank": 2567521
+                "entry_rank": 2530818,
+                "entry_last_rank": 2555589
             },
             {
                 "id": 282,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 51644,
-                "entry_last_rank": 53001
+                "entry_rank": 52235,
+                "entry_last_rank": 53295
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 9366297,
-                "entry_last_rank": 9426734
+                "entry_rank": 9252219,
+                "entry_last_rank": 9366007
             },
             {
                 "id": 1171461,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2908949,
-                "entry_last_rank": 2922220
+                "entry_rank": 2879505,
+                "entry_last_rank": 2908310
             },
             {
                 "id": 2257667,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3226853,
-                "entry_last_rank": 2053823
+                "entry_rank": 4000232,
+                "entry_last_rank": 3530915
             }
         ],
         "h2h": [],
@@ -256,6 +256,33 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 262144"
+            },
+            {
+                "id": 108797337,
+                "entry_1_entry": 10132809,
+                "entry_1_name": "Tate boyz",
+                "entry_1_player_name": "erik strath",
+                "entry_1_points": 14,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 10299040,
+                "entry_2_name": "GE FC",
+                "entry_2_player_name": "George Evans",
+                "entry_2_points": 36,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -263,6 +290,6 @@
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#ff0000\",\"kit_shirt_sleeves\":\"#4a4a4a\",\"kit_shirt_secondary\":\"#4a4a4a\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#4a4a4a\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#4a4a4a\",\"kit_socks_secondary\":\"#ff001a\"}",
     "last_deadline_bank": 0,
-    "last_deadline_value": 1003,
+    "last_deadline_value": 1001,
     "last_deadline_total_transfers": 0
 }

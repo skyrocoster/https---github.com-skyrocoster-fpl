@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1318,
-    "summary_overall_rank": 514349,
+    "summary_overall_points": 1392,
+    "summary_overall_rank": 447329,
     "summary_event_points": 59,
-    "summary_event_rank": 1579967,
-    "current_event": 22,
+    "summary_event_rank": 859004,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 124871,
-                "entry_last_rank": 125656
+                "entry_rank": 113097,
+                "entry_last_rank": 126810
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 48,
-                "entry_last_rank": 48
+                "entry_rank": 47,
+                "entry_last_rank": 49
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 513836,
-                "entry_last_rank": 528395
+                "entry_rank": 446872,
+                "entry_last_rank": 512903
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 514349,
-                "entry_last_rank": 528956
+                "entry_rank": 447329,
+                "entry_last_rank": 513421
             },
             {
                 "id": 2088037,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 647967,
-                "entry_last_rank": 668552
+                "entry_rank": 543632,
+                "entry_last_rank": 656081
             }
         ],
         "h2h": [],
@@ -214,7 +214,7 @@
     "name": "KC United",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 31,
-    "last_deadline_value": 1020,
-    "last_deadline_total_transfers": 33
+    "last_deadline_bank": 19,
+    "last_deadline_value": 1016,
+    "last_deadline_total_transfers": 35
 }

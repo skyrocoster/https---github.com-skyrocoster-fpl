@@ -9,11 +9,11 @@
     "player_region_name": "Poland",
     "player_region_iso_code_short": "PL",
     "player_region_iso_code_long": "POL",
-    "summary_overall_points": 1447,
-    "summary_overall_rank": 1257,
-    "summary_event_points": 78,
-    "summary_event_rank": 185338,
-    "current_event": 22,
+    "summary_overall_points": 1511,
+    "summary_overall_rank": 2276,
+    "summary_event_points": 41,
+    "summary_event_rank": 4980013,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 6,
-                "entry_last_rank": 9
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 10,
+                "entry_last_rank": 4
             },
             {
                 "id": 192,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2437797,
                 "cup_qualified": true,
-                "entry_rank": 29,
-                "entry_last_rank": 32
+                "entry_rank": 46,
+                "entry_last_rank": 19
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1257,
-                "entry_last_rank": 2141
+                "entry_rank": 2276,
+                "entry_last_rank": 933
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1257,
-                "entry_last_rank": 2141
+                "entry_rank": 2276,
+                "entry_last_rank": 933
             },
             {
                 "id": 1858,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
-                "entry_last_rank": 10
+                "entry_rank": 13,
+                "entry_last_rank": 6
             },
             {
                 "id": 17883,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
-                "entry_last_rank": 8
+                "entry_rank": 17,
+                "entry_last_rank": 7
             },
             {
                 "id": 20753,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 2
+                "entry_rank": 1,
+                "entry_last_rank": 1
             },
             {
                 "id": 20798,
@@ -175,14 +175,14 @@
                 "scoring": "c",
                 "admin_entry": 93780,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 12,
-                "entry_last_rank": 22
+                "cup_league": 2448137,
+                "cup_qualified": true,
+                "entry_rank": 25,
+                "entry_last_rank": 11
             },
             {
                 "id": 22985,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
-                "entry_last_rank": 13
+                "entry_rank": 21,
+                "entry_last_rank": 6
             },
             {
                 "id": 24733,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 14,
-                "entry_last_rank": 13
+                "entry_rank": 24,
+                "entry_last_rank": 8
             },
             {
                 "id": 54279,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 12,
-                "entry_last_rank": 14
+                "entry_rank": 23,
+                "entry_last_rank": 7
             },
             {
                 "id": 64808,
@@ -265,8 +265,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 6
+                "entry_rank": 8,
+                "entry_last_rank": 3
             },
             {
                 "id": 101415,
@@ -286,8 +286,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
-                "entry_last_rank": 10
+                "entry_rank": 17,
+                "entry_last_rank": 6
             },
             {
                 "id": 109895,
@@ -307,8 +307,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 7
+                "entry_rank": 11,
+                "entry_last_rank": 5
             },
             {
                 "id": 188950,
@@ -349,8 +349,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
-                "entry_last_rank": 2
+                "entry_rank": 8,
+                "entry_last_rank": 4
             },
             {
                 "id": 379314,
@@ -370,7 +370,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -412,8 +412,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 178,
-                "entry_last_rank": 297
+                "entry_rank": 320,
+                "entry_last_rank": 132
             },
             {
                 "id": 516147,
@@ -433,8 +433,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
-                "entry_last_rank": 6
+                "entry_rank": 8,
+                "entry_last_rank": 1
             },
             {
                 "id": 537596,
@@ -517,8 +517,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
-                "entry_last_rank": 10
+                "entry_rank": 10,
+                "entry_last_rank": 3
             },
             {
                 "id": 714049,
@@ -559,8 +559,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
-                "entry_last_rank": 11
+                "entry_rank": 11,
+                "entry_last_rank": 4
             },
             {
                 "id": 801175,
@@ -580,8 +580,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 5
+                "entry_rank": 11,
+                "entry_last_rank": 6
             },
             {
                 "id": 907296,
@@ -601,7 +601,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -622,8 +622,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
-                "entry_last_rank": 6
+                "entry_rank": 8,
+                "entry_last_rank": 2
             },
             {
                 "id": 1137974,
@@ -643,8 +643,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 13,
-                "entry_last_rank": 13
+                "entry_rank": 19,
+                "entry_last_rank": 10
             },
             {
                 "id": 1373799,
@@ -686,7 +686,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 2385997,
@@ -706,8 +706,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 63445,
-                "entry_last_rank": 135656
+                "entry_rank": 125406,
+                "entry_last_rank": 43399
             },
             {
                 "id": 2420827,
@@ -727,8 +727,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 342,
-                "entry_last_rank": 0
+                "entry_rank": 502,
+                "entry_last_rank": 255
             }
         ],
         "h2h": [],
@@ -798,11 +798,38 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 105312400,
+                "id": 108154940,
                 "entry_1_entry": 655238,
                 "entry_1_name": "FCMoro",
                 "entry_1_player_name": "Paweł Morawski",
-                "entry_1_points": 74,
+                "entry_1_points": 37,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": 22228,
+                "entry_2_name": "Why Always Me?",
+                "entry_2_player_name": "Piotr Pietrasik",
+                "entry_2_points": 53,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2437797,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108768159,
+                "entry_1_entry": 655238,
+                "entry_1_name": "FCMoro",
+                "entry_1_player_name": "Paweł Morawski",
+                "entry_1_points": 37,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -816,20 +843,47 @@
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
-                "league": 2437797,
+                "league": 2448104,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109850278,
+                "entry_1_entry": 655238,
+                "entry_1_name": "FCMoro",
+                "entry_1_player_name": "Paweł Morawski",
+                "entry_1_points": 37,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448137,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "FCMoro",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 42,
-    "last_deadline_value": 1038,
-    "last_deadline_total_transfers": 32
+    "last_deadline_bank": 0,
+    "last_deadline_value": 1032,
+    "last_deadline_total_transfers": 34
 }

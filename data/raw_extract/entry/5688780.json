@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1447,
-    "summary_overall_rank": 1228,
-    "summary_event_points": 86,
-    "summary_event_rank": 33816,
-    "current_event": 22,
+    "summary_overall_points": 1508,
+    "summary_overall_rank": 2715,
+    "summary_event_points": 34,
+    "summary_event_rank": 6466758,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 165,
-                "entry_last_rank": 526
+                "entry_rank": 357,
+                "entry_last_rank": 122
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 50,
-                "entry_last_rank": 162
+                "entry_rank": 120,
+                "entry_last_rank": 43
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1228,
-                "entry_last_rank": 3634
+                "entry_rank": 2715,
+                "entry_last_rank": 908
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1228,
-                "entry_last_rank": 3634
+                "entry_rank": 2715,
+                "entry_last_rank": 908
             },
             {
                 "id": 430437,
@@ -119,7 +119,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 5
+                "entry_last_rank": 2
             },
             {
                 "id": 726263,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 269215,
-                "entry_last_rank": 977342
+                "entry_rank": 466431,
+                "entry_last_rank": 185135
             }
         ],
         "h2h": [],
@@ -246,19 +246,19 @@
                 "knockout_name": "Round of 4194304"
             },
             {
-                "id": 102802344,
+                "id": 106919803,
                 "entry_1_entry": 5688780,
                 "entry_1_name": "Salt & Pepe",
                 "entry_1_player_name": "Stuart O'Donnell",
-                "entry_1_points": 82,
+                "entry_1_points": 34,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1842147,
-                "entry_2_name": "Vodka Martinelli",
-                "entry_2_player_name": "Alex Bennett",
-                "entry_2_points": 33,
+                "entry_2_entry": 6744027,
+                "entry_2_name": "ha-mim",
+                "entry_2_player_name": "leyti ndiaye",
+                "entry_2_points": 49,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -267,25 +267,25 @@
                 "league": 2405666,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103381687,
-                "entry_1_entry": 5688780,
-                "entry_1_name": "Salt & Pepe",
-                "entry_1_player_name": "Stuart O'Donnell",
-                "entry_1_points": 82,
+                "id": 107177794,
+                "entry_1_entry": 7165916,
+                "entry_1_name": "BackAgain",
+                "entry_1_player_name": "Kamoru Keyede",
+                "entry_1_points": 32,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2413073,
-                "entry_2_name": "TabbleToppers23",
-                "entry_2_player_name": "Robbie Owens",
-                "entry_2_points": 44,
+                "entry_2_entry": 5688780,
+                "entry_2_name": "Salt & Pepe",
+                "entry_2_player_name": "Stuart O'Donnell",
+                "entry_2_points": 34,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -294,17 +294,17 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Salt & Pepe",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 39,
-    "last_deadline_value": 1029,
-    "last_deadline_total_transfers": 26
+    "last_deadline_bank": 14,
+    "last_deadline_value": 1031,
+    "last_deadline_total_transfers": 27
 }

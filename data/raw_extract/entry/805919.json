@@ -9,11 +9,11 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1234,
-    "summary_overall_rank": 2179438,
-    "summary_event_points": 85,
-    "summary_event_rank": 40546,
-    "current_event": 22,
+    "summary_overall_points": 1308,
+    "summary_overall_rank": 1930722,
+    "summary_event_points": 51,
+    "summary_event_rank": 2422063,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 525052,
-                "entry_last_rank": 733510
+                "entry_rank": 478449,
+                "entry_last_rank": 463331
             },
             {
                 "id": 120,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 54341,
-                "entry_last_rank": 79128
+                "entry_rank": 47662,
+                "entry_last_rank": 46846
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2163425,
-                "entry_last_rank": 3075134
+                "entry_rank": 1918183,
+                "entry_last_rank": 1885571
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2179438,
-                "entry_last_rank": 3118482
+                "entry_rank": 1930722,
+                "entry_last_rank": 1896749
             },
             {
                 "id": 553,
@@ -119,7 +119,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 21,
-                "entry_last_rank": 26
+                "entry_last_rank": 20
             },
             {
                 "id": 42894,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 11
+                "entry_rank": 7,
+                "entry_last_rank": 7
             },
             {
                 "id": 405551,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 644,
-                "entry_last_rank": 847
+                "entry_rank": 592,
+                "entry_last_rank": 584
             },
             {
                 "id": 406625,
@@ -182,7 +182,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 8,
-                "entry_last_rank": 12
+                "entry_last_rank": 8
             },
             {
                 "id": 513209,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 54341,
-                "entry_last_rank": 79128
+                "entry_rank": 47662,
+                "entry_last_rank": 46846
             },
             {
                 "id": 1131540,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 5
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 1132033,
@@ -266,7 +266,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 17,
-                "entry_last_rank": 21
+                "entry_last_rank": 17
             },
             {
                 "id": 1132036,
@@ -287,7 +287,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 1132038,
@@ -328,8 +328,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 231071,
-                "entry_last_rank": 802860
+                "entry_rank": 207928,
+                "entry_last_rank": 159071
             }
         ],
         "h2h": [
@@ -351,8 +351,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 14,
-                "entry_last_rank": 14
+                "entry_rank": 13,
+                "entry_last_rank": 13
             }
         ],
         "cup": {
@@ -421,19 +421,19 @@
                 "knockout_name": "Round of 1048576"
             },
             {
-                "id": 104203610,
-                "entry_1_entry": 805919,
-                "entry_1_name": "Erik Tanhayee",
-                "entry_1_player_name": "Mehul Jugran",
-                "entry_1_points": 81,
+                "id": 107592637,
+                "entry_1_entry": 6005158,
+                "entry_1_name": "Boys played well",
+                "entry_1_player_name": "Elroy R",
+                "entry_1_points": 12,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 7307941,
-                "entry_2_name": "PremieLeague11",
-                "entry_2_player_name": "Pranay Gupta",
-                "entry_2_points": 25,
+                "entry_2_entry": 805919,
+                "entry_2_name": "Erik Tanhayee",
+                "entry_2_player_name": "Mehul Jugran",
+                "entry_2_points": 47,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -442,25 +442,25 @@
                 "league": 2431356,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104804626,
-                "entry_1_entry": 805919,
-                "entry_1_name": "Erik Tanhayee",
-                "entry_1_player_name": "Mehul Jugran",
-                "entry_1_points": 81,
+                "id": 107911289,
+                "entry_1_entry": 6269272,
+                "entry_1_name": "Jai Balayya",
+                "entry_1_player_name": "vinay p",
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6389452,
-                "entry_2_name": "Bro FC",
-                "entry_2_player_name": "Daksh Udar",
-                "entry_2_points": -6,
+                "entry_2_entry": 805919,
+                "entry_2_name": "Erik Tanhayee",
+                "entry_2_player_name": "Mehul Jugran",
+                "entry_2_points": 47,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -469,17 +469,17 @@
                 "league": 2431366,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Erik Tanhayee",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#c02525\",\"kit_shirt_sleeves\":\"#190202\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"no-racism\",\"kit_shorts\":\"#c31c1c\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#161616\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 2,
-    "last_deadline_value": 1023,
-    "last_deadline_total_transfers": 57
+    "last_deadline_bank": 4,
+    "last_deadline_value": 1024,
+    "last_deadline_total_transfers": 59
 }

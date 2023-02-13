@@ -9,11 +9,11 @@
     "player_region_name": "Kuwait",
     "player_region_iso_code_short": "KW",
     "player_region_iso_code_long": "KWT",
-    "summary_overall_points": 1304,
-    "summary_overall_rank": 712688,
-    "summary_event_points": 81,
-    "summary_event_rank": 81236,
-    "current_event": 22,
+    "summary_overall_points": 1370,
+    "summary_overall_rank": 738119,
+    "summary_event_points": 39,
+    "summary_event_rank": 5373989,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 172916,
-                "entry_last_rank": 288920
+                "entry_rank": 185864,
+                "entry_last_rank": 145552
             },
             {
                 "id": 135,
@@ -53,10 +53,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 4926,
-                "entry_last_rank": 7978
+                "cup_league": 2448120,
+                "cup_qualified": true,
+                "entry_rank": 5282,
+                "entry_last_rank": 4124
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 711632,
-                "entry_last_rank": 1208327
+                "entry_rank": 736858,
+                "entry_last_rank": 589254
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 712688,
-                "entry_last_rank": 1211823
+                "entry_rank": 738119,
+                "entry_last_rank": 589932
             },
             {
                 "id": 538959,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1543,
-                "entry_last_rank": 2305
+                "entry_rank": 1640,
+                "entry_last_rank": 1316
             },
             {
                 "id": 553666,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1701,
-                "entry_last_rank": 2567
+                "entry_rank": 1828,
+                "entry_last_rank": 1475
             },
             {
                 "id": 928434,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 110588,
-                "entry_last_rank": 192111
+                "entry_rank": 119045,
+                "entry_last_rank": 89411
             },
             {
                 "id": 1049756,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1475,
-                "entry_last_rank": 2176
+                "entry_rank": 1572,
+                "entry_last_rank": 1277
             },
             {
                 "id": 1347313,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 999,
-                "entry_last_rank": 1505
+                "entry_rank": 1066,
+                "entry_last_rank": 863
             },
             {
                 "id": 1403700,
@@ -223,8 +223,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1597,
-                "entry_last_rank": 2440
+                "entry_rank": 1699,
+                "entry_last_rank": 1367
             },
             {
                 "id": 1461359,
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
-                "entry_last_rank": 5
+                "entry_rank": 2,
+                "entry_last_rank": 1
             },
             {
                 "id": 1592397,
@@ -265,8 +265,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 281,
-                "entry_last_rank": 421
+                "entry_rank": 310,
+                "entry_last_rank": 246
             },
             {
                 "id": 1662625,
@@ -286,8 +286,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1723,
-                "entry_last_rank": 2628
+                "entry_rank": 1826,
+                "entry_last_rank": 1460
             },
             {
                 "id": 2385997,
@@ -307,8 +307,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 45,
-                "entry_last_rank": 126
+                "entry_rank": 207,
+                "entry_last_rank": 36
             }
         ],
         "h2h": [],
@@ -324,19 +324,19 @@
         },
         "cup_matches": [
             {
-                "id": 102515537,
-                "entry_1_entry": 2025008,
-                "entry_1_name": "Cottagers",
-                "entry_1_player_name": "Brian Robertson",
-                "entry_1_points": 58,
+                "id": 106766730,
+                "entry_1_entry": 4429954,
+                "entry_1_name": "Abo junior7",
+                "entry_1_player_name": "melfi Aldihani",
+                "entry_1_points": 39,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 4429954,
-                "entry_2_name": "Abo junior7",
-                "entry_2_player_name": "melfi Aldihani",
-                "entry_2_points": 81,
+                "entry_2_entry": 7683011,
+                "entry_2_name": "el professor",
+                "entry_2_player_name": "Ahmed Deif",
+                "entry_2_points": 44,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -345,17 +345,17 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102555589,
-                "entry_1_entry": 4477069,
-                "entry_1_name": "Paul's Hopefulls",
-                "entry_1_player_name": "Paul Montgomery",
-                "entry_1_points": 47,
+                "id": 106795657,
+                "entry_1_entry": 4039675,
+                "entry_1_name": "A squad",
+                "entry_1_player_name": "Alloyse Ibaru",
+                "entry_1_points": 48,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -363,7 +363,7 @@
                 "entry_2_entry": 4429954,
                 "entry_2_name": "Abo junior7",
                 "entry_2_player_name": "melfi Aldihani",
-                "entry_2_points": 81,
+                "entry_2_points": 39,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -372,17 +372,17 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102696199,
-                "entry_1_entry": 9625442,
-                "entry_1_name": "ابو حميد",
-                "entry_1_player_name": "ahmed mahmuoed",
-                "entry_1_points": 28,
+                "id": 106864804,
+                "entry_1_entry": 2353988,
+                "entry_1_name": "القاضية ممكن",
+                "entry_1_player_name": "Mohamed Eltornadoo",
+                "entry_1_points": 43,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -390,7 +390,7 @@
                 "entry_2_entry": 4429954,
                 "entry_2_name": "Abo junior7",
                 "entry_2_player_name": "melfi Aldihani",
-                "entry_2_points": 81,
+                "entry_2_points": 39,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -399,17 +399,44 @@
                 "league": 2381816,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109292263,
+                "entry_1_entry": 4429954,
+                "entry_1_name": "Abo junior7",
+                "entry_1_player_name": "melfi Aldihani",
+                "entry_1_points": 39,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448120,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Abo junior7",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 10,
-    "last_deadline_value": 1021,
-    "last_deadline_total_transfers": 32
+    "last_deadline_bank": 9,
+    "last_deadline_value": 1020,
+    "last_deadline_total_transfers": 33
 }

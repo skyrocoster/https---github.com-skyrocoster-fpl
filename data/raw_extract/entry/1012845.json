@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1436,
-    "summary_overall_rank": 2732,
-    "summary_event_points": 89,
-    "summary_event_rank": 14720,
-    "current_event": 22,
+    "summary_overall_points": 1510,
+    "summary_overall_rank": 2480,
+    "summary_event_points": 47,
+    "summary_event_rank": 3406479,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 193,
-                "entry_last_rank": 800
+                "entry_rank": 183,
+                "entry_last_rank": 152
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 974,
-                "entry_last_rank": 4564
+                "entry_rank": 852,
+                "entry_last_rank": 724
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2732,
-                "entry_last_rank": 11966
+                "entry_rank": 2480,
+                "entry_last_rank": 2037
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2732,
-                "entry_last_rank": 11968
+                "entry_rank": 2480,
+                "entry_last_rank": 2037
             },
             {
                 "id": 183215,
@@ -140,7 +140,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 1,
-                "entry_last_rank": 2
+                "entry_last_rank": 1
             },
             {
                 "id": 1171461,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1118,
-                "entry_last_rank": 5203
+                "entry_rank": 977,
+                "entry_last_rank": 829
             },
             {
                 "id": 2385997,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 36,
-                "entry_last_rank": 330
+                "entry_rank": 62,
+                "entry_last_rank": 26
             }
         ],
         "h2h": [],
@@ -225,19 +225,19 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 102528051,
+                "id": 106737832,
                 "entry_1_entry": 1012845,
                 "entry_1_name": "Tuchel For School",
                 "entry_1_player_name": "Richard Chandiram",
-                "entry_1_points": 89,
+                "entry_1_points": 47,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2164598,
-                "entry_2_name": "2 goals 1 cup",
-                "entry_2_player_name": "Mike Streeter",
-                "entry_2_points": 58,
+                "entry_2_entry": 10589054,
+                "entry_2_name": "FC Sameer�",
+                "entry_2_player_name": "Samuel John",
+                "entry_2_points": 68,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -246,25 +246,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102652879,
-                "entry_1_entry": 2410644,
-                "entry_1_name": "What a conte!",
-                "entry_1_player_name": "ryan long",
-                "entry_1_points": 54,
+                "id": 106807696,
+                "entry_1_entry": 1012845,
+                "entry_1_name": "Tuchel For School",
+                "entry_1_player_name": "Richard Chandiram",
+                "entry_1_points": 47,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1012845,
-                "entry_2_name": "Tuchel For School",
-                "entry_2_player_name": "Richard Chandiram",
-                "entry_2_points": 89,
+                "entry_2_entry": 3209257,
+                "entry_2_name": "Annie, Ayew okay?",
+                "entry_2_player_name": "Will Milner",
+                "entry_2_points": 51,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -273,25 +273,25 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102884454,
-                "entry_1_entry": 738454,
-                "entry_1_name": "pirates",
-                "entry_1_player_name": "Fikri Shuhaimi",
-                "entry_1_points": 60,
+                "id": 106959798,
+                "entry_1_entry": 1012845,
+                "entry_1_name": "Tuchel For School",
+                "entry_1_player_name": "Richard Chandiram",
+                "entry_1_points": 47,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1012845,
-                "entry_2_name": "Tuchel For School",
-                "entry_2_player_name": "Richard Chandiram",
-                "entry_2_points": 89,
+                "entry_2_entry": 6085224,
+                "entry_2_name": "skin-air",
+                "entry_2_player_name": "marko jakimovski",
+                "entry_2_points": 47,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -300,17 +300,17 @@
                 "league": 2405671,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Tuchel For School",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 15,
-    "last_deadline_value": 1024,
-    "last_deadline_total_transfers": 189
+    "last_deadline_bank": 29,
+    "last_deadline_value": 1025,
+    "last_deadline_total_transfers": 191
 }

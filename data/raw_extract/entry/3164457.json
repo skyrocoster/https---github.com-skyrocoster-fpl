@@ -9,11 +9,11 @@
     "player_region_name": "Denmark",
     "player_region_iso_code_short": "DK",
     "player_region_iso_code_long": "DNK",
-    "summary_overall_points": 1500,
-    "summary_overall_rank": 27,
-    "summary_event_points": 81,
-    "summary_event_rank": 83193,
-    "current_event": 22,
+    "summary_overall_points": 1571,
+    "summary_overall_rank": 32,
+    "summary_event_points": 44,
+    "summary_event_rank": 4022660,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -35,7 +35,7 @@
                 "cup_league": 2424301,
                 "cup_qualified": true,
                 "entry_rank": 3,
-                "entry_last_rank": 3
+                "entry_last_rank": 2
             },
             {
                 "id": 78,
@@ -53,10 +53,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 4
+                "cup_league": 2448112,
+                "cup_qualified": true,
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 27,
-                "entry_last_rank": 64
+                "entry_rank": 32,
+                "entry_last_rank": 19
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 27,
-                "entry_last_rank": 64
+                "entry_rank": 32,
+                "entry_last_rank": 19
             },
             {
                 "id": 513213,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 10,
-                "entry_last_rank": 19
+                "entry_rank": 12,
+                "entry_last_rank": 7
             },
             {
                 "id": 649030,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 3
+                "entry_rank": 1,
+                "entry_last_rank": 1
             },
             {
                 "id": 1784446,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 13564,
-                "entry_last_rank": 51727
+                "entry_rank": 20349,
+                "entry_last_rank": 9481
             }
         ],
         "h2h": [],
@@ -267,19 +267,19 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 103154308,
-                "entry_1_entry": 8574429,
-                "entry_1_name": "Team Green",
-                "entry_1_player_name": "Rasmus Grønne Jensen",
-                "entry_1_points": 36,
+                "id": 107068331,
+                "entry_1_entry": 3164457,
+                "entry_1_name": "Don H’s drenge",
+                "entry_1_player_name": "Magnus Hauser Nielsen",
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 3164457,
-                "entry_2_name": "Don H’s drenge",
-                "entry_2_player_name": "Magnus Hauser Nielsen",
-                "entry_2_points": 81,
+                "entry_2_entry": 167452,
+                "entry_2_name": "Piekielne Surykatki",
+                "entry_2_player_name": "Adam Benek",
+                "entry_2_points": 61,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -288,17 +288,17 @@
                 "league": 2412737,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103239773,
-                "entry_1_entry": 2775974,
-                "entry_1_name": "Aviwoo11",
-                "entry_1_player_name": "David Wood",
-                "entry_1_points": 40,
+                "id": 107103884,
+                "entry_1_entry": 3024871,
+                "entry_1_name": "Tatoverte Puddinger",
+                "entry_1_player_name": "Roar Storsveen",
+                "entry_1_points": 62,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -306,7 +306,7 @@
                 "entry_2_entry": 3164457,
                 "entry_2_name": "Don H’s drenge",
                 "entry_2_player_name": "Magnus Hauser Nielsen",
-                "entry_2_points": 81,
+                "entry_2_points": 44,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -315,10 +315,37 @@
                 "league": 2424301,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109029829,
+                "entry_1_entry": 3164457,
+                "entry_1_name": "Don H’s drenge",
+                "entry_1_player_name": "Magnus Hauser Nielsen",
+                "entry_1_points": 44,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448112,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -326,6 +353,6 @@
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#ff00e4\",\"kit_shirt_sleeves\":\"#ffffff\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"no-racism\",\"kit_shorts\":\"#ffffff\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#fd04d9\",\"kit_socks_secondary\":\"#E1E1E1\"}",
     "last_deadline_bank": 37,
-    "last_deadline_value": 1059,
+    "last_deadline_value": 1062,
     "last_deadline_total_transfers": 17
 }

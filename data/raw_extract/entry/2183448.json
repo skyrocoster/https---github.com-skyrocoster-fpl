@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1481,
-    "summary_overall_rank": 87,
-    "summary_event_points": 78,
-    "summary_event_rank": 168153,
-    "current_event": 22,
+    "summary_overall_points": 1562,
+    "summary_overall_rank": 58,
+    "summary_event_points": 54,
+    "summary_event_rank": 1762599,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 25,
-                "entry_last_rank": 74
+                "entry_rank": 15,
+                "entry_last_rank": 18
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 87,
-                "entry_last_rank": 241
+                "entry_rank": 58,
+                "entry_last_rank": 65
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 87,
-                "entry_last_rank": 241
+                "entry_rank": 58,
+                "entry_last_rank": 65
             },
             {
                 "id": 52896,
@@ -112,14 +112,14 @@
                 "scoring": "c",
                 "admin_entry": 593251,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 4
+                "cup_league": 2448141,
+                "cup_qualified": true,
+                "entry_rank": 3,
+                "entry_last_rank": 3
             },
             {
                 "id": 174024,
@@ -154,12 +154,12 @@
                 "scoring": "c",
                 "admin_entry": 1733314,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448144,
+                "cup_qualified": true,
                 "entry_rank": 4,
                 "entry_last_rank": 4
             },
@@ -244,8 +244,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 32,
-                "entry_last_rank": 91
+                "entry_rank": 20,
+                "entry_last_rank": 24
             },
             {
                 "id": 1406106,
@@ -286,8 +286,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1428,
-                "entry_last_rank": 3501
+                "entry_rank": 927,
+                "entry_last_rank": 1012
             }
         ],
         "h2h": [],
@@ -382,13 +382,67 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 1048576"
+            },
+            {
+                "id": 109982796,
+                "entry_1_entry": 2183448,
+                "entry_1_name": "dack to the future",
+                "entry_1_player_name": "Sophie Tomlinson",
+                "entry_1_points": 54,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448141,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 110080944,
+                "entry_1_entry": 2183448,
+                "entry_1_name": "dack to the future",
+                "entry_1_player_name": "Sophie Tomlinson",
+                "entry_1_points": 54,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448144,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "dack to the future",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 29,
-    "last_deadline_value": 1041,
-    "last_deadline_total_transfers": 25
+    "last_deadline_bank": 11,
+    "last_deadline_value": 1039,
+    "last_deadline_total_transfers": 27
 }

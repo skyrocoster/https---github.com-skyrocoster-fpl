@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1421,
-    "summary_overall_rank": 6865,
-    "summary_event_points": 87,
-    "summary_event_rank": 27059,
-    "current_event": 22,
+    "summary_overall_points": 1498,
+    "summary_overall_rank": 5164,
+    "summary_event_points": 50,
+    "summary_event_rank": 2648528,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2515,
-                "entry_last_rank": 9428
+                "entry_rank": 1835,
+                "entry_last_rank": 1868
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6864,
-                "entry_last_rank": 24681
+                "entry_rank": 5163,
+                "entry_last_rank": 5147
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 6865,
-                "entry_last_rank": 24689
+                "entry_rank": 5164,
+                "entry_last_rank": 5147
             },
             {
                 "id": 1152,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 38,
-                "entry_last_rank": 132
+                "entry_rank": 32,
+                "entry_last_rank": 30
             },
             {
                 "id": 438030,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 3
+                "entry_rank": 1,
+                "entry_last_rank": 1
             },
             {
                 "id": 654390,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2437814,
                 "cup_qualified": true,
-                "entry_rank": 86,
-                "entry_last_rank": 333
+                "entry_rank": 67,
+                "entry_last_rank": 70
             },
             {
                 "id": 951534,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2880,
-                "entry_last_rank": 10738
+                "entry_rank": 2100,
+                "entry_last_rank": 2134
             },
             {
                 "id": 2385997,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 46,
-                "entry_last_rank": 311
+                "entry_rank": 49,
+                "entry_last_rank": 37
             }
         ],
         "h2h": [],
@@ -273,19 +273,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102764073,
-                "entry_1_entry": 84206,
-                "entry_1_name": "paraylimpiakos",
-                "entry_1_player_name": "Joe Gauge",
-                "entry_1_points": 87,
+                "id": 106899528,
+                "entry_1_entry": 2005518,
+                "entry_1_name": "The Sauce",
+                "entry_1_player_name": "Jordan Radcliffe",
+                "entry_1_points": 58,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 5526413,
-                "entry_2_name": "LIV 54 FC",
-                "entry_2_player_name": "Keiran Gibson",
-                "entry_2_points": 46,
+                "entry_2_entry": 84206,
+                "entry_2_name": "paraylimpiakos",
+                "entry_2_player_name": "Joe Gauge",
+                "entry_2_points": 50,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -294,25 +294,25 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 106339489,
+                "id": 108687257,
                 "entry_1_entry": 84206,
                 "entry_1_name": "paraylimpiakos",
                 "entry_1_player_name": "Joe Gauge",
-                "entry_1_points": 87,
+                "entry_1_points": 50,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 1601207,
+                "entry_2_name": "LIVNRI",
+                "entry_2_player_name": "Adam Kaari",
+                "entry_2_points": 40,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -321,17 +321,17 @@
                 "league": 2437814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "paraylimpiakos",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 35,
-    "last_deadline_value": 1036,
-    "last_deadline_total_transfers": 31
+    "last_deadline_bank": 10,
+    "last_deadline_value": 1037,
+    "last_deadline_total_transfers": 33
 }

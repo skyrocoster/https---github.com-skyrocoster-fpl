@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1462,
-    "summary_overall_rank": 400,
-    "summary_event_points": 76,
-    "summary_event_rank": 222914,
-    "current_event": 22,
+    "summary_overall_points": 1523,
+    "summary_overall_rank": 1036,
+    "summary_event_points": 46,
+    "summary_event_rank": 3677545,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 54,
-                "entry_last_rank": 112
+                "entry_rank": 127,
+                "entry_last_rank": 70
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 20,
-                "entry_last_rank": 34
+                "entry_rank": 46,
+                "entry_last_rank": 27
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 400,
-                "entry_last_rank": 831
+                "entry_rank": 1036,
+                "entry_last_rank": 577
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 400,
-                "entry_last_rank": 831
+                "entry_rank": 1036,
+                "entry_last_rank": 577
             },
             {
                 "id": 6665,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6569,
-                "entry_last_rank": 14166
+                "entry_rank": 25734,
+                "entry_last_rank": 10234
             }
         ],
         "h2h": [],
@@ -244,7 +244,7 @@
                 "entry_1_entry": 5760211,
                 "entry_1_name": "Gangasta’s Allardyce",
                 "entry_1_player_name": "Connor McCallum",
-                "entry_1_points": 76,
+                "entry_1_points": 103,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -252,14 +252,14 @@
                 "entry_2_entry": 783397,
                 "entry_2_name": "Roboklopp FC",
                 "entry_2_player_name": "Mark Smith",
-                "entry_2_points": 76,
+                "entry_2_points": 95,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 5760211,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -267,11 +267,11 @@
                 "knockout_name": "Round of 131072"
             },
             {
-                "id": 102986322,
-                "entry_1_entry": 8809804,
-                "entry_1_name": "Sow we GUCCI",
-                "entry_1_player_name": "Zanko Likov",
-                "entry_1_points": 35,
+                "id": 106968980,
+                "entry_1_entry": 3028846,
+                "entry_1_name": "FC Kolamhati",
+                "entry_1_player_name": "Zamzami Ramli",
+                "entry_1_points": 43,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -279,7 +279,7 @@
                 "entry_2_entry": 783397,
                 "entry_2_name": "Roboklopp FC",
                 "entry_2_player_name": "Mark Smith",
-                "entry_2_points": 76,
+                "entry_2_points": 42,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -288,25 +288,25 @@
                 "league": 2405675,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103328468,
-                "entry_1_entry": 4575213,
-                "entry_1_name": "KeiraUtd2Ollie",
-                "entry_1_player_name": "Kevin Reeves",
-                "entry_1_points": 40,
+                "id": 107162791,
+                "entry_1_entry": 783397,
+                "entry_1_name": "Roboklopp FC",
+                "entry_1_player_name": "Mark Smith",
+                "entry_1_points": 42,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 783397,
-                "entry_2_name": "Roboklopp FC",
-                "entry_2_player_name": "Mark Smith",
-                "entry_2_points": 76,
+                "entry_2_entry": 6501222,
+                "entry_2_name": "NitroGoonSquad",
+                "entry_2_player_name": "David O Neill",
+                "entry_2_points": 60,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -315,17 +315,17 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Roboklopp FC",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 96,
-    "last_deadline_value": 1047,
-    "last_deadline_total_transfers": 43
+    "last_deadline_bank": 4,
+    "last_deadline_value": 1053,
+    "last_deadline_total_transfers": 45
 }

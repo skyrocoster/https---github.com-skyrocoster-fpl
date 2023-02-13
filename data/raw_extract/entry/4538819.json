@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1474,
-    "summary_overall_rank": 156,
-    "summary_event_points": 89,
-    "summary_event_rank": 16484,
-    "current_event": 22,
+    "summary_overall_points": 1556,
+    "summary_overall_rank": 99,
+    "summary_event_points": 55,
+    "summary_event_rank": 1490578,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2437794,
                 "cup_qualified": true,
-                "entry_rank": 2,
-                "entry_last_rank": 9
+                "entry_rank": 1,
+                "entry_last_rank": 2
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 45,
-                "entry_last_rank": 225
+                "entry_rank": 30,
+                "entry_last_rank": 34
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 156,
-                "entry_last_rank": 654
+                "entry_rank": 99,
+                "entry_last_rank": 112
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 156,
-                "entry_last_rank": 654
+                "entry_rank": 99,
+                "entry_last_rank": 112
             },
             {
                 "id": 409163,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 54,
-                "entry_last_rank": 264
+                "entry_rank": 35,
+                "entry_last_rank": 41
             },
             {
                 "id": 1258452,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 13687,
-                "entry_last_rank": 76726
+                "entry_rank": 7641,
+                "entry_last_rank": 9550
             }
         ],
         "h2h": [],
@@ -252,11 +252,11 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 102661991,
-                "entry_1_entry": 3800983,
-                "entry_1_name": "Mc Jackus Marackus",
-                "entry_1_player_name": "Jack Brookes",
-                "entry_1_points": 37,
+                "id": 106833584,
+                "entry_1_entry": 2474818,
+                "entry_1_name": "joga bonito fc",
+                "entry_1_player_name": "Rob Dabek",
+                "entry_1_points": 46,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -264,7 +264,7 @@
                 "entry_2_entry": 4538819,
                 "entry_2_name": "Foxes glory",
                 "entry_2_player_name": "Nigel Sharpe",
-                "entry_2_points": 85,
+                "entry_2_points": 55,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -273,25 +273,25 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105099660,
-                "entry_1_entry": 4538819,
-                "entry_1_name": "Foxes glory",
-                "entry_1_player_name": "Nigel Sharpe",
-                "entry_1_points": 85,
+                "id": 108052213,
+                "entry_1_entry": 3627606,
+                "entry_1_name": "YouMustBeSchmeichel",
+                "entry_1_player_name": "Claire Naylor",
+                "entry_1_points": 45,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 4538819,
+                "entry_2_name": "Foxes glory",
+                "entry_2_player_name": "Nigel Sharpe",
+                "entry_2_points": 55,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -300,17 +300,17 @@
                 "league": 2437794,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Foxes glory",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 37,
-    "last_deadline_value": 1040,
-    "last_deadline_total_transfers": 26
+    "last_deadline_bank": 58,
+    "last_deadline_value": 1042,
+    "last_deadline_total_transfers": 27
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1454,
-    "summary_overall_rank": 737,
-    "summary_event_points": 72,
-    "summary_event_rank": 402794,
-    "current_event": 22,
+    "summary_overall_points": 1532,
+    "summary_overall_rank": 516,
+    "summary_event_points": 59,
+    "summary_event_rank": 765961,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 174,
-                "entry_last_rank": 251
+                "entry_rank": 126,
+                "entry_last_rank": 225
             },
             {
                 "id": 124,
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 31,
+                "entry_rank": 18,
                 "entry_last_rank": 46
             },
             {
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 737,
-                "entry_last_rank": 1087
+                "entry_rank": 516,
+                "entry_last_rank": 966
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 737,
-                "entry_last_rank": 1087
+                "entry_rank": 516,
+                "entry_last_rank": 966
             },
             {
                 "id": 586023,
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 1,
                 "entry_last_rank": 3
             },
             {
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4339,
-                "entry_last_rank": 5551
+                "entry_rank": 3817,
+                "entry_last_rank": 7098
             }
         ],
         "h2h": [],
@@ -273,19 +273,19 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 103379586,
-                "entry_1_entry": 4202009,
-                "entry_1_name": "GiroudLetTheDogsOut?",
-                "entry_1_player_name": "Michael McCarron",
-                "entry_1_points": 72,
+                "id": 107190490,
+                "entry_1_entry": 6118135,
+                "entry_1_name": "WedidntstartMaguire",
+                "entry_1_player_name": "Ronan Brennan",
+                "entry_1_points": 48,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 9445621,
-                "entry_2_name": "Tom",
-                "entry_2_player_name": "tom Barry",
-                "entry_2_points": 24,
+                "entry_2_entry": 4202009,
+                "entry_2_name": "GiroudLetTheDogsOut?",
+                "entry_2_player_name": "Michael McCarron",
+                "entry_2_points": 59,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -294,10 +294,10 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -305,6 +305,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 40,
-    "last_deadline_value": 1032,
+    "last_deadline_value": 1034,
     "last_deadline_total_transfers": 24
 }

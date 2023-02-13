@@ -9,11 +9,11 @@
     "player_region_name": "United Arab Emirates",
     "player_region_iso_code_short": "AE",
     "player_region_iso_code_long": "ARE",
-    "summary_overall_points": 1504,
-    "summary_overall_rank": 19,
-    "summary_event_points": 52,
-    "summary_event_rank": 2613221,
-    "current_event": 22,
+    "summary_overall_points": 1577,
+    "summary_overall_rank": 18,
+    "summary_event_points": 55,
+    "summary_event_rank": 1490578,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 19,
-                "entry_last_rank": 6
+                "entry_rank": 18,
+                "entry_last_rank": 26
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 19,
-                "entry_last_rank": 6
+                "entry_rank": 18,
+                "entry_last_rank": 26
             },
             {
                 "id": 55927,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 1
+                "entry_rank": 1,
+                "entry_last_rank": 2
             },
             {
                 "id": 525232,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 3,
-                "entry_last_rank": 1
+                "entry_rank": 2,
+                "entry_last_rank": 5
             },
             {
                 "id": 1664816,
@@ -244,8 +244,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 476607,
-                "entry_last_rank": 277022
+                "entry_rank": 427836,
+                "entry_last_rank": 520457
             }
         ],
         "h2h": [],
@@ -292,7 +292,7 @@
                 "entry_1_entry": 2698631,
                 "entry_1_name": "yaqoob",
                 "entry_1_player_name": "Yaqoob 17 🇦🇪",
-                "entry_1_points": 52,
+                "entry_1_points": 70,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -300,14 +300,14 @@
                 "entry_2_entry": 2390207,
                 "entry_2_name": "The Rushfords",
                 "entry_2_player_name": "Jarosław Adamczewski",
-                "entry_2_points": 60,
+                "entry_2_points": 79,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 2390207,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
@@ -315,19 +315,19 @@
                 "knockout_name": "Round of 131072"
             },
             {
-                "id": 105718650,
+                "id": 108367971,
                 "entry_1_entry": 2698631,
                 "entry_1_name": "yaqoob",
                 "entry_1_player_name": "Yaqoob 17 🇦🇪",
-                "entry_1_points": 52,
+                "entry_1_points": 55,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 8176157,
+                "entry_2_name": "Sergio’s Pearls",
+                "entry_2_player_name": "Fred Williams Kwabena Amankwah",
+                "entry_2_points": 14,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -336,17 +336,17 @@
                 "league": 2437804,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "yaqoob",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 18,
-    "last_deadline_value": 1028,
-    "last_deadline_total_transfers": 29
+    "last_deadline_bank": 1,
+    "last_deadline_value": 1030,
+    "last_deadline_total_transfers": 30
 }

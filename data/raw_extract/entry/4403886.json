@@ -9,11 +9,11 @@
     "player_region_name": "Denmark",
     "player_region_iso_code_short": "DK",
     "player_region_iso_code_long": "DNK",
-    "summary_overall_points": 1417,
-    "summary_overall_rank": 8817,
-    "summary_event_points": 69,
-    "summary_event_rank": 587767,
-    "current_event": 22,
+    "summary_overall_points": 1476,
+    "summary_overall_rank": 18073,
+    "summary_event_points": 44,
+    "summary_event_rank": 4225598,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 39,
-                "entry_last_rank": 41
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 96,
+                "entry_last_rank": 57
             },
             {
                 "id": 78,
@@ -53,10 +53,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 86,
-                "entry_last_rank": 96
+                "cup_league": 2448112,
+                "cup_qualified": true,
+                "entry_rank": 145,
+                "entry_last_rank": 101
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8816,
-                "entry_last_rank": 8754
+                "entry_rank": 18071,
+                "entry_last_rank": 10563
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 8817,
-                "entry_last_rank": 8756
+                "entry_rank": 18073,
+                "entry_last_rank": 10564
             },
             {
                 "id": 513213,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 1171,
-                "entry_last_rank": 1145
+                "entry_rank": 2309,
+                "entry_last_rank": 1426
             },
             {
                 "id": 701565,
@@ -286,8 +286,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 166930,
-                "entry_last_rank": 192596
+                "entry_rank": 356506,
+                "entry_last_rank": 190937
             }
         ],
         "h2h": [
@@ -377,13 +377,67 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 262144"
+            },
+            {
+                "id": 108770809,
+                "entry_1_entry": 4403886,
+                "entry_1_name": "Blunderland FC",
+                "entry_1_player_name": "Gabriel Miller",
+                "entry_1_points": 40,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109032204,
+                "entry_1_entry": 4403886,
+                "entry_1_name": "Blunderland FC",
+                "entry_1_player_name": "Gabriel Miller",
+                "entry_1_points": 40,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448112,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Blunderland FC",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 44,
-    "last_deadline_value": 1027,
-    "last_deadline_total_transfers": 40
+    "last_deadline_bank": 21,
+    "last_deadline_value": 1030,
+    "last_deadline_total_transfers": 42
 }

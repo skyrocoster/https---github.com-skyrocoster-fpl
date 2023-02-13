@@ -9,11 +9,11 @@
     "player_region_name": "Sweden",
     "player_region_iso_code_short": "SE",
     "player_region_iso_code_long": "SWE",
-    "summary_overall_points": 1515,
-    "summary_overall_rank": 8,
-    "summary_event_points": 77,
-    "summary_event_rank": 194820,
-    "current_event": 22,
+    "summary_overall_points": 1605,
+    "summary_overall_rank": 2,
+    "summary_event_points": 54,
+    "summary_event_rank": 1691634,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 3,
-                "entry_last_rank": 4
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 226,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
-                "entry_last_rank": 16
+                "entry_rank": 2,
+                "entry_last_rank": 3
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 8,
-                "entry_last_rank": 16
+                "entry_rank": 2,
+                "entry_last_rank": 3
             },
             {
                 "id": 25568,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 3,
-                "entry_last_rank": 7
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 864340,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 15005,
-                "entry_last_rank": 38638
+                "entry_rank": 3826,
+                "entry_last_rank": 4208
             }
         ],
         "h2h": [],
@@ -294,19 +294,19 @@
                 "knockout_name": "Round of 262144"
             },
             {
-                "id": 102950419,
-                "entry_1_entry": 7235781,
-                "entry_1_name": "Fantasybjörn",
-                "entry_1_player_name": "Ambjörn Ingvaldson",
-                "entry_1_points": 77,
+                "id": 106992191,
+                "entry_1_entry": 2337233,
+                "entry_1_name": "MoSTavic'",
+                "entry_1_player_name": "Mostafa Ramadan",
+                "entry_1_points": 34,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 4486333,
-                "entry_2_name": "AMOOR FC",
-                "entry_2_player_name": "amr amoor",
-                "entry_2_points": 53,
+                "entry_2_entry": 7235781,
+                "entry_2_name": "Fantasybjörn",
+                "entry_2_player_name": "Ambjörn Ingvaldson",
+                "entry_2_points": 54,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -315,25 +315,25 @@
                 "league": 2405675,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104614361,
-                "entry_1_entry": 2705324,
-                "entry_1_name": "hs7",
-                "entry_1_player_name": "Hugo Styf",
-                "entry_1_points": 67,
+                "id": 107804134,
+                "entry_1_entry": 7235781,
+                "entry_1_name": "Fantasybjörn",
+                "entry_1_player_name": "Ambjörn Ingvaldson",
+                "entry_1_points": 54,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 7235781,
-                "entry_2_name": "Fantasybjörn",
-                "entry_2_player_name": "Ambjörn Ingvaldson",
-                "entry_2_points": 77,
+                "entry_2_entry": 5245733,
+                "entry_2_name": "Blod, svett och öl",
+                "entry_2_player_name": "Arvid Skantz",
+                "entry_2_points": 43,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -342,17 +342,17 @@
                 "league": 2431363,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Fantasybjörn",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 30,
-    "last_deadline_value": 1033,
-    "last_deadline_total_transfers": 21
+    "last_deadline_bank": 12,
+    "last_deadline_value": 1032,
+    "last_deadline_total_transfers": 22
 }

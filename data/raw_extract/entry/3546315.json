@@ -9,11 +9,11 @@
     "player_region_name": "Australia",
     "player_region_iso_code_short": "AU",
     "player_region_iso_code_long": "AUS",
-    "summary_overall_points": 1444,
-    "summary_overall_rank": 1554,
-    "summary_event_points": 79,
-    "summary_event_rank": 139113,
-    "current_event": 22,
+    "summary_overall_points": 1519,
+    "summary_overall_rank": 1342,
+    "summary_event_points": 56,
+    "summary_event_rank": 1300240,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 217,
-                "entry_last_rank": 543
+                "entry_rank": 172,
+                "entry_last_rank": 273
             },
             {
                 "id": 33,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431354,
                 "cup_qualified": true,
-                "entry_rank": 27,
-                "entry_last_rank": 65
+                "entry_rank": 26,
+                "entry_last_rank": 45
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1554,
-                "entry_last_rank": 3770
+                "entry_rank": 1342,
+                "entry_last_rank": 2021
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1554,
-                "entry_last_rank": 3770
+                "entry_rank": 1342,
+                "entry_last_rank": 2021
             },
             {
                 "id": 130846,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2431368,
                 "cup_qualified": true,
-                "entry_rank": 27,
-                "entry_last_rank": 65
+                "entry_rank": 26,
+                "entry_last_rank": 45
             },
             {
                 "id": 942412,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 20,
-                "entry_last_rank": 30
+                "entry_rank": 40,
+                "entry_last_rank": 52
             }
         ],
         "h2h": [
@@ -289,11 +289,11 @@
                 "knockout_name": "Round of 8388608"
             },
             {
-                "id": 102848653,
-                "entry_1_entry": 3757286,
-                "entry_1_name": "Oh JESUS",
-                "entry_1_player_name": "Niamh Sandy",
-                "entry_1_points": 37,
+                "id": 106916527,
+                "entry_1_entry": 3947323,
+                "entry_1_name": "KING Joker �",
+                "entry_1_player_name": "IZHAR JOKER",
+                "entry_1_points": 48,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -301,7 +301,7 @@
                 "entry_2_entry": 3546315,
                 "entry_2_name": "Wenger's XI",
                 "entry_2_player_name": "Shabab Hossain",
-                "entry_2_points": 79,
+                "entry_2_points": 56,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -310,25 +310,25 @@
                 "league": 2405666,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104103747,
+                "id": 107551201,
                 "entry_1_entry": 3546315,
                 "entry_1_name": "Wenger's XI",
                 "entry_1_player_name": "Shabab Hossain",
-                "entry_1_points": 79,
+                "entry_1_points": 56,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 1450423,
-                "entry_2_name": "MOJO",
-                "entry_2_player_name": "Mick Gardner",
-                "entry_2_points": 57,
+                "entry_2_entry": 8416636,
+                "entry_2_name": "Slata FC",
+                "entry_2_player_name": "Owen Imola",
+                "entry_2_points": 48,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -337,25 +337,25 @@
                 "league": 2431354,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 104856375,
-                "entry_1_entry": 3536875,
-                "entry_1_name": "flamegrilleddildo",
-                "entry_1_player_name": "BIG PAPPA",
-                "entry_1_points": 49,
+                "id": 107931633,
+                "entry_1_entry": 3546315,
+                "entry_1_name": "Wenger's XI",
+                "entry_1_player_name": "Shabab Hossain",
+                "entry_1_points": 56,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 3546315,
-                "entry_2_name": "Wenger's XI",
-                "entry_2_player_name": "Shabab Hossain",
-                "entry_2_points": 79,
+                "entry_2_entry": 4749627,
+                "entry_2_name": "Klopptimus Prime",
+                "entry_2_player_name": "Finley Greenwood",
+                "entry_2_points": 55,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -364,17 +364,17 @@
                 "league": 2431368,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Wenger's XI",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#e81414\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#f4eeee\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#e30f0f\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 27,
-    "last_deadline_value": 1043,
-    "last_deadline_total_transfers": 40
+    "last_deadline_bank": 13,
+    "last_deadline_value": 1048,
+    "last_deadline_total_transfers": 41
 }

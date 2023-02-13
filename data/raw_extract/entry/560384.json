@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1483,
-    "summary_overall_rank": 78,
-    "summary_event_points": 80,
-    "summary_event_rank": 105136,
-    "current_event": 22,
+    "summary_overall_points": 1545,
+    "summary_overall_rank": 205,
+    "summary_event_points": 35,
+    "summary_event_rank": 6282738,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 21,
-                "entry_last_rank": 74
+                "entry_rank": 58,
+                "entry_last_rank": 15
             },
             {
                 "id": 276,
@@ -55,8 +55,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 78,
-                "entry_last_rank": 241
+                "entry_rank": 205,
+                "entry_last_rank": 59
             },
             {
                 "id": 314,
@@ -76,8 +76,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 78,
-                "entry_last_rank": 241
+                "entry_rank": 205,
+                "entry_last_rank": 59
             },
             {
                 "id": 104109,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 26,
-                "entry_last_rank": 91
+                "entry_rank": 70,
+                "entry_last_rank": 20
             },
             {
                 "id": 1414047,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 77588,
-                "entry_last_rank": 270321
+                "entry_rank": 166888,
+                "entry_last_rank": 53059
             }
         ],
         "h2h": [],
@@ -283,7 +283,7 @@
     "name": "Rish's Rams",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 55,
-    "last_deadline_value": 1046,
-    "last_deadline_total_transfers": 25
+    "last_deadline_bank": 14,
+    "last_deadline_value": 1041,
+    "last_deadline_total_transfers": 27
 }

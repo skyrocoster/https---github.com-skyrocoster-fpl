@@ -9,11 +9,11 @@
     "player_region_name": "Poland",
     "player_region_iso_code_short": "PL",
     "player_region_iso_code_long": "POL",
-    "summary_overall_points": 1492,
-    "summary_overall_rank": 43,
-    "summary_event_points": 84,
-    "summary_event_rank": 46046,
-    "current_event": 22,
+    "summary_overall_points": 1568,
+    "summary_overall_rank": 42,
+    "summary_event_points": 49,
+    "summary_event_rank": 2809851,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -35,7 +35,7 @@
                 "cup_league": 2405671,
                 "cup_qualified": true,
                 "entry_rank": 3,
-                "entry_last_rank": 13
+                "entry_last_rank": 2
             },
             {
                 "id": 192,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2437797,
                 "cup_qualified": true,
-                "entry_rank": 3,
-                "entry_last_rank": 5
+                "entry_rank": 4,
+                "entry_last_rank": 2
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 43,
-                "entry_last_rank": 163
+                "entry_rank": 42,
+                "entry_last_rank": 34
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 43,
-                "entry_last_rank": 163
+                "entry_rank": 42,
+                "entry_last_rank": 34
             },
             {
                 "id": 4194,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 6,
-                "entry_last_rank": 13
+                "entry_rank": 4,
+                "entry_last_rank": 6
             },
             {
                 "id": 513213,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 15,
-                "entry_last_rank": 37
+                "entry_rank": 16,
+                "entry_last_rank": 11
             },
             {
                 "id": 2335397,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10935,
-                "entry_last_rank": 55821
+                "entry_rank": 10713,
+                "entry_last_rank": 7685
             }
         ],
         "h2h": [],
@@ -225,19 +225,19 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 102921005,
-                "entry_1_entry": 3628958,
-                "entry_1_name": "Fleszyk na longa",
-                "entry_1_player_name": "Maciej Mikulewicz",
-                "entry_1_points": 84,
+                "id": 106939674,
+                "entry_1_entry": 1955728,
+                "entry_1_name": "Missile Heroes",
+                "entry_1_player_name": "mudit bhatta",
+                "entry_1_points": 56,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 3000556,
-                "entry_2_name": "xaba futbol klub",
-                "entry_2_player_name": "nichorous muyombe",
-                "entry_2_points": 51,
+                "entry_2_entry": 3628958,
+                "entry_2_name": "Fleszyk na longa",
+                "entry_2_player_name": "Maciej Mikulewicz",
+                "entry_2_points": 49,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -246,25 +246,25 @@
                 "league": 2405671,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103148464,
+                "id": 107085481,
                 "entry_1_entry": 3628958,
                 "entry_1_name": "Fleszyk na longa",
                 "entry_1_player_name": "Maciej Mikulewicz",
-                "entry_1_points": 84,
+                "entry_1_points": 49,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 333610,
-                "entry_2_name": "Tut å Kjør FC",
-                "entry_2_player_name": "Sindre Brauten",
-                "entry_2_points": 54,
+                "entry_2_entry": 1884357,
+                "entry_2_name": "EA7",
+                "entry_2_player_name": "Per Grinaker",
+                "entry_2_points": 56,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -273,25 +273,25 @@
                 "league": 2412737,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105290856,
-                "entry_1_entry": 3628958,
-                "entry_1_name": "Fleszyk na longa",
-                "entry_1_player_name": "Maciej Mikulewicz",
-                "entry_1_points": 84,
+                "id": 108171034,
+                "entry_1_entry": 5906549,
+                "entry_1_name": "boroki",
+                "entry_1_player_name": "Sebastian Simka",
+                "entry_1_points": 50,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 3628958,
+                "entry_2_name": "Fleszyk na longa",
+                "entry_2_player_name": "Maciej Mikulewicz",
+                "entry_2_points": 49,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -300,25 +300,25 @@
                 "league": 2437797,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 105946251,
+                "id": 108489010,
                 "entry_1_entry": 3628958,
                 "entry_1_name": "Fleszyk na longa",
                 "entry_1_player_name": "Maciej Mikulewicz",
-                "entry_1_points": 84,
+                "entry_1_points": 49,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 3744809,
+                "entry_2_name": "Trendsetters Fc",
+                "entry_2_player_name": "Clive Muroyiwa",
+                "entry_2_points": 55,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -327,17 +327,17 @@
                 "league": 2437808,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Fleszyk na longa",
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#3482e0\",\"kit_shirt_sleeves\":\"#b7ccf8\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"no-racism\",\"kit_shorts\":\"#b7ccf8\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#3482e0\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-    "last_deadline_bank": 3,
+    "last_deadline_bank": 2,
     "last_deadline_value": 1020,
-    "last_deadline_total_transfers": 41
+    "last_deadline_total_transfers": 42
 }

@@ -43,14 +43,14 @@ player_avg_fields = [
 # ]
 
 
-@st.cache
+@st.cache_data
 def load_team_list():
-    teams = Teams().query.all()
+    teams = pq.read_table(f"data/streamlit/all/teams.parquet").to_pandas()
     team_list = [team.team_name for team in teams]
     return team_list
 
 
-@st.cache
+@st.cache_data
 def load_player_fixtures():
     df = pq.read_table(
         f"data/streamlit/player_performance/player_fixtures.parquet"
@@ -71,7 +71,7 @@ def load_player_fixtures():
     return df
 
 
-@st.cache
+@st.cache_data
 def load_player_avgs(df, keep_cols=player_avg_fields):
     df_avgs = df[keep_cols]
     df_avgs = (
@@ -83,7 +83,7 @@ def load_player_avgs(df, keep_cols=player_avg_fields):
     return df_avgs
 
 
-@st.cache
+@st.cache_data
 def load_player_list():
     df = pq.read_table(f"data/streamlit/player_performance/players.parquet").to_pandas()
     if len(sel_teams) > 0:

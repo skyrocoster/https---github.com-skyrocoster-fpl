@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1454,
-    "summary_overall_rank": 767,
-    "summary_event_points": 92,
-    "summary_event_rank": 5891,
-    "current_event": 22,
+    "summary_overall_points": 1525,
+    "summary_overall_rank": 905,
+    "summary_event_points": 48,
+    "summary_event_rank": 3144725,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405678,
                 "cup_qualified": true,
-                "entry_rank": 57,
-                "entry_last_rank": 323
+                "entry_rank": 65,
+                "entry_last_rank": 41
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 32,
-                "entry_last_rank": 208
+                "entry_rank": 40,
+                "entry_last_rank": 26
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 767,
-                "entry_last_rank": 4589
+                "entry_rank": 905,
+                "entry_last_rank": 572
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 767,
-                "entry_last_rank": 4589
+                "entry_rank": 905,
+                "entry_last_rank": 572
             },
             {
                 "id": 5271,
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 2
             },
             {
@@ -161,7 +161,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 3,
-                "entry_last_rank": 6
+                "entry_last_rank": 2
             },
             {
                 "id": 20110,
@@ -174,15 +174,15 @@
                 "league_type": "x",
                 "scoring": "c",
                 "admin_entry": 89787,
-                "start_event": 22,
+                "start_event": 23,
                 "entry_can_leave": true,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 189
+                "entry_rank": 256,
+                "entry_last_rank": 4
             },
             {
                 "id": 33923,
@@ -202,8 +202,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
-                "entry_last_rank": 7
+                "entry_rank": 3,
+                "entry_last_rank": 2
             },
             {
                 "id": 60488,
@@ -238,14 +238,14 @@
                 "scoring": "c",
                 "admin_entry": 593251,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 20,
-                "entry_last_rank": 82
+                "cup_league": 2448141,
+                "cup_qualified": true,
+                "entry_rank": 23,
+                "entry_last_rank": 16
             },
             {
                 "id": 370384,
@@ -370,8 +370,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 14607,
-                "entry_last_rank": 150727
+                "entry_rank": 21809,
+                "entry_last_rank": 10223
             }
         ],
         "h2h": [
@@ -393,8 +393,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 56,
-                "entry_last_rank": 56
+                "entry_rank": 42,
+                "entry_last_rank": 42
             }
         ],
         "cup": {
@@ -436,19 +436,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 103046820,
-                "entry_1_entry": 28101,
-                "entry_1_name": "Fitzl Palace",
-                "entry_1_player_name": "Sam Hyland",
-                "entry_1_points": 92,
+                "id": 107016451,
+                "entry_1_entry": 3656645,
+                "entry_1_name": "westastic fc",
+                "entry_1_player_name": "Wesley Glen",
+                "entry_1_points": 54,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 3089270,
-                "entry_2_name": "F2F",
-                "entry_2_player_name": "Fay Belasla",
-                "entry_2_points": 33,
+                "entry_2_entry": 28101,
+                "entry_2_name": "Fitzl Palace",
+                "entry_2_player_name": "Sam Hyland",
+                "entry_2_points": 44,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -457,17 +457,17 @@
                 "league": 2405678,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103336208,
-                "entry_1_entry": 2675877,
-                "entry_1_name": "Manchester United",
-                "entry_1_player_name": "Ross Phillips",
-                "entry_1_points": 21,
+                "id": 107186554,
+                "entry_1_entry": 10210876,
+                "entry_1_name": "MU",
+                "entry_1_player_name": "Jean Coffey",
+                "entry_1_points": 51,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -475,7 +475,7 @@
                 "entry_2_entry": 28101,
                 "entry_2_name": "Fitzl Palace",
                 "entry_2_player_name": "Sam Hyland",
-                "entry_2_points": 92,
+                "entry_2_points": 44,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -484,10 +484,37 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 109979946,
+                "entry_1_entry": 28101,
+                "entry_1_name": "Fitzl Palace",
+                "entry_1_player_name": "Sam Hyland",
+                "entry_1_points": 44,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448141,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -495,6 +522,6 @@
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#4a90e2\",\"kit_shirt_sleeves\":\"#000000\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#4a90e2\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#000000\",\"kit_socks_secondary\":\"#4a90e2\"}",
     "last_deadline_bank": 3,
-    "last_deadline_value": 1051,
-    "last_deadline_total_transfers": 39
+    "last_deadline_value": 1049,
+    "last_deadline_total_transfers": 41
 }

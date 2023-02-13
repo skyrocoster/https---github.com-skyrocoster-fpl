@@ -5,7 +5,7 @@ import numpy as np
 
 
 def map_team_names(x):
-    teams = object_as_df(Teams().query.all())
+    teams = pq.read_table(f"data/streamlit/all/teams.parquet").to_pandas()
     teams = dict(zip(teams["team_id"], teams["team_name"]))
     return teams.get(x)
 
@@ -13,10 +13,18 @@ def map_team_names(x):
 app_context = app.app_context()
 app_context.push()
 
-data = "data/streamlit/fixtures/"
+
+# All
+
+data = "data/streamlit/all/"
+file_name = "teams"
+teams = Teams().query.all()
+df = object_as_df(teams)
+pq.write_table(pa.Table.from_pandas(df), f"{data}{file_name}.parquet")
+
 
 # Team Games
-
+data = "data/streamlit/fixtures/"
 file_name = "teamgames"
 
 teamgames = TeamFixtureResults().query.all()
@@ -251,3 +259,16 @@ chips = ["3xc", "bboost", "freehit", "wildcard"]
 manager_gws[chips] = manager_gws[chips].fillna(0).astype("bool")
 manager_gws = manager_gws.rename(columns=manager_gw_rename)
 pq.write_table(pa.Table.from_pandas(manager_gws), f"{data}{file_name}.parquet")
+
+
+# Player maps
+data = "data/streamlit/all/"
+file_name = "player_info"
+
+player_info = Players().query.all()
+player_info = object_as_df(player_info)
+player_info_rename = {"web_name": "player_name"}
+player_info = player_info[["player_id", "position", "web_name"]].rename(
+    columns=player_info_rename
+)
+pq.write_table(pa.Table.from_pandas(player_info), f"{data}{file_name}.parquet")

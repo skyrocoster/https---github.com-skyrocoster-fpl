@@ -9,11 +9,11 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1319,
-    "summary_overall_rank": 503418,
-    "summary_event_points": 95,
-    "summary_event_rank": 2489,
-    "current_event": 22,
+    "summary_overall_points": 1401,
+    "summary_overall_rank": 353054,
+    "summary_event_points": 63,
+    "summary_event_rank": 385233,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 122220,
-                "entry_last_rank": 284035
+                "entry_rank": 89333,
+                "entry_last_rank": 124252
             },
             {
                 "id": 261,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 179154,
-                "entry_last_rank": 412139
+                "entry_rank": 124962,
+                "entry_last_rank": 179501
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 502930,
-                "entry_last_rank": 1187929
+                "entry_rank": 352765,
+                "entry_last_rank": 502559
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 503418,
-                "entry_last_rank": 1191285
+                "entry_rank": 353054,
+                "entry_last_rank": 503054
             },
             {
                 "id": 87747,
@@ -118,8 +118,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
-                "entry_last_rank": 7
+                "entry_rank": 4,
+                "entry_last_rank": 6
             },
             {
                 "id": 87750,
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 3,
                 "entry_last_rank": 4
             },
             {
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 201999,
-                "entry_last_rank": 465473
+                "entry_rank": 140793,
+                "entry_last_rank": 202344
             },
             {
                 "id": 2385997,
@@ -181,8 +181,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 38,
-                "entry_last_rank": 802
+                "entry_rank": 21,
+                "entry_last_rank": 84
             }
         ],
         "h2h": [],
@@ -225,19 +225,19 @@
                 "knockout_name": "Round of 2097152"
             },
             {
-                "id": 102516051,
+                "id": 106750692,
                 "entry_1_entry": 5582422,
                 "entry_1_name": "Madeline Milan",
                 "entry_1_player_name": "Jack Woodman",
-                "entry_1_points": 95,
+                "entry_1_points": 63,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 3209504,
-                "entry_2_name": "Bismillah",
-                "entry_2_player_name": "Samiul Ahad",
-                "entry_2_points": 48,
+                "entry_2_entry": 4288265,
+                "entry_2_name": "Kung Damrongkiat",
+                "entry_2_player_name": "Kung Damrongkiat",
+                "entry_2_points": 53,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -246,25 +246,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102615371,
-                "entry_1_entry": 5582422,
-                "entry_1_name": "Madeline Milan",
-                "entry_1_player_name": "Jack Woodman",
-                "entry_1_points": 95,
+                "id": 106803210,
+                "entry_1_entry": 3787383,
+                "entry_1_name": "The Lily Whites",
+                "entry_1_player_name": "Leonard Thomas Whiting",
+                "entry_1_points": 48,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 797598,
-                "entry_2_name": "Taste United",
-                "entry_2_player_name": "Ethan Cobbing",
-                "entry_2_points": 68,
+                "entry_2_entry": 5582422,
+                "entry_2_name": "Madeline Milan",
+                "entry_2_player_name": "Jack Woodman",
+                "entry_2_points": 63,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -273,17 +273,17 @@
                 "league": 2381814,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102744806,
-                "entry_1_entry": 773037,
-                "entry_1_name": "SAM'S Hasenhüttls",
-                "entry_1_player_name": "samuel barrett",
-                "entry_1_points": 56,
+                "id": 106886848,
+                "entry_1_entry": 286973,
+                "entry_1_name": "Obi Wan-Bissaka",
+                "entry_1_player_name": "Stuart Davis",
+                "entry_1_points": 49,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -291,7 +291,7 @@
                 "entry_2_entry": 5582422,
                 "entry_2_name": "Madeline Milan",
                 "entry_2_player_name": "Jack Woodman",
-                "entry_2_points": 95,
+                "entry_2_points": 63,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -300,10 +300,10 @@
                 "league": 2381818,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -311,6 +311,6 @@
     "name_change_blocked": false,
     "kit": null,
     "last_deadline_bank": 0,
-    "last_deadline_value": 1024,
+    "last_deadline_value": 1031,
     "last_deadline_total_transfers": 40
 }

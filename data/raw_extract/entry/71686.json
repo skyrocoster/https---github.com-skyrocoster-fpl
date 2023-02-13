@@ -9,11 +9,11 @@
     "player_region_name": "Norway",
     "player_region_iso_code_short": "NO",
     "player_region_iso_code_long": "NOR",
-    "summary_overall_points": 1499,
-    "summary_overall_rank": 30,
-    "summary_event_points": 50,
-    "summary_event_rank": 2923045,
-    "current_event": 22,
+    "summary_overall_points": 1577,
+    "summary_overall_rank": 17,
+    "summary_event_points": 64,
+    "summary_event_rank": 366343,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 5,
-                "entry_last_rank": 3
+                "entry_rank": 4,
+                "entry_last_rank": 6
             },
             {
                 "id": 181,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431360,
                 "cup_qualified": true,
-                "entry_rank": 5,
-                "entry_last_rank": 1
+                "entry_rank": 3,
+                "entry_last_rank": 6
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 30,
-                "entry_last_rank": 7
+                "entry_rank": 17,
+                "entry_last_rank": 42
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 30,
-                "entry_last_rank": 7
+                "entry_rank": 17,
+                "entry_last_rank": 42
             },
             {
                 "id": 329400,
@@ -112,14 +112,14 @@
                 "scoring": "c",
                 "admin_entry": 1733314,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 1
+                "cup_league": 2448144,
+                "cup_qualified": true,
+                "entry_rank": 2,
+                "entry_last_rank": 3
             },
             {
                 "id": 494819,
@@ -160,8 +160,8 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 12,
-                "entry_last_rank": 2
+                "entry_rank": 6,
+                "entry_last_rank": 14
             },
             {
                 "id": 530121,
@@ -181,8 +181,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 1
+                "entry_rank": 1,
+                "entry_last_rank": 2
             },
             {
                 "id": 627535,
@@ -265,8 +265,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 172642,
-                "entry_last_rank": 53625
+                "entry_rank": 123565,
+                "entry_last_rank": 209009
             }
         ],
         "h2h": [
@@ -389,7 +389,7 @@
                 "entry_1_entry": 5028690,
                 "entry_1_name": "Ramsli Boys",
                 "entry_1_player_name": "Eivind Ramsli",
-                "entry_1_points": 75,
+                "entry_1_points": 101,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -397,26 +397,53 @@
                 "entry_2_entry": 71686,
                 "entry_2_name": "vzfc",
                 "entry_2_player_name": "Victor Fæster",
-                "entry_2_points": 50,
+                "entry_2_points": 68,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431360,
-                "winner": null,
+                "winner": 5028690,
                 "seed_value": null,
                 "event": 22,
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 131072"
+            },
+            {
+                "id": 110101731,
+                "entry_1_entry": 71686,
+                "entry_1_name": "vzfc",
+                "entry_1_player_name": "Victor Fæster",
+                "entry_1_points": 60,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448144,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "vzfc",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 13,
-    "last_deadline_value": 1038,
-    "last_deadline_total_transfers": 27
+    "last_deadline_bank": 2,
+    "last_deadline_value": 1033,
+    "last_deadline_total_transfers": 29
 }

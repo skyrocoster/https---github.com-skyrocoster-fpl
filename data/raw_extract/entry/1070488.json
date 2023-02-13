@@ -9,11 +9,11 @@
     "player_region_name": "Singapore",
     "player_region_iso_code_short": "SG",
     "player_region_iso_code_long": "SGP",
-    "summary_overall_points": 1492,
-    "summary_overall_rank": 42,
-    "summary_event_points": 81,
-    "summary_event_rank": 83193,
-    "current_event": 22,
+    "summary_overall_points": 1564,
+    "summary_overall_rank": 49,
+    "summary_event_points": 49,
+    "summary_event_rank": 2892334,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 13,
-                "entry_last_rank": 31
+                "entry_rank": 15,
+                "entry_last_rank": 9
             },
             {
                 "id": 213,
@@ -53,10 +53,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448126,
+                "cup_qualified": true,
                 "entry_rank": 2,
-                "entry_last_rank": 4
+                "entry_last_rank": 1
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 42,
-                "entry_last_rank": 127
+                "entry_rank": 49,
+                "entry_last_rank": 33
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 42,
-                "entry_last_rank": 127
+                "entry_rank": 49,
+                "entry_last_rank": 33
             },
             {
                 "id": 184838,
@@ -137,10 +137,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2448146,
+                "cup_qualified": true,
                 "entry_rank": 2,
-                "entry_last_rank": 4
+                "entry_last_rank": 1
             },
             {
                 "id": 2270501,
@@ -202,8 +202,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2355,
-                "entry_last_rank": 8772
+                "entry_rank": 4088,
+                "entry_last_rank": 1704
             }
         ],
         "h2h": [],
@@ -271,13 +271,67 @@
                 "tiebreak": null,
                 "is_bye": false,
                 "knockout_name": "Round of 2097152"
+            },
+            {
+                "id": 109489184,
+                "entry_1_entry": 1070488,
+                "entry_1_name": "DevilsUtd",
+                "entry_1_player_name": "Willie Lee",
+                "entry_1_points": 45,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448126,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 110144517,
+                "entry_1_entry": 1070488,
+                "entry_1_name": "DevilsUtd",
+                "entry_1_player_name": "Willie Lee",
+                "entry_1_points": 45,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448146,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "DevilsUtd",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 45,
-    "last_deadline_value": 1034,
-    "last_deadline_total_transfers": 36
+    "last_deadline_bank": 29,
+    "last_deadline_value": 1029,
+    "last_deadline_total_transfers": 38
 }

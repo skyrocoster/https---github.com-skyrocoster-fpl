@@ -9,11 +9,11 @@
     "player_region_name": "Indonesia",
     "player_region_iso_code_short": "ID",
     "player_region_iso_code_long": "IDN",
-    "summary_overall_points": 1415,
-    "summary_overall_rank": 9833,
-    "summary_event_points": 89,
-    "summary_event_rank": 14720,
-    "current_event": 22,
+    "summary_overall_points": 1486,
+    "summary_overall_rank": 10385,
+    "summary_event_points": 44,
+    "summary_event_rank": 4225598,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 47,
-                "entry_last_rank": 202
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 62,
+                "entry_last_rank": 37
             },
             {
                 "id": 121,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2431357,
                 "cup_qualified": true,
-                "entry_rank": 123,
-                "entry_last_rank": 493
+                "entry_rank": 137,
+                "entry_last_rank": 84
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9832,
-                "entry_last_rank": 37867
+                "entry_rank": 10384,
+                "entry_last_rank": 7429
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 9833,
-                "entry_last_rank": 37881
+                "entry_rank": 10385,
+                "entry_last_rank": 7430
             },
             {
                 "id": 1890150,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9456,
-                "entry_last_rank": 79574
+                "entry_rank": 14990,
+                "entry_last_rank": 6668
             }
         ],
         "h2h": [
@@ -162,8 +162,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
-                "entry_last_rank": 2
+                "entry_rank": 1,
+                "entry_last_rank": 1
             }
         ],
         "cup": {
@@ -205,19 +205,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 104260751,
-                "entry_1_entry": 2331449,
-                "entry_1_name": "Baygon FC",
-                "entry_1_player_name": "Ahmad Fahrudin",
-                "entry_1_points": 89,
+                "id": 107633793,
+                "entry_1_entry": 10753253,
+                "entry_1_name": "Seneca",
+                "entry_1_player_name": "Ferry Putra",
+                "entry_1_points": 39,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6847386,
-                "entry_2_name": "Gawat darurat",
-                "entry_2_player_name": "oka setiawan",
-                "entry_2_points": 40,
+                "entry_2_entry": 2331449,
+                "entry_2_name": "Baygon FC",
+                "entry_2_player_name": "Ahmad Fahrudin",
+                "entry_2_points": 44,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -226,17 +226,44 @@
                 "league": 2431357,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108767520,
+                "entry_1_entry": 2331449,
+                "entry_1_name": "Baygon FC",
+                "entry_1_player_name": "Ahmad Fahrudin",
+                "entry_1_points": 44,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Baygon FC",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 37,
-    "last_deadline_value": 1037,
-    "last_deadline_total_transfers": 34
+    "last_deadline_bank": 44,
+    "last_deadline_value": 1036,
+    "last_deadline_total_transfers": 36
 }

@@ -9,11 +9,11 @@
     "player_region_name": "Colombia",
     "player_region_iso_code_short": "CO",
     "player_region_iso_code_long": "COL",
-    "summary_overall_points": 1447,
-    "summary_overall_rank": 1236,
-    "summary_event_points": 90,
-    "summary_event_rank": 11360,
-    "current_event": 22,
+    "summary_overall_points": 1518,
+    "summary_overall_rank": 1389,
+    "summary_event_points": 44,
+    "summary_event_rank": 4148435,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 277,
-                "entry_last_rank": 1479
+                "entry_rank": 349,
+                "entry_last_rank": 205
             },
             {
                 "id": 68,
@@ -56,7 +56,7 @@
                 "cup_league": null,
                 "cup_qualified": null,
                 "entry_rank": 2,
-                "entry_last_rank": 6
+                "entry_last_rank": 2
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1236,
-                "entry_last_rank": 6233
+                "entry_rank": 1389,
+                "entry_last_rank": 911
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1236,
-                "entry_last_rank": 6235
+                "entry_rank": 1389,
+                "entry_last_rank": 911
             },
             {
                 "id": 706473,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
-                "entry_last_rank": 81
+                "entry_rank": 23,
+                "entry_last_rank": 7
             }
         ],
         "h2h": [],
@@ -183,19 +183,19 @@
                 "knockout_name": "Round of 8388608"
             },
             {
-                "id": 102595301,
-                "entry_1_entry": 5230835,
-                "entry_1_name": "TinSaagXI",
-                "entry_1_player_name": "Ten Ball",
-                "entry_1_points": 29,
+                "id": 106779949,
+                "entry_1_entry": 6794048,
+                "entry_1_name": "Sajoda",
+                "entry_1_player_name": "Daniel Pinzon",
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 6794048,
-                "entry_2_name": "Sajoda",
-                "entry_2_player_name": "Daniel Pinzon",
-                "entry_2_points": 90,
+                "entry_2_entry": 310745,
+                "entry_2_name": "EMON",
+                "entry_2_player_name": "ray makoko",
+                "entry_2_points": 29,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -204,17 +204,17 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Sajoda",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 52,
-    "last_deadline_value": 1038,
-    "last_deadline_total_transfers": 27
+    "last_deadline_bank": 32,
+    "last_deadline_value": 1043,
+    "last_deadline_total_transfers": 28
 }

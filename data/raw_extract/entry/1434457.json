@@ -9,11 +9,11 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1459,
-    "summary_overall_rank": 491,
-    "summary_event_points": 72,
-    "summary_event_rank": 385334,
-    "current_event": 22,
+    "summary_overall_points": 1528,
+    "summary_overall_rank": 691,
+    "summary_event_points": 45,
+    "summary_event_rank": 3867521,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 111,
-                "entry_last_rank": 175
+                "entry_rank": 165,
+                "entry_last_rank": 105
             },
             {
                 "id": 124,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 23,
-                "entry_last_rank": 31
+                "entry_rank": 30,
+                "entry_last_rank": 18
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 491,
-                "entry_last_rank": 735
+                "entry_rank": 691,
+                "entry_last_rank": 447
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 491,
-                "entry_last_rank": 735
+                "entry_rank": 691,
+                "entry_last_rank": 447
             },
             {
                 "id": 392496,
@@ -223,8 +223,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 65627,
-                "entry_last_rank": 119275
+                "entry_rank": 92516,
+                "entry_last_rank": 56767
             }
         ],
         "h2h": [
@@ -262,19 +262,19 @@
         },
         "cup_matches": [
             {
-                "id": 102474856,
-                "entry_1_entry": 1434457,
-                "entry_1_name": "Dieseltime",
-                "entry_1_player_name": "Zach Murphy",
-                "entry_1_points": 72,
+                "id": 106754869,
+                "entry_1_entry": 10785587,
+                "entry_1_name": "sahnoun",
+                "entry_1_player_name": "sahnoun soualil",
+                "entry_1_points": 55,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 8695608,
-                "entry_2_name": "Kayleoyres apo LA",
-                "entry_2_player_name": "Faidon Andreadakis",
-                "entry_2_points": 42,
+                "entry_2_entry": 1434457,
+                "entry_2_name": "Dieseltime",
+                "entry_2_player_name": "Zach Murphy",
+                "entry_2_points": 45,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -283,25 +283,25 @@
                 "league": 2371740,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 102580524,
-                "entry_1_entry": 1434457,
-                "entry_1_name": "Dieseltime",
-                "entry_1_player_name": "Zach Murphy",
-                "entry_1_points": 72,
+                "id": 106792099,
+                "entry_1_entry": 399338,
+                "entry_1_name": "rahand bakr",
+                "entry_1_player_name": "rahand bakr",
+                "entry_1_points": 44,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 774999,
-                "entry_2_name": "Harlow Town",
-                "entry_2_player_name": "Grazvydas Lapinskas",
-                "entry_2_points": 67,
+                "entry_2_entry": 1434457,
+                "entry_2_name": "Dieseltime",
+                "entry_2_player_name": "Zach Murphy",
+                "entry_2_points": 45,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -310,25 +310,25 @@
                 "league": 2381812,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103383598,
-                "entry_1_entry": 1434457,
-                "entry_1_name": "Dieseltime",
-                "entry_1_player_name": "Zach Murphy",
-                "entry_1_points": 72,
+                "id": 107182933,
+                "entry_1_entry": 4051080,
+                "entry_1_name": "Pullonit FC",
+                "entry_1_player_name": "Donal O’Driscoll",
+                "entry_1_points": 41,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 2275801,
-                "entry_2_name": "Mccruddens Men",
-                "entry_2_player_name": "Seán McCrudden",
-                "entry_2_points": 63,
+                "entry_2_entry": 1434457,
+                "entry_2_name": "Dieseltime",
+                "entry_2_player_name": "Zach Murphy",
+                "entry_2_points": 45,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -337,17 +337,17 @@
                 "league": 2424303,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Dieseltime",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 67,
-    "last_deadline_value": 1039,
-    "last_deadline_total_transfers": 20
+    "last_deadline_bank": 76,
+    "last_deadline_value": 1041,
+    "last_deadline_total_transfers": 21
 }

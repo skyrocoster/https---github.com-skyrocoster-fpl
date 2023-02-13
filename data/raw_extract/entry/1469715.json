@@ -9,11 +9,11 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1393,
-    "summary_overall_rank": 32492,
-    "summary_event_points": 73,
-    "summary_event_rank": 330330,
-    "current_event": 22,
+    "summary_overall_points": 1463,
+    "summary_overall_rank": 34626,
+    "summary_event_points": 44,
+    "summary_event_rank": 4148435,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -34,8 +34,8 @@
                 "has_cup": true,
                 "cup_league": 2437793,
                 "cup_qualified": true,
-                "entry_rank": 383,
-                "entry_last_rank": 632
+                "entry_rank": 372,
+                "entry_last_rank": 304
             },
             {
                 "id": 111,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
-                "entry_last_rank": 5
+                "entry_rank": 2,
+                "entry_last_rank": 2
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 32484,
-                "entry_last_rank": 51558
+                "entry_rank": 34621,
+                "entry_last_rank": 26194
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 32492,
-                "entry_last_rank": 51573
+                "entry_rank": 34626,
+                "entry_last_rank": 26197
             },
             {
                 "id": 463372,
@@ -139,8 +139,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 13177,
-                "entry_last_rank": 21824
+                "entry_rank": 21628,
+                "entry_last_rank": 10131
             }
         ],
         "h2h": [],
@@ -183,19 +183,19 @@
                 "knockout_name": "Round of 8388608"
             },
             {
-                "id": 105034337,
-                "entry_1_entry": 1469715,
-                "entry_1_name": "kingreno",
-                "entry_1_player_name": "Marvin Cheong",
-                "entry_1_points": 73,
+                "id": 108035246,
+                "entry_1_entry": 1611569,
+                "entry_1_name": "JMEFC",
+                "entry_1_player_name": "Joseph Morley",
+                "entry_1_points": 29,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": null,
-                "entry_2_name": "BYE",
-                "entry_2_player_name": "BYE",
-                "entry_2_points": 0,
+                "entry_2_entry": 1469715,
+                "entry_2_name": "kingreno",
+                "entry_2_player_name": "Marvin Cheong",
+                "entry_2_points": 44,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -204,10 +204,10 @@
                 "league": 2437793,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
-                "is_bye": true,
-                "knockout_name": "Round of 131072"
+                "is_bye": false,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
@@ -215,6 +215,6 @@
     "name_change_blocked": false,
     "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
     "last_deadline_bank": 33,
-    "last_deadline_value": 1030,
-    "last_deadline_total_transfers": 37
+    "last_deadline_value": 1034,
+    "last_deadline_total_transfers": 38
 }

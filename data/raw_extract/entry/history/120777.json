@@ -275,16 +275,29 @@
         },
         {
             "event": 22,
-            "points": 59,
-            "total_points": 1253,
-            "rank": 1579967,
-            "rank_sort": 1581266,
-            "overall_rank": 1719136,
+            "points": 75,
+            "total_points": 1269,
+            "rank": 1789049,
+            "rank_sort": 1789830,
+            "overall_rank": 1713338,
             "bank": 0,
             "value": 1016,
             "event_transfers": 1,
             "event_transfers_cost": 0,
             "points_on_bench": 3
+        },
+        {
+            "event": 23,
+            "points": 61,
+            "total_points": 1326,
+            "rank": 623316,
+            "rank_sort": 623697,
+            "overall_rank": 1540891,
+            "bank": 9,
+            "value": 1018,
+            "event_transfers": 2,
+            "event_transfers_cost": 4,
+            "points_on_bench": 0
         }
     ],
     "past": [
@@ -294,5 +307,11 @@
             "rank": 1091332
         }
     ],
-    "chips": []
+    "chips": [
+        {
+            "name": "bboost",
+            "time": "2023-02-05T11:42:14.913223Z",
+            "event": 23
+        }
+    ]
 }

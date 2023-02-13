@@ -9,11 +9,11 @@
     "player_region_name": "USA",
     "player_region_iso_code_short": "US",
     "player_region_iso_code_long": "USA",
-    "summary_overall_points": 1437,
-    "summary_overall_rank": 2415,
-    "summary_event_points": 80,
-    "summary_event_rank": 105136,
-    "current_event": 22,
+    "summary_overall_points": 1513,
+    "summary_overall_rank": 1929,
+    "summary_event_points": 49,
+    "summary_event_rank": 2809851,
+    "current_event": 23,
     "leagues": {
         "classic": [
             {
@@ -32,10 +32,10 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 11,
-                "entry_last_rank": 27
+                "cup_league": 2448104,
+                "cup_qualified": true,
+                "entry_rank": 7,
+                "entry_last_rank": 10
             },
             {
                 "id": 249,
@@ -55,8 +55,8 @@
                 "has_cup": true,
                 "cup_league": 2424308,
                 "cup_qualified": true,
-                "entry_rank": 57,
-                "entry_last_rank": 154
+                "entry_rank": 52,
+                "entry_last_rank": 41
             },
             {
                 "id": 276,
@@ -76,8 +76,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2415,
-                "entry_last_rank": 6108
+                "entry_rank": 1929,
+                "entry_last_rank": 1784
             },
             {
                 "id": 314,
@@ -97,8 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2415,
-                "entry_last_rank": 6110
+                "entry_rank": 1929,
+                "entry_last_rank": 1784
             },
             {
                 "id": 48442,
@@ -139,8 +139,8 @@
                 "has_cup": true,
                 "cup_league": 2424311,
                 "cup_qualified": true,
-                "entry_rank": 58,
-                "entry_last_rank": 157
+                "entry_rank": 53,
+                "entry_last_rank": 41
             },
             {
                 "id": 2385997,
@@ -160,8 +160,8 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 52467,
-                "entry_last_rank": 184618
+                "entry_rank": 45705,
+                "entry_last_rank": 35823
             }
         ],
         "h2h": [],
@@ -204,19 +204,19 @@
                 "knockout_name": "Round of 524288"
             },
             {
-                "id": 103685019,
-                "entry_1_entry": 2428372,
-                "entry_1_name": "donbuzz",
-                "entry_1_player_name": "Oluwabukunmi Alo",
-                "entry_1_points": 29,
+                "id": 107353340,
+                "entry_1_entry": 4357469,
+                "entry_1_name": "Return of the Calum",
+                "entry_1_player_name": "Calum Bortolussi",
+                "entry_1_points": 49,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 4357469,
-                "entry_2_name": "Return of the Calum",
-                "entry_2_player_name": "Calum Bortolussi",
-                "entry_2_points": 80,
+                "entry_2_entry": 4448129,
+                "entry_2_name": "Short Pump Wednesday",
+                "entry_2_player_name": "Jonathan Kruschwitz",
+                "entry_2_points": 63,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -225,25 +225,25 @@
                 "league": 2424308,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
             },
             {
-                "id": 103803201,
-                "entry_1_entry": 4147928,
-                "entry_1_name": "Gonna Mount Ya",
-                "entry_1_player_name": "Trevor Beierschmitt",
-                "entry_1_points": 46,
+                "id": 107400540,
+                "entry_1_entry": 4357469,
+                "entry_1_name": "Return of the Calum",
+                "entry_1_player_name": "Calum Bortolussi",
+                "entry_1_points": 49,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
-                "entry_2_entry": 4357469,
-                "entry_2_name": "Return of the Calum",
-                "entry_2_player_name": "Calum Bortolussi",
-                "entry_2_points": 80,
+                "entry_2_entry": 930805,
+                "entry_2_name": "Soccerballers 3.0",
+                "entry_2_player_name": "J H",
+                "entry_2_points": 57,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
@@ -252,17 +252,44 @@
                 "league": 2424311,
                 "winner": null,
                 "seed_value": null,
-                "event": 22,
+                "event": 23,
                 "tiebreak": null,
                 "is_bye": false,
-                "knockout_name": "Round of 131072"
+                "knockout_name": "Round of 65536"
+            },
+            {
+                "id": 108767909,
+                "entry_1_entry": 4357469,
+                "entry_1_name": "Return of the Calum",
+                "entry_1_player_name": "Calum Bortolussi",
+                "entry_1_points": 49,
+                "entry_1_win": 0,
+                "entry_1_draw": 0,
+                "entry_1_loss": 0,
+                "entry_1_total": 0,
+                "entry_2_entry": null,
+                "entry_2_name": "BYE",
+                "entry_2_player_name": "BYE",
+                "entry_2_points": 0,
+                "entry_2_win": 0,
+                "entry_2_draw": 0,
+                "entry_2_loss": 0,
+                "entry_2_total": 0,
+                "is_knockout": true,
+                "league": 2448104,
+                "winner": null,
+                "seed_value": null,
+                "event": 23,
+                "tiebreak": null,
+                "is_bye": true,
+                "knockout_name": "Round of 65536"
             }
         ]
     },
     "name": "Return of the Calum",
     "name_change_blocked": false,
     "kit": null,
-    "last_deadline_bank": 36,
-    "last_deadline_value": 1038,
-    "last_deadline_total_transfers": 21
+    "last_deadline_bank": 8,
+    "last_deadline_value": 1035,
+    "last_deadline_total_transfers": 22
 }
