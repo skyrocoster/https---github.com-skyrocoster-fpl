@@ -9,10 +9,10 @@
     "player_region_name": "Norway",
     "player_region_iso_code_short": "NO",
     "player_region_iso_code_long": "NOR",
-    "summary_overall_points": 1494,
-    "summary_overall_rank": 6461,
-    "summary_event_points": 55,
-    "summary_event_rank": 1490578,
+    "summary_overall_points": 1511,
+    "summary_overall_rank": 13510,
+    "summary_event_points": 72,
+    "summary_event_rank": 4398298,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 35,
+                "entry_rank": 73,
                 "entry_last_rank": 44
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431360,
                 "cup_qualified": true,
-                "entry_rank": 444,
+                "entry_rank": 949,
                 "entry_last_rank": 621
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6460,
+                "entry_rank": 13509,
                 "entry_last_rank": 8641
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 6461,
+                "entry_rank": 13510,
                 "entry_last_rank": 8642
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 30,
+                "entry_rank": 73,
                 "entry_last_rank": 48
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 876,
+                "entry_rank": 1863,
                 "entry_last_rank": 1183
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 86267,
+                "entry_rank": 174166,
                 "entry_last_rank": 107903
             }
         ],
@@ -298,7 +298,7 @@
                 "entry_1_entry": 6443855,
                 "entry_1_name": "Mimito",
                 "entry_1_player_name": "Tom Pedersen",
-                "entry_1_points": 19,
+                "entry_1_points": 55,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -306,14 +306,14 @@
                 "entry_2_entry": 3347689,
                 "entry_2_name": "mine slaver",
                 "entry_2_player_name": "Hans Erik Tømmerbakk",
-                "entry_2_points": 55,
+                "entry_2_points": 72,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431360,
-                "winner": null,
+                "winner": 3347689,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -325,7 +325,7 @@
                 "entry_1_entry": 3347689,
                 "entry_1_name": "mine slaver",
                 "entry_1_player_name": "Hans Erik Tømmerbakk",
-                "entry_1_points": 55,
+                "entry_1_points": 72,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -340,7 +340,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 3347689,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

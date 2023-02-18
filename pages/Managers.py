@@ -2,6 +2,7 @@ import streamlit as st
 import plotly.express as px
 import pyarrow.parquet as pq
 import pandas as pd
+import plotly.graph_objects as go
 
 st.set_page_config(layout="wide")
 sidebar = st.sidebar
@@ -16,7 +17,6 @@ def load_manager_list():
     return manager_list
 
 
-@st.cache_data
 def load_manager_gws():
     df = pq.read_table(
         f"data/streamlit/manager_performance/manager_gameweeks.parquet"
@@ -27,7 +27,6 @@ def load_manager_gws():
     return df
 
 
-@st.cache_data
 def load_manager_avgs(df):
     sum_cols = {
         "full_name": "full_name",
@@ -47,6 +46,9 @@ def load_manager_avgs(df):
         "points_on_bench": "avg_points_on_bench",
         "bank": "avg_bank",
         "value": "avg_value",
+        "3xc": "3xc",
+        "bboost": "bboost",
+        "freehit": "freehit",
     }
     df_sum = (
         df[sum_cols.keys()]
@@ -61,6 +63,9 @@ def load_manager_avgs(df):
         .rename(columns=avg_cols)
     )
     df = df_sum.merge(df_avg, on=["manager_id", "full_name"])
+    df["3xc"] = df["3xc"].apply(lambda x: True if x > 0 else False)
+    df["bboost"] = df["bboost"].apply(lambda x: True if x > 0 else False)
+    df["freehit"] = df["freehit"].apply(lambda x: True if x > 0 else False)
     df = df.reset_index()
     return df
 
@@ -69,23 +74,117 @@ def load_player_performances():
     df = pq.read_table(
         f"data/streamlit/manager_performance/manager_players.parquet"
     ).to_pandas()
+    df = df.loc[(df["gameweek_id"] >= sel_gw_start) & (df["gameweek_id"] <= sel_gw_end)]
     if active_players == True:
         df = df.loc[df["active"] == True]
-    df = df.loc[(df["gameweek_id"] >= sel_gw_start) & (df["gameweek_id"] <= sel_gw_end)]
     if len(sel_manager) > 0:
         df = df.loc[df["full_name"].isin(sel_manager)]
-    df["gameweek_id"] = df["gameweek_id"].astype("str")
+    if len(sel_teams) > 0:
+        df = df.loc[df["team_name"].isin(sel_teams)]
+    if len(sel_positions) > 0:
+        df = df.loc[df["position"].isin(sel_positions)]
+    if len(sel_player) > 0:
+        df = df.loc[df["player_name"].isin(sel_player)]
     return df
 
 
-manager_list = load_manager_list()
+def load_player_avg(df):
+    # fixture_fields = []
+    # df_fixtures = 
+
+    # df_gws = 
+
+    # possible thrown out by dgws
+    sum_cols = {
+        "manager_id": "manager_id",
+        "player_id": "player_id",
+        "player_name": "player_name",
+        "goals_conceded": "sum_goals_conceded",
+        "active": "count_active",
+        "subbed_in": "count_subbed_in",
+        "subbed_out": "count_subbed_out",
+        "fixture_count": "count_fixtures",
+    }
+    avg_cols = {
+        "manager_id": "manager_id",
+        "player_id": "player_id",
+        "player_name": "player_name",
+        "goals_conceded": "avg_goals_conceded",
+    }
+    count_cols = {"gameweek_id": "count_gw"}
+    df_sum = (
+        df[sum_cols.keys()]
+        .groupby(["manager_id", "player_id", "player_name"])
+        .sum(numeric_only=True)
+        .rename(columns=sum_cols)
+    )
+    df_avg = (
+        df[avg_cols.keys()]
+        .groupby(["manager_id", "player_id", "player_name"])
+        .mean(numeric_only=True)
+        .rename(columns=avg_cols)
+    )
+    # Gameweek count
+    # Active count
+    # Bench count
+    df = df_sum.merge(df_avg, on=["manager_id", "player_id", "player_name"])
+    return df
+
+
+@st.cache_data
+def load_team_list():
+    df = pq.read_table(f"data/streamlit/all/teams.parquet").to_pandas()
+    team_list = df["team_name"].values.tolist()
+    return team_list
+
+
+def load_player_list():
+    df = pq.read_table(f"data/streamlit/player_performance/players.parquet").to_pandas()
+    if len(sel_teams) > 0:
+        df = df.loc[df["team_name"].isin(sel_teams)]
+    if len(sel_positions) > 0:
+        df = df.loc[df["position"].isin(sel_positions)]
+    player_list = sorted(df[["web_name"]].squeeze().tolist())
+    return player_list
+
+
+class SingleMangerStats:
+    def __init__(self, df_gws, df_avg, df_pp):
+        for k, v in df_avg.to_dict(orient="records")[0].items():
+            setattr(self, k, v)
+
+        self.points_kpi = go.Figure(
+            go.Indicator(
+                mode="number",
+                value=self.sum_points,
+                title={"text": "Points to Gameweek"},
+            )
+        )
+
+        self.chips_used = df_avg[["3xc", "freehit", "bboost"]]
+
+        self.min_gw = df_gws["gameweek_id"].min()
+        self.max_gw = df_gws["gameweek_id"].max()
+
+
 with sidebar:
     sel_gw_start, sel_gw_end = st.select_slider(
         "Select a Gameweek Range:",
         options=[item for item in range(1, 38 + 1)],
         value=(1, 38),
     )
+
+    manager_list = load_manager_list()
     sel_manager = st.multiselect("Select Managers", manager_list)
+
+    positions = ["GKP", "FWD", "MID", "DEF"]
+    sel_positions = st.multiselect("Select Positions to Include", positions, positions)
+
+    team_names = load_team_list()
+    sel_teams = st.multiselect("Select Teams to Include", team_names, [])
+
+    player_names = load_player_list()
+    sel_player = st.multiselect("Select a Player", player_names, [])
 
 # Load Dataframe
 manager_gws = load_manager_gws()
@@ -96,8 +195,8 @@ manager_avgs = load_manager_avgs(manager_gws)
 manager_gws_fields = list(manager_gws.columns)
 manager_avgs_fields = list(manager_avgs.columns)
 
-gw_tab, overall_tab, players_tab = st.tabs(
-    ["By Gameweek", "Overall", "Player Performances"]
+gw_tab, overall_tab, players_tab, one_manager = st.tabs(
+    ["By Gameweek", "Overall", "Player Performances", "Single Manager Performance"]
 )
 
 
@@ -160,27 +259,39 @@ with overall_tab:
 
 
 with players_tab:
-    active_players = st.checkbox("Active Players Only")
+    active_players = st.checkbox("Active Players Only")  # This will affect other tabs
     player_performances = load_player_performances()
+    player_avgs = load_player_avg(player_performances)
+    st.title("Gameweek Performances")
     st.dataframe(player_performances)
-    fig = px.bar(
-        player_performances,
-        x="gameweek_id",
-        y="total_points",
-        color="player_name",
-        barmode="group",
-        width=1600,
-        height=1600,
-        custom_data=["full_name", "player_name", "gameweek_id"],
-        facet_row="player_name",
-    )
-    fig.update_traces(
-        hovertemplate="<br>".join(
-            [
-                "Player: %{customdata[1]}",
-                "GW Points: %{y}",
-                "Gameweek: %{customdata[2]}",
-            ]
+
+    st.markdown("---")
+
+    st.title("Averages")
+    st.dataframe(player_avgs)
+
+with one_manager:
+    if len(sel_manager) != 1:
+        st.write("Please select one manager")
+    else:
+        manager_stats = SingleMangerStats(
+            manager_gws, manager_avgs, player_performances
         )
-    )
-    st.plotly_chart(fig)
+
+        st.title("Gameweeks")
+        st.dataframe(manager_gws)
+
+        st.markdown("---")
+
+        st.title("Manager Overall")
+        st.write(f"Points to Gameweek: {manager_stats.manager_id}")
+        st.plotly_chart(manager_stats.points_kpi)
+        st.dataframe(manager_stats.chips_used)
+        st.dataframe(manager_avgs)
+
+        st.markdown("---")
+
+        st.title("Player Performances")
+
+
+# fig.show()

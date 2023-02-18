@@ -9,10 +9,10 @@
     "player_region_name": "Kuwait",
     "player_region_iso_code_short": "KW",
     "player_region_iso_code_long": "KWT",
-    "summary_overall_points": 1481,
-    "summary_overall_rank": 13892,
-    "summary_event_points": 67,
-    "summary_event_rank": 193417,
+    "summary_overall_points": 1512,
+    "summary_overall_rank": 13258,
+    "summary_event_points": 98,
+    "summary_event_rank": 188227,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448120,
                 "cup_qualified": true,
-                "entry_rank": 112,
+                "entry_rank": 95,
                 "entry_last_rank": 200
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 13891,
+                "entry_rank": 13257,
                 "entry_last_rank": 27859
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 13892,
+                "entry_rank": 13258,
                 "entry_last_rank": 27862
             },
             {
@@ -91,13 +91,13 @@
                 "scoring": "c",
                 "admin_entry": 105102,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 249,
+                "cup_league": 2453788,
+                "cup_qualified": true,
+                "entry_rank": 235,
                 "entry_last_rank": 470
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 39,
+                "entry_rank": 30,
                 "entry_last_rank": 74
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 2067,
+                "entry_rank": 1789,
                 "entry_last_rank": 3838
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 39,
+                "entry_rank": 33,
                 "entry_last_rank": 69
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
+                "entry_rank": 8,
                 "entry_last_rank": 17
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 19,
+                "entry_rank": 11,
                 "entry_last_rank": 76
             }
         ],
@@ -298,7 +298,7 @@
                 "entry_1_entry": 630794,
                 "entry_1_name": "mohamad",
                 "entry_1_player_name": "Mohamad Almutairi",
-                "entry_1_points": 63,
+                "entry_1_points": 94,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -313,7 +313,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448120,
-                "winner": null,
+                "winner": 630794,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

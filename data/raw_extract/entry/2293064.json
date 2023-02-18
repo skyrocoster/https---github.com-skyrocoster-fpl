@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1546,
-    "summary_overall_rank": 180,
-    "summary_event_points": 58,
-    "summary_event_rank": 901844,
+    "summary_overall_points": 1566,
+    "summary_overall_rank": 392,
+    "summary_event_points": 78,
+    "summary_event_rank": 2662982,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 20,
+                "entry_rank": 51,
                 "entry_last_rank": 45
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 47,
+                "entry_rank": 125,
                 "entry_last_rank": 97
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 180,
+                "entry_rank": 392,
                 "entry_last_rank": 313
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 180,
+                "entry_rank": 392,
                 "entry_last_rank": 313
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 57,
+                "entry_rank": 146,
                 "entry_last_rank": 118
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 146080,
+                "entry_rank": 233908,
                 "entry_last_rank": 218505
             }
         ],
@@ -262,7 +262,7 @@
                 "entry_1_entry": 2180956,
                 "entry_1_name": "Choi Sauce",
                 "entry_1_player_name": "Stephen Thurley",
-                "entry_1_points": 51,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -270,14 +270,14 @@
                 "entry_2_entry": 2293064,
                 "entry_2_name": "Frenkie Tarr",
                 "entry_2_player_name": "Sam Oakley",
-                "entry_2_points": 58,
+                "entry_2_points": 78,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 2180956,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

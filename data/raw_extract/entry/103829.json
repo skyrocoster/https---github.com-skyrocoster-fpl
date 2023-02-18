@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1409,
-    "summary_overall_rank": 277828,
-    "summary_event_points": 38,
-    "summary_event_rank": 5597371,
+    "summary_overall_points": 1426,
+    "summary_overall_rank": 394519,
+    "summary_event_points": 55,
+    "summary_event_rank": 8513722,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2424301,
                 "cup_qualified": true,
-                "entry_rank": 11798,
+                "entry_rank": 16405,
                 "entry_last_rank": 8290
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 27,
+                "entry_rank": 41,
                 "entry_last_rank": 18
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 277641,
+                "entry_rank": 394192,
                 "entry_last_rank": 193343
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 277828,
+                "entry_rank": 394519,
                 "entry_last_rank": 193423
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 7,
                 "entry_last_rank": 3
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3722286,
+                "entry_rank": 4224251,
                 "entry_last_rank": 3308902
             }
         ],
@@ -183,7 +183,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 5,
                 "entry_last_rank": 3
             }
         ],
@@ -230,7 +230,7 @@
                 "entry_1_entry": 103829,
                 "entry_1_name": "Pique Blinders",
                 "entry_1_player_name": "Tamesh D",
-                "entry_1_points": 38,
+                "entry_1_points": 55,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -238,14 +238,14 @@
                 "entry_2_entry": 3068863,
                 "entry_2_name": "Sonsational",
                 "entry_2_player_name": "James Bignell",
-                "entry_2_points": 38,
+                "entry_2_points": 65,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424301,
-                "winner": null,
+                "winner": 3068863,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

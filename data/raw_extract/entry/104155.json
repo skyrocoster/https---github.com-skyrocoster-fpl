@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1524,
-    "summary_overall_rank": 960,
-    "summary_event_points": 38,
-    "summary_event_rank": 5641178,
+    "summary_overall_points": 1552,
+    "summary_overall_rank": 1131,
+    "summary_event_points": 66,
+    "summary_event_rank": 6013433,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 237,
+                "entry_rank": 279,
                 "entry_last_rank": 67
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 45,
+                "entry_rank": 48,
                 "entry_last_rank": 13
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 960,
+                "entry_rank": 1131,
                 "entry_last_rank": 286
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 960,
+                "entry_rank": 1131,
                 "entry_last_rank": 286
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 69,
+                "entry_rank": 86,
                 "entry_last_rank": 22
             },
             {
@@ -133,13 +133,13 @@
                 "scoring": "c",
                 "admin_entry": 25277,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 22,
+                "cup_league": 2453777,
+                "cup_qualified": true,
+                "entry_rank": 34,
                 "entry_last_rank": 8
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2437815,
                 "cup_qualified": true,
-                "entry_rank": 36,
+                "entry_rank": 50,
                 "entry_last_rank": 12
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9,
+                "entry_rank": 14,
                 "entry_last_rank": 2
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 47387,
+                "entry_rank": 47287,
                 "entry_last_rank": 10011
             }
         ],
@@ -430,7 +430,7 @@
                 "entry_1_entry": 3471097,
                 "entry_1_name": "Marty Party",
                 "entry_1_player_name": "martin o driscoll",
-                "entry_1_points": 55,
+                "entry_1_points": 87,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -438,14 +438,14 @@
                 "entry_2_entry": 104155,
                 "entry_2_name": "Haalandaise Sauce",
                 "entry_2_player_name": "Adam O’Brien",
-                "entry_2_points": 34,
+                "entry_2_points": 62,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 3471097,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -457,7 +457,7 @@
                 "entry_1_entry": 1843902,
                 "entry_1_name": "Free Bishopton FC",
                 "entry_1_player_name": "Martyn Campbell",
-                "entry_1_points": 36,
+                "entry_1_points": 67,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -465,14 +465,14 @@
                 "entry_2_entry": 104155,
                 "entry_2_name": "Haalandaise Sauce",
                 "entry_2_player_name": "Adam O’Brien",
-                "entry_2_points": 34,
+                "entry_2_points": 62,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437815,
-                "winner": null,
+                "winner": 1843902,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1384,
-    "summary_overall_rank": 535043,
-    "summary_event_points": 41,
-    "summary_event_rank": 4927225,
+    "summary_overall_points": 1412,
+    "summary_overall_rank": 548045,
+    "summary_event_points": 69,
+    "summary_event_rank": 5198209,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405678,
                 "cup_qualified": true,
-                "entry_rank": 35163,
+                "entry_rank": 35995,
                 "entry_last_rank": 27773
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 56,
+                "entry_rank": 51,
                 "entry_last_rank": 43
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 534395,
+                "entry_rank": 547418,
                 "entry_last_rank": 434342
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 535043,
+                "entry_rank": 548045,
                 "entry_last_rank": 434699
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 307275,
+                "entry_rank": 306035,
                 "entry_last_rank": 170440
             }
         ],
@@ -204,7 +204,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 3,
                 "entry_last_rank": 4
             },
             {
@@ -272,7 +272,7 @@
                 "entry_1_entry": 8698563,
                 "entry_1_name": "idk man",
                 "entry_1_player_name": "furkan mukyan",
-                "entry_1_points": 26,
+                "entry_1_points": 56,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -280,14 +280,14 @@
                 "entry_2_entry": 748607,
                 "entry_2_name": "MNW pep squad",
                 "entry_2_player_name": "Muhammad Wazidali",
-                "entry_2_points": 41,
+                "entry_2_points": 69,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405678,
-                "winner": null,
+                "winner": 748607,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

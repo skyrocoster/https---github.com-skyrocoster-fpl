@@ -9,10 +9,10 @@
     "player_region_name": "Denmark",
     "player_region_iso_code_short": "DK",
     "player_region_iso_code_long": "DNK",
-    "summary_overall_points": 1489,
-    "summary_overall_rank": 8792,
-    "summary_event_points": 48,
-    "summary_event_rank": 3144725,
+    "summary_overall_points": 1531,
+    "summary_overall_rank": 4362,
+    "summary_event_points": 90,
+    "summary_event_rank": 713937,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 51,
+                "entry_rank": 19,
                 "entry_last_rank": 31
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2448112,
                 "cup_qualified": true,
-                "entry_rank": 83,
+                "entry_rank": 47,
                 "entry_last_rank": 63
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8791,
+                "entry_rank": 4362,
                 "entry_last_rank": 6213
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 8792,
+                "entry_rank": 4362,
                 "entry_last_rank": 6214
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 595,
+                "entry_rank": 347,
                 "entry_last_rank": 466
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 1148,
+                "entry_rank": 616,
                 "entry_last_rank": 858
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 24,
+                "entry_rank": 15,
                 "entry_last_rank": 21
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 77980,
+                "entry_rank": 26690,
                 "entry_last_rank": 42962
             }
         ],
@@ -340,7 +340,7 @@
                 "entry_1_entry": 4959407,
                 "entry_1_name": "Niknaldos guldklumpe",
                 "entry_1_player_name": "Nikolai Alnor",
-                "entry_1_points": 44,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -348,14 +348,14 @@
                 "entry_2_entry": 700294,
                 "entry_2_name": "11REDs",
                 "entry_2_player_name": "Arnab Chanda",
-                "entry_2_points": 45,
+                "entry_2_points": 65,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 4959407,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -367,7 +367,7 @@
                 "entry_1_entry": 4959407,
                 "entry_1_name": "Niknaldos guldklumpe",
                 "entry_1_player_name": "Nikolai Alnor",
-                "entry_1_points": 44,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -382,7 +382,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 4959407,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -394,7 +394,7 @@
                 "entry_1_entry": 4959407,
                 "entry_1_name": "Niknaldos guldklumpe",
                 "entry_1_player_name": "Nikolai Alnor",
-                "entry_1_points": 44,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -409,7 +409,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448112,
-                "winner": null,
+                "winner": 4959407,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

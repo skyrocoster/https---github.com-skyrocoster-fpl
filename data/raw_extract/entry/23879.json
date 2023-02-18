@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1268,
-    "summary_overall_rank": 2817558,
-    "summary_event_points": 37,
-    "summary_event_rank": 5680450,
+    "summary_overall_points": 1308,
+    "summary_overall_rank": 2544453,
+    "summary_event_points": 77,
+    "summary_event_rank": 2904944,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 70789,
+                "entry_rank": 63784,
                 "entry_last_rank": 65094
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2782342,
+                "entry_rank": 2518574,
                 "entry_last_rank": 2559109
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2817558,
+                "entry_rank": 2544453,
                 "entry_last_rank": 2585066
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 48,
+                "entry_rank": 44,
                 "entry_last_rank": 46
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5230,
+                "entry_rank": 5080,
                 "entry_last_rank": 5079
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 671,
+                "entry_rank": 612,
                 "entry_last_rank": 618
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": 2448144,
                 "cup_qualified": true,
-                "entry_rank": 26556,
+                "entry_rank": 25460,
                 "entry_last_rank": 25763
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 700,
+                "entry_rank": 643,
                 "entry_last_rank": 634
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 70789,
+                "entry_rank": 63784,
                 "entry_last_rank": 65094
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 359,
+                "entry_rank": 339,
                 "entry_last_rank": 330
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5235244,
+                "entry_rank": 4751446,
                 "entry_last_rank": 5118728
             }
         ],
@@ -403,7 +403,7 @@
                 "entry_1_entry": 23879,
                 "entry_1_name": "Wine Digne and 69",
                 "entry_1_player_name": "Shivam Shishangia",
-                "entry_1_points": 37,
+                "entry_1_points": 77,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -411,14 +411,14 @@
                 "entry_2_entry": 3619189,
                 "entry_2_name": "Hale End FC",
                 "entry_2_player_name": "Keshav Sahu",
-                "entry_2_points": 38,
+                "entry_2_points": 79,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 3619189,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -430,7 +430,7 @@
                 "entry_1_entry": 1272552,
                 "entry_1_name": "bruH",
                 "entry_1_player_name": "Rahul Vinod",
-                "entry_1_points": 21,
+                "entry_1_points": 64,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -438,14 +438,14 @@
                 "entry_2_entry": 23879,
                 "entry_2_name": "Wine Digne and 69",
                 "entry_2_player_name": "Shivam Shishangia",
-                "entry_2_points": 37,
+                "entry_2_points": 77,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448144,
-                "winner": null,
+                "winner": 23879,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

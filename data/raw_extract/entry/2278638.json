@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1505,
-    "summary_overall_rank": 3267,
-    "summary_event_points": 64,
-    "summary_event_rank": 339823,
+    "summary_overall_points": 1524,
+    "summary_overall_rank": 6427,
+    "summary_event_points": 83,
+    "summary_event_rank": 1735210,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 17,
+                "entry_rank": 32,
                 "entry_last_rank": 39
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 1131,
+                "entry_rank": 2354,
                 "entry_last_rank": 2819
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3267,
+                "entry_rank": 6426,
                 "entry_last_rank": 7651
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 3267,
+                "entry_rank": 6427,
                 "entry_last_rank": 7652
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1303,
+                "entry_rank": 2671,
                 "entry_last_rank": 3227
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 22544,
+                "entry_rank": 45751,
                 "entry_last_rank": 57718
             }
         ],
@@ -430,7 +430,7 @@
                 "entry_1_entry": 2278638,
                 "entry_1_name": "Viva La Shanter",
                 "entry_1_player_name": "Joe Hales",
-                "entry_1_points": 64,
+                "entry_1_points": 83,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -445,7 +445,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 2278638,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

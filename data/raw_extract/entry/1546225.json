@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1547,
-    "summary_overall_rank": 168,
-    "summary_event_points": 50,
-    "summary_event_rank": 2648528,
+    "summary_overall_points": 1576,
+    "summary_overall_rank": 199,
+    "summary_event_points": 79,
+    "summary_event_rank": 2615916,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 45,
+                "entry_rank": 61,
                 "entry_last_rank": 51
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 168,
+                "entry_rank": 199,
                 "entry_last_rank": 165
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 168,
+                "entry_rank": 199,
                 "entry_last_rank": 165
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 53,
+                "entry_rank": 72,
                 "entry_last_rank": 59
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 146,
+                "entry_rank": 127,
                 "entry_last_rank": 90
             }
         ],
@@ -267,7 +267,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             }
         ],
@@ -314,7 +314,7 @@
                 "entry_1_entry": 7733522,
                 "entry_1_name": "Lloris the Hounds",
                 "entry_1_player_name": "Nicholas Lovett",
-                "entry_1_points": 45,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -322,14 +322,14 @@
                 "entry_2_entry": 1546225,
                 "entry_2_name": "Blades",
                 "entry_2_player_name": "James Askwith",
-                "entry_2_points": 50,
+                "entry_2_points": 79,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 7733522,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -341,7 +341,7 @@
                 "entry_1_entry": 3804020,
                 "entry_1_name": "Jesus 4 Arse sins",
                 "entry_1_player_name": "Sam Henson",
-                "entry_1_points": 45,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -349,14 +349,14 @@
                 "entry_2_entry": 1546225,
                 "entry_2_name": "Blades",
                 "entry_2_player_name": "James Askwith",
-                "entry_2_points": 50,
+                "entry_2_points": 79,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 1546225,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

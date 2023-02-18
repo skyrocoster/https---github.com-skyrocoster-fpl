@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1560,
-    "summary_overall_rank": 73,
-    "summary_event_points": 46,
-    "summary_event_rank": 3677545,
+    "summary_overall_points": 1581,
+    "summary_overall_rank": 131,
+    "summary_event_points": 67,
+    "summary_event_rank": 5755767,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 21,
+                "entry_rank": 40,
                 "entry_last_rank": 7
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 73,
+                "entry_rank": 131,
                 "entry_last_rank": 35
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 73,
+                "entry_rank": 131,
                 "entry_last_rank": 35
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 26,
+                "entry_rank": 49,
                 "entry_last_rank": 11
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 29180,
+                "entry_rank": 49767,
                 "entry_last_rank": 11727
             }
         ],
@@ -277,7 +277,7 @@
                 "entry_1_entry": 611990,
                 "entry_1_name": "Annette",
                 "entry_1_player_name": "Kevin Newton",
-                "entry_1_points": 42,
+                "entry_1_points": 63,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -285,14 +285,14 @@
                 "entry_2_entry": 317867,
                 "entry_2_name": "Arrow In The Knee",
                 "entry_2_player_name": "Sam Clewarth",
-                "entry_2_points": 48,
+                "entry_2_points": 83,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 317867,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

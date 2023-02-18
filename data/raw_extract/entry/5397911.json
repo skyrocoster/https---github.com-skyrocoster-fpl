@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1537,
-    "summary_overall_rank": 351,
-    "summary_event_points": 45,
-    "summary_event_rank": 3743453,
+    "summary_overall_points": 1567,
+    "summary_overall_rank": 374,
+    "summary_event_points": 75,
+    "summary_event_rank": 3428887,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 84,
+                "entry_rank": 87,
                 "entry_last_rank": 54
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 104,
+                "entry_rank": 119,
                 "entry_last_rank": 67
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 351,
+                "entry_rank": 374,
                 "entry_last_rank": 234
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 351,
+                "entry_rank": 374,
                 "entry_last_rank": 234
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 126,
+                "entry_rank": 140,
                 "entry_last_rank": 84
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3490,
+                "entry_rank": 2720,
                 "entry_last_rank": 1431
             }
         ],
@@ -262,7 +262,7 @@
                 "entry_1_entry": 5397911,
                 "entry_1_name": "Klopps and Robbers",
                 "entry_1_player_name": "matthew rogers",
-                "entry_1_points": 45,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -270,14 +270,14 @@
                 "entry_2_entry": 3419994,
                 "entry_2_name": "Soggy Busquets",
                 "entry_2_player_name": "Joe Swanson",
-                "entry_2_points": 48,
+                "entry_2_points": 78,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 3419994,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

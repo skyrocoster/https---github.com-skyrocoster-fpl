@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1570,
-    "summary_overall_rank": 38,
-    "summary_event_points": 58,
-    "summary_event_rank": 960154,
+    "summary_overall_points": 1596,
+    "summary_overall_rank": 50,
+    "summary_event_points": 84,
+    "summary_event_rank": 1550002,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 11,
+                "entry_rank": 13,
                 "entry_last_rank": 16
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 9,
+                "entry_rank": 11,
                 "entry_last_rank": 12
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 38,
+                "entry_rank": 50,
                 "entry_last_rank": 52
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 38,
+                "entry_rank": 50,
                 "entry_last_rank": 52
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 11,
+                "entry_rank": 15,
                 "entry_last_rank": 16
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 673,
+                "entry_rank": 836,
                 "entry_last_rank": 1224
             }
         ],
@@ -403,7 +403,7 @@
                 "entry_1_entry": 1838566,
                 "entry_1_name": "Bowen Arrow",
                 "entry_1_player_name": "James Fulton",
-                "entry_1_points": 58,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -411,14 +411,14 @@
                 "entry_2_entry": 2080104,
                 "entry_2_name": "Neville Wears Prada",
                 "entry_2_player_name": "Jack Turner",
-                "entry_2_points": 51,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 1838566,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -430,7 +430,7 @@
                 "entry_1_entry": 1428594,
                 "entry_1_name": "Not So Athletic",
                 "entry_1_player_name": "Chris Burns",
-                "entry_1_points": 40,
+                "entry_1_points": 60,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -438,14 +438,14 @@
                 "entry_2_entry": 1838566,
                 "entry_2_name": "Bowen Arrow",
                 "entry_2_player_name": "James Fulton",
-                "entry_2_points": 58,
+                "entry_2_points": 84,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 1838566,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

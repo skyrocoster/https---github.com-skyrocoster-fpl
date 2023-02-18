@@ -9,10 +9,10 @@
     "player_region_name": "Norway",
     "player_region_iso_code_short": "NO",
     "player_region_iso_code_long": "NOR",
-    "summary_overall_points": 1568,
-    "summary_overall_rank": 41,
-    "summary_event_points": 57,
-    "summary_event_rank": 1125235,
+    "summary_overall_points": 1597,
+    "summary_overall_rank": 43,
+    "summary_event_points": 86,
+    "summary_event_rank": 1200883,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 13,
+                "entry_rank": 12,
                 "entry_last_rank": 18
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 41,
+                "entry_rank": 43,
                 "entry_last_rank": 54
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 41,
+                "entry_rank": 43,
                 "entry_last_rank": 54
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 15,
+                "entry_rank": 16,
                 "entry_last_rank": 17
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 66,
+                "entry_rank": 53,
                 "entry_last_rank": 103
             }
         ],
@@ -361,7 +361,7 @@
                 "entry_1_entry": 649060,
                 "entry_1_name": "Pringoooals",
                 "entry_1_player_name": "Eirik Nergård",
-                "entry_1_points": 57,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -369,14 +369,14 @@
                 "entry_2_entry": 35815,
                 "entry_2_name": "Strekk & Gru",
                 "entry_2_player_name": "Trond Stavland",
-                "entry_2_points": 48,
+                "entry_2_points": 85,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2412737,
-                "winner": null,
+                "winner": 649060,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -388,7 +388,7 @@
                 "entry_1_entry": 649060,
                 "entry_1_name": "Pringoooals",
                 "entry_1_player_name": "Eirik Nergård",
-                "entry_1_points": 57,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -396,14 +396,14 @@
                 "entry_2_entry": 2089924,
                 "entry_2_name": "Tress IL",
                 "entry_2_player_name": "TorArne Krogsæter",
-                "entry_2_points": 56,
+                "entry_2_points": 84,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431360,
-                "winner": null,
+                "winner": 649060,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1400,
-    "summary_overall_rank": 358805,
-    "summary_event_points": 49,
-    "summary_event_rank": 2809851,
+    "summary_overall_points": 1440,
+    "summary_overall_rank": 263649,
+    "summary_event_points": 89,
+    "summary_event_rank": 785049,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 48787,
+                "entry_rank": 36977,
                 "entry_last_rank": 48948
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 40,
+                "entry_rank": 28,
                 "entry_last_rank": 36
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 358506,
+                "entry_rank": 263491,
                 "entry_last_rank": 354939
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 358805,
+                "entry_rank": 263649,
                 "entry_last_rank": 355190
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
+                "entry_rank": 4,
                 "entry_last_rank": 5
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1090224,
+                "entry_rank": 689793,
                 "entry_last_rank": 1042704
             }
         ],

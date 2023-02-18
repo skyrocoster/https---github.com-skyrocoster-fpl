@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1529,
-    "summary_overall_rank": 644,
-    "summary_event_points": 62,
-    "summary_event_rank": 495315,
+    "summary_overall_points": 1562,
+    "summary_overall_rank": 534,
+    "summary_event_points": 95,
+    "summary_event_rank": 300780,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 76,
+                "entry_rank": 73,
                 "entry_last_rank": 189
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 27,
+                "entry_rank": 17,
                 "entry_last_rank": 68
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 644,
+                "entry_rank": 534,
                 "entry_last_rank": 1453
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 644,
+                "entry_rank": 534,
                 "entry_last_rank": 1453
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8353,
+                "entry_rank": 5052,
                 "entry_last_rank": 19890
             }
         ],
@@ -235,7 +235,7 @@
                 "entry_1_entry": 5365670,
                 "entry_1_name": "Obi-Wan Speroni",
                 "entry_1_player_name": "Jack McAuley",
-                "entry_1_points": 62,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -243,14 +243,14 @@
                 "entry_2_entry": 1749763,
                 "entry_2_name": "artetas army",
                 "entry_2_player_name": "colin notley",
-                "entry_2_points": 62,
+                "entry_2_points": 95,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 1749763,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

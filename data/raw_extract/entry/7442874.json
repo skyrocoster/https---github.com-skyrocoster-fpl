@@ -9,10 +9,10 @@
     "player_region_name": "Indonesia",
     "player_region_iso_code_short": "ID",
     "player_region_iso_code_long": "IDN",
-    "summary_overall_points": 1432,
-    "summary_overall_rank": 128685,
-    "summary_event_points": 64,
-    "summary_event_rank": 366343,
+    "summary_overall_points": 1454,
+    "summary_overall_rank": 170086,
+    "summary_event_points": 86,
+    "summary_event_rank": 1251767,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 32723,
+                "entry_rank": 42484,
                 "entry_last_rank": 46669
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431357,
                 "cup_qualified": true,
-                "entry_rank": 1758,
+                "entry_rank": 2225,
                 "entry_last_rank": 2491
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 128634,
+                "entry_rank": 170013,
                 "entry_last_rank": 188334
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 128685,
+                "entry_rank": 170086,
                 "entry_last_rank": 188414
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 63,
+                "entry_rank": 84,
                 "entry_last_rank": 100
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 41,
+                "entry_rank": 53,
                 "entry_last_rank": 57
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 4,
                 "entry_last_rank": 5
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
+                "entry_rank": 26,
                 "entry_last_rank": 41
             }
         ],
@@ -225,7 +225,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 19,
+                "entry_rank": 14,
                 "entry_last_rank": 19
             }
         ],
@@ -272,7 +272,7 @@
                 "entry_1_entry": 5138780,
                 "entry_1_name": "<~>",
                 "entry_1_player_name": "Sarko Namiq",
-                "entry_1_points": 37,
+                "entry_1_points": 64,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -280,14 +280,14 @@
                 "entry_2_entry": 7442874,
                 "entry_2_name": "DarkBEB",
                 "entry_2_player_name": "Budiman Zhong",
-                "entry_2_points": 60,
+                "entry_2_points": 82,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 7442874,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -299,7 +299,7 @@
                 "entry_1_entry": 11020562,
                 "entry_1_name": "class of 00",
                 "entry_1_player_name": "helmi hafizh",
-                "entry_1_points": 31,
+                "entry_1_points": 51,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -307,14 +307,14 @@
                 "entry_2_entry": 7442874,
                 "entry_2_name": "DarkBEB",
                 "entry_2_player_name": "Budiman Zhong",
-                "entry_2_points": 60,
+                "entry_2_points": 82,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431357,
-                "winner": null,
+                "winner": 7442874,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

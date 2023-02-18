@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1375,
-    "summary_overall_rank": 668534,
-    "summary_event_points": 46,
-    "summary_event_rank": 3677545,
+    "summary_overall_points": 1404,
+    "summary_overall_rank": 667253,
+    "summary_event_points": 75,
+    "summary_event_rank": 3642529,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2437793,
                 "cup_qualified": true,
-                "entry_rank": 7295,
+                "entry_rank": 7372,
                 "entry_last_rank": 6378
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 231978,
+                "entry_rank": 233939,
                 "entry_last_rank": 201348
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 667501,
+                "entry_rank": 666284,
                 "entry_last_rank": 566435
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 668534,
+                "entry_rank": 667253,
                 "entry_last_rank": 567058
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
+                "entry_rank": 12,
                 "entry_last_rank": 11
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2437814,
                 "cup_qualified": true,
-                "entry_rank": 10461,
+                "entry_rank": 10534,
                 "entry_last_rank": 9204
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 261485,
+                "entry_rank": 263572,
                 "entry_last_rank": 226914
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 118,
+                "entry_rank": 94,
                 "entry_last_rank": 20
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             }
         ],
@@ -267,7 +267,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             }
         ],
@@ -314,7 +314,7 @@
                 "entry_1_entry": 329367,
                 "entry_1_name": "Champions of Fred.",
                 "entry_1_player_name": "maxwell Cooper",
-                "entry_1_points": 42,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -322,14 +322,14 @@
                 "entry_2_entry": 5033920,
                 "entry_2_name": "wheres the blonde 1?",
                 "entry_2_player_name": "Jimmy Perkin",
-                "entry_2_points": 43,
+                "entry_2_points": 67,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 329367,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -341,7 +341,7 @@
                 "entry_1_entry": 329367,
                 "entry_1_name": "Champions of Fred.",
                 "entry_1_player_name": "maxwell Cooper",
-                "entry_1_points": 42,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -349,14 +349,14 @@
                 "entry_2_entry": 1292635,
                 "entry_2_name": "Jacks Dream Team",
                 "entry_2_player_name": "Jack Langstaff",
-                "entry_2_points": 33,
+                "entry_2_points": 76,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437793,
-                "winner": null,
+                "winner": 1292635,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -368,7 +368,7 @@
                 "entry_1_entry": 1094765,
                 "entry_1_name": "spurs",
                 "entry_1_player_name": "Josh Rose",
-                "entry_1_points": 47,
+                "entry_1_points": 72,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -376,14 +376,14 @@
                 "entry_2_entry": 329367,
                 "entry_2_name": "Champions of Fred.",
                 "entry_2_player_name": "maxwell Cooper",
-                "entry_2_points": 42,
+                "entry_2_points": 71,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437814,
-                "winner": null,
+                "winner": 1094765,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

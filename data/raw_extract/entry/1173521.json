@@ -9,10 +9,10 @@
     "player_region_name": "South Africa",
     "player_region_iso_code_short": "ZA",
     "player_region_iso_code_long": "ZAF",
-    "summary_overall_points": 1566,
-    "summary_overall_rank": 44,
-    "summary_event_points": 61,
-    "summary_event_rank": 588167,
+    "summary_overall_points": 1591,
+    "summary_overall_rank": 71,
+    "summary_event_points": 86,
+    "summary_event_rank": 1200883,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 3,
+                "entry_rank": 8,
                 "entry_last_rank": 5
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424307,
                 "cup_qualified": true,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 2
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 44,
+                "entry_rank": 71,
                 "entry_last_rank": 77
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 44,
+                "entry_rank": 71,
                 "entry_last_rank": 77
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 249284,
+                "entry_rank": 291829,
                 "entry_last_rank": 419588
             }
         ],
@@ -292,7 +292,7 @@
                 "entry_1_entry": 1173521,
                 "entry_1_name": "MP Mambas",
                 "entry_1_player_name": "Mduduzi Phiri",
-                "entry_1_points": 61,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -300,14 +300,14 @@
                 "entry_2_entry": 3396799,
                 "entry_2_name": "FK Bansko",
                 "entry_2_player_name": "Al Watson",
-                "entry_2_points": 53,
+                "entry_2_points": 77,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405666,
-                "winner": null,
+                "winner": 1173521,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -319,7 +319,7 @@
                 "entry_1_entry": 448833,
                 "entry_1_name": "7 Experience",
                 "entry_1_player_name": "Khopotso Kholoane",
-                "entry_1_points": 44,
+                "entry_1_points": 72,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -327,14 +327,14 @@
                 "entry_2_entry": 1173521,
                 "entry_2_name": "MP Mambas",
                 "entry_2_player_name": "Mduduzi Phiri",
-                "entry_2_points": 61,
+                "entry_2_points": 86,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424307,
-                "winner": null,
+                "winner": 1173521,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

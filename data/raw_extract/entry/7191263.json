@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1300,
-    "summary_overall_rank": 2089977,
-    "summary_event_points": 56,
-    "summary_event_rank": 1300240,
+    "summary_overall_points": 1326,
+    "summary_overall_rank": 2135243,
+    "summary_event_points": 82,
+    "summary_event_rank": 1925858,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2437795,
                 "cup_qualified": true,
-                "entry_rank": 27016,
+                "entry_rank": 27486,
                 "entry_last_rank": 29292
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 684222,
+                "entry_rank": 700812,
                 "entry_last_rank": 746404
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2074505,
+                "entry_rank": 2119192,
                 "entry_last_rank": 2254749
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2089977,
+                "entry_rank": 2135243,
                 "entry_last_rank": 2272932
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 771924,
+                "entry_rank": 790701,
                 "entry_last_rank": 842511
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 801119,
+                "entry_rank": 859061,
                 "entry_last_rank": 989226
             }
         ],
@@ -283,7 +283,7 @@
                 "entry_1_entry": 7191263,
                 "entry_1_name": "Clarks Classics",
                 "entry_1_player_name": "Michael Clark",
-                "entry_1_points": 56,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -291,17 +291,17 @@
                 "entry_2_entry": 951493,
                 "entry_2_name": "Nerazzurri",
                 "entry_2_player_name": "Tommy Zhang",
-                "entry_2_points": 64,
+                "entry_2_points": 82,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437795,
-                "winner": null,
+                "winner": 7191263,
                 "seed_value": null,
                 "event": 23,
-                "tiebreak": null,
+                "tiebreak": "goals_scored",
                 "is_bye": false,
                 "knockout_name": "Round of 65536"
             }

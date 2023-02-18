@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1518,
-    "summary_overall_rank": 1383,
-    "summary_event_points": 45,
-    "summary_event_rank": 3953463,
+    "summary_overall_points": 1555,
+    "summary_overall_rank": 903,
+    "summary_event_points": 82,
+    "summary_event_rank": 1985493,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2424301,
                 "cup_qualified": true,
-                "entry_rank": 45,
+                "entry_rank": 34,
                 "entry_last_rank": 31
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 60,
+                "entry_rank": 36,
                 "entry_last_rank": 36
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1383,
+                "entry_rank": 903,
                 "entry_last_rank": 744
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1383,
+                "entry_rank": 903,
                 "entry_last_rank": 744
             },
             {
@@ -112,13 +112,13 @@
                 "scoring": "c",
                 "admin_entry": 3500682,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 14,
+                "cup_league": 2453779,
+                "cup_qualified": true,
+                "entry_rank": 9,
                 "entry_last_rank": 11
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 93670,
+                "entry_rank": 49040,
                 "entry_last_rank": 41881
             }
         ],
@@ -256,7 +256,7 @@
                 "entry_1_entry": 558107,
                 "entry_1_name": "Son-derland",
                 "entry_1_player_name": "Neil Aluwalia",
-                "entry_1_points": 48,
+                "entry_1_points": 72,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -264,14 +264,14 @@
                 "entry_2_entry": 2385553,
                 "entry_2_name": "Hopsturs",
                 "entry_2_player_name": "Hopper Delaney",
-                "entry_2_points": 41,
+                "entry_2_points": 78,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424301,
-                "winner": null,
+                "winner": 2385553,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

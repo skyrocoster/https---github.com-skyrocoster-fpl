@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1497,
-    "summary_overall_rank": 5262,
-    "summary_event_points": 55,
-    "summary_event_rank": 1490578,
+    "summary_overall_points": 1526,
+    "summary_overall_rank": 5611,
+    "summary_event_points": 84,
+    "summary_event_rank": 1550002,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 25,
+                "entry_rank": 26,
                 "entry_last_rank": 35
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 1876,
+                "entry_rank": 2053,
                 "entry_last_rank": 2624
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5261,
+                "entry_rank": 5610,
                 "entry_last_rank": 7140
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 5262,
+                "entry_rank": 5611,
                 "entry_last_rank": 7141
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2144,
+                "entry_rank": 2334,
                 "entry_last_rank": 2999
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 864965,
+                "entry_rank": 827271,
                 "entry_last_rank": 1025959
             }
         ],
@@ -262,7 +262,7 @@
                 "entry_1_entry": 1499841,
                 "entry_1_name": "Barstonworth",
                 "entry_1_player_name": "David O'Brien",
-                "entry_1_points": 55,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -277,7 +277,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 1499841,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

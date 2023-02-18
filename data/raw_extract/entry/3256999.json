@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1544,
-    "summary_overall_rank": 212,
-    "summary_event_points": 63,
-    "summary_event_rank": 412765,
+    "summary_overall_points": 1561,
+    "summary_overall_rank": 572,
+    "summary_event_points": 80,
+    "summary_event_rank": 2341057,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 1,
+                "entry_rank": 3,
                 "entry_last_rank": 3
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 60,
+                "entry_rank": 188,
                 "entry_last_rank": 181
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 212,
+                "entry_rank": 572,
                 "entry_last_rank": 540
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 212,
+                "entry_rank": 572,
                 "entry_last_rank": 540
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 72,
+                "entry_rank": 217,
                 "entry_last_rank": 210
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 75098,
+                "entry_rank": 154269,
                 "entry_last_rank": 159877
             }
         ],
@@ -298,7 +298,7 @@
                 "entry_1_entry": 3256999,
                 "entry_1_name": "Moorland United",
                 "entry_1_player_name": "Michael Winrow",
-                "entry_1_points": 63,
+                "entry_1_points": 80,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -306,14 +306,14 @@
                 "entry_2_entry": 3283501,
                 "entry_2_name": "RANtastic",
                 "entry_2_player_name": "Chris Hardley",
-                "entry_2_points": 42,
+                "entry_2_points": 60,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 3256999,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -325,7 +325,7 @@
                 "entry_1_entry": 3256999,
                 "entry_1_name": "Moorland United",
                 "entry_1_player_name": "Michael Winrow",
-                "entry_1_points": 63,
+                "entry_1_points": 80,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -340,7 +340,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 3256999,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

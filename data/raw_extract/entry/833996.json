@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1496,
-    "summary_overall_rank": 5615,
-    "summary_event_points": 46,
-    "summary_event_rank": 3473516,
+    "summary_overall_points": 1518,
+    "summary_overall_rank": 9009,
+    "summary_event_points": 68,
+    "summary_event_rank": 5283538,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 27,
+                "entry_rank": 47,
                 "entry_last_rank": 21
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2002,
+                "entry_rank": 3289,
                 "entry_last_rank": 1589
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5614,
+                "entry_rank": 9008,
                 "entry_last_rank": 4401
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 5615,
+                "entry_rank": 9009,
                 "entry_last_rank": 4401
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 6,
                 "entry_last_rank": 4
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2293,
+                "entry_rank": 3747,
                 "entry_last_rank": 1820
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 292552,
+                "entry_rank": 396263,
                 "entry_last_rank": 218505
             }
         ],
@@ -409,7 +409,7 @@
                 "entry_1_entry": 833996,
                 "entry_1_name": "Kinder Mbeumo",
                 "entry_1_player_name": "Arjun Kochhar",
-                "entry_1_points": 46,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -424,7 +424,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 833996,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

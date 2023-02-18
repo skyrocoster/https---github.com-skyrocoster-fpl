@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1498,
-    "summary_overall_rank": 5019,
-    "summary_event_points": 43,
-    "summary_event_rank": 4420399,
+    "summary_overall_points": 1528,
+    "summary_overall_rank": 5046,
+    "summary_event_points": 73,
+    "summary_event_rank": 4126146,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 24,
+                "entry_rank": 23,
                 "entry_last_rank": 16
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 1780,
+                "entry_rank": 1847,
                 "entry_last_rank": 1168
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5018,
+                "entry_rank": 5045,
                 "entry_last_rank": 3268
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 5019,
+                "entry_rank": 5046,
                 "entry_last_rank": 3268
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2031,
+                "entry_rank": 2106,
                 "entry_last_rank": 1353
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1522529,
+                "entry_rank": 1420400,
                 "entry_last_rank": 1225889
             }
         ],
@@ -325,7 +325,7 @@
                 "entry_1_entry": 2007134,
                 "entry_1_name": "Lallanas in pyjamas",
                 "entry_1_player_name": "Cedric Jirsell",
-                "entry_1_points": 43,
+                "entry_1_points": 73,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -340,7 +340,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 2007134,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

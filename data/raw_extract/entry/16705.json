@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1418,
-    "summary_overall_rank": 209516,
-    "summary_event_points": 46,
-    "summary_event_rank": 3473516,
+    "summary_overall_points": 1450,
+    "summary_overall_rank": 193742,
+    "summary_event_points": 78,
+    "summary_event_rank": 2662982,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 53183,
+                "entry_rank": 48449,
                 "entry_last_rank": 46483
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 4545,
+                "entry_rank": 4263,
                 "entry_last_rank": 4023
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 209394,
+                "entry_rank": 193646,
                 "entry_last_rank": 187631
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 209516,
+                "entry_rank": 193742,
                 "entry_last_rank": 187711
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1365,
+                "entry_rank": 1488,
                 "entry_last_rank": 1417
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 4545,
+                "entry_rank": 4263,
                 "entry_last_rank": 4023
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
+                "entry_rank": 4,
                 "entry_last_rank": 5
             },
             {
@@ -412,7 +412,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 541094,
+                "entry_rank": 447638,
                 "entry_last_rank": 430929
             }
         ],
@@ -487,7 +487,7 @@
                 "entry_1_entry": 637288,
                 "entry_1_name": "Perseus05",
                 "entry_1_player_name": "Lakshya Arora",
-                "entry_1_points": 47,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -495,14 +495,14 @@
                 "entry_2_entry": 16705,
                 "entry_2_name": "Lashkar FC",
                 "entry_2_player_name": "Aayush Virkar",
-                "entry_2_points": 46,
+                "entry_2_points": 78,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431356,
-                "winner": null,
+                "winner": 637288,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -514,7 +514,7 @@
                 "entry_1_entry": 4005025,
                 "entry_1_name": "Creed’s Thoughts FC",
                 "entry_1_player_name": "Avish Mehta",
-                "entry_1_points": 60,
+                "entry_1_points": 91,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -522,14 +522,14 @@
                 "entry_2_entry": 16705,
                 "entry_2_name": "Lashkar FC",
                 "entry_2_player_name": "Aayush Virkar",
-                "entry_2_points": 46,
+                "entry_2_points": 78,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 4005025,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

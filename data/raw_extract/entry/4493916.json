@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1524,
-    "summary_overall_rank": 938,
-    "summary_event_points": 78,
-    "summary_event_rank": 14632,
+    "summary_overall_points": 1544,
+    "summary_overall_rank": 1872,
+    "summary_event_points": 98,
+    "summary_event_rank": 175840,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 230,
+                "entry_rank": 461,
                 "entry_last_rank": 1382
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 42,
+                "entry_rank": 88,
                 "entry_last_rank": 239
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 938,
+                "entry_rank": 1872,
                 "entry_last_rank": 5709
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 938,
+                "entry_rank": 1872,
                 "entry_last_rank": 5710
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6307,
+                "entry_rank": 13241,
                 "entry_last_rank": 57718
             }
         ],
@@ -214,7 +214,7 @@
                 "entry_1_entry": 4493916,
                 "entry_1_name": "Da Hay Ya!",
                 "entry_1_player_name": "Paul Flanagan",
-                "entry_1_points": 78,
+                "entry_1_points": 98,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -222,14 +222,14 @@
                 "entry_2_entry": 2082926,
                 "entry_2_name": "Balotelli Tubbies",
                 "entry_2_player_name": "david mchugh",
-                "entry_2_points": 41,
+                "entry_2_points": 71,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 4493916,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1478,
-    "summary_overall_rank": 15774,
-    "summary_event_points": 38,
-    "summary_event_rank": 5456621,
+    "summary_overall_points": 1517,
+    "summary_overall_rank": 9708,
+    "summary_event_points": 77,
+    "summary_event_rank": 2904944,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 86,
+                "entry_rank": 52,
                 "entry_last_rank": 42
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 658,
+                "entry_rank": 423,
                 "entry_last_rank": 357
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 15773,
+                "entry_rank": 9707,
                 "entry_last_rank": 8207
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 15774,
+                "entry_rank": 9708,
                 "entry_last_rank": 8208
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 2
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 1
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
+                "entry_rank": 9,
                 "entry_last_rank": 6
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 14,
+                "entry_rank": 9,
                 "entry_last_rank": 8
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 139756,
+                "entry_rank": 66523,
                 "entry_last_rank": 54090
             }
         ],
@@ -404,7 +404,7 @@
                 "entry_1_entry": 302102,
                 "entry_1_name": "Rio De Gort",
                 "entry_1_player_name": "gerard nestor",
-                "entry_1_points": 38,
+                "entry_1_points": 77,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -419,7 +419,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 302102,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

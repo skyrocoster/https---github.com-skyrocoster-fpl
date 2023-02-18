@@ -9,10 +9,10 @@
     "player_region_name": "Singapore",
     "player_region_iso_code_short": "SG",
     "player_region_iso_code_long": "SGP",
-    "summary_overall_points": 1566,
-    "summary_overall_rank": 43,
-    "summary_event_points": 53,
-    "summary_event_rank": 1908003,
+    "summary_overall_points": 1596,
+    "summary_overall_rank": 45,
+    "summary_event_points": 83,
+    "summary_event_rank": 1735210,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448126,
                 "cup_qualified": true,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 2
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 43,
+                "entry_rank": 45,
                 "entry_last_rank": 47
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 43,
+                "entry_rank": 45,
                 "entry_last_rank": 47
             },
             {
@@ -112,13 +112,13 @@
                 "scoring": "c",
                 "admin_entry": 25277,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 1,
+                "cup_league": 2453777,
+                "cup_qualified": true,
+                "entry_rank": 2,
                 "entry_last_rank": 2
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": 2448146,
                 "cup_qualified": true,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 2
             },
             {
@@ -454,7 +454,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 146495,
+                "entry_rank": 128572,
                 "entry_last_rank": 160916
             },
             {
@@ -475,7 +475,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 54,
+                "entry_rank": 63,
                 "entry_last_rank": 81
             }
         ],
@@ -523,7 +523,7 @@
                 "entry_1_entry": 2176043,
                 "entry_1_name": "insyaaallah",
                 "entry_1_player_name": "Syakir Tay",
-                "entry_1_points": 53,
+                "entry_1_points": 83,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -531,14 +531,14 @@
                 "entry_2_entry": 6811075,
                 "entry_2_name": "PatrickTQZ",
                 "entry_2_player_name": "Patrick Tan",
-                "entry_2_points": 52,
+                "entry_2_points": 92,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448126,
-                "winner": null,
+                "winner": 6811075,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -550,7 +550,7 @@
                 "entry_1_entry": 2176043,
                 "entry_1_name": "insyaaallah",
                 "entry_1_player_name": "Syakir Tay",
-                "entry_1_points": 53,
+                "entry_1_points": 83,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -558,14 +558,14 @@
                 "entry_2_entry": 10999898,
                 "entry_2_name": "spork",
                 "entry_2_player_name": "aydan lim",
-                "entry_2_points": 35,
+                "entry_2_points": 56,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448146,
-                "winner": null,
+                "winner": 2176043,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

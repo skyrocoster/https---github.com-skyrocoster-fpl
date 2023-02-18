@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1516,
-    "summary_overall_rank": 1668,
-    "summary_event_points": 38,
-    "summary_event_rank": 5641178,
+    "summary_overall_points": 1540,
+    "summary_overall_rank": 2508,
+    "summary_event_points": 62,
+    "summary_event_rank": 7027669,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 412,
+                "entry_rank": 616,
                 "entry_last_rank": 129
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 76,
+                "entry_rank": 111,
                 "entry_last_rank": 25
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1668,
+                "entry_rank": 2508,
                 "entry_last_rank": 537
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1668,
+                "entry_rank": 2508,
                 "entry_last_rank": 537
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 44676,
+                "entry_rank": 59867,
                 "entry_last_rank": 9372
             }
         ],
@@ -292,7 +292,7 @@
                 "entry_1_entry": 2139901,
                 "entry_1_name": "Ten Haagen Dazs",
                 "entry_1_player_name": "Fergal Mc Guinness",
-                "entry_1_points": 34,
+                "entry_1_points": 58,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -300,14 +300,14 @@
                 "entry_2_entry": 3258358,
                 "entry_2_name": "Ctrl alt deligt",
                 "entry_2_player_name": "Marcus Janz",
-                "entry_2_points": 49,
+                "entry_2_points": 76,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 3258358,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -319,7 +319,7 @@
                 "entry_1_entry": 2139901,
                 "entry_1_name": "Ten Haagen Dazs",
                 "entry_1_player_name": "Fergal Mc Guinness",
-                "entry_1_points": 34,
+                "entry_1_points": 58,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -327,14 +327,14 @@
                 "entry_2_entry": 2930844,
                 "entry_2_name": "How do FC",
                 "entry_2_player_name": "jamie nolan",
-                "entry_2_points": 47,
+                "entry_2_points": 78,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 2930844,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

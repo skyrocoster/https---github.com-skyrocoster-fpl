@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1519,
-    "summary_overall_rank": 1272,
-    "summary_event_points": 45,
-    "summary_event_rank": 3953463,
+    "summary_overall_points": 1551,
+    "summary_overall_rank": 1164,
+    "summary_event_points": 77,
+    "summary_event_rank": 3101356,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 315,
+                "entry_rank": 286,
                 "entry_last_rank": 161
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 56,
+                "entry_rank": 49,
                 "entry_last_rank": 34
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1272,
+                "entry_rank": 1164,
                 "entry_last_rank": 687
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1272,
+                "entry_rank": 1164,
                 "entry_last_rank": 687
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 53002,
+                "entry_rank": 39040,
                 "entry_last_rank": 21728
             }
         ],
@@ -214,7 +214,7 @@
                 "entry_1_entry": 4344144,
                 "entry_1_name": "In the bag Ten Hag",
                 "entry_1_player_name": "Owen Gubbins",
-                "entry_1_points": 41,
+                "entry_1_points": 73,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -222,14 +222,14 @@
                 "entry_2_entry": 5147042,
                 "entry_2_name": "Ten Hags Rovers",
                 "entry_2_player_name": "Colin Ledwith",
-                "entry_2_points": 59,
+                "entry_2_points": 86,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 5147042,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

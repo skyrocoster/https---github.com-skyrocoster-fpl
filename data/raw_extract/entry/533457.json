@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1562,
-    "summary_overall_rank": 62,
-    "summary_event_points": 59,
-    "summary_event_rank": 859004,
+    "summary_overall_points": 1590,
+    "summary_overall_rank": 79,
+    "summary_event_points": 87,
+    "summary_event_rank": 1096604,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 16,
+                "entry_rank": 22,
                 "entry_last_rank": 28
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 62,
+                "entry_rank": 79,
                 "entry_last_rank": 98
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 62,
+                "entry_rank": 79,
                 "entry_last_rank": 98
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2448132,
                 "cup_qualified": true,
-                "entry_rank": 6,
+                "entry_rank": 8,
                 "entry_last_rank": 8
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 10,
+                "entry_rank": 11,
                 "entry_last_rank": 11
             },
             {
@@ -349,7 +349,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 21,
+                "entry_rank": 27,
                 "entry_last_rank": 34
             },
             {
@@ -391,7 +391,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2433,
+                "entry_rank": 2323,
                 "entry_last_rank": 4562
             }
         ],
@@ -493,7 +493,7 @@
                 "entry_1_entry": 1872651,
                 "entry_1_name": "Happy World of Aribo",
                 "entry_1_player_name": "Will Macfarlane",
-                "entry_1_points": 46,
+                "entry_1_points": 67,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -501,14 +501,14 @@
                 "entry_2_entry": 533457,
                 "entry_2_name": "Steve will be 3rd",
                 "entry_2_player_name": "James Lee",
-                "entry_2_points": 59,
+                "entry_2_points": 87,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 533457,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -520,7 +520,7 @@
                 "entry_1_entry": 533457,
                 "entry_1_name": "Steve will be 3rd",
                 "entry_1_player_name": "James Lee",
-                "entry_1_points": 59,
+                "entry_1_points": 87,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -535,7 +535,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448132,
-                "winner": null,
+                "winner": 533457,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

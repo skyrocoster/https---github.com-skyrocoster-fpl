@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1560,
-    "summary_overall_rank": 74,
-    "summary_event_points": 62,
-    "summary_event_rank": 495315,
+    "summary_overall_points": 1594,
+    "summary_overall_rank": 60,
+    "summary_event_points": 96,
+    "summary_event_rank": 251990,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 22,
+                "entry_rank": 16,
                 "entry_last_rank": 44
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 74,
+                "entry_rank": 60,
                 "entry_last_rank": 151
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 74,
+                "entry_rank": 60,
                 "entry_last_rank": 151
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 27,
+                "entry_rank": 21,
                 "entry_last_rank": 52
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 19069,
+                "entry_rank": 11064,
                 "entry_last_rank": 42245
             }
         ],
@@ -341,7 +341,7 @@
                 "entry_1_entry": 427720,
                 "entry_1_name": "Lads on Toure",
                 "entry_1_player_name": "Michael Potts",
-                "entry_1_points": 62,
+                "entry_1_points": 96,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -349,14 +349,14 @@
                 "entry_2_entry": 5007680,
                 "entry_2_name": "Zak’s XI",
                 "entry_2_player_name": "Zak Reid",
-                "entry_2_points": 44,
+                "entry_2_points": 61,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 427720,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -368,7 +368,7 @@
                 "entry_1_entry": 427720,
                 "entry_1_name": "Lads on Toure",
                 "entry_1_player_name": "Michael Potts",
-                "entry_1_points": 62,
+                "entry_1_points": 96,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -383,7 +383,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448109,
-                "winner": null,
+                "winner": 427720,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

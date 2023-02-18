@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1528,
-    "summary_overall_rank": 714,
-    "summary_event_points": 39,
-    "summary_event_rank": 5373989,
+    "summary_overall_points": 1554,
+    "summary_overall_rank": 975,
+    "summary_event_points": 65,
+    "summary_event_rank": 6229379,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2437793,
                 "cup_qualified": true,
-                "entry_rank": 8,
+                "entry_rank": 10,
                 "entry_last_rank": 4
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 230,
+                "entry_rank": 327,
                 "entry_last_rank": 91
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 714,
+                "entry_rank": 975,
                 "entry_last_rank": 299
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 714,
+                "entry_rank": 975,
                 "entry_last_rank": 299
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 264,
+                "entry_rank": 376,
                 "entry_last_rank": 110
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 77273,
+                "entry_rank": 88221,
                 "entry_last_rank": 28584
             },
             {
@@ -404,7 +404,7 @@
                 "entry_1_entry": 1517373,
                 "entry_1_name": "Souček Yourself",
                 "entry_1_player_name": "Matt Smith",
-                "entry_1_points": 52,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -412,14 +412,14 @@
                 "entry_2_entry": 1671612,
                 "entry_2_name": "bombers bad boys",
                 "entry_2_player_name": "David Garroch",
-                "entry_2_points": 39,
+                "entry_2_points": 65,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 1517373,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -431,7 +431,7 @@
                 "entry_1_entry": 4641015,
                 "entry_1_name": "frank the lamp",
                 "entry_1_player_name": "Krystian Mahon",
-                "entry_1_points": 28,
+                "entry_1_points": 60,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -439,14 +439,14 @@
                 "entry_2_entry": 1671612,
                 "entry_2_name": "bombers bad boys",
                 "entry_2_player_name": "David Garroch",
-                "entry_2_points": 39,
+                "entry_2_points": 65,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437793,
-                "winner": null,
+                "winner": 1671612,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

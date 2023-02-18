@@ -9,10 +9,10 @@
     "player_region_name": "Hong Kong",
     "player_region_iso_code_short": "HK",
     "player_region_iso_code_long": "HKG",
-    "summary_overall_points": 1475,
-    "summary_overall_rank": 18577,
-    "summary_event_points": 72,
-    "summary_event_rank": 64334,
+    "summary_overall_points": 1497,
+    "summary_overall_rank": 27960,
+    "summary_event_points": 94,
+    "summary_event_rank": 381582,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 4788,
+                "entry_rank": 6985,
                 "entry_last_rank": 13630
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2448116,
                 "cup_qualified": true,
-                "entry_rank": 106,
+                "entry_rank": 138,
                 "entry_last_rank": 287
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18575,
+                "entry_rank": 27955,
                 "entry_last_rank": 54768
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 18577,
+                "entry_rank": 27960,
                 "entry_last_rank": 54783
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 16,
+                "entry_rank": 23,
                 "entry_last_rank": 40
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18,
+                "entry_rank": 23,
                 "entry_last_rank": 48
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 15,
+                "entry_rank": 29,
                 "entry_last_rank": 183
             }
         ],
@@ -313,7 +313,7 @@
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
                 "entry_2_entry": 1175568,
-                "entry_2_name": "FreeTransfer",
+                "entry_2_name": "香港HK",
                 "entry_2_player_name": "Johnny Li",
                 "entry_2_points": 49,
                 "entry_2_win": 0,
@@ -332,9 +332,9 @@
             {
                 "id": 106787195,
                 "entry_1_entry": 1175568,
-                "entry_1_name": "FreeTransfer",
+                "entry_1_name": "香港HK",
                 "entry_1_player_name": "Johnny Li",
-                "entry_1_points": 72,
+                "entry_1_points": 94,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -342,14 +342,14 @@
                 "entry_2_entry": 2958183,
                 "entry_2_name": "Lemoire",
                 "entry_2_player_name": "Henrik Andersson",
-                "entry_2_points": 56,
+                "entry_2_points": 92,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 1175568,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -359,9 +359,9 @@
             {
                 "id": 109161241,
                 "entry_1_entry": 1175568,
-                "entry_1_name": "FreeTransfer",
+                "entry_1_name": "香港HK",
                 "entry_1_player_name": "Johnny Li",
-                "entry_1_points": 72,
+                "entry_1_points": 94,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -376,7 +376,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448116,
-                "winner": null,
+                "winner": 1175568,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -385,9 +385,9 @@
             }
         ]
     },
-    "name": "FreeTransfer",
+    "name": "香港HK",
     "name_change_blocked": false,
-    "kit": null,
+    "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#d0021b\",\"kit_shirt_sleeves\":\"#d0021b\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#ffffff\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#000000\",\"kit_socks_secondary\":\"#E1E1E1\"}",
     "last_deadline_bank": 13,
     "last_deadline_value": 1053,
     "last_deadline_total_transfers": 28

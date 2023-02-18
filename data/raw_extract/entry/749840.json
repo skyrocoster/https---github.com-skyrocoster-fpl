@@ -9,10 +9,10 @@
     "player_region_name": "Croatia",
     "player_region_iso_code_short": "HR",
     "player_region_iso_code_long": "HRV",
-    "summary_overall_points": 1447,
-    "summary_overall_rank": 71021,
-    "summary_event_points": 47,
-    "summary_event_rank": 3406479,
+    "summary_overall_points": 1474,
+    "summary_overall_rank": 80232,
+    "summary_event_points": 74,
+    "summary_event_rank": 3920695,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448117,
                 "cup_qualified": true,
-                "entry_rank": 323,
+                "entry_rank": 375,
                 "entry_last_rank": 249
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 71000,
+                "entry_rank": 80214,
                 "entry_last_rank": 53794
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 71021,
+                "entry_rank": 80232,
                 "entry_last_rank": 53809
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2431371,
                 "cup_qualified": true,
-                "entry_rank": 1360,
+                "entry_rank": 1524,
                 "entry_last_rank": 1012
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             }
         ],
@@ -204,7 +204,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 16,
+                "entry_rank": 13,
                 "entry_last_rank": 16
             }
         ],
@@ -224,7 +224,7 @@
                 "entry_1_entry": 1706415,
                 "entry_1_name": "Artekkers",
                 "entry_1_player_name": "Nathan Tickell",
-                "entry_1_points": 58,
+                "entry_1_points": 83,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -232,14 +232,14 @@
                 "entry_2_entry": 749840,
                 "entry_2_name": "Combi28",
                 "entry_2_player_name": "Robert Šokčević",
-                "entry_2_points": 43,
+                "entry_2_points": 70,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 1706415,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -251,7 +251,7 @@
                 "entry_1_entry": 749840,
                 "entry_1_name": "Combi28",
                 "entry_1_player_name": "Robert Šokčević",
-                "entry_1_points": 43,
+                "entry_1_points": 70,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -259,14 +259,14 @@
                 "entry_2_entry": 7523036,
                 "entry_2_name": "FK Omladinac",
                 "entry_2_player_name": "Rado Perić",
-                "entry_2_points": 60,
+                "entry_2_points": 99,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431371,
-                "winner": null,
+                "winner": 7523036,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -278,7 +278,7 @@
                 "entry_1_entry": 749840,
                 "entry_1_name": "Combi28",
                 "entry_1_player_name": "Robert Šokčević",
-                "entry_1_points": 43,
+                "entry_1_points": 70,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -293,7 +293,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448117,
-                "winner": null,
+                "winner": 749840,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

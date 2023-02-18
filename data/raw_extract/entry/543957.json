@@ -9,10 +9,10 @@
     "player_region_name": "New Zealand",
     "player_region_iso_code_short": "NZ",
     "player_region_iso_code_long": "NZL",
-    "summary_overall_points": 1429,
-    "summary_overall_rank": 143925,
-    "summary_event_points": 70,
-    "summary_event_rank": 93565,
+    "summary_overall_points": 1464,
+    "summary_overall_rank": 118854,
+    "summary_event_points": 105,
+    "summary_event_rank": 40095,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 36566,
+                "entry_rank": 29683,
                 "entry_last_rank": 70855
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2448124,
                 "cup_qualified": true,
-                "entry_rank": 565,
+                "entry_rank": 472,
                 "entry_last_rank": 1241
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 143866,
+                "entry_rank": 118813,
                 "entry_last_rank": 286141
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 143925,
+                "entry_rank": 118854,
                 "entry_last_rank": 286310
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2437814,
                 "cup_qualified": true,
-                "entry_rank": 2239,
+                "entry_rank": 1894,
                 "entry_last_rank": 4686
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2437815,
                 "cup_qualified": true,
-                "entry_rank": 5164,
+                "entry_rank": 4419,
                 "entry_last_rank": 10347
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 66,
+                "entry_rank": 54,
                 "entry_last_rank": 137
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 32,
+                "entry_rank": 9,
                 "entry_last_rank": 256
             }
         ],
@@ -425,7 +425,7 @@
                 "entry_1_entry": 543957,
                 "entry_1_name": "The Eleventh Hag",
                 "entry_1_player_name": "Michael christodoulou",
-                "entry_1_points": 70,
+                "entry_1_points": 105,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -433,14 +433,14 @@
                 "entry_2_entry": 216161,
                 "entry_2_name": "saints disciples",
                 "entry_2_player_name": "Jack Crosskey",
-                "entry_2_points": 44,
+                "entry_2_points": 81,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437814,
-                "winner": null,
+                "winner": 543957,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -452,7 +452,7 @@
                 "entry_1_entry": 543957,
                 "entry_1_name": "The Eleventh Hag",
                 "entry_1_player_name": "Michael christodoulou",
-                "entry_1_points": 70,
+                "entry_1_points": 105,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -460,14 +460,14 @@
                 "entry_2_entry": 4904492,
                 "entry_2_name": "Dillon dee",
                 "entry_2_player_name": "Hugh Espey",
-                "entry_2_points": 35,
+                "entry_2_points": 66,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437815,
-                "winner": null,
+                "winner": 543957,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -479,7 +479,7 @@
                 "entry_1_entry": 543957,
                 "entry_1_name": "The Eleventh Hag",
                 "entry_1_player_name": "Michael christodoulou",
-                "entry_1_points": 70,
+                "entry_1_points": 105,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -494,7 +494,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448124,
-                "winner": null,
+                "winner": 543957,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

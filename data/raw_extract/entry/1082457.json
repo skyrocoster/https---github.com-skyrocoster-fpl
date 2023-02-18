@@ -9,10 +9,10 @@
     "player_region_name": "France",
     "player_region_iso_code_short": "FR",
     "player_region_iso_code_long": "FRA",
-    "summary_overall_points": 1489,
-    "summary_overall_rank": 8631,
-    "summary_event_points": 56,
-    "summary_event_rank": 1300240,
+    "summary_overall_points": 1519,
+    "summary_overall_rank": 8685,
+    "summary_event_points": 86,
+    "summary_event_rank": 1200883,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 49,
+                "entry_rank": 44,
                 "entry_last_rank": 67
             },
             {
@@ -53,9 +53,9 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 20,
+                "cup_league": 2453754,
+                "cup_qualified": true,
+                "entry_rank": 21,
                 "entry_last_rank": 28
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8630,
+                "entry_rank": 8684,
                 "entry_last_rank": 12186
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 8631,
+                "entry_rank": 8685,
                 "entry_last_rank": 12187
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 579,
+                "entry_rank": 642,
                 "entry_last_rank": 919
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 214,
+                "entry_rank": 224,
                 "entry_last_rank": 320
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 53002,
+                "entry_rank": 45549,
                 "entry_last_rank": 71688
             }
         ],
@@ -250,7 +250,7 @@
                 "entry_1_entry": 1082457,
                 "entry_1_name": "Holy Crepe",
                 "entry_1_player_name": "Matthieu Lewis",
-                "entry_1_points": 56,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -258,17 +258,17 @@
                 "entry_2_entry": 2486878,
                 "entry_2_name": "thenewseven",
                 "entry_2_player_name": "robert kotroczo",
-                "entry_2_points": 37,
+                "entry_2_points": 86,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 1082457,
                 "seed_value": null,
                 "event": 23,
-                "tiebreak": null,
+                "tiebreak": "goals_conceded",
                 "is_bye": false,
                 "knockout_name": "Round of 65536"
             },
@@ -277,7 +277,7 @@
                 "entry_1_entry": 1082457,
                 "entry_1_name": "Holy Crepe",
                 "entry_1_player_name": "Matthieu Lewis",
-                "entry_1_points": 56,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -285,14 +285,14 @@
                 "entry_2_entry": 6827887,
                 "entry_2_name": "CHAMPIONS Xl",
                 "entry_2_player_name": "BHARAT SINGHANIA",
-                "entry_2_points": 56,
+                "entry_2_points": 84,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437809,
-                "winner": null,
+                "winner": 1082457,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -304,7 +304,7 @@
                 "entry_1_entry": 1082457,
                 "entry_1_name": "Holy Crepe",
                 "entry_1_player_name": "Matthieu Lewis",
-                "entry_1_points": 56,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -319,7 +319,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 1082457,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

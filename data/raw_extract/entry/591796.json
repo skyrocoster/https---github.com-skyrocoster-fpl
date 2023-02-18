@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1460,
-    "summary_overall_rank": 39880,
-    "summary_event_points": 59,
-    "summary_event_rank": 812532,
+    "summary_overall_points": 1483,
+    "summary_overall_rank": 54511,
+    "summary_event_points": 82,
+    "summary_event_rank": 1925858,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 14259,
+                "entry_rank": 19912,
                 "entry_last_rank": 22487
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 39873,
+                "entry_rank": 54498,
                 "entry_last_rank": 61091
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 39880,
+                "entry_rank": 54511,
                 "entry_last_rank": 61108
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 16176,
+                "entry_rank": 22517,
                 "entry_last_rank": 25459
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18,
+                "entry_rank": 31,
                 "entry_last_rank": 47
             }
         ],
@@ -208,7 +208,7 @@
                 "entry_1_entry": 591796,
                 "entry_1_name": "Glipton Grasshoppers",
                 "entry_1_player_name": "James McCunn",
-                "entry_1_points": 59,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -216,17 +216,17 @@
                 "entry_2_entry": 46268,
                 "entry_2_name": "Better Call Saul",
                 "entry_2_player_name": "Grant Saul",
-                "entry_2_points": 53,
+                "entry_2_points": 82,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 46268,
                 "seed_value": null,
                 "event": 23,
-                "tiebreak": null,
+                "tiebreak": "goals_scored",
                 "is_bye": false,
                 "knockout_name": "Round of 65536"
             },
@@ -235,7 +235,7 @@
                 "entry_1_entry": 2366089,
                 "entry_1_name": "South coast casuals",
                 "entry_1_player_name": "Brad Ricketts",
-                "entry_1_points": 54,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -243,14 +243,14 @@
                 "entry_2_entry": 591796,
                 "entry_2_name": "Glipton Grasshoppers",
                 "entry_2_player_name": "James McCunn",
-                "entry_2_points": 59,
+                "entry_2_points": 82,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 2366089,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

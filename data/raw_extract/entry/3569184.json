@@ -9,10 +9,10 @@
     "player_region_name": "Nauru",
     "player_region_iso_code_short": "NR",
     "player_region_iso_code_long": "NRU",
-    "summary_overall_points": 1491,
-    "summary_overall_rank": 7539,
-    "summary_event_points": 53,
-    "summary_event_rank": 1990857,
+    "summary_overall_points": 1509,
+    "summary_overall_rank": 14889,
+    "summary_event_points": 71,
+    "summary_event_rank": 4728268,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 42,
+                "entry_rank": 78,
                 "entry_last_rank": 49
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7538,
+                "entry_rank": 14887,
                 "entry_last_rank": 8997
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 7539,
+                "entry_rank": 14889,
                 "entry_last_rank": 8998
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 209910,
+                "entry_rank": 358641,
                 "entry_last_rank": 230554
             }
         ],
@@ -187,7 +187,7 @@
                 "entry_1_entry": 3569184,
                 "entry_1_name": "Pedro Fantaasia",
                 "entry_1_player_name": "Pedro Pedro",
-                "entry_1_points": 53,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -202,7 +202,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 3569184,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

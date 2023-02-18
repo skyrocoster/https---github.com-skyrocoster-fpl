@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1461,
-    "summary_overall_rank": 37468,
-    "summary_event_points": 49,
-    "summary_event_rank": 2704519,
+    "summary_overall_points": 1480,
+    "summary_overall_rank": 61315,
+    "summary_event_points": 68,
+    "summary_event_rank": 5283538,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 4531,
+                "entry_rank": 7387,
                 "entry_last_rank": 4422
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 13360,
+                "entry_rank": 22384,
                 "entry_last_rank": 13392
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 37461,
+                "entry_rank": 61300,
                 "entry_last_rank": 36557
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 37468,
+                "entry_rank": 61315,
                 "entry_last_rank": 36564
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 15179,
+                "entry_rank": 25307,
                 "entry_last_rank": 15234
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 77980,
+                "entry_rank": 140751,
                 "entry_last_rank": 63769
             }
         ],

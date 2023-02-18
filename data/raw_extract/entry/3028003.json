@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1525,
-    "summary_overall_rank": 907,
-    "summary_event_points": 52,
-    "summary_event_rank": 2134200,
+    "summary_overall_points": 1553,
+    "summary_overall_rank": 1075,
+    "summary_event_points": 80,
+    "summary_event_rank": 2341057,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 220,
+                "entry_rank": 269,
                 "entry_last_rank": 233
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 41,
+                "entry_rank": 47,
                 "entry_last_rank": 47
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 907,
+                "entry_rank": 1075,
                 "entry_last_rank": 1016
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 907,
+                "entry_rank": 1075,
                 "entry_last_rank": 1016
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 17,
+                "entry_rank": 19,
                 "entry_last_rank": 19
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 30264,
+                "entry_rank": 29948,
                 "entry_last_rank": 29770
             }
         ],
@@ -319,7 +319,7 @@
                 "entry_1_entry": 2988393,
                 "entry_1_name": "show me da mane",
                 "entry_1_player_name": "Ben Hadfield",
-                "entry_1_points": 45,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -327,14 +327,14 @@
                 "entry_2_entry": 3028003,
                 "entry_2_name": "TenHagsAtTheWheel",
                 "entry_2_player_name": "Cian Simpson",
-                "entry_2_points": 52,
+                "entry_2_points": 80,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 3028003,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

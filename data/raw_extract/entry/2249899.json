@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1527,
-    "summary_overall_rank": 760,
-    "summary_event_points": 57,
-    "summary_event_rank": 1185385,
+    "summary_overall_points": 1553,
+    "summary_overall_rank": 1040,
+    "summary_event_points": 83,
+    "summary_event_rank": 1791328,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 100,
+                "entry_rank": 131,
                 "entry_last_rank": 124
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 32,
+                "entry_rank": 44,
                 "entry_last_rank": 42
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 760,
+                "entry_rank": 1040,
                 "entry_last_rank": 904
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 760,
+                "entry_rank": 1040,
                 "entry_last_rank": 904
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 6,
                 "entry_last_rank": 3
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 62234,
+                "entry_rank": 71469,
                 "entry_last_rank": 66978
             }
         ],
@@ -251,7 +251,7 @@
                 "entry_1_entry": 1036240,
                 "entry_1_name": "FC INVINCIBLE 11",
                 "entry_1_player_name": "Md.Muntasir Ahmmed Muin",
-                "entry_1_points": 51,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -259,14 +259,14 @@
                 "entry_2_entry": 2249899,
                 "entry_2_name": "Boooooooo",
                 "entry_2_player_name": "Sean Quinn",
-                "entry_2_points": 53,
+                "entry_2_points": 79,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 2249899,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -278,7 +278,7 @@
                 "entry_1_entry": 2249899,
                 "entry_1_name": "Boooooooo",
                 "entry_1_player_name": "Sean Quinn",
-                "entry_1_points": 53,
+                "entry_1_points": 79,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -286,14 +286,14 @@
                 "entry_2_entry": 9969041,
                 "entry_2_name": "Dempsey FC",
                 "entry_2_player_name": "eoin Dempsey",
-                "entry_2_points": 56,
+                "entry_2_points": 82,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 9969041,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

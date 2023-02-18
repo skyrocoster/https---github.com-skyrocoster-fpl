@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1588,
-    "summary_overall_rank": 7,
-    "summary_event_points": 55,
-    "summary_event_rank": 1554664,
+    "summary_overall_points": 1622,
+    "summary_overall_rank": 5,
+    "summary_event_points": 89,
+    "summary_event_rank": 822501,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 2
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 2
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
+                "entry_rank": 5,
                 "entry_last_rank": 8
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 7,
+                "entry_rank": 5,
                 "entry_last_rank": 8
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 3
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4548,
+                "entry_rank": 2304,
                 "entry_last_rank": 3682
             }
         ],
@@ -341,7 +341,7 @@
                 "entry_1_entry": 6375129,
                 "entry_1_name": "Zebra FC",
                 "entry_1_player_name": "Zjan Shirinian",
-                "entry_1_points": 49,
+                "entry_1_points": 65,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -349,14 +349,14 @@
                 "entry_2_entry": 1052,
                 "entry_2_name": "Dude where's my Sarr",
                 "entry_2_player_name": "Zak Bickerstaffe",
-                "entry_2_points": 51,
+                "entry_2_points": 85,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 1052,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -368,7 +368,7 @@
                 "entry_1_entry": 1052,
                 "entry_1_name": "Dude where's my Sarr",
                 "entry_1_player_name": "Zak Bickerstaffe",
-                "entry_1_points": 51,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -376,14 +376,14 @@
                 "entry_2_entry": 159281,
                 "entry_2_name": "Game Of Stones",
                 "entry_2_player_name": "Charlotte Quarmby",
-                "entry_2_points": 42,
+                "entry_2_points": 60,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 1052,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -395,7 +395,7 @@
                 "entry_1_entry": 1052,
                 "entry_1_name": "Dude where's my Sarr",
                 "entry_1_player_name": "Zak Bickerstaffe",
-                "entry_1_points": 51,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -410,7 +410,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448144,
-                "winner": null,
+                "winner": 1052,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

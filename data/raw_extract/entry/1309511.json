@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1385,
-    "summary_overall_rank": 532838,
-    "summary_event_points": 45,
-    "summary_event_rank": 3867521,
+    "summary_overall_points": 1404,
+    "summary_overall_rank": 666019,
+    "summary_event_points": 64,
+    "summary_event_rank": 6487758,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405678,
                 "cup_qualified": true,
-                "entry_rank": 35001,
+                "entry_rank": 44157,
                 "entry_last_rank": 30751
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 186454,
+                "entry_rank": 233559,
                 "entry_last_rank": 171314
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 532193,
+                "entry_rank": 665054,
                 "entry_last_rank": 478641
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 532838,
+                "entry_rank": 666019,
                 "entry_last_rank": 479089
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 222,
+                "entry_rank": 270,
                 "entry_last_rank": 201
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2448142,
                 "cup_qualified": true,
-                "entry_rank": 5833,
+                "entry_rank": 7226,
                 "entry_last_rank": 5503
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21,
+                "entry_rank": 25,
                 "entry_last_rank": 0
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 4,
                 "entry_last_rank": 3
             },
             {
@@ -280,13 +280,13 @@
                 "scoring": "c",
                 "admin_entry": 80572,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 3760,
+                "cup_league": 2453794,
+                "cup_qualified": true,
+                "entry_rank": 4605,
                 "entry_last_rank": 3531
             },
             {
@@ -301,13 +301,13 @@
                 "scoring": "c",
                 "admin_entry": 3193784,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 2039,
+                "cup_league": 2453801,
+                "cup_qualified": true,
+                "entry_rank": 2546,
                 "entry_last_rank": 1890
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1074,
+                "entry_rank": 1313,
                 "entry_last_rank": 1007
             },
             {
@@ -349,7 +349,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 210074,
+                "entry_rank": 263146,
                 "entry_last_rank": 193101
             },
             {
@@ -370,7 +370,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 170,
+                "entry_rank": 492,
                 "entry_last_rank": 58
             },
             {
@@ -435,7 +435,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 7,
                 "entry_last_rank": 4
             }
         ],
@@ -536,22 +536,22 @@
                 "entry_1_entry": 1309511,
                 "entry_1_name": "It’s always Haaland",
                 "entry_1_player_name": "Blake Dixon",
-                "entry_1_points": 45,
+                "entry_1_points": 64,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
                 "entry_1_total": 0,
                 "entry_2_entry": 5598411,
                 "entry_2_name": "Blue Moon",
-                "entry_2_player_name": "Mr Singh",
-                "entry_2_points": 58,
+                "entry_2_player_name": "T Singh",
+                "entry_2_points": 85,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 5598411,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -563,7 +563,7 @@
                 "entry_1_entry": 1309511,
                 "entry_1_name": "It’s always Haaland",
                 "entry_1_player_name": "Blake Dixon",
-                "entry_1_points": 45,
+                "entry_1_points": 64,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -578,7 +578,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448142,
-                "winner": null,
+                "winner": 1309511,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

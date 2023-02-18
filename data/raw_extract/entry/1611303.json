@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1289,
-    "summary_overall_rank": 2352516,
-    "summary_event_points": 46,
-    "summary_event_rank": 3595463,
+    "summary_overall_points": 1330,
+    "summary_overall_rank": 2060606,
+    "summary_event_points": 87,
+    "summary_event_rank": 1052578,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 579995,
+                "entry_rank": 505787,
                 "entry_last_rank": 563391
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 58368,
+                "entry_rank": 50945,
                 "entry_last_rank": 58002
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2331212,
+                "entry_rank": 2045955,
                 "entry_last_rank": 2293452
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 2352516,
+                "entry_rank": 2060606,
                 "entry_last_rank": 2312495
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 39,
+                "entry_rank": 36,
                 "entry_last_rank": 38
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 154,
+                "entry_rank": 147,
                 "entry_last_rank": 152
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
+                "entry_rank": 9,
                 "entry_last_rank": 10
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 58368,
+                "entry_rank": 50945,
                 "entry_last_rank": 58002
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9,
+                "entry_rank": 8,
                 "entry_last_rank": 8
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 20,
+                "entry_rank": 18,
                 "entry_last_rank": 18
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 28,
+                "entry_rank": 26,
                 "entry_last_rank": 26
             },
             {
@@ -349,7 +349,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1298042,
+                "entry_rank": 820486,
                 "entry_last_rank": 1131942
             }
         ],
@@ -397,7 +397,7 @@
                 "entry_1_entry": 1611303,
                 "entry_1_name": "XCalibre",
                 "entry_1_player_name": "Fahad Bhombal",
-                "entry_1_points": 46,
+                "entry_1_points": 87,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -405,14 +405,14 @@
                 "entry_2_entry": 10446041,
                 "entry_2_name": "iota FC",
                 "entry_2_player_name": "Souvik Das",
-                "entry_2_points": 41,
+                "entry_2_points": 71,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431356,
-                "winner": null,
+                "winner": 1611303,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -424,7 +424,7 @@
                 "entry_1_entry": 1611303,
                 "entry_1_name": "XCalibre",
                 "entry_1_player_name": "Fahad Bhombal",
-                "entry_1_points": 46,
+                "entry_1_points": 87,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -432,14 +432,14 @@
                 "entry_2_entry": 2683067,
                 "entry_2_name": "BLUES F.C",
                 "entry_2_player_name": "Aman Khan",
-                "entry_2_points": 48,
+                "entry_2_points": 74,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 1611303,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "USA",
     "player_region_iso_code_short": "US",
     "player_region_iso_code_long": "USA",
-    "summary_overall_points": 1316,
-    "summary_overall_rank": 1754306,
-    "summary_event_points": 45,
-    "summary_event_rank": 4002896,
+    "summary_overall_points": 1339,
+    "summary_overall_rank": 1864246,
+    "summary_event_points": 68,
+    "summary_event_rank": 5526054,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 145134,
+                "entry_rank": 153737,
                 "entry_last_rank": 122584
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424308,
                 "cup_qualified": true,
-                "entry_rank": 51763,
+                "entry_rank": 54847,
                 "entry_last_rank": 44801
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1744568,
+                "entry_rank": 1853108,
                 "entry_last_rank": 1494180
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1754306,
+                "entry_rank": 1864246,
                 "entry_last_rank": 1500335
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21,
+                "entry_rank": 23,
                 "entry_last_rank": 21
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 19,
+                "entry_rank": 20,
                 "entry_last_rank": 17
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2424311,
                 "cup_qualified": true,
-                "entry_rank": 51907,
+                "entry_rank": 55004,
                 "entry_last_rank": 44923
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2094983,
+                "entry_rank": 2307950,
                 "entry_last_rank": 1507122
             }
         ],
@@ -346,7 +346,7 @@
                 "entry_1_entry": 5898479,
                 "entry_1_name": "Rooney Tunes",
                 "entry_1_player_name": "Rohan (Adeep) Kulkarni",
-                "entry_1_points": 37,
+                "entry_1_points": 60,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -354,14 +354,14 @@
                 "entry_2_entry": 5037501,
                 "entry_2_name": "Tadeusz-Max-Kazimir",
                 "entry_2_player_name": "Eugenie Voitkevich",
-                "entry_2_points": 42,
+                "entry_2_points": 68,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424311,
-                "winner": null,
+                "winner": 5037501,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

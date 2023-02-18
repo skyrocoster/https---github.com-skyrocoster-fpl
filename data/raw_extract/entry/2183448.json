@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1562,
-    "summary_overall_rank": 58,
-    "summary_event_points": 54,
-    "summary_event_rank": 1762599,
+    "summary_overall_points": 1595,
+    "summary_overall_rank": 54,
+    "summary_event_points": 87,
+    "summary_event_rank": 1096604,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 15,
+                "entry_rank": 13,
                 "entry_last_rank": 18
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 58,
+                "entry_rank": 54,
                 "entry_last_rank": 65
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 58,
+                "entry_rank": 54,
                 "entry_last_rank": 65
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2448141,
                 "cup_qualified": true,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 3
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 20,
+                "entry_rank": 18,
                 "entry_last_rank": 24
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 927,
+                "entry_rank": 464,
                 "entry_last_rank": 1012
             }
         ],
@@ -388,7 +388,7 @@
                 "entry_1_entry": 2183448,
                 "entry_1_name": "dack to the future",
                 "entry_1_player_name": "Sophie Tomlinson",
-                "entry_1_points": 54,
+                "entry_1_points": 87,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -403,7 +403,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448141,
-                "winner": null,
+                "winner": 2183448,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -415,7 +415,7 @@
                 "entry_1_entry": 2183448,
                 "entry_1_name": "dack to the future",
                 "entry_1_player_name": "Sophie Tomlinson",
-                "entry_1_points": 54,
+                "entry_1_points": 87,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -430,7 +430,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448144,
-                "winner": null,
+                "winner": 2183448,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

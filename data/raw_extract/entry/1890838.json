@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1527,
-    "summary_overall_rank": 760,
-    "summary_event_points": 52,
-    "summary_event_rank": 2048901,
+    "summary_overall_points": 1554,
+    "summary_overall_rank": 970,
+    "summary_event_points": 79,
+    "summary_event_rank": 2447140,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 93,
+                "entry_rank": 123,
                 "entry_last_rank": 114
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 32,
+                "entry_rank": 40,
                 "entry_last_rank": 40
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 760,
+                "entry_rank": 970,
                 "entry_last_rank": 864
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 760,
+                "entry_rank": 970,
                 "entry_last_rank": 864
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 4,
                 "entry_last_rank": 3
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
+                "entry_rank": 7,
                 "entry_last_rank": 10
             },
             {
@@ -475,7 +475,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 76201,
+                "entry_rank": 81283,
                 "entry_last_rank": 77524
             }
         ],
@@ -572,7 +572,7 @@
                 "entry_1_entry": 153667,
                 "entry_1_name": "F. C. Escher",
                 "entry_1_player_name": "Jack Torney",
-                "entry_1_points": 55,
+                "entry_1_points": 83,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -580,14 +580,14 @@
                 "entry_2_entry": 1890838,
                 "entry_2_name": "The Inbetweeners",
                 "entry_2_player_name": "Lee Carrick",
-                "entry_2_points": 52,
+                "entry_2_points": 79,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 153667,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "Serbia",
     "player_region_iso_code_short": "RS",
     "player_region_iso_code_long": "SRB",
-    "summary_overall_points": 1541,
-    "summary_overall_rank": 269,
-    "summary_event_points": 33,
-    "summary_event_rank": 6526022,
+    "summary_overall_points": 1583,
+    "summary_overall_rank": 110,
+    "summary_event_points": 75,
+    "summary_event_rank": 3428887,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 24,
+                "entry_rank": 8,
                 "entry_last_rank": 4
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2437798,
                 "cup_qualified": true,
-                "entry_rank": 7,
+                "entry_rank": 5,
                 "entry_last_rank": 2
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 269,
+                "entry_rank": 110,
                 "entry_last_rank": 67
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 269,
+                "entry_rank": 110,
                 "entry_last_rank": 67
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2431371,
                 "cup_qualified": true,
-                "entry_rank": 10,
+                "entry_rank": 7,
                 "entry_last_rank": 3
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 212509,
+                "entry_rank": 87449,
                 "entry_last_rank": 62518
             }
         ],
@@ -214,7 +214,7 @@
                 "entry_1_entry": 153505,
                 "entry_1_name": "OnemanArmy1312",
                 "entry_1_player_name": "Marko Kuručki",
-                "entry_1_points": 33,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -222,14 +222,14 @@
                 "entry_2_entry": 9520295,
                 "entry_2_name": "Lions",
                 "entry_2_player_name": "Marko Tuci",
-                "entry_2_points": 20,
+                "entry_2_points": 39,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431371,
-                "winner": null,
+                "winner": 153505,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -241,7 +241,7 @@
                 "entry_1_entry": 4455957,
                 "entry_1_name": "Mesecari",
                 "entry_1_player_name": "Djordje Rajkovic",
-                "entry_1_points": 37,
+                "entry_1_points": 70,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -249,14 +249,14 @@
                 "entry_2_entry": 153505,
                 "entry_2_name": "OnemanArmy1312",
                 "entry_2_player_name": "Marko Kuručki",
-                "entry_2_points": 33,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437798,
-                "winner": null,
+                "winner": 153505,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

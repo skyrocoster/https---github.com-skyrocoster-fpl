@@ -9,10 +9,10 @@
     "player_region_name": "Nigeria",
     "player_region_iso_code_short": "NG",
     "player_region_iso_code_long": "NGA",
-    "summary_overall_points": 1408,
-    "summary_overall_rank": 288686,
-    "summary_event_points": 59,
-    "summary_event_rank": 859004,
+    "summary_overall_points": 1434,
+    "summary_overall_rank": 319339,
+    "summary_event_points": 85,
+    "summary_event_rank": 1423351,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 73107,
+                "entry_rank": 79590,
                 "entry_last_rank": 84215
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424306,
                 "cup_qualified": true,
-                "entry_rank": 4916,
+                "entry_rank": 5238,
                 "entry_last_rank": 5465
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 288484,
+                "entry_rank": 319116,
                 "entry_last_rank": 340251
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 288686,
+                "entry_rank": 319339,
                 "entry_last_rank": 340476
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 50,
+                "entry_rank": 67,
                 "entry_last_rank": 67
             }
         ],
@@ -224,7 +224,7 @@
                 "entry_1_entry": 5687040,
                 "entry_1_name": "SAMBA DANGEROUS",
                 "entry_1_player_name": "CHANDRAN UMAPATHI",
-                "entry_1_points": 45,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -232,14 +232,14 @@
                 "entry_2_entry": 1647705,
                 "entry_2_name": "KIBO FC",
                 "entry_2_player_name": "Tomiwa Falode",
-                "entry_2_points": 55,
+                "entry_2_points": 81,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 5687040,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -251,7 +251,7 @@
                 "entry_1_entry": 1647705,
                 "entry_1_name": "KIBO FC",
                 "entry_1_player_name": "Tomiwa Falode",
-                "entry_1_points": 55,
+                "entry_1_points": 81,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -259,14 +259,14 @@
                 "entry_2_entry": 5419737,
                 "entry_2_name": "Equipo ganador",
                 "entry_2_player_name": "DaLhat Bashir",
-                "entry_2_points": 56,
+                "entry_2_points": 73,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424306,
-                "winner": null,
+                "winner": 1647705,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

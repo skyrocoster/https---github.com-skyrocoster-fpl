@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1496,
-    "summary_overall_rank": 5866,
-    "summary_event_points": 53,
-    "summary_event_rank": 1908003,
+    "summary_overall_points": 1520,
+    "summary_overall_rank": 8358,
+    "summary_event_points": 77,
+    "summary_event_rank": 3032012,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 28,
+                "entry_rank": 41,
                 "entry_last_rank": 33
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2091,
+                "entry_rank": 3065,
                 "entry_last_rank": 2577
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5865,
+                "entry_rank": 8357,
                 "entry_last_rank": 7037
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 5866,
+                "entry_rank": 8358,
                 "entry_last_rank": 7038
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2393,
+                "entry_rank": 3488,
                 "entry_last_rank": 2948
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1701,
+                "entry_rank": 2541,
                 "entry_last_rank": 1674
             }
         ],
@@ -256,7 +256,7 @@
                 "entry_1_entry": 135430,
                 "entry_1_name": "Viera ooooohhh",
                 "entry_1_player_name": "Jamie Walker",
-                "entry_1_points": 56,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -264,14 +264,14 @@
                 "entry_2_entry": 317982,
                 "entry_2_name": "Maximum20Characters",
                 "entry_2_player_name": "Mark Goodman",
-                "entry_2_points": 53,
+                "entry_2_points": 77,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 135430,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -283,7 +283,7 @@
                 "entry_1_entry": 317982,
                 "entry_1_name": "Maximum20Characters",
                 "entry_1_player_name": "Mark Goodman",
-                "entry_1_points": 53,
+                "entry_1_points": 77,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -298,7 +298,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 317982,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

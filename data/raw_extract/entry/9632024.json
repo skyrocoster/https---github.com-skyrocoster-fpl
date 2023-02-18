@@ -9,10 +9,10 @@
     "player_region_name": "Morocco",
     "player_region_iso_code_short": "MA",
     "player_region_iso_code_long": "MAR",
-    "summary_overall_points": 1272,
-    "summary_overall_rank": 2733161,
-    "summary_event_points": 74,
-    "summary_event_rank": 34533,
+    "summary_overall_points": 1283,
+    "summary_overall_rank": 3125659,
+    "summary_event_points": 85,
+    "summary_event_rank": 1297232,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 381441,
+                "entry_rank": 444251,
                 "entry_last_rank": 484757
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431359,
                 "cup_qualified": true,
-                "entry_rank": 17986,
+                "entry_rank": 20963,
                 "entry_last_rank": 23078
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 121,
+                "entry_rank": 258,
                 "entry_last_rank": 346
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2733161,
+                "entry_rank": 3125659,
                 "entry_last_rank": 3396414
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 499261,
+                "entry_rank": 574557,
                 "entry_last_rank": 621532
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 29,
+                "entry_rank": 251,
                 "entry_last_rank": 405
             }
         ],
@@ -262,7 +262,7 @@
                 "entry_1_entry": 9632024,
                 "entry_1_name": "jawhara",
                 "entry_1_player_name": "Larhrabi Yassir",
-                "entry_1_points": 74,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -270,17 +270,17 @@
                 "entry_2_entry": 2011900,
                 "entry_2_name": "Zamalek1911",
                 "entry_2_player_name": "Tamer Hassan",
-                "entry_2_points": 57,
+                "entry_2_points": 85,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 9632024,
                 "seed_value": null,
                 "event": 23,
-                "tiebreak": null,
+                "tiebreak": "goals_scored",
                 "is_bye": false,
                 "knockout_name": "Round of 65536"
             }

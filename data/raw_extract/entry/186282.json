@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1574,
-    "summary_overall_rank": 24,
-    "summary_event_points": 47,
-    "summary_event_rank": 3332102,
+    "summary_overall_points": 1592,
+    "summary_overall_rank": 66,
+    "summary_event_points": 65,
+    "summary_event_rank": 6229379,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2431353,
                 "cup_qualified": true,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 6,
+                "entry_rank": 18,
                 "entry_last_rank": 3
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 24,
+                "entry_rank": 66,
                 "entry_last_rank": 20
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 24,
+                "entry_rank": 66,
                 "entry_last_rank": 20
             },
             {
@@ -112,12 +112,12 @@
                 "scoring": "c",
                 "admin_entry": 40,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2453771,
+                "cup_qualified": true,
                 "entry_rank": 1,
                 "entry_last_rank": 1
             },
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2448141,
                 "cup_qualified": true,
-                "entry_rank": 1,
+                "entry_rank": 3,
                 "entry_last_rank": 1
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 7,
+                "entry_rank": 23,
                 "entry_last_rank": 5
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 33297,
+                "entry_rank": 70180,
                 "entry_last_rank": 21606
             }
         ],
@@ -425,7 +425,7 @@
                 "entry_1_entry": 186282,
                 "entry_1_name": "Flaming Galahs",
                 "entry_1_player_name": "Nancy Russell",
-                "entry_1_points": 47,
+                "entry_1_points": 65,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -433,14 +433,14 @@
                 "entry_2_entry": 3046923,
                 "entry_2_name": "Telles A Story",
                 "entry_2_player_name": "Natalie Higson",
-                "entry_2_points": 56,
+                "entry_2_points": 70,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 3046923,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -452,7 +452,7 @@
                 "entry_1_entry": 186282,
                 "entry_1_name": "Flaming Galahs",
                 "entry_1_player_name": "Nancy Russell",
-                "entry_1_points": 47,
+                "entry_1_points": 65,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -460,14 +460,14 @@
                 "entry_2_entry": 5153202,
                 "entry_2_name": "Timot",
                 "entry_2_player_name": "Johannes Nemlander",
-                "entry_2_points": 58,
+                "entry_2_points": 82,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431353,
-                "winner": null,
+                "winner": 5153202,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -479,7 +479,7 @@
                 "entry_1_entry": 186282,
                 "entry_1_name": "Flaming Galahs",
                 "entry_1_player_name": "Nancy Russell",
-                "entry_1_points": 47,
+                "entry_1_points": 65,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -494,7 +494,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448141,
-                "winner": null,
+                "winner": 186282,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

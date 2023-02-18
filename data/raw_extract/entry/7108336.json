@@ -9,10 +9,10 @@
     "player_region_name": "Wales",
     "player_region_iso_code_short": "WA",
     "player_region_iso_code_long": "WAL",
-    "summary_overall_points": 1505,
-    "summary_overall_rank": 3267,
-    "summary_event_points": 45,
-    "summary_event_rank": 3867521,
+    "summary_overall_points": 1524,
+    "summary_overall_rank": 6427,
+    "summary_event_points": 64,
+    "summary_event_rank": 6487758,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 17,
+                "entry_rank": 32,
                 "entry_last_rank": 13
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2437806,
                 "cup_qualified": true,
-                "entry_rank": 36,
+                "entry_rank": 79,
                 "entry_last_rank": 26
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3267,
+                "entry_rank": 6426,
                 "entry_last_rank": 2406
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 3267,
+                "entry_rank": 6427,
                 "entry_last_rank": 2406
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1303,
+                "entry_rank": 2671,
                 "entry_last_rank": 989
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 178000,
+                "entry_rank": 294585,
                 "entry_last_rank": 117620
             }
         ],
@@ -256,7 +256,7 @@
                 "entry_1_entry": 1726314,
                 "entry_1_name": "Pathetico Madrid",
                 "entry_1_player_name": "Nathan Williams",
-                "entry_1_points": 36,
+                "entry_1_points": 55,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -264,14 +264,14 @@
                 "entry_2_entry": 7108336,
                 "entry_2_name": "Cheese’s Champions",
                 "entry_2_player_name": "Lewis Haynes",
-                "entry_2_points": 45,
+                "entry_2_points": 64,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437806,
-                "winner": null,
+                "winner": 7108336,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -283,7 +283,7 @@
                 "entry_1_entry": 7108336,
                 "entry_1_name": "Cheese’s Champions",
                 "entry_1_player_name": "Lewis Haynes",
-                "entry_1_points": 45,
+                "entry_1_points": 64,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -298,7 +298,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 7108336,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

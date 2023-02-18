@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1497,
-    "summary_overall_rank": 5500,
-    "summary_event_points": 35,
-    "summary_event_rank": 6282738,
+    "summary_overall_points": 1538,
+    "summary_overall_rank": 2819,
+    "summary_event_points": 76,
+    "summary_event_rank": 3366327,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2431352,
                 "cup_qualified": true,
-                "entry_rank": 222,
+                "entry_rank": 114,
                 "entry_last_rank": 69
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 221,
+                "entry_rank": 121,
                 "entry_last_rank": 73
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5499,
+                "entry_rank": 2819,
                 "entry_last_rank": 1608
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 5500,
+                "entry_rank": 2819,
                 "entry_last_rank": 1608
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 408508,
+                "entry_rank": 202946,
                 "entry_last_rank": 128011
             }
         ],
@@ -250,7 +250,7 @@
                 "entry_1_entry": 4120328,
                 "entry_1_name": "Dime bar fc",
                 "entry_1_player_name": "Aiden Kelly",
-                "entry_1_points": 50,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -258,14 +258,14 @@
                 "entry_2_entry": 1245530,
                 "entry_2_name": "Powers Prancers",
                 "entry_2_player_name": "Jack Power",
-                "entry_2_points": 31,
+                "entry_2_points": 72,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 4120328,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -277,7 +277,7 @@
                 "entry_1_entry": 1245530,
                 "entry_1_name": "Powers Prancers",
                 "entry_1_player_name": "Jack Power",
-                "entry_1_points": 31,
+                "entry_1_points": 72,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -285,14 +285,14 @@
                 "entry_2_entry": 3120130,
                 "entry_2_name": "Botman and Robben",
                 "entry_2_player_name": "Arron More",
-                "entry_2_points": 45,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431352,
-                "winner": null,
+                "winner": 3120130,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

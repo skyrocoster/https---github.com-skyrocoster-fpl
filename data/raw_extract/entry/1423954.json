@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1537,
-    "summary_overall_rank": 368,
-    "summary_event_points": 49,
-    "summary_event_rank": 2892334,
+    "summary_overall_points": 1563,
+    "summary_overall_rank": 519,
+    "summary_event_points": 75,
+    "summary_event_rank": 3642529,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 45,
+                "entry_rank": 69,
                 "entry_last_rank": 29
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 13,
+                "entry_rank": 16,
                 "entry_last_rank": 9
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 368,
+                "entry_rank": 519,
                 "entry_last_rank": 244
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 368,
+                "entry_rank": 519,
                 "entry_last_rank": 244
             },
             {
@@ -349,7 +349,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 69012,
+                "entry_rank": 79080,
                 "entry_last_rank": 40679
             }
         ],
@@ -467,7 +467,7 @@
                 "entry_1_entry": 1423954,
                 "entry_1_name": "Personal Jesus",
                 "entry_1_player_name": "Mark Townsend",
-                "entry_1_points": 45,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -475,14 +475,14 @@
                 "entry_2_entry": 847466,
                 "entry_2_name": "BELMANAA ILYAS",
                 "entry_2_player_name": "Ilyas Belmanaa",
-                "entry_2_points": 58,
+                "entry_2_points": 82,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 847466,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

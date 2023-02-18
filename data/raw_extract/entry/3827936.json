@@ -9,10 +9,10 @@
     "player_region_name": "Scotland",
     "player_region_iso_code_short": "S1",
     "player_region_iso_code_long": "SCO",
-    "summary_overall_points": 1482,
-    "summary_overall_rank": 12764,
-    "summary_event_points": 36,
-    "summary_event_rank": 5891011,
+    "summary_overall_points": 1499,
+    "summary_overall_rank": 25380,
+    "summary_event_points": 53,
+    "summary_event_rank": 8721217,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 74,
+                "entry_rank": 145,
                 "entry_last_rank": 29
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431364,
                 "cup_qualified": true,
-                "entry_rank": 328,
+                "entry_rank": 643,
                 "entry_last_rank": 156
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 12763,
+                "entry_rank": 25375,
                 "entry_last_rank": 5753
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 12764,
+                "entry_rank": 25380,
                 "entry_last_rank": 5754
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 5156,
+                "entry_rank": 10481,
                 "entry_last_rank": 2394
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1953010,
+                "entry_rank": 2451716,
                 "entry_last_rank": 1334712
             }
         ],
@@ -235,7 +235,7 @@
                 "entry_1_entry": 3827936,
                 "entry_1_name": "Klopptimus Prime",
                 "entry_1_player_name": "Alex C",
-                "entry_1_points": 36,
+                "entry_1_points": 53,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -243,14 +243,14 @@
                 "entry_2_entry": 4796851,
                 "entry_2_name": "Marty's Invincibles",
                 "entry_2_player_name": "Martin Kemmitt",
-                "entry_2_points": 30,
+                "entry_2_points": 65,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431364,
-                "winner": null,
+                "winner": 4796851,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -262,7 +262,7 @@
                 "entry_1_entry": 3827936,
                 "entry_1_name": "Klopptimus Prime",
                 "entry_1_player_name": "Alex C",
-                "entry_1_points": 36,
+                "entry_1_points": 53,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -277,7 +277,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 3827936,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

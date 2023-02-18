@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1529,
-    "summary_overall_rank": 664,
-    "summary_event_points": 57,
-    "summary_event_rank": 1059334,
+    "summary_overall_points": 1553,
+    "summary_overall_rank": 1048,
+    "summary_event_points": 81,
+    "summary_event_rank": 2030792,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 159,
+                "entry_rank": 259,
                 "entry_last_rank": 240
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 28,
+                "entry_rank": 46,
                 "entry_last_rank": 49
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 664,
+                "entry_rank": 1048,
                 "entry_last_rank": 1056
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 664,
+                "entry_rank": 1048,
                 "entry_last_rank": 1056
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 34341,
+                "entry_rank": 46495,
                 "entry_last_rank": 50520
             }
         ],
@@ -214,7 +214,7 @@
                 "entry_1_entry": 3653583,
                 "entry_1_name": "Suicide Squad",
                 "entry_1_player_name": "louise raleigh",
-                "entry_1_points": 30,
+                "entry_1_points": 59,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -222,14 +222,14 @@
                 "entry_2_entry": 6553075,
                 "entry_2_name": "Gilmour Girls",
                 "entry_2_player_name": "Kerry O'Connell",
-                "entry_2_points": 57,
+                "entry_2_points": 81,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 6553075,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

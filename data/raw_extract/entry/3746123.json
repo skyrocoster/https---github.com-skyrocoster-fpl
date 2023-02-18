@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1413,
-    "summary_overall_rank": 243344,
-    "summary_event_points": 51,
-    "summary_event_rank": 2353945,
+    "summary_overall_points": 1440,
+    "summary_overall_rank": 263240,
+    "summary_event_points": 78,
+    "summary_event_rank": 2785209,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 61749,
+                "entry_rank": 65716,
                 "entry_last_rank": 63541
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 10043,
+                "entry_rank": 10917,
                 "entry_last_rank": 10771
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 243194,
+                "entry_rank": 263082,
                 "entry_last_rank": 256560
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 243344,
+                "entry_rank": 263240,
                 "entry_last_rank": 256701
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 46,
+                "entry_rank": 48,
                 "entry_last_rank": 39
             }
         ],
@@ -208,7 +208,7 @@
                 "entry_1_entry": 3746123,
                 "entry_1_name": "Macatacs",
                 "entry_1_player_name": "Stephen MacElarney",
-                "entry_1_points": 51,
+                "entry_1_points": 78,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -216,14 +216,14 @@
                 "entry_2_entry": 2780846,
                 "entry_2_name": "I am José Mourinho",
                 "entry_2_player_name": "Ihtisham Hussain",
-                "entry_2_points": 50,
+                "entry_2_points": 66,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 3746123,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -235,7 +235,7 @@
                 "entry_1_entry": 3746123,
                 "entry_1_name": "Macatacs",
                 "entry_1_player_name": "Stephen MacElarney",
-                "entry_1_points": 51,
+                "entry_1_points": 78,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -243,14 +243,14 @@
                 "entry_2_entry": 4639191,
                 "entry_2_name": "Pharaoh XI",
                 "entry_2_player_name": "Aaron Kearns",
-                "entry_2_points": 56,
+                "entry_2_points": 81,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 4639191,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

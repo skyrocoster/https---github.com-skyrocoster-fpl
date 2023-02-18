@@ -9,10 +9,10 @@
     "player_region_name": "Egypt",
     "player_region_iso_code_short": "EG",
     "player_region_iso_code_long": "EGY",
-    "summary_overall_points": 1461,
-    "summary_overall_rank": 38242,
-    "summary_event_points": 48,
-    "summary_event_rank": 3144725,
+    "summary_overall_points": 1488,
+    "summary_overall_rank": 43842,
+    "summary_event_points": 75,
+    "summary_event_rank": 3642529,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 4624,
+                "entry_rank": 5303,
                 "entry_last_rank": 4269
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2405679,
                 "cup_qualified": true,
-                "entry_rank": 2412,
+                "entry_rank": 2531,
                 "entry_last_rank": 2030
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 38235,
+                "entry_rank": 43832,
                 "entry_last_rank": 35462
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 38242,
+                "entry_rank": 43842,
                 "entry_last_rank": 35469
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2448138,
                 "cup_qualified": true,
-                "entry_rank": 396,
+                "entry_rank": 402,
                 "entry_last_rank": 354
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 5819,
+                "entry_rank": 6140,
                 "entry_last_rank": 4897
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": 2448152,
                 "cup_qualified": true,
-                "entry_rank": 500,
+                "entry_rank": 536,
                 "entry_last_rank": 450
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 13,
+                "entry_rank": 14,
                 "entry_last_rank": 8
             }
         ],
@@ -340,7 +340,7 @@
                 "entry_1_entry": 54787,
                 "entry_1_name": "Zamalek FC",
                 "entry_1_player_name": "youssef Hossam",
-                "entry_1_points": 48,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -348,14 +348,14 @@
                 "entry_2_entry": 3785527,
                 "entry_2_name": "Will's Wanderers",
                 "entry_2_player_name": "Will Horsnell",
-                "entry_2_points": 46,
+                "entry_2_points": 65,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 54787,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -367,7 +367,7 @@
                 "entry_1_entry": 54787,
                 "entry_1_name": "Zamalek FC",
                 "entry_1_player_name": "youssef Hossam",
-                "entry_1_points": 48,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -375,14 +375,14 @@
                 "entry_2_entry": 5273116,
                 "entry_2_name": "zamalek",
                 "entry_2_player_name": "seddik kamal",
-                "entry_2_points": 53,
+                "entry_2_points": 84,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405679,
-                "winner": null,
+                "winner": 5273116,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -394,7 +394,7 @@
                 "entry_1_entry": 54787,
                 "entry_1_name": "Zamalek FC",
                 "entry_1_player_name": "youssef Hossam",
-                "entry_1_points": 48,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -409,7 +409,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448138,
-                "winner": null,
+                "winner": 54787,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -421,7 +421,7 @@
                 "entry_1_entry": 54787,
                 "entry_1_name": "Zamalek FC",
                 "entry_1_player_name": "youssef Hossam",
-                "entry_1_points": 48,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -436,7 +436,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448152,
-                "winner": null,
+                "winner": 54787,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

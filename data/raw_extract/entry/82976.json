@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1313,
-    "summary_overall_rank": 1821608,
-    "summary_event_points": 46,
-    "summary_event_rank": 3473516,
+    "summary_overall_points": 1355,
+    "summary_overall_rank": 1528137,
+    "summary_event_points": 88,
+    "summary_event_rank": 856439,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 451916,
+                "entry_rank": 376768,
                 "entry_last_rank": 430982
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 44862,
+                "entry_rank": 37211,
                 "entry_last_rank": 43420
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1810886,
+                "entry_rank": 1521404,
                 "entry_last_rank": 1752651
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1821608,
+                "entry_rank": 1528137,
                 "entry_last_rank": 1761913
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 23,
+                "entry_rank": 21,
                 "entry_last_rank": 24
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 20,
+                "entry_rank": 18,
                 "entry_last_rank": 19
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 30,
+                "entry_rank": 29,
                 "entry_last_rank": 30
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 455,
+                "entry_rank": 388,
                 "entry_last_rank": 444
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 44862,
+                "entry_rank": 37211,
                 "entry_last_rank": 43420
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1027,
+                "entry_rank": 895,
                 "entry_last_rank": 1006
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1776071,
+                "entry_rank": 1171152,
                 "entry_last_rank": 1607153
             }
         ],
@@ -382,7 +382,7 @@
                 "entry_1_entry": 82976,
                 "entry_1_name": "rancho utd fc",
                 "entry_1_player_name": "Sanket Manmode",
-                "entry_1_points": 46,
+                "entry_1_points": 88,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -390,14 +390,14 @@
                 "entry_2_entry": 4374276,
                 "entry_2_name": "Ranveer",
                 "entry_2_player_name": "Ranveer Bakshi",
-                "entry_2_points": 35,
+                "entry_2_points": 51,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431356,
-                "winner": null,
+                "winner": 82976,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -409,7 +409,7 @@
                 "entry_1_entry": 3513547,
                 "entry_1_name": "Hzrdus Bloom",
                 "entry_1_player_name": "Tanny Manny",
-                "entry_1_points": 51,
+                "entry_1_points": 80,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -417,14 +417,14 @@
                 "entry_2_entry": 82976,
                 "entry_2_name": "rancho utd fc",
                 "entry_2_player_name": "Sanket Manmode",
-                "entry_2_points": 46,
+                "entry_2_points": 88,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 82976,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

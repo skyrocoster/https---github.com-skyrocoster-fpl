@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1364,
-    "summary_overall_rank": 831302,
-    "summary_event_points": 52,
-    "summary_event_rank": 2134200,
+    "summary_overall_points": 1389,
+    "summary_overall_rank": 890425,
+    "summary_event_points": 77,
+    "summary_event_rank": 3032012,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448107,
                 "cup_qualified": true,
-                "entry_rank": 3945,
+                "entry_rank": 4204,
                 "entry_last_rank": 4183
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 19862,
+                "entry_rank": 21307,
                 "entry_last_rank": 20668
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 829663,
+                "entry_rank": 888587,
                 "entry_last_rank": 871108
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 831302,
+                "entry_rank": 890425,
                 "entry_last_rank": 872795
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
+                "entry_rank": 10,
                 "entry_last_rank": 11
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 285,
+                "entry_rank": 323,
                 "entry_last_rank": 300
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 209,
+                "entry_rank": 226,
                 "entry_last_rank": 217
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 846,
+                "entry_rank": 925,
                 "entry_last_rank": 910
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3975,
+                "entry_rank": 4319,
                 "entry_last_rank": 4256
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 19862,
+                "entry_rank": 21307,
                 "entry_last_rank": 20668
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 509,
+                "entry_rank": 556,
                 "entry_last_rank": 541
             },
             {
@@ -349,7 +349,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2589,
+                "entry_rank": 2792,
                 "entry_last_rank": 2771
             },
             {
@@ -433,7 +433,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1375397,
+                "entry_rank": 1484502,
                 "entry_last_rank": 1462365
             }
         ],
@@ -481,7 +481,7 @@
                 "entry_1_entry": 1272475,
                 "entry_1_name": "Heung like a horse",
                 "entry_1_player_name": "Dafydd Cross",
-                "entry_1_points": 43,
+                "entry_1_points": 62,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -489,14 +489,14 @@
                 "entry_2_entry": 46809,
                 "entry_2_name": "acha Silva diya tune",
                 "entry_2_player_name": "Aditya Sarwate",
-                "entry_2_points": 52,
+                "entry_2_points": 77,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 46809,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -508,7 +508,7 @@
                 "entry_1_entry": 46809,
                 "entry_1_name": "acha Silva diya tune",
                 "entry_1_player_name": "Aditya Sarwate",
-                "entry_1_points": 52,
+                "entry_1_points": 77,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -516,14 +516,14 @@
                 "entry_2_entry": 4192746,
                 "entry_2_name": "maestro11",
                 "entry_2_player_name": "karan chhabra",
-                "entry_2_points": 55,
+                "entry_2_points": 81,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 4192746,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -535,7 +535,7 @@
                 "entry_1_entry": 46809,
                 "entry_1_name": "acha Silva diya tune",
                 "entry_1_player_name": "Aditya Sarwate",
-                "entry_1_points": 52,
+                "entry_1_points": 77,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -550,7 +550,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448107,
-                "winner": null,
+                "winner": 46809,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

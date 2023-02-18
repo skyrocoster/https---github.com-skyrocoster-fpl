@@ -9,10 +9,10 @@
     "player_region_name": "Colombia",
     "player_region_iso_code_short": "CO",
     "player_region_iso_code_long": "COL",
-    "summary_overall_points": 1499,
-    "summary_overall_rank": 4913,
-    "summary_event_points": 49,
-    "summary_event_rank": 2892334,
+    "summary_overall_points": 1523,
+    "summary_overall_rank": 7062,
+    "summary_event_points": 73,
+    "summary_event_rank": 4194266,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2437795,
                 "cup_qualified": true,
-                "entry_rank": 77,
+                "entry_rank": 106,
                 "entry_last_rank": 56
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4912,
+                "entry_rank": 7061,
                 "entry_last_rank": 3605
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 4913,
+                "entry_rank": 7062,
                 "entry_last_rank": 3605
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 29,
+                "entry_rank": 45,
                 "entry_last_rank": 21
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 66,
+                "entry_rank": 115,
                 "entry_last_rank": 18
             },
             {
@@ -250,7 +250,7 @@
                 "entry_1_entry": 4448196,
                 "entry_1_name": "Crida soccer",
                 "entry_1_player_name": "Davide De Marchi",
-                "entry_1_points": 54,
+                "entry_1_points": 81,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -258,14 +258,14 @@
                 "entry_2_entry": 1997028,
                 "entry_2_name": "Mayer Cancelo",
                 "entry_2_player_name": "Santiago Leal",
-                "entry_2_points": 45,
+                "entry_2_points": 69,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437795,
-                "winner": null,
+                "winner": 4448196,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

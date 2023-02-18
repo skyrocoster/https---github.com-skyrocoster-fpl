@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1059,
-    "summary_overall_rank": 6892147,
-    "summary_event_points": 49,
-    "summary_event_rank": 2704519,
+    "summary_overall_points": 1082,
+    "summary_overall_rank": 7014613,
+    "summary_event_points": 72,
+    "summary_event_rank": 4245421,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 25767,
+                "entry_rank": 26112,
                 "entry_last_rank": 26909
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2011615,
+                "entry_rank": 2038980,
                 "entry_last_rank": 2096708
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 175,
+                "entry_rank": 202,
                 "entry_last_rank": 150
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 6892147,
+                "entry_rank": 7014613,
                 "entry_last_rank": 7210796
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2280983,
+                "entry_rank": 2312728,
                 "entry_last_rank": 2378997
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 632976,
+                "entry_rank": 772095,
                 "entry_last_rank": 588809
             }
         ],
@@ -284,7 +284,7 @@
                 "entry_1_entry": 10308732,
                 "entry_1_name": "Team Bolognese",
                 "entry_1_player_name": "Kieran Evans",
-                "entry_1_points": 49,
+                "entry_1_points": 72,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -299,7 +299,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 10308732,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

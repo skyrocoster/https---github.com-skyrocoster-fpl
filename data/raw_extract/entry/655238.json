@@ -9,10 +9,10 @@
     "player_region_name": "Poland",
     "player_region_iso_code_short": "PL",
     "player_region_iso_code_long": "POL",
-    "summary_overall_points": 1511,
-    "summary_overall_rank": 2276,
-    "summary_event_points": 41,
-    "summary_event_rank": 4980013,
+    "summary_overall_points": 1542,
+    "summary_overall_rank": 2177,
+    "summary_event_points": 72,
+    "summary_event_rank": 4460626,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 10,
+                "entry_rank": 9,
                 "entry_last_rank": 4
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2437797,
                 "cup_qualified": true,
-                "entry_rank": 46,
+                "entry_rank": 45,
                 "entry_last_rank": 19
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2276,
+                "entry_rank": 2177,
                 "entry_last_rank": 933
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2276,
+                "entry_rank": 2177,
                 "entry_last_rank": 933
             },
             {
@@ -112,12 +112,12 @@
                 "scoring": "c",
                 "admin_entry": 3850,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2453775,
+                "cup_qualified": true,
                 "entry_rank": 13,
                 "entry_last_rank": 6
             },
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 17,
+                "entry_rank": 15,
                 "entry_last_rank": 7
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2448137,
                 "cup_qualified": true,
-                "entry_rank": 25,
+                "entry_rank": 24,
                 "entry_last_rank": 11
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21,
+                "entry_rank": 20,
                 "entry_last_rank": 6
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 24,
+                "entry_rank": 23,
                 "entry_last_rank": 8
             },
             {
@@ -238,13 +238,13 @@
                 "scoring": "c",
                 "admin_entry": 276021,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 23,
+                "cup_league": 2453787,
+                "cup_qualified": true,
+                "entry_rank": 20,
                 "entry_last_rank": 7
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
+                "entry_rank": 7,
                 "entry_last_rank": 3
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 17,
+                "entry_rank": 16,
                 "entry_last_rank": 6
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
+                "entry_rank": 12,
                 "entry_last_rank": 5
             },
             {
@@ -349,7 +349,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
+                "entry_rank": 9,
                 "entry_last_rank": 4
             },
             {
@@ -391,7 +391,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -412,7 +412,7 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 320,
+                "entry_rank": 305,
                 "entry_last_rank": 132
             },
             {
@@ -517,7 +517,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
+                "entry_rank": 9,
                 "entry_last_rank": 3
             },
             {
@@ -559,7 +559,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
+                "entry_rank": 12,
                 "entry_last_rank": 4
             },
             {
@@ -622,7 +622,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
+                "entry_rank": 7,
                 "entry_last_rank": 2
             },
             {
@@ -643,7 +643,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 19,
+                "entry_rank": 22,
                 "entry_last_rank": 10
             },
             {
@@ -706,7 +706,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 125406,
+                "entry_rank": 102598,
                 "entry_last_rank": 43399
             },
             {
@@ -727,7 +727,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 502,
+                "entry_rank": 547,
                 "entry_last_rank": 255
             }
         ],
@@ -802,7 +802,7 @@
                 "entry_1_entry": 655238,
                 "entry_1_name": "FCMoro",
                 "entry_1_player_name": "Paweł Morawski",
-                "entry_1_points": 37,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -810,14 +810,14 @@
                 "entry_2_entry": 22228,
                 "entry_2_name": "Why Always Me?",
                 "entry_2_player_name": "Piotr Pietrasik",
-                "entry_2_points": 53,
+                "entry_2_points": 76,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437797,
-                "winner": null,
+                "winner": 22228,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -829,7 +829,7 @@
                 "entry_1_entry": 655238,
                 "entry_1_name": "FCMoro",
                 "entry_1_player_name": "Paweł Morawski",
-                "entry_1_points": 37,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -844,7 +844,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 655238,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -856,7 +856,7 @@
                 "entry_1_entry": 655238,
                 "entry_1_name": "FCMoro",
                 "entry_1_player_name": "Paweł Morawski",
-                "entry_1_points": 37,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -871,7 +871,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448137,
-                "winner": null,
+                "winner": 655238,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

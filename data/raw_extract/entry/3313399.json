@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1395,
-    "summary_overall_rank": 410785,
-    "summary_event_points": 41,
-    "summary_event_rank": 4927225,
+    "summary_overall_points": 1415,
+    "summary_overall_rank": 516008,
+    "summary_event_points": 61,
+    "summary_event_rank": 7239424,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448108,
                 "cup_qualified": true,
-                "entry_rank": 2525,
+                "entry_rank": 3188,
                 "entry_last_rank": 2075
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 145118,
+                "entry_rank": 182949,
                 "entry_last_rank": 118250
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 410400,
+                "entry_rank": 515465,
                 "entry_last_rank": 326288
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 410785,
+                "entry_rank": 516008,
                 "entry_last_rank": 326500
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 163463,
+                "entry_rank": 206014,
                 "entry_last_rank": 133301
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 262,
+                "entry_rank": 669,
                 "entry_last_rank": 55
             }
         ],
@@ -203,7 +203,7 @@
                 "entry_1_entry": 1776,
                 "entry_1_name": "Not a Kalou",
                 "entry_1_player_name": "Tom Day",
-                "entry_1_points": 38,
+                "entry_1_points": 65,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -211,14 +211,14 @@
                 "entry_2_entry": 3313399,
                 "entry_2_name": "Playing Loud",
                 "entry_2_player_name": "David Wyatt",
-                "entry_2_points": 41,
+                "entry_2_points": 61,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 1776,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -230,7 +230,7 @@
                 "entry_1_entry": 3574884,
                 "entry_1_name": "Burtons buffoons",
                 "entry_1_player_name": "George Burton",
-                "entry_1_points": 49,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -238,14 +238,14 @@
                 "entry_2_entry": 3313399,
                 "entry_2_name": "Playing Loud",
                 "entry_2_player_name": "David Wyatt",
-                "entry_2_points": 41,
+                "entry_2_points": 61,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 3574884,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -257,7 +257,7 @@
                 "entry_1_entry": 3313399,
                 "entry_1_name": "Playing Loud",
                 "entry_1_player_name": "David Wyatt",
-                "entry_1_points": 41,
+                "entry_1_points": 61,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -272,7 +272,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448108,
-                "winner": null,
+                "winner": 3313399,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

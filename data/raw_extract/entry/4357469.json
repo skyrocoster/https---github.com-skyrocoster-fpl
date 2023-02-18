@@ -9,10 +9,10 @@
     "player_region_name": "USA",
     "player_region_iso_code_short": "US",
     "player_region_iso_code_long": "USA",
-    "summary_overall_points": 1513,
-    "summary_overall_rank": 1929,
-    "summary_event_points": 49,
-    "summary_event_rank": 2809851,
+    "summary_overall_points": 1537,
+    "summary_overall_rank": 2871,
+    "summary_event_points": 73,
+    "summary_event_rank": 4126146,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 7,
+                "entry_rank": 13,
                 "entry_last_rank": 10
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424308,
                 "cup_qualified": true,
-                "entry_rank": 52,
+                "entry_rank": 67,
                 "entry_last_rank": 41
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1929,
+                "entry_rank": 2871,
                 "entry_last_rank": 1784
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1929,
+                "entry_rank": 2871,
                 "entry_last_rank": 1784
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2424311,
                 "cup_qualified": true,
-                "entry_rank": 53,
+                "entry_rank": 67,
                 "entry_last_rank": 41
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 45705,
+                "entry_rank": 61116,
                 "entry_last_rank": 35823
             }
         ],
@@ -208,7 +208,7 @@
                 "entry_1_entry": 4357469,
                 "entry_1_name": "Return of the Calum",
                 "entry_1_player_name": "Calum Bortolussi",
-                "entry_1_points": 49,
+                "entry_1_points": 73,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -216,14 +216,14 @@
                 "entry_2_entry": 4448129,
                 "entry_2_name": "Short Pump Wednesday",
                 "entry_2_player_name": "Jonathan Kruschwitz",
-                "entry_2_points": 63,
+                "entry_2_points": 92,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424308,
-                "winner": null,
+                "winner": 4448129,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -235,7 +235,7 @@
                 "entry_1_entry": 4357469,
                 "entry_1_name": "Return of the Calum",
                 "entry_1_player_name": "Calum Bortolussi",
-                "entry_1_points": 49,
+                "entry_1_points": 73,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -243,14 +243,14 @@
                 "entry_2_entry": 930805,
                 "entry_2_name": "Soccerballers 3.0",
                 "entry_2_player_name": "J H",
-                "entry_2_points": 57,
+                "entry_2_points": 84,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424311,
-                "winner": null,
+                "winner": 930805,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -262,7 +262,7 @@
                 "entry_1_entry": 4357469,
                 "entry_1_name": "Return of the Calum",
                 "entry_1_player_name": "Calum Bortolussi",
-                "entry_1_points": 49,
+                "entry_1_points": 73,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -277,7 +277,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 4357469,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

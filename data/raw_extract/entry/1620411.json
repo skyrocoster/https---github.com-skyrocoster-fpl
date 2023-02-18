@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1385,
-    "summary_overall_rank": 528168,
-    "summary_event_points": 45,
-    "summary_event_rank": 3953463,
+    "summary_overall_points": 1408,
+    "summary_overall_rank": 606306,
+    "summary_event_points": 68,
+    "summary_event_rank": 5501491,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 41227,
+                "entry_rank": 47147,
                 "entry_last_rank": 33161
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 55,
+                "entry_rank": 57,
                 "entry_last_rank": 42
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 527529,
+                "entry_rank": 605514,
                 "entry_last_rank": 427737
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 528168,
+                "entry_rank": 606306,
                 "entry_last_rank": 428081
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 30190,
+                "entry_rank": 34970,
                 "entry_last_rank": 26813
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 489016,
+                "entry_rank": 607898,
                 "entry_last_rank": 293331
             }
         ],
@@ -250,7 +250,7 @@
                 "entry_1_entry": 1620411,
                 "entry_1_name": "mXI",
                 "entry_1_player_name": "Michael Small",
-                "entry_1_points": 41,
+                "entry_1_points": 64,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -258,14 +258,14 @@
                 "entry_2_entry": 4595792,
                 "entry_2_name": "OJDizzle",
                 "entry_2_player_name": "Wale OJD",
-                "entry_2_points": 46,
+                "entry_2_points": 72,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405671,
-                "winner": null,
+                "winner": 4595792,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -277,7 +277,7 @@
                 "entry_1_entry": 1620411,
                 "entry_1_name": "mXI",
                 "entry_1_player_name": "Michael Small",
-                "entry_1_points": 41,
+                "entry_1_points": 64,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -285,14 +285,14 @@
                 "entry_2_entry": 2353795,
                 "entry_2_name": "Roca the Casbah",
                 "entry_2_player_name": "Tom Macare",
-                "entry_2_points": 55,
+                "entry_2_points": 91,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 2353795,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

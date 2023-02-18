@@ -9,10 +9,10 @@
     "player_region_name": "Kuwait",
     "player_region_iso_code_short": "KW",
     "player_region_iso_code_long": "KWT",
-    "summary_overall_points": 1370,
-    "summary_overall_rank": 738119,
-    "summary_event_points": 39,
-    "summary_event_rank": 5373989,
+    "summary_overall_points": 1399,
+    "summary_overall_rank": 735508,
+    "summary_event_points": 68,
+    "summary_event_rank": 5453758,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 185864,
+                "entry_rank": 183067,
                 "entry_last_rank": 145552
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2448120,
                 "cup_qualified": true,
-                "entry_rank": 5282,
+                "entry_rank": 5234,
                 "entry_last_rank": 4124
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 736858,
+                "entry_rank": 734299,
                 "entry_last_rank": 589254
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 738119,
+                "entry_rank": 735508,
                 "entry_last_rank": 589932
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1640,
+                "entry_rank": 1643,
                 "entry_last_rank": 1316
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1828,
+                "entry_rank": 1816,
                 "entry_last_rank": 1475
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 119045,
+                "entry_rank": 115749,
                 "entry_last_rank": 89411
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1572,
+                "entry_rank": 1567,
                 "entry_last_rank": 1277
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1066,
+                "entry_rank": 1057,
                 "entry_last_rank": 863
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1699,
+                "entry_rank": 1693,
                 "entry_last_rank": 1367
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 310,
+                "entry_rank": 304,
                 "entry_last_rank": 246
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1826,
+                "entry_rank": 1817,
                 "entry_last_rank": 1460
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 207,
+                "entry_rank": 184,
                 "entry_last_rank": 36
             }
         ],
@@ -328,7 +328,7 @@
                 "entry_1_entry": 4429954,
                 "entry_1_name": "Abo junior7",
                 "entry_1_player_name": "melfi Aldihani",
-                "entry_1_points": 39,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -336,14 +336,14 @@
                 "entry_2_entry": 7683011,
                 "entry_2_name": "el professor",
                 "entry_2_player_name": "Ahmed Deif",
-                "entry_2_points": 44,
+                "entry_2_points": 70,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 7683011,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -355,7 +355,7 @@
                 "entry_1_entry": 4039675,
                 "entry_1_name": "A squad",
                 "entry_1_player_name": "Alloyse Ibaru",
-                "entry_1_points": 48,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -363,14 +363,14 @@
                 "entry_2_entry": 4429954,
                 "entry_2_name": "Abo junior7",
                 "entry_2_player_name": "melfi Aldihani",
-                "entry_2_points": 39,
+                "entry_2_points": 68,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 4039675,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -382,7 +382,7 @@
                 "entry_1_entry": 2353988,
                 "entry_1_name": "القاضية ممكن",
                 "entry_1_player_name": "Mohamed Eltornadoo",
-                "entry_1_points": 43,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -390,17 +390,17 @@
                 "entry_2_entry": 4429954,
                 "entry_2_name": "Abo junior7",
                 "entry_2_player_name": "melfi Aldihani",
-                "entry_2_points": 39,
+                "entry_2_points": 68,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381816,
-                "winner": null,
+                "winner": 4429954,
                 "seed_value": null,
                 "event": 23,
-                "tiebreak": null,
+                "tiebreak": "goals_conceded",
                 "is_bye": false,
                 "knockout_name": "Round of 65536"
             },
@@ -409,7 +409,7 @@
                 "entry_1_entry": 4429954,
                 "entry_1_name": "Abo junior7",
                 "entry_1_player_name": "melfi Aldihani",
-                "entry_1_points": 39,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -424,7 +424,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448120,
-                "winner": null,
+                "winner": 4429954,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

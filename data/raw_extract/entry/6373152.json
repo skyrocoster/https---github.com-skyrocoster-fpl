@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1554,
-    "summary_overall_rank": 114,
-    "summary_event_points": 54,
-    "summary_event_rank": 1691634,
+    "summary_overall_points": 1569,
+    "summary_overall_rank": 336,
+    "summary_event_points": 69,
+    "summary_event_rank": 5198209,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 31,
+                "entry_rank": 79,
                 "entry_last_rank": 28
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 4,
+                "entry_rank": 9,
                 "entry_last_rank": 5
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 114,
+                "entry_rank": 336,
                 "entry_last_rank": 123
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 114,
+                "entry_rank": 336,
                 "entry_last_rank": 123
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2448151,
                 "cup_qualified": true,
-                "entry_rank": 2,
+                "entry_rank": 8,
                 "entry_last_rank": 2
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 3,
                 "entry_last_rank": 3
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1416873,
+                "entry_rank": 1973459,
                 "entry_last_rank": 1598444
             }
         ],
@@ -298,7 +298,7 @@
                 "entry_1_entry": 3928049,
                 "entry_1_name": "SakaPotatoes",
                 "entry_1_player_name": "RASH AAAAAAAAAAA",
-                "entry_1_points": 49,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -306,14 +306,14 @@
                 "entry_2_entry": 6373152,
                 "entry_2_name": "Come on the Pegs",
                 "entry_2_player_name": "Peter Lougheed",
-                "entry_2_points": 54,
+                "entry_2_points": 69,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 3928049,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -325,7 +325,7 @@
                 "entry_1_entry": 6373152,
                 "entry_1_name": "Come on the Pegs",
                 "entry_1_player_name": "Peter Lougheed",
-                "entry_1_points": 54,
+                "entry_1_points": 69,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -340,7 +340,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448151,
-                "winner": null,
+                "winner": 6373152,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

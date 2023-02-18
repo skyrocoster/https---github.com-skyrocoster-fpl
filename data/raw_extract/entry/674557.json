@@ -9,10 +9,10 @@
     "player_region_name": "Iceland",
     "player_region_iso_code_short": "IS",
     "player_region_iso_code_long": "ISL",
-    "summary_overall_points": 1537,
-    "summary_overall_rank": 356,
-    "summary_event_points": 56,
-    "summary_event_rank": 1300240,
+    "summary_overall_points": 1569,
+    "summary_overall_rank": 335,
+    "summary_event_points": 88,
+    "summary_event_rank": 909181,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2424301,
                 "cup_qualified": true,
-                "entry_rank": 14,
+                "entry_rank": 11,
                 "entry_last_rank": 23
             },
             {
@@ -53,8 +53,8 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2453756,
+                "cup_qualified": true,
                 "entry_rank": 3,
                 "entry_last_rank": 4
             },
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 356,
+                "entry_rank": 335,
                 "entry_last_rank": 557
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 356,
+                "entry_rank": 335,
                 "entry_last_rank": 557
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
+                "entry_rank": 4,
                 "entry_last_rank": 12
             }
         ],
@@ -250,7 +250,7 @@
                 "entry_1_entry": 10631489,
                 "entry_1_name": "Nick Knights",
                 "entry_1_player_name": "Nicholas Appalsamy",
-                "entry_1_points": 46,
+                "entry_1_points": 57,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -258,14 +258,14 @@
                 "entry_2_entry": 674557,
                 "entry_2_name": "diego11",
                 "entry_2_player_name": "Andri Diego",
-                "entry_2_points": 56,
+                "entry_2_points": 88,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424301,
-                "winner": null,
+                "winner": 674557,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "Oman",
     "player_region_iso_code_short": "OM",
     "player_region_iso_code_long": "OMN",
-    "summary_overall_points": 1481,
-    "summary_overall_rank": 13801,
-    "summary_event_points": 58,
-    "summary_event_rank": 960154,
+    "summary_overall_points": 1498,
+    "summary_overall_rank": 27279,
+    "summary_event_points": 75,
+    "summary_event_rank": 3569515,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 3526,
+                "entry_rank": 6798,
                 "entry_last_rank": 5356
             },
             {
@@ -53,9 +53,9 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 19,
+                "cup_league": 2453763,
+                "cup_qualified": true,
+                "entry_rank": 36,
                 "entry_last_rank": 25
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 13800,
+                "entry_rank": 27274,
                 "entry_last_rank": 21458
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 13801,
+                "entry_rank": 27279,
                 "entry_last_rank": 21460
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 23,
+                "entry_rank": 40,
                 "entry_last_rank": 31
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 2047,
+                "entry_rank": 3823,
                 "entry_last_rank": 2918
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
+                "entry_rank": 55,
                 "entry_last_rank": 23
             }
         ],
@@ -223,7 +223,7 @@
                 "entry_1_entry": 3253787,
                 "entry_1_name": "King Erik",
                 "entry_1_player_name": "kevin murphy",
-                "entry_1_points": 46,
+                "entry_1_points": 63,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -231,14 +231,14 @@
                 "entry_2_entry": 2454192,
                 "entry_2_name": "Strong Corps",
                 "entry_2_player_name": "Salim Ali",
-                "entry_2_points": 58,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 2454192,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -250,7 +250,7 @@
                 "entry_1_entry": 9482729,
                 "entry_1_name": "liverpool",
                 "entry_1_player_name": "adham mohamed",
-                "entry_1_points": 44,
+                "entry_1_points": 70,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -258,14 +258,14 @@
                 "entry_2_entry": 2454192,
                 "entry_2_name": "Strong Corps",
                 "entry_2_player_name": "Salim Ali",
-                "entry_2_points": 58,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381816,
-                "winner": null,
+                "winner": 2454192,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1538,
-    "summary_overall_rank": 334,
-    "summary_event_points": 33,
-    "summary_event_rank": 6709224,
+    "summary_overall_points": 1571,
+    "summary_overall_rank": 292,
+    "summary_event_points": 66,
+    "summary_event_rank": 6013433,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2437793,
                 "cup_qualified": true,
-                "entry_rank": 2,
+                "entry_rank": 4,
                 "entry_last_rank": 1
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 97,
+                "entry_rank": 89,
                 "entry_last_rank": 17
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 334,
+                "entry_rank": 292,
                 "entry_last_rank": 62
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 334,
+                "entry_rank": 292,
                 "entry_last_rank": 62
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 119,
+                "entry_rank": 105,
                 "entry_last_rank": 23
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 40402,
+                "entry_rank": 26821,
                 "entry_last_rank": 4917
             }
         ],
@@ -236,7 +236,7 @@
                 "entry_1_entry": 3496702,
                 "entry_1_name": "Simo FC",
                 "entry_1_player_name": "Stuart Simpson",
-                "entry_1_points": 29,
+                "entry_1_points": 62,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -244,14 +244,14 @@
                 "entry_2_entry": 7363705,
                 "entry_2_name": "Acres Aces",
                 "entry_2_player_name": "gavin Acres",
-                "entry_2_points": 63,
+                "entry_2_points": 94,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 7363705,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -263,7 +263,7 @@
                 "entry_1_entry": 7118132,
                 "entry_1_name": "The Finlay all stars",
                 "entry_1_player_name": "David Finlay",
-                "entry_1_points": 12,
+                "entry_1_points": 46,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -271,14 +271,14 @@
                 "entry_2_entry": 3496702,
                 "entry_2_name": "Simo FC",
                 "entry_2_player_name": "Stuart Simpson",
-                "entry_2_points": 29,
+                "entry_2_points": 62,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437793,
-                "winner": null,
+                "winner": 3496702,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

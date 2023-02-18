@@ -9,10 +9,10 @@
     "player_region_name": "Denmark",
     "player_region_iso_code_short": "DK",
     "player_region_iso_code_long": "DNK",
-    "summary_overall_points": 1486,
-    "summary_overall_rank": 10140,
-    "summary_event_points": 40,
-    "summary_event_rank": 5154616,
+    "summary_overall_points": 1524,
+    "summary_overall_rank": 6453,
+    "summary_event_points": 78,
+    "summary_event_rank": 2785209,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 57,
+                "entry_rank": 34,
                 "entry_last_rank": 28
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2448112,
                 "cup_qualified": true,
-                "entry_rank": 92,
+                "entry_rank": 62,
                 "entry_last_rank": 57
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10139,
+                "entry_rank": 6452,
                 "entry_last_rank": 5709
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 10140,
+                "entry_rank": 6453,
                 "entry_last_rank": 5710
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 1324,
+                "entry_rank": 904,
                 "entry_last_rank": 792
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 30,
+                "entry_rank": 21,
                 "entry_last_rank": 20
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 139198,
+                "entry_rank": 71151,
                 "entry_last_rank": 62202
             }
         ],
@@ -256,7 +256,7 @@
                 "entry_1_entry": 215112,
                 "entry_1_name": "Sterling Dived",
                 "entry_1_player_name": "Morten Troelsen",
-                "entry_1_points": 40,
+                "entry_1_points": 78,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -271,7 +271,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 215112,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -283,7 +283,7 @@
                 "entry_1_entry": 215112,
                 "entry_1_name": "Sterling Dived",
                 "entry_1_player_name": "Morten Troelsen",
-                "entry_1_points": 40,
+                "entry_1_points": 78,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -298,7 +298,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448112,
-                "winner": null,
+                "winner": 215112,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

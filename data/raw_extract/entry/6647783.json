@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1547,
-    "summary_overall_rank": 175,
-    "summary_event_points": 55,
-    "summary_event_rank": 1490578,
+    "summary_overall_points": 1567,
+    "summary_overall_rank": 383,
+    "summary_event_points": 75,
+    "summary_event_rank": 3569515,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 44,
+                "entry_rank": 90,
                 "entry_last_rank": 58
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 6,
+                "entry_rank": 11,
                 "entry_last_rank": 8
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 175,
+                "entry_rank": 383,
                 "entry_last_rank": 242
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 175,
+                "entry_rank": 383,
                 "entry_last_rank": 242
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 16,
+                "entry_rank": 31,
                 "entry_last_rank": 21
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 5,
+                "entry_rank": 9,
                 "entry_last_rank": 6
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2448151,
                 "cup_qualified": true,
-                "entry_rank": 3,
+                "entry_rank": 11,
                 "entry_last_rank": 5
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10289,
+                "entry_rank": 20555,
                 "entry_last_rank": 12876
             }
         ],
@@ -325,7 +325,7 @@
                 "entry_1_entry": 6647783,
                 "entry_1_name": "FC Spare some change",
                 "entry_1_player_name": "Stuart Creane",
-                "entry_1_points": 55,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -333,14 +333,14 @@
                 "entry_2_entry": 268472,
                 "entry_2_name": "FC Wiejska",
                 "entry_2_player_name": "Oktawian Trzcinski",
-                "entry_2_points": 46,
+                "entry_2_points": 81,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 268472,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -352,7 +352,7 @@
                 "entry_1_entry": 5878695,
                 "entry_1_name": "Roteiro FC",
                 "entry_1_player_name": "Ahmad Syauqee",
-                "entry_1_points": 33,
+                "entry_1_points": 63,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -360,14 +360,14 @@
                 "entry_2_entry": 6647783,
                 "entry_2_name": "FC Spare some change",
                 "entry_2_player_name": "Stuart Creane",
-                "entry_2_points": 55,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437809,
-                "winner": null,
+                "winner": 6647783,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -379,7 +379,7 @@
                 "entry_1_entry": 6647783,
                 "entry_1_name": "FC Spare some change",
                 "entry_1_player_name": "Stuart Creane",
-                "entry_1_points": 55,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -394,7 +394,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448151,
-                "winner": null,
+                "winner": 6647783,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "Bulgaria",
     "player_region_iso_code_short": "BG",
     "player_region_iso_code_long": "BGR",
-    "summary_overall_points": 1485,
-    "summary_overall_rank": 10845,
-    "summary_event_points": 56,
-    "summary_event_rank": 1368360,
+    "summary_overall_points": 1528,
+    "summary_overall_rank": 5158,
+    "summary_event_points": 99,
+    "summary_event_rank": 154282,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 64,
+                "entry_rank": 24,
                 "entry_last_rank": 68
             },
             {
@@ -53,9 +53,9 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 49,
+                "cup_league": 2453752,
+                "cup_qualified": true,
+                "entry_rank": 27,
                 "entry_last_rank": 52
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10844,
+                "entry_rank": 5157,
                 "entry_last_rank": 12234
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 10845,
+                "entry_rank": 5158,
                 "entry_last_rank": 12235
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
+                "entry_rank": 4,
                 "entry_last_rank": 8
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 33,
+                "entry_rank": 7,
                 "entry_last_rank": 76
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 14,
+                "entry_rank": 8,
                 "entry_last_rank": 17
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21,
+                "entry_rank": 11,
                 "entry_last_rank": 21
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 121908,
+                "entry_rank": 42148,
                 "entry_last_rank": 124695
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 2,
                 "entry_last_rank": 3
             },
             {
@@ -351,7 +351,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 14,
+                "entry_rank": 12,
                 "entry_last_rank": 14
             },
             {
@@ -372,7 +372,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 72,
+                "entry_rank": 54,
                 "entry_last_rank": 72
             }
         ],
@@ -419,7 +419,7 @@
                 "entry_1_entry": 1129792,
                 "entry_1_name": "Bako Team",
                 "entry_1_player_name": "Ivan Krastilov",
-                "entry_1_points": 52,
+                "entry_1_points": 95,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -434,7 +434,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 1129792,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

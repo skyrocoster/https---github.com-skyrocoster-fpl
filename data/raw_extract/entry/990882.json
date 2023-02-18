@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1537,
-    "summary_overall_rank": 362,
-    "summary_event_points": 55,
-    "summary_event_rank": 1490578,
+    "summary_overall_points": 1557,
+    "summary_overall_rank": 787,
+    "summary_event_points": 75,
+    "summary_event_rank": 3569515,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 88,
+                "entry_rank": 185,
                 "entry_last_rank": 124
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 11,
+                "entry_rank": 28,
                 "entry_last_rank": 23
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 362,
+                "entry_rank": 787,
                 "entry_last_rank": 523
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 362,
+                "entry_rank": 787,
                 "entry_last_rank": 523
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 31791,
+                "entry_rank": 57975,
                 "entry_last_rank": 39732
             }
         ],
@@ -362,7 +362,7 @@
                 "entry_1_entry": 990882,
                 "entry_1_name": "Maz Magicians",
                 "entry_1_player_name": "nathan mc ivor",
-                "entry_1_points": 55,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -370,17 +370,17 @@
                 "entry_2_entry": 808439,
                 "entry_2_name": "Bissoumas Boys",
                 "entry_2_player_name": "Dean Byrne",
-                "entry_2_points": 37,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 808439,
                 "seed_value": null,
                 "event": 23,
-                "tiebreak": null,
+                "tiebreak": "goals_scored",
                 "is_bye": false,
                 "knockout_name": "Round of 65536"
             }

@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 861,
-    "summary_overall_rank": 9324254,
-    "summary_event_points": 52,
-    "summary_event_rank": 2048901,
+    "summary_overall_points": 897,
+    "summary_overall_rank": 9263919,
+    "summary_event_points": 88,
+    "summary_event_rank": 856439,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 34344,
+                "entry_rank": 34048,
                 "entry_last_rank": 35109
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2544225,
+                "entry_rank": 2529946,
                 "entry_last_rank": 2589956
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 58036,
+                "entry_rank": 52929,
                 "entry_last_rank": 73537
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 9324254,
+                "entry_rank": 9263919,
                 "entry_last_rank": 9564053
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2895016,
+                "entry_rank": 2878619,
                 "entry_last_rank": 2948101
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
+                "entry_rank": 6,
                 "entry_last_rank": 7
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3992800,
+                "entry_rank": 3612472,
                 "entry_last_rank": 4384588
             }
         ],
@@ -262,7 +262,7 @@
                 "entry_1_entry": 10309489,
                 "entry_1_name": "Bowie Squad",
                 "entry_1_player_name": "Lauren Valcin",
-                "entry_1_points": 52,
+                "entry_1_points": 88,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -277,7 +277,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 10309489,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

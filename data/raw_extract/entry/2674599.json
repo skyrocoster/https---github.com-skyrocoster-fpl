@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1537,
-    "summary_overall_rank": 354,
-    "summary_event_points": 51,
-    "summary_event_rank": 2422063,
+    "summary_overall_points": 1556,
+    "summary_overall_rank": 841,
+    "summary_event_points": 70,
+    "summary_event_rank": 4990695,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 86,
+                "entry_rank": 198,
                 "entry_last_rank": 66
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 10,
+                "entry_rank": 33,
                 "entry_last_rank": 12
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 354,
+                "entry_rank": 841,
                 "entry_last_rank": 281
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 354,
+                "entry_rank": 841,
                 "entry_last_rank": 281
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 177321,
+                "entry_rank": 293638,
                 "entry_last_rank": 133218
             }
         ],
@@ -277,7 +277,7 @@
                 "entry_1_entry": 2674599,
                 "entry_1_name": "Man Red",
                 "entry_1_player_name": "David Crean",
-                "entry_1_points": 47,
+                "entry_1_points": 66,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -285,14 +285,14 @@
                 "entry_2_entry": 2709341,
                 "entry_2_name": "Boomtown FC",
                 "entry_2_player_name": "grahame kennedy",
-                "entry_2_points": 43,
+                "entry_2_points": 85,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 2709341,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

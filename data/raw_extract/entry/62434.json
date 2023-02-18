@@ -9,10 +9,10 @@
     "player_region_name": "Vietnam",
     "player_region_iso_code_short": "VN",
     "player_region_iso_code_long": "VNM",
-    "summary_overall_points": 1366,
-    "summary_overall_rank": 803568,
-    "summary_event_points": 60,
-    "summary_event_rank": 692408,
+    "summary_overall_points": 1391,
+    "summary_overall_rank": 862472,
+    "summary_event_points": 85,
+    "summary_event_rank": 1365709,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 202052,
+                "entry_rank": 214282,
                 "entry_last_rank": 240989
             },
             {
@@ -53,9 +53,9 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 1193,
+                "cup_league": 2453769,
+                "cup_qualified": true,
+                "entry_rank": 1270,
                 "entry_last_rank": 1444
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 802052,
+                "entry_rank": 860759,
                 "entry_last_rank": 977407
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 803568,
+                "entry_rank": 862472,
                 "entry_last_rank": 979594
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2448131,
                 "cup_qualified": true,
-                "entry_rank": 10742,
+                "entry_rank": 11567,
                 "entry_last_rank": 12855
             },
             {
@@ -133,13 +133,13 @@
                 "scoring": "c",
                 "admin_entry": 40,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 6269,
+                "cup_league": 2453771,
+                "cup_qualified": true,
+                "entry_rank": 6812,
                 "entry_last_rank": 7393
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 41692,
+                "entry_rank": 45203,
                 "entry_last_rank": 49268
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 66,
+                "entry_rank": 74,
                 "entry_last_rank": 83
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 65,
+                "entry_rank": 74,
                 "entry_last_rank": 82
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 19170,
+                "entry_rank": 20527,
                 "entry_last_rank": 22730
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 36,
+                "entry_rank": 39,
                 "entry_last_rank": 46
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 32,
+                "entry_rank": 34,
                 "entry_last_rank": 38
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2175,
+                "entry_rank": 2325,
                 "entry_last_rank": 2577
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 31,
+                "entry_rank": 33,
                 "entry_last_rank": 36
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 518,
+                "entry_rank": 552,
                 "entry_last_rank": 634
             },
             {
@@ -370,7 +370,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 130,
+                "entry_rank": 141,
                 "entry_last_rank": 156
             },
             {
@@ -412,7 +412,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 27,
+                "entry_rank": 32,
                 "entry_last_rank": 69
             }
         ],
@@ -435,7 +435,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 98,
+                "entry_rank": 78,
                 "entry_last_rank": 98
             },
             {
@@ -476,7 +476,7 @@
                 "entry_1_entry": 6835007,
                 "entry_1_name": "Subzero81",
                 "entry_1_player_name": "Robbin Varghese",
-                "entry_1_points": 57,
+                "entry_1_points": 73,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -484,14 +484,14 @@
                 "entry_2_entry": 62434,
                 "entry_2_name": "TrungDZ",
                 "entry_2_player_name": "Trung Luong",
-                "entry_2_points": 60,
+                "entry_2_points": 85,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 62434,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -503,7 +503,7 @@
                 "entry_1_entry": 62434,
                 "entry_1_name": "TrungDZ",
                 "entry_1_player_name": "Trung Luong",
-                "entry_1_points": 60,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -511,14 +511,14 @@
                 "entry_2_entry": 936935,
                 "entry_2_name": "Team Name",
                 "entry_2_player_name": "Daniel Polidano",
-                "entry_2_points": 40,
+                "entry_2_points": 74,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 62434,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -530,7 +530,7 @@
                 "entry_1_entry": 62434,
                 "entry_1_name": "TrungDZ",
                 "entry_1_player_name": "Trung Luong",
-                "entry_1_points": 60,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -538,14 +538,14 @@
                 "entry_2_entry": 106439,
                 "entry_2_name": "Vamos",
                 "entry_2_player_name": "Lewis Graves",
-                "entry_2_points": 53,
+                "entry_2_points": 98,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 106439,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -557,7 +557,7 @@
                 "entry_1_entry": 62434,
                 "entry_1_name": "TrungDZ",
                 "entry_1_player_name": "Trung Luong",
-                "entry_1_points": 60,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -565,14 +565,14 @@
                 "entry_2_entry": 4962111,
                 "entry_2_name": "Under my Cucurella",
                 "entry_2_player_name": "Arshad Nadeem",
-                "entry_2_points": 48,
+                "entry_2_points": 89,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437809,
-                "winner": null,
+                "winner": 4962111,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -584,7 +584,7 @@
                 "entry_1_entry": 62434,
                 "entry_1_name": "TrungDZ",
                 "entry_1_player_name": "Trung Luong",
-                "entry_1_points": 60,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -599,7 +599,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448131,
-                "winner": null,
+                "winner": 62434,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "United Arab Emirates",
     "player_region_iso_code_short": "AE",
     "player_region_iso_code_long": "ARE",
-    "summary_overall_points": 1435,
-    "summary_overall_rank": 112749,
-    "summary_event_points": 46,
-    "summary_event_rank": 3595463,
+    "summary_overall_points": 1463,
+    "summary_overall_rank": 120961,
+    "summary_event_points": 74,
+    "summary_event_rank": 3849436,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 13785,
+                "entry_rank": 14693,
                 "entry_last_rank": 12063
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2437804,
                 "cup_qualified": true,
-                "entry_rank": 705,
+                "entry_rank": 755,
                 "entry_last_rank": 605
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 112710,
+                "entry_rank": 120918,
                 "entry_last_rank": 99081
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 112749,
+                "entry_rank": 120961,
                 "entry_last_rank": 99112
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 311,
+                "entry_rank": 369,
                 "entry_last_rank": 320
             },
             {
@@ -154,13 +154,13 @@
                 "scoring": "c",
                 "admin_entry": 25277,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 1535,
+                "cup_league": 2453777,
+                "cup_qualified": true,
+                "entry_rank": 1785,
                 "entry_last_rank": 1476
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 16958,
+                "entry_rank": 17157,
                 "entry_last_rank": 13870
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 121908,
+                "entry_rank": 121428,
                 "entry_last_rank": 82795
             }
         ],
@@ -325,7 +325,7 @@
                 "entry_1_entry": 41748,
                 "entry_1_name": "Kloppage Time",
                 "entry_1_player_name": "Daniel Bloodworth",
-                "entry_1_points": 46,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -333,14 +333,14 @@
                 "entry_2_entry": 8125049,
                 "entry_2_name": "ahi",
                 "entry_2_player_name": "Ahmed Ayed",
-                "entry_2_points": 13,
+                "entry_2_points": 57,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437804,
-                "winner": null,
+                "winner": 41748,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

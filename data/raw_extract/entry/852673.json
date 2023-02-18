@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1286,
-    "summary_overall_rank": 2415925,
-    "summary_event_points": 53,
-    "summary_event_rank": 1990857,
+    "summary_overall_points": 1305,
+    "summary_overall_rank": 2623086,
+    "summary_event_points": 72,
+    "summary_event_rank": 4460626,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448106,
                 "cup_qualified": true,
-                "entry_rank": 12315,
+                "entry_rank": 13422,
                 "entry_last_rank": 12583
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 782311,
+                "entry_rank": 846425,
                 "entry_last_rank": 799329
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2392941,
+                "entry_rank": 2594874,
                 "entry_last_rank": 2427075
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2415925,
+                "entry_rank": 2623086,
                 "entry_last_rank": 2449319
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 561,
+                "entry_rank": 598,
                 "entry_last_rank": 574
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2437814,
                 "cup_qualified": true,
-                "entry_rank": 34063,
+                "entry_rank": 36841,
                 "entry_last_rank": 34831
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2437815,
                 "cup_qualified": true,
-                "entry_rank": 60584,
+                "entry_rank": 64595,
                 "entry_last_rank": 61688
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 882718,
+                "entry_rank": 955158,
                 "entry_last_rank": 902291
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 34,
+                "entry_rank": 37,
                 "entry_last_rank": 36
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2572853,
+                "entry_rank": 2985844,
                 "entry_last_rank": 2601974
             }
         ],
@@ -346,7 +346,7 @@
                 "entry_1_entry": 852673,
                 "entry_1_name": "JF",
                 "entry_1_player_name": "Jude Frostick",
-                "entry_1_points": 49,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -354,14 +354,14 @@
                 "entry_2_entry": 8250739,
                 "entry_2_name": "Youane Gueye",
                 "entry_2_player_name": "Henderson Chan",
-                "entry_2_points": 54,
+                "entry_2_points": 69,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437814,
-                "winner": null,
+                "winner": 8250739,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -373,7 +373,7 @@
                 "entry_1_entry": 852673,
                 "entry_1_name": "JF",
                 "entry_1_player_name": "Jude Frostick",
-                "entry_1_points": 49,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -381,14 +381,14 @@
                 "entry_2_entry": 46170,
                 "entry_2_name": "Kevin de Bruno FC",
                 "entry_2_player_name": "Aryan Goel",
-                "entry_2_points": 44,
+                "entry_2_points": 70,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437815,
-                "winner": null,
+                "winner": 46170,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -400,7 +400,7 @@
                 "entry_1_entry": 852673,
                 "entry_1_name": "JF",
                 "entry_1_player_name": "Jude Frostick",
-                "entry_1_points": 49,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -415,7 +415,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448106,
-                "winner": null,
+                "winner": 852673,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1341,
-    "summary_overall_rank": 1240928,
-    "summary_event_points": 35,
-    "summary_event_rank": 6097571,
+    "summary_overall_points": 1375,
+    "summary_overall_rank": 1134590,
+    "summary_event_points": 69,
+    "summary_event_rank": 5030709,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 309995,
+                "entry_rank": 281117,
                 "entry_last_rank": 240440
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 418879,
+                "entry_rank": 387548,
                 "entry_last_rank": 338649
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1236745,
+                "entry_rank": 1131354,
                 "entry_last_rank": 974925
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1240928,
+                "entry_rank": 1134590,
                 "entry_last_rank": 977099
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9,
+                "entry_rank": 10,
                 "entry_last_rank": 9
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 26922,
+                "entry_rank": 25436,
                 "entry_last_rank": 22657
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 32,
+                "entry_rank": 31,
                 "entry_last_rank": 28
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
+                "entry_rank": 9,
                 "entry_last_rank": 6
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
+                "entry_rank": 7,
                 "entry_last_rank": 7
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 472457,
+                "entry_rank": 437014,
                 "entry_last_rank": 381995
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2479677,
+                "entry_rank": 2164725,
                 "entry_last_rank": 1790630
             }
         ],
@@ -457,7 +457,7 @@
                 "entry_1_entry": 5479432,
                 "entry_1_name": "mugiwara",
                 "entry_1_player_name": "nunul .",
-                "entry_1_points": 44,
+                "entry_1_points": 65,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -465,14 +465,14 @@
                 "entry_2_entry": 1709946,
                 "entry_2_name": "Winning XI",
                 "entry_2_player_name": "Sameer Mannick",
-                "entry_2_points": 35,
+                "entry_2_points": 69,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437809,
-                "winner": null,
+                "winner": 1709946,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

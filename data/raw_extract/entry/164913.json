@@ -9,10 +9,10 @@
     "player_region_name": "Sri Lanka",
     "player_region_iso_code_short": "LK",
     "player_region_iso_code_long": "LKA",
-    "summary_overall_points": 1398,
-    "summary_overall_rank": 380645,
-    "summary_event_points": 51,
-    "summary_event_rank": 2353945,
+    "summary_overall_points": 1440,
+    "summary_overall_rank": 264850,
+    "summary_event_points": 93,
+    "summary_event_rank": 426677,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 51750,
+                "entry_rank": 37123,
                 "entry_last_rank": 54753
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 121,
+                "entry_rank": 84,
                 "entry_last_rank": 122
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 380312,
+                "entry_rank": 264691,
                 "entry_last_rank": 396886
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 380645,
+                "entry_rank": 264850,
                 "entry_last_rank": 397193
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 22831,
+                "entry_rank": 17705,
                 "entry_last_rank": 25255
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2448142,
                 "cup_qualified": true,
-                "entry_rank": 4321,
+                "entry_rank": 3258,
                 "entry_last_rank": 4661
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2437814,
                 "cup_qualified": true,
-                "entry_rank": 6009,
+                "entry_rank": 4261,
                 "entry_last_rank": 6455
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2437815,
                 "cup_qualified": true,
-                "entry_rank": 12997,
+                "entry_rank": 9507,
                 "entry_last_rank": 14058
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 856,
+                "entry_rank": 631,
                 "entry_last_rank": 953
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2039790,
+                "entry_rank": 1395028,
                 "entry_last_rank": 2129017
             }
         ],
@@ -373,7 +373,7 @@
                 "entry_1_entry": 164913,
                 "entry_1_name": "Lord Jesus Christ",
                 "entry_1_player_name": "George Edwards",
-                "entry_1_points": 51,
+                "entry_1_points": 93,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -381,14 +381,14 @@
                 "entry_2_entry": 111005,
                 "entry_2_name": "Hameljana",
                 "entry_2_player_name": "Šura Dino",
-                "entry_2_points": 39,
+                "entry_2_points": 77,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 164913,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -400,7 +400,7 @@
                 "entry_1_entry": 164913,
                 "entry_1_name": "Lord Jesus Christ",
                 "entry_1_player_name": "George Edwards",
-                "entry_1_points": 51,
+                "entry_1_points": 93,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -415,7 +415,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448142,
-                "winner": null,
+                "winner": 164913,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

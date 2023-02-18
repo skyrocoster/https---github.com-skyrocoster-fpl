@@ -317,12 +317,13 @@ player_gw_sum = [
 ]
 
 no_of_fixtures = (
-    player_fixture_history[["player_id", "gameweek_id"]]
+    player_fixture_history[["player_id", "gameweek_id", "team_id"]]
     .groupby(["player_id", "gameweek_id"])
-    .value_counts()
+    .count()
     .reset_index()
-    .rename(columns={0: "fixture_count"})
+    .rename(columns={"team_id": "fixture_count"})
 )
+
 
 player_gw = player_fixture_history[player_gw_sum]
 player_gw = player_gw.groupby(["player_id", "gameweek_id"]).mean().reset_index()

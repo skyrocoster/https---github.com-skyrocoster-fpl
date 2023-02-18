@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1373,
-    "summary_overall_rank": 696115,
-    "summary_event_points": 61,
-    "summary_event_rank": 623316,
+    "summary_overall_points": 1402,
+    "summary_overall_rank": 694397,
+    "summary_event_points": 90,
+    "summary_event_rank": 713937,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 175313,
+                "entry_rank": 172791,
                 "entry_last_rank": 200108
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 694993,
+                "entry_rank": 693346,
                 "entry_last_rank": 810225
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 696115,
+                "entry_rank": 694397,
                 "entry_last_rank": 811619
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 17043,
+                "entry_rank": 17233,
                 "entry_last_rank": 19561
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2448135,
                 "cup_qualified": true,
-                "entry_rank": 12783,
+                "entry_rank": 13006,
                 "entry_last_rank": 14763
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 20,
+                "entry_rank": 19,
                 "entry_last_rank": 20
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3600,
+                "entry_rank": 3811,
                 "entry_last_rank": 4107
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": 2448144,
                 "cup_qualified": true,
-                "entry_rank": 11211,
+                "entry_rank": 11390,
                 "entry_last_rank": 13030
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 46,
+                "entry_rank": 50,
                 "entry_last_rank": 55
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": true,
                 "cup_league": 2437815,
                 "cup_qualified": true,
-                "entry_rank": 22358,
+                "entry_rank": 22678,
                 "entry_last_rank": 26288
             },
             {
@@ -349,7 +349,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1049,
+                "entry_rank": 1073,
                 "entry_last_rank": 1251
             },
             {
@@ -370,7 +370,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
+                "entry_rank": 12,
                 "entry_last_rank": 11
             },
             {
@@ -454,7 +454,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
+                "entry_rank": 6,
                 "entry_last_rank": 7
             },
             {
@@ -475,7 +475,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 3,
                 "entry_last_rank": 6
             },
             {
@@ -496,7 +496,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 274,
+                "entry_rank": 282,
                 "entry_last_rank": 315
             },
             {
@@ -517,7 +517,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 320589,
+                "entry_rank": 302918,
                 "entry_last_rank": 433697
             }
         ],
@@ -540,7 +540,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
+                "entry_rank": 5,
                 "entry_last_rank": 6
             }
         ],
@@ -587,7 +587,7 @@
                 "entry_1_entry": 1771,
                 "entry_1_name": "Kane and Babel",
                 "entry_1_player_name": "Ashwin Sapre",
-                "entry_1_points": 57,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -595,14 +595,14 @@
                 "entry_2_entry": 6877548,
                 "entry_2_name": "Sammy-Yanited",
                 "entry_2_player_name": "Sam St Leger",
-                "entry_2_points": 46,
+                "entry_2_points": 64,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 1771,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -614,7 +614,7 @@
                 "entry_1_entry": 1771,
                 "entry_1_name": "Kane and Babel",
                 "entry_1_player_name": "Ashwin Sapre",
-                "entry_1_points": 57,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -622,14 +622,14 @@
                 "entry_2_entry": 3877926,
                 "entry_2_name": "Tin Tin",
                 "entry_2_player_name": "Maherzad Jokhi",
-                "entry_2_points": 38,
+                "entry_2_points": 63,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431356,
-                "winner": null,
+                "winner": 1771,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -641,7 +641,7 @@
                 "entry_1_entry": 2662049,
                 "entry_1_name": "hall and kitchen",
                 "entry_1_player_name": "Seku Varuneshwar",
-                "entry_1_points": 53,
+                "entry_1_points": 77,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -649,14 +649,14 @@
                 "entry_2_entry": 1771,
                 "entry_2_name": "Kane and Babel",
                 "entry_2_player_name": "Ashwin Sapre",
-                "entry_2_points": 57,
+                "entry_2_points": 86,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 1771,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -668,7 +668,7 @@
                 "entry_1_entry": 1777829,
                 "entry_1_name": "GangCihuy",
                 "entry_1_player_name": "Wahyu Hagono",
-                "entry_1_points": 51,
+                "entry_1_points": 88,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -676,14 +676,14 @@
                 "entry_2_entry": 1771,
                 "entry_2_name": "Kane and Babel",
                 "entry_2_player_name": "Ashwin Sapre",
-                "entry_2_points": 57,
+                "entry_2_points": 86,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437809,
-                "winner": null,
+                "winner": 1777829,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -695,7 +695,7 @@
                 "entry_1_entry": 1771,
                 "entry_1_name": "Kane and Babel",
                 "entry_1_player_name": "Ashwin Sapre",
-                "entry_1_points": 57,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -703,14 +703,14 @@
                 "entry_2_entry": 2460602,
                 "entry_2_name": "Kloppaholics",
                 "entry_2_player_name": "Jonas Hosinho",
-                "entry_2_points": 51,
+                "entry_2_points": 81,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437815,
-                "winner": null,
+                "winner": 1771,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -722,7 +722,7 @@
                 "entry_1_entry": 1771,
                 "entry_1_name": "Kane and Babel",
                 "entry_1_player_name": "Ashwin Sapre",
-                "entry_1_points": 57,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -737,7 +737,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448135,
-                "winner": null,
+                "winner": 1771,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -749,7 +749,7 @@
                 "entry_1_entry": 1771,
                 "entry_1_name": "Kane and Babel",
                 "entry_1_player_name": "Ashwin Sapre",
-                "entry_1_points": 57,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -764,7 +764,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448144,
-                "winner": null,
+                "winner": 1771,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

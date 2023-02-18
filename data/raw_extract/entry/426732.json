@@ -9,10 +9,10 @@
     "player_region_name": "Tunisia",
     "player_region_iso_code_short": "TN",
     "player_region_iso_code_long": "TUN",
-    "summary_overall_points": 1449,
-    "summary_overall_rank": 65417,
-    "summary_event_points": 38,
-    "summary_event_rank": 5597371,
+    "summary_overall_points": 1476,
+    "summary_overall_rank": 74027,
+    "summary_event_points": 65,
+    "summary_event_rank": 6229379,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 4709,
+                "entry_rank": 5358,
                 "entry_last_rank": 2769
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2437802,
                 "cup_qualified": true,
-                "entry_rank": 179,
+                "entry_rank": 208,
                 "entry_last_rank": 105
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 65397,
+                "entry_rank": 74010,
                 "entry_last_rank": 39055
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 65417,
+                "entry_rank": 74027,
                 "entry_last_rank": 39063
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2437807,
                 "cup_qualified": true,
-                "entry_rank": 1605,
+                "entry_rank": 1652,
                 "entry_last_rank": 906
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 30,
+                "entry_rank": 35,
                 "entry_last_rank": 19
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 9923,
+                "entry_rank": 10447,
                 "entry_last_rank": 5424
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
+                "entry_rank": 7,
                 "entry_last_rank": 5
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 216,
+                "entry_rank": 240,
                 "entry_last_rank": 32
             }
         ],
@@ -292,7 +292,7 @@
                 "entry_1_entry": 10554064,
                 "entry_1_name": "anaass",
                 "entry_1_player_name": "Anass Maamar",
-                "entry_1_points": 52,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -300,14 +300,14 @@
                 "entry_2_entry": 426732,
                 "entry_2_name": "bayern of PL",
                 "entry_2_player_name": "Oussema Bavarian",
-                "entry_2_points": 38,
+                "entry_2_points": 65,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381816,
-                "winner": null,
+                "winner": 10554064,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -319,7 +319,7 @@
                 "entry_1_entry": 7531192,
                 "entry_1_name": "houccem",
                 "entry_1_player_name": "Houssem Eddine Jebri",
-                "entry_1_points": 53,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -327,14 +327,14 @@
                 "entry_2_entry": 426732,
                 "entry_2_name": "bayern of PL",
                 "entry_2_player_name": "Oussema Bavarian",
-                "entry_2_points": 38,
+                "entry_2_points": 65,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437802,
-                "winner": null,
+                "winner": 7531192,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -346,7 +346,7 @@
                 "entry_1_entry": 426732,
                 "entry_1_name": "bayern of PL",
                 "entry_1_player_name": "Oussema Bavarian",
-                "entry_1_points": 38,
+                "entry_1_points": 65,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -354,14 +354,14 @@
                 "entry_2_entry": 103511,
                 "entry_2_name": "ال سالامانكا",
                 "entry_2_player_name": "Mohamed Ahmed",
-                "entry_2_points": 48,
+                "entry_2_points": 74,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437807,
-                "winner": null,
+                "winner": 103511,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

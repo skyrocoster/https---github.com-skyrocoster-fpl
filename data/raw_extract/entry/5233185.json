@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1525,
-    "summary_overall_rank": 846,
-    "summary_event_points": 50,
-    "summary_event_rank": 2573121,
+    "summary_overall_points": 1556,
+    "summary_overall_rank": 817,
+    "summary_event_points": 81,
+    "summary_event_rank": 2129095,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 200,
+                "entry_rank": 192,
                 "entry_last_rank": 195
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 35,
+                "entry_rank": 31,
                 "entry_last_rank": 38
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 846,
+                "entry_rank": 817,
                 "entry_last_rank": 844
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 846,
+                "entry_rank": 817,
                 "entry_last_rank": 844
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 136310,
+                "entry_rank": 112147,
                 "entry_last_rank": 123233
             }
         ],
@@ -256,7 +256,7 @@
                 "entry_1_entry": 5233185,
                 "entry_1_name": "No.2 Frank McCourt",
                 "entry_1_player_name": "Stephen Murray",
-                "entry_1_points": 50,
+                "entry_1_points": 81,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -264,17 +264,17 @@
                 "entry_2_entry": 8386259,
                 "entry_2_name": "McCall fc",
                 "entry_2_player_name": "Joshua Mccall",
-                "entry_2_points": 45,
+                "entry_2_points": 81,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 8386259,
                 "seed_value": null,
                 "event": 23,
-                "tiebreak": null,
+                "tiebreak": "goals_scored",
                 "is_bye": false,
                 "knockout_name": "Round of 65536"
             }

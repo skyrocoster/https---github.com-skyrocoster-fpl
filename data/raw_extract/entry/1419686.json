@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1554,
-    "summary_overall_rank": 118,
-    "summary_event_points": 47,
-    "summary_event_rank": 3406479,
+    "summary_overall_points": 1595,
+    "summary_overall_rank": 59,
+    "summary_event_points": 88,
+    "summary_event_rank": 952678,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2431352,
                 "cup_qualified": true,
-                "entry_rank": 6,
+                "entry_rank": 4,
                 "entry_last_rank": 2
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 33,
+                "entry_rank": 15,
                 "entry_last_rank": 14
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 118,
+                "entry_rank": 59,
                 "entry_last_rank": 56
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 118,
+                "entry_rank": 59,
                 "entry_last_rank": 56
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 39,
+                "entry_rank": 20,
                 "entry_last_rank": 18
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 153647,
+                "entry_rank": 64458,
                 "entry_last_rank": 86927
             }
         ],
@@ -256,7 +256,7 @@
                 "entry_1_entry": 1419686,
                 "entry_1_name": "A Saudi Squad",
                 "entry_1_player_name": "Oliver Harding",
-                "entry_1_points": 43,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -264,14 +264,14 @@
                 "entry_2_entry": 1110299,
                 "entry_2_name": "MurderonZidanesfloor",
                 "entry_2_player_name": "Sam Scrafton",
-                "entry_2_points": 59,
+                "entry_2_points": 87,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 1110299,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -283,7 +283,7 @@
                 "entry_1_entry": 888374,
                 "entry_1_name": "Gangsta’s Allardyce",
                 "entry_1_player_name": "Tom Jackson",
-                "entry_1_points": 49,
+                "entry_1_points": 76,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -291,14 +291,14 @@
                 "entry_2_entry": 1419686,
                 "entry_2_name": "A Saudi Squad",
                 "entry_2_player_name": "Oliver Harding",
-                "entry_2_points": 43,
+                "entry_2_points": 84,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431352,
-                "winner": null,
+                "winner": 1419686,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

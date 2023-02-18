@@ -9,10 +9,10 @@
     "player_region_name": "Poland",
     "player_region_iso_code_short": "PL",
     "player_region_iso_code_long": "POL",
-    "summary_overall_points": 1576,
-    "summary_overall_rank": 20,
-    "summary_event_points": 51,
-    "summary_event_rank": 2264778,
+    "summary_overall_points": 1607,
+    "summary_overall_rank": 19,
+    "summary_event_points": 82,
+    "summary_event_rank": 1836741,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 20,
+                "entry_rank": 19,
                 "entry_last_rank": 24
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 20,
+                "entry_rank": 19,
                 "entry_last_rank": 24
             },
             {
@@ -133,12 +133,12 @@
                 "scoring": "c",
                 "admin_entry": 276021,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2453787,
+                "cup_qualified": true,
                 "entry_rank": 1,
                 "entry_last_rank": 1
             },
@@ -370,7 +370,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 102212,
+                "entry_rank": 83118,
                 "entry_last_rank": 97928
             }
         ],
@@ -445,7 +445,7 @@
                 "entry_1_entry": 5502969,
                 "entry_1_name": "Loko FC",
                 "entry_1_player_name": "Damian Kemski",
-                "entry_1_points": 51,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -453,14 +453,14 @@
                 "entry_2_entry": 1733398,
                 "entry_2_name": "..:: Grundole ::..",
                 "entry_2_player_name": "Michal Szkoda",
-                "entry_2_points": 43,
+                "entry_2_points": 73,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437797,
-                "winner": null,
+                "winner": 5502969,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

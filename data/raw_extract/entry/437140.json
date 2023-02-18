@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1517,
-    "summary_overall_rank": 1494,
-    "summary_event_points": 42,
-    "summary_event_rank": 4746430,
+    "summary_overall_points": 1551,
+    "summary_overall_rank": 1179,
+    "summary_event_points": 76,
+    "summary_event_rank": 3366327,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 188,
+                "entry_rank": 147,
                 "entry_last_rank": 77
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 64,
+                "entry_rank": 51,
                 "entry_last_rank": 30
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1494,
+                "entry_rank": 1179,
                 "entry_last_rank": 653
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1494,
+                "entry_rank": 1179,
                 "entry_last_rank": 653
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 213344,
+                "entry_rank": 148002,
                 "entry_last_rank": 89334
             }
         ],

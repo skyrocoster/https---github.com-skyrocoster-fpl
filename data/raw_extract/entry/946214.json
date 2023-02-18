@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1453,
-    "summary_overall_rank": 54394,
-    "summary_event_points": 70,
-    "summary_event_rank": 101418,
+    "summary_overall_points": 1484,
+    "summary_overall_rank": 51834,
+    "summary_event_points": 101,
+    "summary_event_rank": 103041,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 3860,
+                "entry_rank": 3709,
                 "entry_last_rank": 8012
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
+                "entry_rank": 4,
                 "entry_last_rank": 11
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 54378,
+                "entry_rank": 51822,
                 "entry_last_rank": 108235
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": false,
-                "entry_rank": 54394,
+                "entry_rank": 51834,
                 "entry_last_rank": 108270
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 3664,
+                "entry_rank": 3856,
                 "entry_last_rank": 7802
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 6
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 169522,
+                "entry_rank": 140217,
                 "entry_last_rank": 385533
             }
         ],
@@ -202,7 +202,7 @@
                 "entry_1_entry": 5696035,
                 "entry_1_name": "Amna FC",
                 "entry_1_player_name": "Syed Salman Syed Ali",
-                "entry_1_points": 38,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -210,14 +210,14 @@
                 "entry_2_entry": 946214,
                 "entry_2_name": "DisguisenutsFC",
                 "entry_2_player_name": "Shoaib Juman-Yassin",
-                "entry_2_points": 66,
+                "entry_2_points": 97,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405671,
-                "winner": null,
+                "winner": 946214,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -229,7 +229,7 @@
                 "entry_1_entry": 946214,
                 "entry_1_name": "DisguisenutsFC",
                 "entry_1_player_name": "Shoaib Juman-Yassin",
-                "entry_1_points": 66,
+                "entry_1_points": 97,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -237,14 +237,14 @@
                 "entry_2_entry": 141560,
                 "entry_2_name": "Foz FC",
                 "entry_2_player_name": "John Fosberry",
-                "entry_2_points": 39,
+                "entry_2_points": 69,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 946214,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

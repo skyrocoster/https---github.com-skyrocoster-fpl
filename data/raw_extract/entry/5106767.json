@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1489,
-    "summary_overall_rank": 8667,
-    "summary_event_points": 49,
-    "summary_event_rank": 2704519,
+    "summary_overall_points": 1516,
+    "summary_overall_rank": 10291,
+    "summary_event_points": 76,
+    "summary_event_rank": 3160376,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 50,
+                "entry_rank": 56,
                 "entry_last_rank": 43
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 3088,
+                "entry_rank": 3746,
                 "entry_last_rank": 3038
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8666,
+                "entry_rank": 10290,
                 "entry_last_rank": 8238
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 8667,
+                "entry_rank": 10291,
                 "entry_last_rank": 8239
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 3516,
+                "entry_rank": 4256,
                 "entry_last_rank": 3468
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 88296,
+                "entry_rank": 94018,
                 "entry_last_rank": 72779
             }
         ],
@@ -262,7 +262,7 @@
                 "entry_1_entry": 5106767,
                 "entry_1_name": "DazShane fc",
                 "entry_1_player_name": "Dane loatan",
-                "entry_1_points": 49,
+                "entry_1_points": 76,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -277,7 +277,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 5106767,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

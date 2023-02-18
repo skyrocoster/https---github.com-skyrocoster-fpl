@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1408,
-    "summary_overall_rank": 284771,
-    "summary_event_points": 48,
-    "summary_event_rank": 2958218,
+    "summary_overall_points": 1439,
+    "summary_overall_rank": 272092,
+    "summary_event_points": 79,
+    "summary_event_rank": 2447140,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 72160,
+                "entry_rank": 67949,
                 "entry_last_rank": 68036
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 6326,
+                "entry_rank": 6162,
                 "entry_last_rank": 6046
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 284575,
+                "entry_rank": 271923,
                 "entry_last_rank": 274250
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 284771,
+                "entry_rank": 272092,
                 "entry_last_rank": 274406
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
+                "entry_rank": 8,
                 "entry_last_rank": 6
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 474,
+                "entry_rank": 473,
                 "entry_last_rank": 483
             },
             {
@@ -154,13 +154,13 @@
                 "scoring": "c",
                 "admin_entry": 44194,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 1845,
+                "cup_league": 2453781,
+                "cup_qualified": true,
+                "entry_rank": 1786,
                 "entry_last_rank": 1795
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 74,
+                "entry_rank": 82,
                 "entry_last_rank": 78
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1821,
+                "entry_rank": 1996,
                 "entry_last_rank": 1953
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 541,
+                "entry_rank": 554,
                 "entry_last_rank": 575
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 73,
+                "entry_rank": 78,
                 "entry_last_rank": 78
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 6326,
+                "entry_rank": 6162,
                 "entry_last_rank": 6046
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 57,
+                "entry_rank": 51,
                 "entry_last_rank": 53
             },
             {
@@ -391,7 +391,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 487501,
+                "entry_rank": 420610,
                 "entry_last_rank": 424938
             }
         ],
@@ -493,7 +493,7 @@
                 "entry_1_entry": 13642,
                 "entry_1_name": "Fred up Already",
                 "entry_1_player_name": "Monil shah",
-                "entry_1_points": 48,
+                "entry_1_points": 79,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -501,14 +501,14 @@
                 "entry_2_entry": 7781853,
                 "entry_2_name": "Bhaggz",
                 "entry_2_player_name": "Bhagawath M",
-                "entry_2_points": 48,
+                "entry_2_points": 73,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 13642,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

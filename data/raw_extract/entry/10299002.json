@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1045,
-    "summary_overall_rank": 7110629,
-    "summary_event_points": 59,
-    "summary_event_rank": 812532,
+    "summary_overall_points": 1079,
+    "summary_overall_rank": 7061786,
+    "summary_event_points": 93,
+    "summary_event_rank": 426677,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 26636,
+                "entry_rank": 26277,
                 "entry_last_rank": 28278
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2065544,
+                "entry_rank": 2050426,
                 "entry_last_rank": 2183842
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 332,
+                "entry_rank": 233,
                 "entry_last_rank": 482
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 7110629,
+                "entry_rank": 7061786,
                 "entry_last_rank": 7577343
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2342887,
+                "entry_rank": 2325872,
                 "entry_last_rank": 2479025
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 129693,
+                "entry_rank": 86770,
                 "entry_last_rank": 206608
             }
         ],
@@ -305,7 +305,7 @@
                 "entry_1_entry": 10299002,
                 "entry_1_name": "Football Team FC",
                 "entry_1_player_name": "Daniel Evans",
-                "entry_1_points": 59,
+                "entry_1_points": 93,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -320,7 +320,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 10299002,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

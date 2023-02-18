@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1546,
-    "summary_overall_rank": 182,
-    "summary_event_points": 47,
-    "summary_event_rank": 3332102,
+    "summary_overall_points": 1567,
+    "summary_overall_rank": 370,
+    "summary_event_points": 68,
+    "summary_event_rank": 5453758,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 24,
+                "entry_rank": 45,
                 "entry_last_rank": 14
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 48,
+                "entry_rank": 117,
                 "entry_last_rank": 38
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 182,
+                "entry_rank": 370,
                 "entry_last_rank": 129
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 182,
+                "entry_rank": 370,
                 "entry_last_rank": 129
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 58,
+                "entry_rank": 138,
                 "entry_last_rank": 45
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 81714,
+                "entry_rank": 129426,
                 "entry_last_rank": 57448
             }
         ],
@@ -319,7 +319,7 @@
                 "entry_1_entry": 5117060,
                 "entry_1_name": "Maddison Sq Gardens",
                 "entry_1_player_name": "Jordan Garland",
-                "entry_1_points": 46,
+                "entry_1_points": 72,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -327,14 +327,14 @@
                 "entry_2_entry": 1811364,
                 "entry_2_name": "Daddy the Baddy",
                 "entry_2_player_name": "Charlie Lander",
-                "entry_2_points": 47,
+                "entry_2_points": 68,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 5117060,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -346,7 +346,7 @@
                 "entry_1_entry": 1811364,
                 "entry_1_name": "Daddy the Baddy",
                 "entry_1_player_name": "Charlie Lander",
-                "entry_1_points": 47,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -354,14 +354,14 @@
                 "entry_2_entry": 6249798,
                 "entry_2_name": "Teba Team",
                 "entry_2_player_name": "Mohammad Mohin Uddin",
-                "entry_2_points": 59,
+                "entry_2_points": 92,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 6249798,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

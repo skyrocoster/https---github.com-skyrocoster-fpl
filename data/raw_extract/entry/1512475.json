@@ -9,10 +9,10 @@
     "player_region_name": "Wales",
     "player_region_iso_code_short": "WA",
     "player_region_iso_code_long": "WAL",
-    "summary_overall_points": 1478,
-    "summary_overall_rank": 15632,
-    "summary_event_points": 43,
-    "summary_event_rank": 4290053,
+    "summary_overall_points": 1508,
+    "summary_overall_rank": 15805,
+    "summary_event_points": 73,
+    "summary_event_rank": 3976654,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 85,
+                "entry_rank": 87,
                 "entry_last_rank": 60
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2437806,
                 "cup_qualified": true,
-                "entry_rank": 217,
+                "entry_rank": 214,
                 "entry_last_rank": 147
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 15631,
+                "entry_rank": 15803,
                 "entry_last_rank": 10837
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 15632,
+                "entry_rank": 15805,
                 "entry_last_rank": 10838
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 6282,
+                "entry_rank": 6505,
                 "entry_last_rank": 4543
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 978936,
+                "entry_rank": 903537,
                 "entry_last_rank": 735502
             }
         ],
@@ -277,7 +277,7 @@
                 "entry_1_entry": 2535440,
                 "entry_1_name": "LUCKY LEWIS FC",
                 "entry_1_player_name": "Danny Lewis",
-                "entry_1_points": 50,
+                "entry_1_points": 61,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -285,14 +285,14 @@
                 "entry_2_entry": 1512475,
                 "entry_2_name": "Sound of the Lloris",
                 "entry_2_player_name": "Gareth Lee",
-                "entry_2_points": 43,
+                "entry_2_points": 73,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437806,
-                "winner": null,
+                "winner": 1512475,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -304,7 +304,7 @@
                 "entry_1_entry": 1512475,
                 "entry_1_name": "Sound of the Lloris",
                 "entry_1_player_name": "Gareth Lee",
-                "entry_1_points": 43,
+                "entry_1_points": 73,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -319,7 +319,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 1512475,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1458,
-    "summary_overall_rank": 42492,
-    "summary_event_points": 41,
-    "summary_event_rank": 4927225,
+    "summary_overall_points": 1489,
+    "summary_overall_rank": 40398,
+    "summary_event_points": 72,
+    "summary_event_rank": 4398298,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 5119,
+                "entry_rank": 4863,
                 "entry_last_rank": 3392
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 15193,
+                "entry_rank": 14832,
                 "entry_last_rank": 10314
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 42481,
+                "entry_rank": 40390,
                 "entry_last_rank": 28102
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 42492,
+                "entry_rank": 40398,
                 "entry_last_rank": 28105
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 17244,
+                "entry_rank": 16814,
                 "entry_last_rank": 11750
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 801119,
+                "entry_rank": 706661,
                 "entry_last_rank": 530400
             }
         ],
@@ -284,7 +284,7 @@
                 "entry_1_entry": 1798350,
                 "entry_1_name": "Team Diaz Fc",
                 "entry_1_player_name": "Geofrey Lubisa suubi",
-                "entry_1_points": 45,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -292,14 +292,14 @@
                 "entry_2_entry": 7004690,
                 "entry_2_name": "Kindergarten Klopp",
                 "entry_2_player_name": "Chris Ross",
-                "entry_2_points": 41,
+                "entry_2_points": 72,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 1798350,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

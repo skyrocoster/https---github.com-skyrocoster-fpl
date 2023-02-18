@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1427,
-    "summary_overall_rank": 155067,
-    "summary_event_points": 63,
-    "summary_event_rank": 412765,
+    "summary_overall_points": 1456,
+    "summary_overall_rank": 159309,
+    "summary_event_points": 92,
+    "summary_event_rank": 505005,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 759,
+                "entry_rank": 834,
                 "entry_last_rank": 1233
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 55450,
+                "entry_rank": 57876,
                 "entry_last_rank": 89590
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 155000,
+                "entry_rank": 159242,
                 "entry_last_rank": 245736
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 155067,
+                "entry_rank": 159309,
                 "entry_last_rank": 245867
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2448130,
                 "cup_qualified": true,
-                "entry_rank": 2489,
+                "entry_rank": 2613,
                 "entry_last_rank": 3966
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 10153,
+                "entry_rank": 11271,
                 "entry_last_rank": 16910
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 4074,
+                "entry_rank": 4358,
                 "entry_last_rank": 6785
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 3,
                 "entry_last_rank": 5
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 5
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 62588,
+                "entry_rank": 65287,
                 "entry_last_rank": 101023
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 208291,
+                "entry_rank": 195545,
                 "entry_last_rank": 395184
             }
         ],
@@ -330,7 +330,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 2,
                 "entry_last_rank": 4
             }
         ],
@@ -404,7 +404,7 @@
                 "entry_1_entry": 406973,
                 "entry_1_name": "A Raya Sunshine",
                 "entry_1_player_name": "Tony Sullivan",
-                "entry_1_points": 63,
+                "entry_1_points": 92,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -412,14 +412,14 @@
                 "entry_2_entry": 7541878,
                 "entry_2_name": "XI Cantonas",
                 "entry_2_player_name": "Øyvind Andre Simonsen",
-                "entry_2_points": 59,
+                "entry_2_points": 93,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 7541878,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -431,7 +431,7 @@
                 "entry_1_entry": 406973,
                 "entry_1_name": "A Raya Sunshine",
                 "entry_1_player_name": "Tony Sullivan",
-                "entry_1_points": 63,
+                "entry_1_points": 92,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -439,14 +439,14 @@
                 "entry_2_entry": 418611,
                 "entry_2_name": "up da toffees",
                 "entry_2_player_name": "James Palin",
-                "entry_2_points": 44,
+                "entry_2_points": 69,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 406973,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -458,7 +458,7 @@
                 "entry_1_entry": 406973,
                 "entry_1_name": "A Raya Sunshine",
                 "entry_1_player_name": "Tony Sullivan",
-                "entry_1_points": 63,
+                "entry_1_points": 92,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -466,14 +466,14 @@
                 "entry_2_entry": 846222,
                 "entry_2_name": "We Dem Boyzzz",
                 "entry_2_player_name": "Brian Waweru",
-                "entry_2_points": 38,
+                "entry_2_points": 67,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437809,
-                "winner": null,
+                "winner": 406973,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -485,7 +485,7 @@
                 "entry_1_entry": 406973,
                 "entry_1_name": "A Raya Sunshine",
                 "entry_1_player_name": "Tony Sullivan",
-                "entry_1_points": 63,
+                "entry_1_points": 92,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -500,7 +500,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 406973,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -512,7 +512,7 @@
                 "entry_1_entry": 406973,
                 "entry_1_name": "A Raya Sunshine",
                 "entry_1_player_name": "Tony Sullivan",
-                "entry_1_points": 63,
+                "entry_1_points": 92,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -527,7 +527,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448130,
-                "winner": null,
+                "winner": 406973,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1563,
-    "summary_overall_rank": 55,
-    "summary_event_points": 49,
-    "summary_event_rank": 2704519,
+    "summary_overall_points": 1592,
+    "summary_overall_rank": 69,
+    "summary_event_points": 78,
+    "summary_event_rank": 2662982,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 13,
+                "entry_rank": 19,
                 "entry_last_rank": 11
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 55,
+                "entry_rank": 69,
                 "entry_last_rank": 46
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 55,
+                "entry_rank": 69,
                 "entry_last_rank": 46
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 18,
+                "entry_rank": 24,
                 "entry_last_rank": 15
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6186,
+                "entry_rank": 5506,
                 "entry_last_rank": 4165
             }
         ],
@@ -362,7 +362,7 @@
                 "entry_1_entry": 8463146,
                 "entry_1_name": "Melton raiders",
                 "entry_1_player_name": "Kenny Bell",
-                "entry_1_points": 34,
+                "entry_1_points": 66,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -370,14 +370,14 @@
                 "entry_2_entry": 770806,
                 "entry_2_name": "Stranger ‘ Ings",
                 "entry_2_player_name": "Mark Harrison",
-                "entry_2_points": 49,
+                "entry_2_points": 78,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 770806,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

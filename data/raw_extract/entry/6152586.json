@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1545,
-    "summary_overall_rank": 203,
-    "summary_event_points": 44,
-    "summary_event_rank": 4148435,
+    "summary_overall_points": 1578,
+    "summary_overall_rank": 170,
+    "summary_event_points": 77,
+    "summary_event_rank": 3032012,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 14,
+                "entry_rank": 11,
                 "entry_last_rank": 7
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 57,
+                "entry_rank": 49,
                 "entry_last_rank": 32
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 203,
+                "entry_rank": 170,
                 "entry_last_rank": 109
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 203,
+                "entry_rank": 170,
                 "entry_last_rank": 109
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 69,
+                "entry_rank": 60,
                 "entry_last_rank": 39
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 28721,
+                "entry_rank": 18536,
                 "entry_last_rank": 13906
             }
         ],
@@ -256,7 +256,7 @@
                 "entry_1_entry": 6152586,
                 "entry_1_name": "Lost Already",
                 "entry_1_player_name": "Guy Swan",
-                "entry_1_points": 44,
+                "entry_1_points": 77,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -264,14 +264,14 @@
                 "entry_2_entry": 9399125,
                 "entry_2_name": "Pepijnnnn",
                 "entry_2_player_name": "Jack Cottrell",
-                "entry_2_points": 55,
+                "entry_2_points": 91,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 9399125,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -283,7 +283,7 @@
                 "entry_1_entry": 8305447,
                 "entry_1_name": "ToddyBoys",
                 "entry_1_player_name": "Garv Sharma",
-                "entry_1_points": 61,
+                "entry_1_points": 81,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -291,14 +291,14 @@
                 "entry_2_entry": 6152586,
                 "entry_2_name": "Lost Already",
                 "entry_2_player_name": "Guy Swan",
-                "entry_2_points": 44,
+                "entry_2_points": 77,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405671,
-                "winner": null,
+                "winner": 8305447,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "Egypt",
     "player_region_iso_code_short": "EG",
     "player_region_iso_code_long": "EGY",
-    "summary_overall_points": 1509,
-    "summary_overall_rank": 2647,
-    "summary_event_points": 59,
-    "summary_event_rank": 859004,
+    "summary_overall_points": 1550,
+    "summary_overall_rank": 1305,
+    "summary_event_points": 100,
+    "summary_event_rank": 126274,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 13,
+                "entry_rank": 6,
                 "entry_last_rank": 24
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2405679,
                 "cup_qualified": true,
-                "entry_rank": 159,
+                "entry_rank": 74,
                 "entry_last_rank": 250
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2647,
+                "entry_rank": 1305,
                 "entry_last_rank": 4666
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2647,
+                "entry_rank": 1305,
                 "entry_last_rank": 4666
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 382,
+                "entry_rank": 175,
                 "entry_last_rank": 583
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6137,
+                "entry_rank": 1498,
                 "entry_last_rank": 11299
             }
         ],
@@ -187,7 +187,7 @@
                 "entry_1_entry": 215767,
                 "entry_1_name": "Leo Campione Mundial",
                 "entry_1_player_name": "MoØ Aubã",
-                "entry_1_points": 59,
+                "entry_1_points": 100,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -195,14 +195,14 @@
                 "entry_2_entry": 3223059,
                 "entry_2_name": "skanderclub",
                 "entry_2_player_name": "skandar kismoune",
-                "entry_2_points": 46,
+                "entry_2_points": 71,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381816,
-                "winner": null,
+                "winner": 215767,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -214,7 +214,7 @@
                 "entry_1_entry": 215767,
                 "entry_1_name": "Leo Campione Mundial",
                 "entry_1_player_name": "MoØ Aubã",
-                "entry_1_points": 59,
+                "entry_1_points": 100,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -222,14 +222,14 @@
                 "entry_2_entry": 310790,
                 "entry_2_name": "ابو البلابل",
                 "entry_2_player_name": "omar emad",
-                "entry_2_points": 43,
+                "entry_2_points": 77,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405679,
-                "winner": null,
+                "winner": 215767,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -241,7 +241,7 @@
                 "entry_1_entry": 215767,
                 "entry_1_name": "Leo Campione Mundial",
                 "entry_1_player_name": "MoØ Aubã",
-                "entry_1_points": 59,
+                "entry_1_points": 100,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -256,7 +256,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 215767,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

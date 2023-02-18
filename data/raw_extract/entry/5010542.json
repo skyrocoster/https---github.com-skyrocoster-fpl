@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1533,
-    "summary_overall_rank": 473,
-    "summary_event_points": 69,
-    "summary_event_rank": 108170,
+    "summary_overall_points": 1561,
+    "summary_overall_rank": 576,
+    "summary_event_points": 97,
+    "summary_event_rank": 200261,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2437792,
                 "cup_qualified": true,
-                "entry_rank": 7,
+                "entry_rank": 8,
                 "entry_last_rank": 17
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 16,
+                "entry_rank": 19,
                 "entry_last_rank": 83
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 473,
+                "entry_rank": 576,
                 "entry_last_rank": 1804
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 473,
+                "entry_rank": 576,
                 "entry_last_rank": 1804
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 33498,
+                "entry_rank": 33130,
                 "entry_last_rank": 117078
             }
         ],
@@ -340,7 +340,7 @@
                 "entry_1_entry": 2304882,
                 "entry_1_name": "ahly",
                 "entry_1_player_name": "Ahmed Hesham",
-                "entry_1_points": 41,
+                "entry_1_points": 60,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -348,14 +348,14 @@
                 "entry_2_entry": 5010542,
                 "entry_2_name": "The Libertonians",
                 "entry_2_player_name": "Eoin Kirby",
-                "entry_2_points": 69,
+                "entry_2_points": 97,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437792,
-                "winner": null,
+                "winner": 5010542,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

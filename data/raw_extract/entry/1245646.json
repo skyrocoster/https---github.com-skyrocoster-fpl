@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1525,
-    "summary_overall_rank": 855,
-    "summary_event_points": 50,
-    "summary_event_rank": 2473286,
+    "summary_overall_points": 1546,
+    "summary_overall_rank": 1611,
+    "summary_event_points": 71,
+    "summary_event_rank": 4506534,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 203,
+                "entry_rank": 391,
                 "entry_last_rank": 196
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 36,
+                "entry_rank": 71,
                 "entry_last_rank": 39
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 855,
+                "entry_rank": 1611,
                 "entry_last_rank": 848
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 855,
+                "entry_rank": 1611,
                 "entry_last_rank": 848
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2448130,
                 "cup_qualified": true,
-                "entry_rank": 18,
+                "entry_rank": 28,
                 "entry_last_rank": 17
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2448148,
                 "cup_qualified": true,
-                "entry_rank": 13,
+                "entry_rank": 25,
                 "entry_last_rank": 15
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 145753,
+                "entry_rank": 220553,
                 "entry_last_rank": 132424
             }
         ],
@@ -409,7 +409,7 @@
                 "entry_1_entry": 1245646,
                 "entry_1_name": "Flying without Mings",
                 "entry_1_player_name": "Daire OBrien",
-                "entry_1_points": 50,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -424,7 +424,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448130,
-                "winner": null,
+                "winner": 1245646,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -436,7 +436,7 @@
                 "entry_1_entry": 1245646,
                 "entry_1_name": "Flying without Mings",
                 "entry_1_player_name": "Daire OBrien",
-                "entry_1_points": 50,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -451,7 +451,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448148,
-                "winner": null,
+                "winner": 1245646,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

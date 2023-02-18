@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1406,
-    "summary_overall_rank": 303471,
-    "summary_event_points": 64,
-    "summary_event_rank": 339823,
+    "summary_overall_points": 1434,
+    "summary_overall_rank": 316191,
+    "summary_event_points": 92,
+    "summary_event_rank": 505005,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 30,
+                "entry_rank": 32,
                 "entry_last_rank": 44
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 303250,
+                "entry_rank": 315971,
                 "entry_last_rank": 452051
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 303471,
+                "entry_rank": 316191,
                 "entry_last_rank": 452450
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 647,
+                "entry_rank": 673,
                 "entry_last_rank": 940
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
+                "entry_rank": 7,
                 "entry_last_rank": 8
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
+                "entry_rank": 11,
                 "entry_last_rank": 13
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 56,
+                "entry_rank": 65,
                 "entry_last_rank": 88
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 333634,
+                "entry_rank": 331833,
                 "entry_last_rank": 624692
             }
         ],

@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1491,
-    "summary_overall_rank": 7551,
-    "summary_event_points": 58,
-    "summary_event_rank": 1009666,
+    "summary_overall_points": 1517,
+    "summary_overall_rank": 9576,
+    "summary_event_points": 84,
+    "summary_event_rank": 1605928,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 43,
+                "entry_rank": 49,
                 "entry_last_rank": 66
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2686,
+                "entry_rank": 3488,
                 "entry_last_rank": 4393
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7550,
+                "entry_rank": 9575,
                 "entry_last_rank": 11971
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 7551,
+                "entry_rank": 9576,
                 "entry_last_rank": 11972
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 3069,
+                "entry_rank": 3968,
                 "entry_last_rank": 5017
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 26197,
+                "entry_rank": 30375,
                 "entry_last_rank": 41547
             }
         ],
@@ -267,7 +267,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             }
         ],
@@ -368,7 +368,7 @@
                 "entry_1_entry": 3890622,
                 "entry_1_name": "Limpy Lionels 11",
                 "entry_1_player_name": "michael bennett",
-                "entry_1_points": 58,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -383,7 +383,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 3890622,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

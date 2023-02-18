@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1397,
-    "summary_overall_rank": 393979,
-    "summary_event_points": 55,
-    "summary_event_rank": 1554664,
+    "summary_overall_points": 1418,
+    "summary_overall_rank": 484633,
+    "summary_event_points": 76,
+    "summary_event_rank": 3366327,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 99658,
+                "entry_rank": 120658,
                 "entry_last_rank": 101614
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 43,
+                "entry_rank": 49,
                 "entry_last_rank": 40
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 393630,
+                "entry_rank": 484155,
                 "entry_last_rank": 410335
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 393979,
+                "entry_rank": 484633,
                 "entry_last_rank": 410651
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 10269,
+                "entry_rank": 12657,
                 "entry_last_rank": 10989
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 78,
+                "entry_rank": 94,
                 "entry_last_rank": 85
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1387,
+                "entry_rank": 1746,
                 "entry_last_rank": 1533
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 509,
+                "entry_rank": 649,
                 "entry_last_rank": 543
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 817,
+                "entry_rank": 1019,
                 "entry_last_rank": 886
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 38,
+                "entry_rank": 52,
                 "entry_last_rank": 38
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 894,
+                "entry_rank": 1109,
                 "entry_last_rank": 988
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 213,
+                "entry_rank": 256,
                 "entry_last_rank": 232
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 162097,
+                "entry_rank": 243044,
                 "entry_last_rank": 157111
             }
         ],
@@ -376,7 +376,7 @@
                 "entry_1_entry": 755395,
                 "entry_1_name": "Durangogo revolution",
                 "entry_1_player_name": "Miguel Diaz",
-                "entry_1_points": 46,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -384,14 +384,14 @@
                 "entry_2_entry": 1149450,
                 "entry_2_name": "Old Brixtonians",
                 "entry_2_player_name": "Steven Hermanstein",
-                "entry_2_points": 51,
+                "entry_2_points": 72,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 755395,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -403,7 +403,7 @@
                 "entry_1_entry": 3618142,
                 "entry_1_name": "Big daddy",
                 "entry_1_player_name": "odetunde victor",
-                "entry_1_points": 46,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -411,14 +411,14 @@
                 "entry_2_entry": 1149450,
                 "entry_2_name": "Old Brixtonians",
                 "entry_2_player_name": "Steven Hermanstein",
-                "entry_2_points": 51,
+                "entry_2_points": 72,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437809,
-                "winner": null,
+                "winner": 1149450,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

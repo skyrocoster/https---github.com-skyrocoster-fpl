@@ -9,10 +9,10 @@
     "player_region_name": "Egypt",
     "player_region_iso_code_short": "EG",
     "player_region_iso_code_long": "EGY",
-    "summary_overall_points": 1541,
-    "summary_overall_rank": 274,
-    "summary_event_points": 58,
-    "summary_event_rank": 960154,
+    "summary_overall_points": 1570,
+    "summary_overall_rank": 316,
+    "summary_event_points": 87,
+    "summary_event_rank": 1052578,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405678,
                 "cup_qualified": true,
-                "entry_rank": 20,
+                "entry_rank": 23,
                 "entry_last_rank": 34
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2405679,
                 "cup_qualified": true,
-                "entry_rank": 16,
+                "entry_rank": 15,
                 "entry_last_rank": 27
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 274,
+                "entry_rank": 316,
                 "entry_last_rank": 482
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 274,
+                "entry_rank": 316,
                 "entry_last_rank": 482
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 43,
+                "entry_rank": 40,
                 "entry_last_rank": 71
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 3
             }
         ],
@@ -204,7 +204,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 53,
+                "entry_rank": 36,
                 "entry_last_rank": 53
             },
             {
@@ -225,7 +225,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 81,
+                "entry_rank": 133,
                 "entry_last_rank": 81
             },
             {
@@ -246,7 +246,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             }
         ],
@@ -293,7 +293,7 @@
                 "entry_1_entry": 2142352,
                 "entry_1_name": "Mora",
                 "entry_1_player_name": "Amr Rady",
-                "entry_1_points": 58,
+                "entry_1_points": 87,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -301,14 +301,14 @@
                 "entry_2_entry": 1861576,
                 "entry_2_name": "Al Ahly",
                 "entry_2_player_name": "Karim Mahmoud",
-                "entry_2_points": 45,
+                "entry_2_points": 70,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381816,
-                "winner": null,
+                "winner": 2142352,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -320,7 +320,7 @@
                 "entry_1_entry": 2142352,
                 "entry_1_name": "Mora",
                 "entry_1_player_name": "Amr Rady",
-                "entry_1_points": 58,
+                "entry_1_points": 87,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -328,14 +328,14 @@
                 "entry_2_entry": 4352718,
                 "entry_2_name": "Phénix09R",
                 "entry_2_player_name": "khalil raoufi",
-                "entry_2_points": 50,
+                "entry_2_points": 83,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405678,
-                "winner": null,
+                "winner": 2142352,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -347,7 +347,7 @@
                 "entry_1_entry": 2142352,
                 "entry_1_name": "Mora",
                 "entry_1_player_name": "Amr Rady",
-                "entry_1_points": 58,
+                "entry_1_points": 87,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -355,14 +355,14 @@
                 "entry_2_entry": 6686802,
                 "entry_2_name": "Suzan",
                 "entry_2_player_name": "Suzan Mostafa",
-                "entry_2_points": 50,
+                "entry_2_points": 84,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405679,
-                "winner": null,
+                "winner": 2142352,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

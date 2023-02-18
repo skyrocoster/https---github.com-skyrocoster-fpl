@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1492,
-    "summary_overall_rank": 7391,
-    "summary_event_points": 53,
-    "summary_event_rank": 1908003,
+    "summary_overall_points": 1520,
+    "summary_overall_rank": 8358,
+    "summary_event_points": 81,
+    "summary_event_rank": 2129095,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 40,
+                "entry_rank": 41,
                 "entry_last_rank": 47
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 305,
+                "entry_rank": 357,
                 "entry_last_rank": 375
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7390,
+                "entry_rank": 8357,
                 "entry_last_rank": 8835
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 7391,
+                "entry_rank": 8358,
                 "entry_last_rank": 8836
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2448141,
                 "cup_qualified": true,
-                "entry_rank": 162,
+                "entry_rank": 212,
                 "entry_last_rank": 229
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 3,
                 "entry_last_rank": 3
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 161501,
+                "entry_rank": 160820,
                 "entry_last_rank": 177835
             }
         ],
@@ -271,7 +271,7 @@
                 "entry_1_entry": 5568330,
                 "entry_1_name": "Crouchella III",
                 "entry_1_player_name": "Jack Brown",
-                "entry_1_points": 53,
+                "entry_1_points": 81,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -279,14 +279,14 @@
                 "entry_2_entry": 104345,
                 "entry_2_name": "Sarri's Silke Cuts",
                 "entry_2_player_name": "Ian Cahill",
-                "entry_2_points": 41,
+                "entry_2_points": 80,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 5568330,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -298,7 +298,7 @@
                 "entry_1_entry": 5568330,
                 "entry_1_name": "Crouchella III",
                 "entry_1_player_name": "Jack Brown",
-                "entry_1_points": 53,
+                "entry_1_points": 81,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -313,7 +313,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 5568330,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -325,7 +325,7 @@
                 "entry_1_entry": 5568330,
                 "entry_1_name": "Crouchella III",
                 "entry_1_player_name": "Jack Brown",
-                "entry_1_points": 53,
+                "entry_1_points": 81,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -340,7 +340,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448141,
-                "winner": null,
+                "winner": 5568330,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

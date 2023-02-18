@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1537,
-    "summary_overall_rank": 364,
-    "summary_event_points": 57,
-    "summary_event_rank": 1218859,
+    "summary_overall_points": 1577,
+    "summary_overall_rank": 192,
+    "summary_event_points": 97,
+    "summary_event_rank": 233970,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 90,
+                "entry_rank": 46,
                 "entry_last_rank": 72
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 12,
+                "entry_rank": 6,
                 "entry_last_rank": 17
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 364,
+                "entry_rank": 192,
                 "entry_last_rank": 324
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 364,
+                "entry_rank": 192,
                 "entry_last_rank": 324
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2448151,
                 "cup_qualified": true,
-                "entry_rank": 9,
+                "entry_rank": 2,
                 "entry_last_rank": 9
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 13719,
+                "entry_rank": 4258,
                 "entry_last_rank": 9771
             }
         ],
@@ -225,7 +225,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 2
             }
         ],
@@ -299,7 +299,7 @@
                 "entry_1_entry": 1182531,
                 "entry_1_name": "Who Ate All Depays",
                 "entry_1_player_name": "Paul Carpenter",
-                "entry_1_points": 46,
+                "entry_1_points": 73,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -307,14 +307,14 @@
                 "entry_2_entry": 292574,
                 "entry_2_name": "Clonminch Rovers",
                 "entry_2_player_name": "Conor Meehan",
-                "entry_2_points": 49,
+                "entry_2_points": 89,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 292574,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -326,7 +326,7 @@
                 "entry_1_entry": 292574,
                 "entry_1_name": "Clonminch Rovers",
                 "entry_1_player_name": "Conor Meehan",
-                "entry_1_points": 49,
+                "entry_1_points": 89,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -341,7 +341,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448151,
-                "winner": null,
+                "winner": 292574,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

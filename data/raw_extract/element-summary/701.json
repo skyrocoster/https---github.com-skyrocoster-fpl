@@ -30,7 +30,7 @@
             "kickoff_time": "2023-03-05T16:30:00Z",
             "event_name": "Gameweek 26",
             "is_home": false,
-            "difficulty": 5
+            "difficulty": 4
         },
         {
             "id": 267,
@@ -78,7 +78,7 @@
             "kickoff_time": "2023-04-01T14:00:00Z",
             "event_name": "Gameweek 29",
             "is_home": false,
-            "difficulty": 3
+            "difficulty": 4
         },
         {
             "id": 297,
@@ -237,7 +237,7 @@
             "provisional_start_time": false,
             "kickoff_time": null,
             "is_home": true,
-            "difficulty": 2
+            "difficulty": 3
         }
     ],
     "history": [
@@ -456,8 +456,8 @@
             "bps": 20,
             "influence": "28.6",
             "creativity": "22.9",
-            "threat": "0.0",
-            "ict_index": "5.2",
+            "threat": "2.0",
+            "ict_index": "5.4",
             "starts": 1,
             "expected_goals": "0.00",
             "expected_assists": "0.02",

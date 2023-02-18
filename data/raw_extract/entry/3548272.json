@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1530,
-    "summary_overall_rank": 617,
-    "summary_event_points": 58,
-    "summary_event_rank": 960154,
+    "summary_overall_points": 1558,
+    "summary_overall_rank": 735,
+    "summary_event_points": 86,
+    "summary_event_rank": 1200883,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 152,
+                "entry_rank": 166,
                 "entry_last_rank": 240
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 24,
+                "entry_rank": 26,
                 "entry_last_rank": 49
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 617,
+                "entry_rank": 735,
                 "entry_last_rank": 1056
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 617,
+                "entry_rank": 735,
                 "entry_last_rank": 1056
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 83160,
+                "entry_rank": 82784,
                 "entry_last_rank": 127461
             }
         ],
@@ -299,7 +299,7 @@
                 "entry_1_entry": 3548272,
                 "entry_1_name": "Rory Delap dancer",
                 "entry_1_player_name": "Christian Jackson",
-                "entry_1_points": 58,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -307,14 +307,14 @@
                 "entry_2_entry": 1309784,
                 "entry_2_name": "zangzung11",
                 "entry_2_player_name": "Kulwant Thakur",
-                "entry_2_points": 55,
+                "entry_2_points": 76,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 3548272,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

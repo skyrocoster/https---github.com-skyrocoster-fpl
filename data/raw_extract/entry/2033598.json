@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1216,
-    "summary_overall_rank": 3989621,
-    "summary_event_points": 46,
-    "summary_event_rank": 3473516,
+    "summary_overall_points": 1251,
+    "summary_overall_rank": 3849500,
+    "summary_event_points": 81,
+    "summary_event_rank": 2030792,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2437795,
                 "cup_qualified": true,
-                "entry_rank": 48212,
+                "entry_rank": 46574,
                 "entry_last_rank": 49033
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 1236733,
+                "entry_rank": 1199006,
                 "entry_last_rank": 1266712
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3888786,
+                "entry_rank": 3760731,
                 "entry_last_rank": 3964401
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 3989621,
+                "entry_rank": 3849500,
                 "entry_last_rank": 4066114
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2448142,
                 "cup_qualified": true,
-                "entry_rank": 25784,
+                "entry_rank": 25383,
                 "entry_last_rank": 26361
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 785,
+                "entry_rank": 769,
                 "entry_last_rank": 803
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2437814,
                 "cup_qualified": true,
-                "entry_rank": 53259,
+                "entry_rank": 51717,
                 "entry_last_rank": 54686
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2437815,
                 "cup_qualified": true,
-                "entry_rank": 85510,
+                "entry_rank": 83789,
                 "entry_last_rank": 87032
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1397078,
+                "entry_rank": 1354517,
                 "entry_last_rank": 1431545
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6427068,
+                "entry_rank": 6223558,
                 "entry_last_rank": 7075886
             }
         ],
@@ -469,7 +469,7 @@
                 "entry_1_entry": 2676023,
                 "entry_1_name": "irons",
                 "entry_1_player_name": "Cianan Murphy",
-                "entry_1_points": 19,
+                "entry_1_points": 60,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -477,14 +477,14 @@
                 "entry_2_entry": 2033598,
                 "entry_2_name": "Ehrens cheeky boyz",
                 "entry_2_player_name": "Ehren Towers",
-                "entry_2_points": 46,
+                "entry_2_points": 81,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448142,
-                "winner": null,
+                "winner": 2033598,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

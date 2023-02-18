@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1495,
-    "summary_overall_rank": 6205,
-    "summary_event_points": 59,
-    "summary_event_rank": 859004,
+    "summary_overall_points": 1519,
+    "summary_overall_rank": 8814,
+    "summary_event_points": 83,
+    "summary_event_rank": 1791328,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 30,
+                "entry_rank": 45,
                 "entry_last_rank": 56
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2218,
+                "entry_rank": 3228,
                 "entry_last_rank": 3819
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6204,
+                "entry_rank": 8813,
                 "entry_last_rank": 10426
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 6205,
+                "entry_rank": 8814,
                 "entry_last_rank": 10427
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
+                "entry_rank": 15,
                 "entry_last_rank": 19
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 2532,
+                "entry_rank": 3674,
                 "entry_last_rank": 4369
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
+                "entry_rank": 8,
                 "entry_last_rank": 11
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 19674,
+                "entry_rank": 26936,
                 "entry_last_rank": 34075
             }
         ],
@@ -334,7 +334,7 @@
                 "entry_1_entry": 3469856,
                 "entry_1_name": "Landinho’s Champions",
                 "entry_1_player_name": "Alfie Lander",
-                "entry_1_points": 52,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -342,14 +342,14 @@
                 "entry_2_entry": 2763552,
                 "entry_2_name": "Emeryball",
                 "entry_2_player_name": "Michael K",
-                "entry_2_points": 59,
+                "entry_2_points": 83,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 2763552,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -361,7 +361,7 @@
                 "entry_1_entry": 3125675,
                 "entry_1_name": "Sals Soldiers",
                 "entry_1_player_name": "Sally Gorman",
-                "entry_1_points": 61,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -369,14 +369,14 @@
                 "entry_2_entry": 2763552,
                 "entry_2_name": "Emeryball",
                 "entry_2_player_name": "Michael K",
-                "entry_2_points": 59,
+                "entry_2_points": 83,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 2763552,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -388,7 +388,7 @@
                 "entry_1_entry": 2763552,
                 "entry_1_name": "Emeryball",
                 "entry_1_player_name": "Michael K",
-                "entry_1_points": 59,
+                "entry_1_points": 83,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -403,7 +403,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 2763552,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

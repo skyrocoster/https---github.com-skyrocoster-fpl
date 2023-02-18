@@ -9,10 +9,10 @@
     "player_region_name": "Indonesia",
     "player_region_iso_code_short": "ID",
     "player_region_iso_code_long": "IDN",
-    "summary_overall_points": 1503,
-    "summary_overall_rank": 3749,
-    "summary_event_points": 56,
-    "summary_event_rank": 1368360,
+    "summary_overall_points": 1522,
+    "summary_overall_rank": 7361,
+    "summary_event_points": 75,
+    "summary_event_rank": 3642529,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 20,
+                "entry_rank": 37,
                 "entry_last_rank": 19
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431357,
                 "cup_qualified": true,
-                "entry_rank": 50,
+                "entry_rank": 86,
                 "entry_last_rank": 49
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3748,
+                "entry_rank": 7360,
                 "entry_last_rank": 4238
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 3749,
+                "entry_rank": 7361,
                 "entry_last_rank": 4238
             },
             {
@@ -120,6 +120,27 @@
                 "cup_qualified": null,
                 "entry_rank": 1,
                 "entry_last_rank": 1
+            },
+            {
+                "id": 131541,
+                "name": "Premiera Liga",
+                "short_name": null,
+                "created": "2022-07-06T11:35:36.051153Z",
+                "closed": false,
+                "rank": null,
+                "max_entries": null,
+                "league_type": "x",
+                "scoring": "c",
+                "admin_entry": 209993,
+                "start_event": 1,
+                "entry_can_leave": true,
+                "entry_can_admin": false,
+                "entry_can_invite": false,
+                "has_cup": true,
+                "cup_league": null,
+                "cup_qualified": null,
+                "entry_rank": 0,
+                "entry_last_rank": 0
             },
             {
                 "id": 137057,
@@ -265,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 3,
                 "entry_last_rank": 1
             },
             {
@@ -286,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 4,
                 "entry_last_rank": 2
             },
             {
@@ -496,7 +517,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             },
             {
@@ -517,7 +538,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
+                "entry_rank": 10,
                 "entry_last_rank": 6
             },
             {
@@ -601,7 +622,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10289,
+                "entry_rank": 22348,
                 "entry_last_rank": 9705
             }
         ],
@@ -624,7 +645,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 6,
                 "entry_last_rank": 1
             }
         ],
@@ -671,7 +692,7 @@
                 "entry_1_entry": 6055414,
                 "entry_1_name": "Kintil Kibing FC",
                 "entry_1_player_name": "seno taufikul",
-                "entry_1_points": 60,
+                "entry_1_points": 81,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -679,14 +700,14 @@
                 "entry_2_entry": 17885,
                 "entry_2_name": "Cyber Tech FC",
                 "entry_2_player_name": "Dwiky Eddo",
-                "entry_2_points": 52,
+                "entry_2_points": 71,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431357,
-                "winner": null,
+                "winner": 6055414,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -698,7 +719,7 @@
                 "entry_1_entry": 17885,
                 "entry_1_name": "Cyber Tech FC",
                 "entry_1_player_name": "Dwiky Eddo",
-                "entry_1_points": 52,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -713,7 +734,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 17885,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

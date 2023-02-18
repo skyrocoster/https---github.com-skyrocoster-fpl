@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1557,
-    "summary_overall_rank": 88,
-    "summary_event_points": 56,
-    "summary_event_rank": 1233213,
+    "summary_overall_points": 1583,
+    "summary_overall_rank": 107,
+    "summary_event_points": 82,
+    "summary_event_rank": 1836741,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 27,
+                "entry_rank": 31,
                 "entry_last_rank": 31
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 88,
+                "entry_rank": 107,
                 "entry_last_rank": 107
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 88,
+                "entry_rank": 107,
                 "entry_last_rank": 107
             },
             {
@@ -196,13 +196,13 @@
                 "scoring": "c",
                 "admin_entry": 80572,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 3,
+                "cup_league": 2453794,
+                "cup_qualified": true,
+                "entry_rank": 4,
                 "entry_last_rank": 4
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 32,
+                "entry_rank": 39,
                 "entry_last_rank": 38
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 105874,
+                "entry_rank": 120325,
                 "entry_last_rank": 141870
             }
         ],
@@ -388,7 +388,7 @@
                 "entry_1_entry": 36421,
                 "entry_1_name": "JustHereForTheCup FC",
                 "entry_1_player_name": "Chris Barnes",
-                "entry_1_points": 56,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -396,14 +396,14 @@
                 "entry_2_entry": 3669601,
                 "entry_2_name": "Hibfernian",
                 "entry_2_player_name": "James Fern",
-                "entry_2_points": 59,
+                "entry_2_points": 85,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437792,
-                "winner": null,
+                "winner": 3669601,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

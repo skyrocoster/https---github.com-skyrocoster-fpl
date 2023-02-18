@@ -9,10 +9,10 @@
     "player_region_name": "Netherlands",
     "player_region_iso_code_short": "NL",
     "player_region_iso_code_long": "NLD",
-    "summary_overall_points": 1573,
-    "summary_overall_rank": 27,
-    "summary_event_points": 43,
-    "summary_event_rank": 4290053,
+    "summary_overall_points": 1607,
+    "summary_overall_rank": 20,
+    "summary_event_points": 77,
+    "summary_event_rank": 2904944,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 27,
+                "entry_rank": 20,
                 "entry_last_rank": 15
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 27,
+                "entry_rank": 20,
                 "entry_last_rank": 15
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 10,
+                "entry_rank": 8,
                 "entry_last_rank": 5
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 40231,
+                "entry_rank": 24513,
                 "entry_last_rank": 18916
             }
         ],
@@ -208,7 +208,7 @@
                 "entry_1_entry": 3306459,
                 "entry_1_name": "Pisang Bakar",
                 "entry_1_player_name": "Cak Pisang",
-                "entry_1_points": 60,
+                "entry_1_points": 78,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -216,14 +216,14 @@
                 "entry_2_entry": 5223109,
                 "entry_2_name": "Ball on the Roof FC˚",
                 "entry_2_player_name": "Pieter van den Akker",
-                "entry_2_points": 43,
+                "entry_2_points": 77,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 3306459,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -235,7 +235,7 @@
                 "entry_1_entry": 5223109,
                 "entry_1_name": "Ball on the Roof FC˚",
                 "entry_1_player_name": "Pieter van den Akker",
-                "entry_1_points": 43,
+                "entry_1_points": 77,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -250,7 +250,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448123,
-                "winner": null,
+                "winner": 5223109,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

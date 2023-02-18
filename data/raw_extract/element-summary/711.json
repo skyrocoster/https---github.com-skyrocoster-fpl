@@ -222,7 +222,7 @@
             "kickoff_time": "2023-05-20T14:00:00Z",
             "event_name": "Gameweek 37",
             "is_home": false,
-            "difficulty": 5
+            "difficulty": 4
         },
         {
             "id": 372,
@@ -318,10 +318,10 @@
             "saves": 0,
             "bonus": 0,
             "bps": 1,
-            "influence": "0.2",
+            "influence": "1.2",
             "creativity": "0.8",
             "threat": "6.0",
-            "ict_index": "0.7",
+            "ict_index": "0.8",
             "starts": 0,
             "expected_goals": "0.07",
             "expected_assists": "0.00",

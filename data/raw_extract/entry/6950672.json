@@ -9,10 +9,10 @@
     "player_region_name": "Australia",
     "player_region_iso_code_short": "AU",
     "player_region_iso_code_long": "AUS",
-    "summary_overall_points": 1468,
-    "summary_overall_rank": 26356,
-    "summary_event_points": 34,
-    "summary_event_rank": 6466758,
+    "summary_overall_points": 1500,
+    "summary_overall_rank": 23909,
+    "summary_event_points": 66,
+    "summary_event_rank": 5970010,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 147,
+                "entry_rank": 134,
                 "entry_last_rank": 64
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431354,
                 "cup_qualified": true,
-                "entry_rank": 483,
+                "entry_rank": 443,
                 "entry_last_rank": 204
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 26353,
+                "entry_rank": 23906,
                 "entry_last_rank": 11377
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 26356,
+                "entry_rank": 23909,
                 "entry_last_rank": 11378
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2431368,
                 "cup_qualified": true,
-                "entry_rank": 483,
+                "entry_rank": 443,
                 "entry_last_rank": 204
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1234572,
+                "entry_rank": 1070818,
                 "entry_last_rank": 668397
             }
         ],
@@ -283,7 +283,7 @@
                 "entry_1_entry": 6950672,
                 "entry_1_name": "Royal Menyagi FC",
                 "entry_1_player_name": "Matt Skinner",
-                "entry_1_points": 34,
+                "entry_1_points": 66,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -298,7 +298,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 6950672,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

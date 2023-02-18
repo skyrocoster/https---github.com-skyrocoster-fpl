@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1338,
-    "summary_overall_rank": 1300257,
-    "summary_event_points": 44,
-    "summary_event_rank": 4271418,
+    "summary_overall_points": 1372,
+    "summary_overall_rank": 1191427,
+    "summary_event_points": 78,
+    "summary_event_rank": 2889650,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 172137,
+                "entry_rank": 157206,
                 "entry_last_rank": 147847
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 31537,
+                "entry_rank": 28727,
                 "entry_last_rank": 26892
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1295634,
+                "entry_rank": 1187793,
                 "entry_last_rank": 1118881
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1300257,
+                "entry_rank": 1191427,
                 "entry_last_rank": 1121916
             },
             {
@@ -112,13 +112,13 @@
                 "scoring": "c",
                 "admin_entry": 633,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 12316,
+                "cup_league": 2453772,
+                "cup_qualified": true,
+                "entry_rank": 11724,
                 "entry_last_rank": 11208
             },
             {
@@ -175,13 +175,13 @@
                 "scoring": "c",
                 "admin_entry": 3413,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 8626,
+                "cup_league": 2453774,
+                "cup_qualified": true,
+                "entry_rank": 8234,
                 "entry_last_rank": 7839
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1682,
+                "entry_rank": 1594,
                 "entry_last_rank": 1551
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5673,
+                "entry_rank": 5475,
                 "entry_last_rank": 5243
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5779,
+                "entry_rank": 5556,
                 "entry_last_rank": 5331
             },
             {
@@ -259,13 +259,13 @@
                 "scoring": "c",
                 "admin_entry": 25277,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 11562,
+                "cup_league": 2453777,
+                "cup_qualified": true,
+                "entry_rank": 11107,
                 "entry_last_rank": 10702
             },
             {
@@ -280,13 +280,13 @@
                 "scoring": "c",
                 "admin_entry": 469,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 6449,
+                "cup_league": 2453782,
+                "cup_qualified": true,
+                "entry_rank": 6068,
                 "entry_last_rank": 5687
             },
             {
@@ -301,13 +301,13 @@
                 "scoring": "c",
                 "admin_entry": 39455,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 11611,
+                "cup_league": 2453784,
+                "cup_qualified": true,
+                "entry_rank": 11292,
                 "entry_last_rank": 10903
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2836,
+                "entry_rank": 2666,
                 "entry_last_rank": 2493
             },
             {
@@ -349,7 +349,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2041,
+                "entry_rank": 1904,
                 "entry_last_rank": 1827
             },
             {
@@ -370,7 +370,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2149,
+                "entry_rank": 2036,
                 "entry_last_rank": 1963
             },
             {
@@ -391,7 +391,7 @@
                 "has_cup": true,
                 "cup_league": 2448144,
                 "cup_qualified": true,
-                "entry_rank": 17466,
+                "entry_rank": 16754,
                 "entry_last_rank": 16217
             },
             {
@@ -412,7 +412,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 31537,
+                "entry_rank": 28727,
                 "entry_last_rank": 26892
             },
             {
@@ -433,7 +433,7 @@
                 "has_cup": true,
                 "cup_league": 2437815,
                 "cup_qualified": true,
-                "entry_rank": 37784,
+                "entry_rank": 35657,
                 "entry_last_rank": 34214
             },
             {
@@ -454,7 +454,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1347,
+                "entry_rank": 1270,
                 "entry_last_rank": 1214
             },
             {
@@ -475,7 +475,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 17,
+                "entry_rank": 18,
                 "entry_last_rank": 18
             },
             {
@@ -538,7 +538,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 26,
+                "entry_rank": 25,
                 "entry_last_rank": 23
             },
             {
@@ -580,7 +580,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 32,
+                "entry_rank": 29,
                 "entry_last_rank": 25
             },
             {
@@ -601,7 +601,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 35,
+                "entry_rank": 30,
                 "entry_last_rank": 28
             },
             {
@@ -622,7 +622,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 522,
+                "entry_rank": 484,
                 "entry_last_rank": 456
             },
             {
@@ -643,7 +643,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1593195,
+                "entry_rank": 1323169,
                 "entry_last_rank": 1169362
             }
         ],
@@ -664,7 +664,7 @@
                 "entry_1_entry": 2977623,
                 "entry_1_name": "BeckerLuckNextTime",
                 "entry_1_player_name": "Sahil Thorve",
-                "entry_1_points": 40,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -672,14 +672,14 @@
                 "entry_2_entry": 2698966,
                 "entry_2_name": "the shark",
                 "entry_2_player_name": "cameron clarke",
-                "entry_2_points": 70,
+                "entry_2_points": 87,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 2698966,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -691,7 +691,7 @@
                 "entry_1_entry": 1087679,
                 "entry_1_name": "المانيفستو fc",
                 "entry_1_player_name": "mustafa ibrahim",
-                "entry_1_points": 58,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -699,14 +699,14 @@
                 "entry_2_entry": 2977623,
                 "entry_2_name": "BeckerLuckNextTime",
                 "entry_2_player_name": "Sahil Thorve",
-                "entry_2_points": 40,
+                "entry_2_points": 74,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 1087679,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -718,7 +718,7 @@
                 "entry_1_entry": 2977623,
                 "entry_1_name": "BeckerLuckNextTime",
                 "entry_1_player_name": "Sahil Thorve",
-                "entry_1_points": 40,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -726,14 +726,14 @@
                 "entry_2_entry": 6194984,
                 "entry_2_name": "qeuior",
                 "entry_2_player_name": "Muhammed Jabir MS",
-                "entry_2_points": 54,
+                "entry_2_points": 85,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431356,
-                "winner": null,
+                "winner": 6194984,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -745,7 +745,7 @@
                 "entry_1_entry": 2977623,
                 "entry_1_name": "BeckerLuckNextTime",
                 "entry_1_player_name": "Sahil Thorve",
-                "entry_1_points": 40,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -753,14 +753,14 @@
                 "entry_2_entry": 3298094,
                 "entry_2_name": "BK",
                 "entry_2_player_name": "Mohammed Ashfaq",
-                "entry_2_points": 30,
+                "entry_2_points": 62,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 2977623,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -772,7 +772,7 @@
                 "entry_1_entry": 5779093,
                 "entry_1_name": "BENJAMINNNN",
                 "entry_1_player_name": "Ben Mccord",
-                "entry_1_points": 37,
+                "entry_1_points": 66,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -780,14 +780,14 @@
                 "entry_2_entry": 2977623,
                 "entry_2_name": "BeckerLuckNextTime",
                 "entry_2_player_name": "Sahil Thorve",
-                "entry_2_points": 40,
+                "entry_2_points": 74,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437815,
-                "winner": null,
+                "winner": 2977623,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -799,7 +799,7 @@
                 "entry_1_entry": 2977623,
                 "entry_1_name": "BeckerLuckNextTime",
                 "entry_1_player_name": "Sahil Thorve",
-                "entry_1_points": 40,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -814,7 +814,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448144,
-                "winner": null,
+                "winner": 2977623,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

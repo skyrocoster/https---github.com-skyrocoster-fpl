@@ -46,7 +46,7 @@
             "kickoff_time": "2023-03-01T20:00:00Z",
             "event_name": "Gameweek 25",
             "is_home": false,
-            "difficulty": 5
+            "difficulty": 4
         },
         {
             "id": 260,
@@ -78,7 +78,7 @@
             "kickoff_time": "2023-03-12T16:30:00Z",
             "event_name": "Gameweek 27",
             "is_home": false,
-            "difficulty": 3
+            "difficulty": 4
         },
         {
             "id": 280,
@@ -142,7 +142,7 @@
             "kickoff_time": "2023-04-15T14:00:00Z",
             "event_name": "Gameweek 31",
             "is_home": true,
-            "difficulty": 2
+            "difficulty": 3
         },
         {
             "id": 317,

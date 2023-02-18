@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1426,
-    "summary_overall_rank": 160630,
-    "summary_event_points": 52,
-    "summary_event_rank": 2134200,
+    "summary_overall_points": 1467,
+    "summary_overall_rank": 106127,
+    "summary_event_points": 93,
+    "summary_event_rank": 426677,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405678,
                 "cup_qualified": true,
-                "entry_rank": 10110,
+                "entry_rank": 6545,
                 "entry_last_rank": 10755
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 57437,
+                "entry_rank": 38581,
                 "entry_last_rank": 64560
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 160557,
+                "entry_rank": 106095,
                 "entry_last_rank": 176387
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 160630,
+                "entry_rank": 106127,
                 "entry_last_rank": 176460
             },
             {
@@ -112,13 +112,13 @@
                 "scoring": "c",
                 "admin_entry": 152,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 3056,
+                "cup_league": 2453773,
+                "cup_qualified": true,
+                "entry_rank": 2215,
                 "entry_last_rank": 3462
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 4
             },
             {
@@ -154,13 +154,13 @@
                 "scoring": "c",
                 "admin_entry": 3413,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 1424,
+                "cup_league": 2453774,
+                "cup_qualified": true,
+                "entry_rank": 1013,
                 "entry_last_rank": 1637
             },
             {
@@ -196,13 +196,13 @@
                 "scoring": "c",
                 "admin_entry": 25277,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 2142,
+                "cup_league": 2453777,
+                "cup_qualified": true,
+                "entry_rank": 1594,
                 "entry_last_rank": 2514
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 4213,
+                "entry_rank": 2872,
                 "entry_last_rank": 4836
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 514,
+                "entry_rank": 395,
                 "entry_last_rank": 608
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 26,
+                "entry_rank": 17,
                 "entry_last_rank": 32
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 226,
+                "entry_rank": 171,
                 "entry_last_rank": 256
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 96,
+                "entry_rank": 64,
                 "entry_last_rank": 106
             },
             {
@@ -349,7 +349,7 @@
                 "has_cup": true,
                 "cup_league": 2448144,
                 "cup_qualified": true,
-                "entry_rank": 3122,
+                "entry_rank": 2182,
                 "entry_last_rank": 3615
             },
             {
@@ -370,7 +370,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 30,
+                "entry_rank": 22,
                 "entry_last_rank": 40
             },
             {
@@ -391,7 +391,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 16,
+                "entry_rank": 14,
                 "entry_last_rank": 22
             },
             {
@@ -412,7 +412,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 2
             },
             {
@@ -433,7 +433,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 64851,
+                "entry_rank": 43597,
                 "entry_last_rank": 72931
             },
             {
@@ -454,7 +454,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 154041,
+                "entry_rank": 64727,
                 "entry_last_rank": 159160
             }
         ],
@@ -556,7 +556,7 @@
                 "entry_1_entry": 1976906,
                 "entry_1_name": "Werner’s Originals",
                 "entry_1_player_name": "Gary Marr",
-                "entry_1_points": 67,
+                "entry_1_points": 93,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -564,17 +564,17 @@
                 "entry_2_entry": 53587,
                 "entry_2_name": "Barbecue Sauce!",
                 "entry_2_player_name": "Atanu Biswas",
-                "entry_2_points": 52,
+                "entry_2_points": 93,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 53587,
                 "seed_value": null,
                 "event": 23,
-                "tiebreak": null,
+                "tiebreak": "goals_conceded",
                 "is_bye": false,
                 "knockout_name": "Round of 65536"
             },
@@ -583,7 +583,7 @@
                 "entry_1_entry": 53587,
                 "entry_1_name": "Barbecue Sauce!",
                 "entry_1_player_name": "Atanu Biswas",
-                "entry_1_points": 52,
+                "entry_1_points": 93,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -591,14 +591,14 @@
                 "entry_2_entry": 2843086,
                 "entry_2_name": "the replacements",
                 "entry_2_player_name": "Gabriel Eremie",
-                "entry_2_points": 56,
+                "entry_2_points": 88,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437809,
-                "winner": null,
+                "winner": 53587,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -610,7 +610,7 @@
                 "entry_1_entry": 53587,
                 "entry_1_name": "Barbecue Sauce!",
                 "entry_1_player_name": "Atanu Biswas",
-                "entry_1_points": 52,
+                "entry_1_points": 93,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -625,7 +625,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448144,
-                "winner": null,
+                "winner": 53587,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

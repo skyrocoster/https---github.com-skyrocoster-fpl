@@ -142,7 +142,7 @@
             "kickoff_time": "2023-04-22T14:00:00Z",
             "event_name": "Gameweek 32",
             "is_home": false,
-            "difficulty": 3
+            "difficulty": 4
         },
         {
             "id": 325,
@@ -174,7 +174,7 @@
             "kickoff_time": "2023-04-29T14:00:00Z",
             "event_name": "Gameweek 34",
             "is_home": false,
-            "difficulty": 5
+            "difficulty": 4
         },
         {
             "id": 348,
@@ -222,7 +222,7 @@
             "kickoff_time": "2023-05-20T14:00:00Z",
             "event_name": "Gameweek 37",
             "is_home": true,
-            "difficulty": 2
+            "difficulty": 3
         },
         {
             "id": 377,

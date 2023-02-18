@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1404,
-    "summary_overall_rank": 324454,
-    "summary_event_points": 49,
-    "summary_event_rank": 2809851,
+    "summary_overall_points": 1444,
+    "summary_overall_rank": 236173,
+    "summary_event_points": 89,
+    "summary_event_rank": 785049,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 44329,
+                "entry_rank": 33067,
                 "entry_last_rank": 44365
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 35,
+                "entry_rank": 23,
                 "entry_last_rank": 33
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 324214,
+                "entry_rank": 236046,
                 "entry_last_rank": 321175
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 324454,
+                "entry_rank": 236173,
                 "entry_last_rank": 321382
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 34752,
+                "entry_rank": 12447,
                 "entry_last_rank": 26852
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 2
             }
         ],
@@ -181,7 +181,7 @@
                 "entry_1_entry": 215351,
                 "entry_1_name": "Luck or Judgement?",
                 "entry_1_player_name": "Chris Hunt",
-                "entry_1_points": 58,
+                "entry_1_points": 90,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -189,14 +189,14 @@
                 "entry_2_entry": 1530882,
                 "entry_2_name": "Paris Saint-Germain",
                 "entry_2_player_name": "Michael Singh",
-                "entry_2_points": 49,
+                "entry_2_points": 89,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 215351,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -208,7 +208,7 @@
                 "entry_1_entry": 7544286,
                 "entry_1_name": "GulogSvart",
                 "entry_1_player_name": "Monica Helland",
-                "entry_1_points": 37,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -216,14 +216,14 @@
                 "entry_2_entry": 1530882,
                 "entry_2_name": "Paris Saint-Germain",
                 "entry_2_player_name": "Michael Singh",
-                "entry_2_points": 49,
+                "entry_2_points": 89,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405666,
-                "winner": null,
+                "winner": 1530882,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

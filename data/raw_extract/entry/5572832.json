@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1547,
-    "summary_overall_rank": 167,
-    "summary_event_points": 66,
-    "summary_event_rank": 222553,
+    "summary_overall_points": 1581,
+    "summary_overall_rank": 126,
+    "summary_event_points": 100,
+    "summary_event_rank": 117444,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2431353,
                 "cup_qualified": true,
-                "entry_rank": 2,
+                "entry_rank": 3,
                 "entry_last_rank": 8
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 44,
+                "entry_rank": 38,
                 "entry_last_rank": 183
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 167,
+                "entry_rank": 126,
                 "entry_last_rank": 543
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 167,
+                "entry_rank": 126,
                 "entry_last_rank": 543
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 52,
+                "entry_rank": 47,
                 "entry_last_rank": 212
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 31077,
+                "entry_rank": 18536,
                 "entry_last_rank": 88943
             }
         ],
@@ -298,7 +298,7 @@
                 "entry_1_entry": 5572832,
                 "entry_1_name": "Saka Saka",
                 "entry_1_player_name": "Chris Taylor",
-                "entry_1_points": 66,
+                "entry_1_points": 100,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -306,14 +306,14 @@
                 "entry_2_entry": 7649176,
                 "entry_2_name": "epic ten hag",
                 "entry_2_player_name": "raffy Holt",
-                "entry_2_points": 56,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 5572832,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -325,7 +325,7 @@
                 "entry_1_entry": 11003871,
                 "entry_1_name": "اشبال كيكو",
                 "entry_1_player_name": "abdo rafee",
-                "entry_1_points": 34,
+                "entry_1_points": 54,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -333,14 +333,14 @@
                 "entry_2_entry": 5572832,
                 "entry_2_name": "Saka Saka",
                 "entry_2_player_name": "Chris Taylor",
-                "entry_2_points": 66,
+                "entry_2_points": 100,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431353,
-                "winner": null,
+                "winner": 5572832,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

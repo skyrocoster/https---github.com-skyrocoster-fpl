@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1395,
-    "summary_overall_rank": 416306,
-    "summary_event_points": 64,
-    "summary_event_rank": 366343,
+    "summary_overall_points": 1431,
+    "summary_overall_rank": 347505,
+    "summary_event_points": 100,
+    "summary_event_rank": 126274,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 56624,
+                "entry_rank": 48476,
                 "entry_last_rank": 74106
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 45,
+                "entry_rank": 40,
                 "entry_last_rank": 53
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 415914,
+                "entry_rank": 347247,
                 "entry_last_rank": 540559
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 416306,
+                "entry_rank": 347505,
                 "entry_last_rank": 541133
             },
             {
@@ -112,13 +112,13 @@
                 "scoring": "c",
                 "admin_entry": 152,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 6995,
+                "cup_league": 2453773,
+                "cup_qualified": true,
+                "entry_rank": 6280,
                 "entry_last_rank": 8933
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2448132,
                 "cup_qualified": true,
-                "entry_rank": 11598,
+                "entry_rank": 10145,
                 "entry_last_rank": 15111
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 24848,
+                "entry_rank": 22452,
                 "entry_last_rank": 32433
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 26,
+                "entry_rank": 24,
                 "entry_last_rank": 37
             },
             {
@@ -196,13 +196,13 @@
                 "scoring": "c",
                 "admin_entry": 5431,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 4364,
+                "cup_league": 2453776,
+                "cup_qualified": true,
+                "entry_rank": 3993,
                 "entry_last_rank": 5430
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 10807,
+                "entry_rank": 9332,
                 "entry_last_rank": 14015
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3310,
+                "entry_rank": 2940,
                 "entry_last_rank": 4194
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 4
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 926941,
+                "entry_rank": 675155,
                 "entry_last_rank": 1297971
             }
         ],
@@ -355,7 +355,7 @@
                 "entry_1_entry": 12245,
                 "entry_1_name": "Chipmunk FC",
                 "entry_1_player_name": "Yolande Semple",
-                "entry_1_points": 60,
+                "entry_1_points": 96,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -363,14 +363,14 @@
                 "entry_2_entry": 6307678,
                 "entry_2_name": "fc Radman",
                 "entry_2_player_name": "Paweł Stefański",
-                "entry_2_points": 67,
+                "entry_2_points": 89,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405666,
-                "winner": null,
+                "winner": 12245,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -382,7 +382,7 @@
                 "entry_1_entry": 12245,
                 "entry_1_name": "Chipmunk FC",
                 "entry_1_player_name": "Yolande Semple",
-                "entry_1_points": 60,
+                "entry_1_points": 96,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -390,14 +390,14 @@
                 "entry_2_entry": 1280860,
                 "entry_2_name": "Praise Delort",
                 "entry_2_player_name": "Harry Mallon",
-                "entry_2_points": 43,
+                "entry_2_points": 59,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 12245,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -409,7 +409,7 @@
                 "entry_1_entry": 12245,
                 "entry_1_name": "Chipmunk FC",
                 "entry_1_player_name": "Yolande Semple",
-                "entry_1_points": 60,
+                "entry_1_points": 96,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -417,14 +417,14 @@
                 "entry_2_entry": 732172,
                 "entry_2_name": "Netflix and Chilwell",
                 "entry_2_player_name": "Dman Man rocky",
-                "entry_2_points": 45,
+                "entry_2_points": 63,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437809,
-                "winner": null,
+                "winner": 12245,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -436,7 +436,7 @@
                 "entry_1_entry": 12245,
                 "entry_1_name": "Chipmunk FC",
                 "entry_1_player_name": "Yolande Semple",
-                "entry_1_points": 60,
+                "entry_1_points": 96,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -444,14 +444,14 @@
                 "entry_2_entry": 18494,
                 "entry_2_name": "Aing Maung FC",
                 "entry_2_player_name": "Agung Satriyadi",
-                "entry_2_points": 55,
+                "entry_2_points": 84,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448132,
-                "winner": null,
+                "winner": 12245,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

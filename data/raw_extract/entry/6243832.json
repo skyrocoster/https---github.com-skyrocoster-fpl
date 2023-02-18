@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1556,
-    "summary_overall_rank": 101,
-    "summary_event_points": 59,
-    "summary_event_rank": 859004,
+    "summary_overall_points": 1577,
+    "summary_overall_rank": 187,
+    "summary_event_points": 80,
+    "summary_event_rank": 2401425,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2431352,
                 "cup_qualified": true,
-                "entry_rank": 4,
+                "entry_rank": 11,
                 "entry_last_rank": 7
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 2,
+                "entry_rank": 5,
                 "entry_last_rank": 4
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 101,
+                "entry_rank": 187,
                 "entry_last_rank": 112
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 101,
+                "entry_rank": 187,
                 "entry_last_rank": 112
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 7,
                 "entry_last_rank": 4
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 31929,
+                "entry_rank": 54092,
                 "entry_last_rank": 39732
             }
         ],
@@ -330,7 +330,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 4,
                 "entry_last_rank": 3
             },
             {
@@ -446,7 +446,7 @@
                 "entry_1_entry": 6243832,
                 "entry_1_name": "Fiercalicious",
                 "entry_1_player_name": "Garrett Smyth",
-                "entry_1_points": 55,
+                "entry_1_points": 76,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -454,14 +454,14 @@
                 "entry_2_entry": 3357786,
                 "entry_2_name": "Square One!",
                 "entry_2_player_name": "Tom Smith",
-                "entry_2_points": 39,
+                "entry_2_points": 55,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431352,
-                "winner": null,
+                "winner": 6243832,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1480,
-    "summary_overall_rank": 14131,
-    "summary_event_points": 50,
-    "summary_event_rank": 2648528,
+    "summary_overall_points": 1499,
+    "summary_overall_rank": 25221,
+    "summary_event_points": 69,
+    "summary_event_rank": 5247209,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 79,
+                "entry_rank": 143,
                 "entry_last_rank": 65
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 4968,
+                "entry_rank": 9144,
                 "entry_last_rank": 4178
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 14130,
+                "entry_rank": 25216,
                 "entry_last_rank": 11405
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 14131,
+                "entry_rank": 25221,
                 "entry_last_rank": 11406
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 5692,
+                "entry_rank": 10428,
                 "entry_last_rank": 4779
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 298287,
+                "entry_rank": 465489,
                 "entry_last_rank": 221639
             }
         ],
@@ -304,7 +304,7 @@
                 "entry_1_entry": 2173745,
                 "entry_1_name": "Martinellitubbies",
                 "entry_1_player_name": "Luke Shillito",
-                "entry_1_points": 46,
+                "entry_1_points": 65,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -319,7 +319,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 2173745,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

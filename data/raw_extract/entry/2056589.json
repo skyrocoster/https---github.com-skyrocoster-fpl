@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1406,
-    "summary_overall_rank": 299271,
-    "summary_event_points": 61,
-    "summary_event_rank": 548411,
+    "summary_overall_points": 1424,
+    "summary_overall_rank": 409687,
+    "summary_event_points": 79,
+    "summary_event_rank": 2447140,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 75802,
+                "entry_rank": 101998,
                 "entry_last_rank": 102499
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 29,
+                "entry_rank": 43,
                 "entry_last_rank": 41
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 299056,
+                "entry_rank": 409331,
                 "entry_last_rank": 413844
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 299271,
+                "entry_rank": 409687,
                 "entry_last_rank": 414167
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5681,
+                "entry_rank": 14196,
                 "entry_last_rank": 12538
             }
         ],
@@ -166,7 +166,7 @@
                 "entry_1_entry": 7068746,
                 "entry_1_name": "ECO-Chen",
                 "entry_1_player_name": "diandian chen",
-                "entry_1_points": 52,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -174,14 +174,14 @@
                 "entry_2_entry": 2056589,
                 "entry_2_name": "MAFKHAN",
                 "entry_2_player_name": "Mahmood Khan",
-                "entry_2_points": 61,
+                "entry_2_points": 79,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 7068746,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

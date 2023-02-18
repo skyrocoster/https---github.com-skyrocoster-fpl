@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1463,
-    "summary_overall_rank": 34626,
-    "summary_event_points": 44,
-    "summary_event_rank": 4148435,
+    "summary_overall_points": 1481,
+    "summary_overall_rank": 59542,
+    "summary_event_points": 62,
+    "summary_event_rank": 6996476,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2437793,
                 "cup_qualified": true,
-                "entry_rank": 372,
+                "entry_rank": 676,
                 "entry_last_rank": 304
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 5,
                 "entry_last_rank": 2
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 34621,
+                "entry_rank": 59528,
                 "entry_last_rank": 26194
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 34626,
+                "entry_rank": 59542,
                 "entry_last_rank": 26197
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 3,
                 "entry_last_rank": 1
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21628,
+                "entry_rank": 47517,
                 "entry_last_rank": 10131
             }
         ],
@@ -187,7 +187,7 @@
                 "entry_1_entry": 1611569,
                 "entry_1_name": "JMEFC",
                 "entry_1_player_name": "Joseph Morley",
-                "entry_1_points": 29,
+                "entry_1_points": 63,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -195,14 +195,14 @@
                 "entry_2_entry": 1469715,
                 "entry_2_name": "kingreno",
                 "entry_2_player_name": "Marvin Cheong",
-                "entry_2_points": 44,
+                "entry_2_points": 62,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437793,
-                "winner": null,
+                "winner": 1611569,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

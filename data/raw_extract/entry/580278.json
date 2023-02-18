@@ -9,10 +9,10 @@
     "player_region_name": "Norway",
     "player_region_iso_code_short": "NO",
     "player_region_iso_code_long": "NOR",
-    "summary_overall_points": 1493,
-    "summary_overall_rank": 6988,
-    "summary_event_points": 43,
-    "summary_event_rank": 4492870,
+    "summary_overall_points": 1525,
+    "summary_overall_rank": 6187,
+    "summary_event_points": 75,
+    "summary_event_rank": 3642529,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 39,
+                "entry_rank": 29,
                 "entry_last_rank": 23
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431360,
                 "cup_qualified": true,
-                "entry_rank": 479,
+                "entry_rank": 449,
                 "entry_last_rank": 330
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6987,
+                "entry_rank": 6186,
                 "entry_last_rank": 4577
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 6988,
+                "entry_rank": 6187,
                 "entry_last_rank": 4577
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 935,
+                "entry_rank": 872,
                 "entry_last_rank": 642
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 32074,
+                "entry_rank": 22707,
                 "entry_last_rank": 14348
             }
         ],
@@ -208,7 +208,7 @@
                 "entry_1_entry": 580278,
                 "entry_1_name": "Hit-men 78 lookouts",
                 "entry_1_player_name": "Geir Svenson",
-                "entry_1_points": 43,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -216,14 +216,14 @@
                 "entry_2_entry": 1348037,
                 "entry_2_name": "Ali All Stars",
                 "entry_2_player_name": "Joynal Ali",
-                "entry_2_points": 44,
+                "entry_2_points": 88,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 1348037,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -235,7 +235,7 @@
                 "entry_1_entry": 1010336,
                 "entry_1_name": "Red devil",
                 "entry_1_player_name": "Matias fossvoll",
-                "entry_1_points": 48,
+                "entry_1_points": 78,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -243,14 +243,14 @@
                 "entry_2_entry": 580278,
                 "entry_2_name": "Hit-men 78 lookouts",
                 "entry_2_player_name": "Geir Svenson",
-                "entry_2_points": 43,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431360,
-                "winner": null,
+                "winner": 1010336,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -262,7 +262,7 @@
                 "entry_1_entry": 580278,
                 "entry_1_name": "Hit-men 78 lookouts",
                 "entry_1_player_name": "Geir Svenson",
-                "entry_1_points": 43,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -277,7 +277,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 580278,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

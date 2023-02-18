@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1551,
-    "summary_overall_rank": 127,
-    "summary_event_points": 54,
-    "summary_event_rank": 1609821,
+    "summary_overall_points": 1581,
+    "summary_overall_rank": 124,
+    "summary_event_points": 84,
+    "summary_event_rank": 1476177,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 35,
+                "entry_rank": 37,
                 "entry_last_rank": 49
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 127,
+                "entry_rank": 124,
                 "entry_last_rank": 163
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 127,
+                "entry_rank": 124,
                 "entry_last_rank": 163
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 42,
+                "entry_rank": 46,
                 "entry_last_rank": 57
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 26127,
+                "entry_rank": 21742,
                 "entry_last_rank": 30186
             }
         ],

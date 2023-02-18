@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1530,
-    "summary_overall_rank": 607,
-    "summary_event_points": 42,
-    "summary_event_rank": 4680705,
+    "summary_overall_points": 1559,
+    "summary_overall_rank": 675,
+    "summary_event_points": 71,
+    "summary_event_rank": 4668231,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2431352,
                 "cup_qualified": true,
-                "entry_rank": 27,
+                "entry_rank": 29,
                 "entry_last_rank": 16
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 23,
+                "entry_rank": 21,
                 "entry_last_rank": 15
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 607,
+                "entry_rank": 675,
                 "entry_last_rank": 318
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 607,
+                "entry_rank": 675,
                 "entry_last_rank": 318
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2448141,
                 "cup_qualified": true,
-                "entry_rank": 18,
+                "entry_rank": 21,
                 "entry_last_rank": 11
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 532437,
+                "entry_rank": 506202,
                 "entry_last_rank": 343655
             }
         ],
@@ -229,7 +229,7 @@
                 "entry_1_entry": 4459116,
                 "entry_1_name": "Gucci Gang",
                 "entry_1_player_name": "David Harpur",
-                "entry_1_points": 42,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -237,14 +237,14 @@
                 "entry_2_entry": 6884848,
                 "entry_2_name": "Gudbadhaaland",
                 "entry_2_player_name": "Graham O'Connor",
-                "entry_2_points": 53,
+                "entry_2_points": 72,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 6884848,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -256,7 +256,7 @@
                 "entry_1_entry": 4706224,
                 "entry_1_name": "Fran City",
                 "entry_1_player_name": "Francesca Munton",
-                "entry_1_points": 39,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -264,14 +264,14 @@
                 "entry_2_entry": 4459116,
                 "entry_2_name": "Gucci Gang",
                 "entry_2_player_name": "David Harpur",
-                "entry_2_points": 42,
+                "entry_2_points": 71,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431352,
-                "winner": null,
+                "winner": 4706224,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -283,7 +283,7 @@
                 "entry_1_entry": 4459116,
                 "entry_1_name": "Gucci Gang",
                 "entry_1_player_name": "David Harpur",
-                "entry_1_points": 42,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -298,7 +298,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448141,
-                "winner": null,
+                "winner": 4459116,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

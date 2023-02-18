@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1531,
-    "summary_overall_rank": 575,
-    "summary_event_points": 44,
-    "summary_event_rank": 4225598,
+    "summary_overall_points": 1565,
+    "summary_overall_rank": 427,
+    "summary_event_points": 78,
+    "summary_event_rank": 2852035,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2437794,
                 "cup_qualified": true,
-                "entry_rank": 7,
+                "entry_rank": 4,
                 "entry_last_rank": 4
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 180,
+                "entry_rank": 133,
                 "entry_last_rank": 76
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 575,
+                "entry_rank": 427,
                 "entry_last_rank": 254
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 575,
+                "entry_rank": 427,
                 "entry_last_rank": 254
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 210,
+                "entry_rank": 156,
                 "entry_last_rank": 93
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 284614,
+                "entry_rank": 202307,
                 "entry_last_rank": 145345
             }
         ],
@@ -430,7 +430,7 @@
                 "entry_1_entry": 540511,
                 "entry_1_name": "rendang didendang",
                 "entry_1_player_name": "Gtg Gg",
-                "entry_1_points": 40,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -438,14 +438,14 @@
                 "entry_2_entry": 278385,
                 "entry_2_name": "Dixy’s Whopping XI",
                 "entry_2_player_name": "Joe Dixon",
-                "entry_2_points": 40,
+                "entry_2_points": 74,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437794,
-                "winner": null,
+                "winner": 278385,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1532,
-    "summary_overall_rank": 549,
-    "summary_event_points": 45,
-    "summary_event_rank": 3867521,
+    "summary_overall_points": 1557,
+    "summary_overall_rank": 811,
+    "summary_event_points": 70,
+    "summary_event_rank": 4936424,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 3,
+                "entry_rank": 4,
                 "entry_last_rank": 1
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 175,
+                "entry_rank": 266,
                 "entry_last_rank": 122
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 549,
+                "entry_rank": 811,
                 "entry_last_rank": 362
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 549,
+                "entry_rank": 811,
                 "entry_last_rank": 362
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 203,
+                "entry_rank": 304,
                 "entry_last_rank": 146
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 119408,
+                "entry_rank": 144058,
                 "entry_last_rank": 75643
             }
         ],
@@ -267,7 +267,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 3,
                 "entry_last_rank": 4
             }
         ],
@@ -368,7 +368,7 @@
                 "entry_1_entry": 271538,
                 "entry_1_name": "Stranger Ings",
                 "entry_1_player_name": "Sam Bradshaw",
-                "entry_1_points": 45,
+                "entry_1_points": 70,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -383,7 +383,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 271538,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

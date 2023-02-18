@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1437,
-    "summary_overall_rank": 106448,
-    "summary_event_points": 47,
-    "summary_event_rank": 3406479,
+    "summary_overall_points": 1465,
+    "summary_overall_rank": 114377,
+    "summary_event_points": 75,
+    "summary_event_rank": 3642529,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 13028,
+                "entry_rank": 13881,
                 "entry_last_rank": 10020
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
+                "entry_rank": 11,
                 "entry_last_rank": 7
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 106414,
+                "entry_rank": 114338,
                 "entry_last_rank": 82514
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 106448,
+                "entry_rank": 114377,
                 "entry_last_rank": 82540
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2448144,
                 "cup_qualified": true,
-                "entry_rank": 2068,
+                "entry_rank": 2333,
                 "entry_last_rank": 1784
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 6,
                 "entry_last_rank": 3
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 273479,
+                "entry_rank": 272417,
                 "entry_last_rank": 168481
             }
         ],
@@ -361,7 +361,7 @@
                 "entry_1_entry": 117464,
                 "entry_1_name": "Donk Squad",
                 "entry_1_player_name": "Eyon Shivraj",
-                "entry_1_points": 43,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -376,7 +376,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448144,
-                "winner": null,
+                "winner": 117464,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

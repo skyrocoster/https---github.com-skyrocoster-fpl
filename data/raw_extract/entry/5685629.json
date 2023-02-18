@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1410,
-    "summary_overall_rank": 269884,
-    "summary_event_points": 50,
-    "summary_event_rank": 2648528,
+    "summary_overall_points": 1440,
+    "summary_overall_rank": 265877,
+    "summary_event_points": 80,
+    "summary_event_rank": 2401425,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 25,
+                "entry_rank": 29,
                 "entry_last_rank": 25
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 269706,
+                "entry_rank": 265718,
                 "entry_last_rank": 243267
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 269884,
+                "entry_rank": 265877,
                 "entry_last_rank": 243397
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 354141,
+                "entry_rank": 317949,
                 "entry_last_rank": 268262
             }
         ],

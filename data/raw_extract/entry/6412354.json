@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1516,
-    "summary_overall_rank": 1650,
-    "summary_event_points": 38,
-    "summary_event_rank": 5641178,
+    "summary_overall_points": 1557,
+    "summary_overall_rank": 803,
+    "summary_event_points": 79,
+    "summary_event_rank": 2615916,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2437793,
                 "cup_qualified": true,
-                "entry_rank": 18,
+                "entry_rank": 8,
                 "entry_last_rank": 5
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 74,
+                "entry_rank": 30,
                 "entry_last_rank": 24
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1650,
+                "entry_rank": 803,
                 "entry_last_rank": 534
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1650,
+                "entry_rank": 803,
                 "entry_last_rank": 534
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21,
+                "entry_rank": 16,
                 "entry_last_rank": 12
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 569042,
+                "entry_rank": 301982,
                 "entry_last_rank": 239919
             }
         ],
@@ -257,7 +257,7 @@
                 "entry_1_entry": 2218097,
                 "entry_1_name": "Obi-Wan Iwobi",
                 "entry_1_player_name": "Nick Brabham",
-                "entry_1_points": 30,
+                "entry_1_points": 57,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -265,14 +265,14 @@
                 "entry_2_entry": 6412354,
                 "entry_2_name": "Spirit of the blues",
                 "entry_2_player_name": "Caelum Kiely",
-                "entry_2_points": 34,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437793,
-                "winner": null,
+                "winner": 6412354,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

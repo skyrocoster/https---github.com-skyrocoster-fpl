@@ -9,10 +9,10 @@
     "player_region_name": "Scotland",
     "player_region_iso_code_short": "S1",
     "player_region_iso_code_long": "SCO",
-    "summary_overall_points": 1578,
-    "summary_overall_rank": 13,
-    "summary_event_points": 45,
-    "summary_event_rank": 3867521,
+    "summary_overall_points": 1608,
+    "summary_overall_rank": 16,
+    "summary_event_points": 75,
+    "summary_event_rank": 3569515,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 13,
+                "entry_rank": 16,
                 "entry_last_rank": 12
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 13,
+                "entry_rank": 16,
                 "entry_last_rank": 12
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18881,
+                "entry_rank": 15655,
                 "entry_last_rank": 9550
             }
         ],
@@ -283,7 +283,7 @@
                 "entry_1_entry": 1929516,
                 "entry_1_name": "Robbies Rangers",
                 "entry_1_player_name": "Craig Robertson",
-                "entry_1_points": 45,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -291,14 +291,14 @@
                 "entry_2_entry": 5877656,
                 "entry_2_name": "Notrophiesformanutd",
                 "entry_2_player_name": "Arron Brennan",
-                "entry_2_points": 37,
+                "entry_2_points": 67,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431364,
-                "winner": null,
+                "winner": 1929516,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

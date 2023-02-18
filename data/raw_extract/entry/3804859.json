@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1575,
-    "summary_overall_rank": 21,
-    "summary_event_points": 58,
-    "summary_event_rank": 960154,
+    "summary_overall_points": 1610,
+    "summary_overall_rank": 11,
+    "summary_event_points": 93,
+    "summary_event_rank": 426677,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 6,
+                "entry_rank": 3,
                 "entry_last_rank": 12
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21,
+                "entry_rank": 11,
                 "entry_last_rank": 40
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 21,
+                "entry_rank": 11,
                 "entry_last_rank": 40
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 24102,
+                "entry_rank": 13021,
                 "entry_last_rank": 38489
             }
         ],
@@ -162,7 +162,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 3
             }
         ],
@@ -209,7 +209,7 @@
                 "entry_1_entry": 6804677,
                 "entry_1_name": "Dark Cygnus MU",
                 "entry_1_player_name": "M PT",
-                "entry_1_points": 60,
+                "entry_1_points": 92,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -217,14 +217,14 @@
                 "entry_2_entry": 3804859,
                 "entry_2_name": "Ball hopping 11",
                 "entry_2_player_name": "pierce doody",
-                "entry_2_points": 58,
+                "entry_2_points": 93,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 3804859,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -236,7 +236,7 @@
                 "entry_1_entry": 3804859,
                 "entry_1_name": "Ball hopping 11",
                 "entry_1_player_name": "pierce doody",
-                "entry_1_points": 58,
+                "entry_1_points": 93,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -244,14 +244,14 @@
                 "entry_2_entry": 1289536,
                 "entry_2_name": "Killzers XI",
                 "entry_2_player_name": "killian O'Connor",
-                "entry_2_points": 38,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 3804859,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

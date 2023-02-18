@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1195,
-    "summary_overall_rank": 4421028,
-    "summary_event_points": 26,
-    "summary_event_rank": 7885545,
+    "summary_overall_points": 1220,
+    "summary_overall_rank": 4503940,
+    "summary_event_points": 51,
+    "summary_event_rank": 9074903,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 407139,
+                "entry_rank": 413738,
                 "entry_last_rank": 369548
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 111401,
+                "entry_rank": 113587,
                 "entry_last_rank": 103195
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4281132,
+                "entry_rank": 4356713,
                 "entry_last_rank": 3971905
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 4421028,
+                "entry_rank": 4503940,
                 "entry_last_rank": 4074195
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2448144,
                 "cup_qualified": true,
-                "entry_rank": 31517,
+                "entry_rank": 31812,
                 "entry_last_rank": 30811
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 22,
+                "entry_rank": 21,
                 "entry_last_rank": 21
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 111401,
+                "entry_rank": 113587,
                 "entry_last_rank": 103195
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6224630,
+                "entry_rank": 6454408,
                 "entry_last_rank": 5771990
             }
         ],
@@ -388,7 +388,7 @@
                 "entry_1_entry": 4383319,
                 "entry_1_name": "Pain in Dias",
                 "entry_1_player_name": "Swapnil Markhedkar",
-                "entry_1_points": 26,
+                "entry_1_points": 51,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -396,14 +396,14 @@
                 "entry_2_entry": 2117646,
                 "entry_2_name": "Gabi'sArtetaCameHome",
                 "entry_2_player_name": "Ravikiran B",
-                "entry_2_points": 61,
+                "entry_2_points": 78,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 2117646,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -415,7 +415,7 @@
                 "entry_1_entry": 4383319,
                 "entry_1_name": "Pain in Dias",
                 "entry_1_player_name": "Swapnil Markhedkar",
-                "entry_1_points": 26,
+                "entry_1_points": 51,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -423,14 +423,14 @@
                 "entry_2_entry": 4920674,
                 "entry_2_name": "Rongha Logistics",
                 "entry_2_player_name": "Ambrose Cho",
-                "entry_2_points": 27,
+                "entry_2_points": 59,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448144,
-                "winner": null,
+                "winner": 4920674,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

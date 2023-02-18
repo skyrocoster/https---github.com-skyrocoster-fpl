@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1505,
-    "summary_overall_rank": 3220,
-    "summary_event_points": 52,
-    "summary_event_rank": 2134200,
+    "summary_overall_points": 1528,
+    "summary_overall_rank": 5028,
+    "summary_event_points": 75,
+    "summary_event_rank": 3569515,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 16,
+                "entry_rank": 22,
                 "entry_last_rank": 17
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 1111,
+                "entry_rank": 1839,
                 "entry_last_rank": 1322
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3220,
+                "entry_rank": 5027,
                 "entry_last_rank": 3676
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 3220,
+                "entry_rank": 5028,
                 "entry_last_rank": 3676
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1281,
+                "entry_rank": 2097,
                 "entry_last_rank": 1521
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 66234,
+                "entry_rank": 93245,
                 "entry_last_rank": 66667
             }
         ],
@@ -320,7 +320,7 @@
                 "entry_1_entry": 2251797,
                 "entry_1_name": "Pny Fc",
                 "entry_1_player_name": "Mohamed sayedahmed",
-                "entry_1_points": 48,
+                "entry_1_points": 69,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -328,14 +328,14 @@
                 "entry_2_entry": 3358780,
                 "entry_2_name": "It doesn’t Mata",
                 "entry_2_player_name": "Dev Solanki",
-                "entry_2_points": 52,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 3358780,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -347,7 +347,7 @@
                 "entry_1_entry": 3358780,
                 "entry_1_name": "It doesn’t Mata",
                 "entry_1_player_name": "Dev Solanki",
-                "entry_1_points": 52,
+                "entry_1_points": 75,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -362,7 +362,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 3358780,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

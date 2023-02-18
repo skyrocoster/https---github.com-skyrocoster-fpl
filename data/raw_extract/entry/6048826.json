@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1532,
-    "summary_overall_rank": 508,
-    "summary_event_points": 44,
-    "summary_event_rank": 4148435,
+    "summary_overall_points": 1554,
+    "summary_overall_rank": 950,
+    "summary_event_points": 66,
+    "summary_event_rank": 5970010,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 67,
+                "entry_rank": 118,
                 "entry_last_rank": 37
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 17,
+                "entry_rank": 38,
                 "entry_last_rank": 14
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 508,
+                "entry_rank": 950,
                 "entry_last_rank": 311
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 508,
+                "entry_rank": 950,
                 "entry_last_rank": 311
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 525268,
+                "entry_rank": 677355,
                 "entry_last_rank": 376125
             }
         ],
@@ -277,7 +277,7 @@
                 "entry_1_entry": 3350575,
                 "entry_1_name": "JOTA LAGA",
                 "entry_1_player_name": "Rayhan Yusuf",
-                "entry_1_points": 59,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -285,14 +285,14 @@
                 "entry_2_entry": 6048826,
                 "entry_2_name": "Hillview Rovers",
                 "entry_2_player_name": "Tomás Geary",
-                "entry_2_points": 44,
+                "entry_2_points": 66,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 3350575,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 831,
-    "summary_overall_rank": 9567708,
-    "summary_event_points": 13,
-    "summary_event_rank": 10536171,
+    "summary_overall_points": 864,
+    "summary_overall_rank": 9537120,
+    "summary_event_points": 46,
+    "summary_event_rank": 9790781,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 1206611,
+                "entry_rank": 1202844,
                 "entry_last_rank": 1196236
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 209407,
+                "entry_rank": 208822,
                 "entry_last_rank": 208258
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 934936,
+                "entry_rank": 931390,
                 "entry_last_rank": 927609
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 9567708,
+                "entry_rank": 9537120,
                 "entry_last_rank": 9484929
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 209407,
+                "entry_rank": 208822,
                 "entry_last_rank": 208258
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10431477,
+                "entry_rank": 10382089,
                 "entry_last_rank": 10352191
             }
         ],

@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1490,
-    "summary_overall_rank": 8034,
-    "summary_event_points": 73,
-    "summary_event_rank": 48373,
+    "summary_overall_points": 1517,
+    "summary_overall_rank": 9619,
+    "summary_event_points": 100,
+    "summary_event_rank": 117444,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 45,
+                "entry_rank": 50,
                 "entry_last_rank": 166
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 2859,
+                "entry_rank": 3504,
                 "entry_last_rank": 10344
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8033,
+                "entry_rank": 9618,
                 "entry_last_rank": 28218
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 8034,
+                "entry_rank": 9619,
                 "entry_last_rank": 28221
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 3266,
+                "entry_rank": 3990,
                 "entry_last_rank": 11789
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10062,
+                "entry_rank": 10965,
                 "entry_last_rank": 57205
             }
         ],
@@ -367,7 +367,7 @@
                 "entry_1_entry": 4174052,
                 "entry_1_name": "No Mane Mo Problems",
                 "entry_1_player_name": "David Ellis",
-                "entry_1_points": 73,
+                "entry_1_points": 100,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -382,7 +382,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 4174052,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

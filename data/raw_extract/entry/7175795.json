@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1559,
-    "summary_overall_rank": 79,
-    "summary_event_points": 63,
-    "summary_event_rank": 442806,
+    "summary_overall_points": 1579,
+    "summary_overall_rank": 161,
+    "summary_event_points": 83,
+    "summary_event_rank": 1791328,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 12,
+                "entry_rank": 26,
                 "entry_last_rank": 20
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 25,
+                "entry_rank": 46,
                 "entry_last_rank": 54
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 79,
+                "entry_rank": 161,
                 "entry_last_rank": 184
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 79,
+                "entry_rank": 161,
                 "entry_last_rank": 184
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 30,
+                "entry_rank": 56,
                 "entry_last_rank": 66
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5325,
+                "entry_rank": 11176,
                 "entry_last_rank": 14068
             }
         ],
@@ -325,7 +325,7 @@
                 "entry_1_entry": 7175795,
                 "entry_1_name": "One Hit Wonders",
                 "entry_1_player_name": "Amit Nathwani",
-                "entry_1_points": 63,
+                "entry_1_points": 83,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -333,14 +333,14 @@
                 "entry_2_entry": 6049562,
                 "entry_2_name": "Special One",
                 "entry_2_player_name": "Yassen 🐺",
-                "entry_2_points": 57,
+                "entry_2_points": 78,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 7175795,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

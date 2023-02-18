@@ -9,10 +9,10 @@
     "player_region_name": "Congo, Democratic Republic of",
     "player_region_iso_code_short": "CD",
     "player_region_iso_code_long": "COD",
-    "summary_overall_points": 1482,
-    "summary_overall_rank": 12493,
-    "summary_event_points": 57,
-    "summary_event_rank": 1185385,
+    "summary_overall_points": 1519,
+    "summary_overall_rank": 8490,
+    "summary_event_points": 94,
+    "summary_event_rank": 381582,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 72,
+                "entry_rank": 43,
                 "entry_last_rank": 92
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 3
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 12492,
+                "entry_rank": 8489,
                 "entry_last_rank": 14884
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 12493,
+                "entry_rank": 8490,
                 "entry_last_rank": 14885
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 2
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 777306,
+                "entry_rank": 528230,
                 "entry_last_rank": 855156
             }
         ],
@@ -351,7 +351,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
+                "entry_rank": 4,
                 "entry_last_rank": 5
             },
             {
@@ -419,7 +419,7 @@
                 "entry_1_entry": 3629582,
                 "entry_1_name": "White panthère",
                 "entry_1_player_name": "grace grace",
-                "entry_1_points": 53,
+                "entry_1_points": 90,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -434,7 +434,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 3629582,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

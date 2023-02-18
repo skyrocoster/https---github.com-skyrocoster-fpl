@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1234,
-    "summary_overall_rank": 3585004,
-    "summary_event_points": 43,
-    "summary_event_rank": 4492870,
+    "summary_overall_points": 1264,
+    "summary_overall_rank": 3549308,
+    "summary_event_points": 73,
+    "summary_event_rank": 4194266,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 868927,
+                "entry_rank": 855979,
                 "entry_last_rank": 853434
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 90426,
+                "entry_rank": 89875,
                 "entry_last_rank": 90387
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3512894,
+                "entry_rank": 3480402,
                 "entry_last_rank": 3488286
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 3585004,
+                "entry_rank": 3549308,
                 "entry_last_rank": 3554819
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 90989,
+                "entry_rank": 90983,
                 "entry_last_rank": 90838
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 52419,
+                "entry_rank": 52259,
                 "entry_last_rank": 52053
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5979,
+                "entry_rank": 5962,
                 "entry_last_rank": 5943
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 90426,
+                "entry_rank": 89875,
                 "entry_last_rank": 90387
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 13,
+                "entry_rank": 12,
                 "entry_last_rank": 12
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 12,
+                "entry_rank": 11,
                 "entry_last_rank": 11
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5180160,
+                "entry_rank": 5140244,
                 "entry_last_rank": 5365011
             }
         ],
@@ -479,7 +479,7 @@
                 "entry_1_entry": 6569894,
                 "entry_1_name": "خضر كراويته",
                 "entry_1_player_name": "eslam samir",
-                "entry_1_points": 44,
+                "entry_1_points": 70,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -487,14 +487,14 @@
                 "entry_2_entry": 1402020,
                 "entry_2_name": "Dhan Dhana Dhan Goal",
                 "entry_2_player_name": "Harsh Gupta",
-                "entry_2_points": 43,
+                "entry_2_points": 73,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 1402020,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -506,7 +506,7 @@
                 "entry_1_entry": 1402020,
                 "entry_1_name": "Dhan Dhana Dhan Goal",
                 "entry_1_player_name": "Harsh Gupta",
-                "entry_1_points": 43,
+                "entry_1_points": 73,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -514,14 +514,14 @@
                 "entry_2_entry": 3216121,
                 "entry_2_name": "Dyisk2023",
                 "entry_2_player_name": "Ady Iskandar",
-                "entry_2_points": 36,
+                "entry_2_points": 64,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437809,
-                "winner": null,
+                "winner": 1402020,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

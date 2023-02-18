@@ -9,10 +9,10 @@
     "player_region_name": "Bulgaria",
     "player_region_iso_code_short": "BG",
     "player_region_iso_code_long": "BGR",
-    "summary_overall_points": 1569,
-    "summary_overall_rank": 40,
-    "summary_event_points": 52,
-    "summary_event_rank": 2134200,
+    "summary_overall_points": 1593,
+    "summary_overall_rank": 63,
+    "summary_event_points": 76,
+    "summary_event_rank": 3294637,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -53,8 +53,8 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2453752,
+                "cup_qualified": true,
                 "entry_rank": 1,
                 "entry_last_rank": 1
             },
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 40,
+                "entry_rank": 63,
                 "entry_last_rank": 39
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 40,
+                "entry_rank": 63,
                 "entry_last_rank": 39
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 341235,
+                "entry_rank": 414295,
                 "entry_last_rank": 357457
             }
         ],
@@ -314,7 +314,7 @@
                 "entry_1_entry": 2002762,
                 "entry_1_name": "KnutFC",
                 "entry_1_player_name": "albin elfving",
-                "entry_1_points": 19,
+                "entry_1_points": 39,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -322,14 +322,14 @@
                 "entry_2_entry": 1411317,
                 "entry_2_name": "1912",
                 "entry_2_player_name": "Петър Матански",
-                "entry_2_points": 52,
+                "entry_2_points": 76,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431350,
-                "winner": null,
+                "winner": 1411317,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

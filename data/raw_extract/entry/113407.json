@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1446,
-    "summary_overall_rank": 73593,
-    "summary_event_points": 37,
-    "summary_event_rank": 5856741,
+    "summary_overall_points": 1486,
+    "summary_overall_rank": 47545,
+    "summary_event_points": 77,
+    "summary_event_rank": 3101356,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2424301,
                 "cup_qualified": true,
-                "entry_rank": 3100,
+                "entry_rank": 1997,
                 "entry_last_rank": 1579
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6,
+                "entry_rank": 3,
                 "entry_last_rank": 3
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 73572,
+                "entry_rank": 47535,
                 "entry_last_rank": 35178
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 73593,
+                "entry_rank": 47545,
                 "entry_last_rank": 35185
             },
             {
@@ -112,13 +112,13 @@
                 "scoring": "c",
                 "admin_entry": 39455,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 1084,
+                "cup_league": 2453784,
+                "cup_qualified": true,
+                "entry_rank": 766,
                 "entry_last_rank": 549
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 27,
+                "entry_rank": 19,
                 "entry_last_rank": 15
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
+                "entry_rank": 8,
                 "entry_last_rank": 6
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 73177,
+                "entry_rank": 29260,
                 "entry_last_rank": 15719
             }
         ],
@@ -356,7 +356,7 @@
                 "entry_1_entry": 66422,
                 "entry_1_name": "Misho FC",
                 "entry_1_player_name": "Mohammed Sherif",
-                "entry_1_points": 60,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -364,14 +364,14 @@
                 "entry_2_entry": 113407,
                 "entry_2_name": "Bissouma Matata",
                 "entry_2_player_name": "Matt Patey",
-                "entry_2_points": 33,
+                "entry_2_points": 73,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424301,
-                "winner": null,
+                "winner": 66422,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1363,
-    "summary_overall_rank": 841511,
-    "summary_event_points": 46,
-    "summary_event_rank": 3677545,
+    "summary_overall_points": 1384,
+    "summary_overall_rank": 967339,
+    "summary_event_points": 67,
+    "summary_event_rank": 5755767,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 108938,
+                "entry_rank": 126236,
                 "entry_last_rank": 93537
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 20109,
+                "entry_rank": 23192,
                 "entry_last_rank": 17028
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 839834,
+                "entry_rank": 965097,
                 "entry_last_rank": 723730
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 841511,
+                "entry_rank": 967339,
                 "entry_last_rank": 724831
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 190,
+                "entry_rank": 213,
                 "entry_last_rank": 179
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 24,
+                "entry_rank": 27,
                 "entry_last_rank": 21
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2660,
+                "entry_rank": 3033,
                 "entry_last_rank": 2325
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2369,
+                "entry_rank": 2684,
                 "entry_last_rank": 2156
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 114,
+                "entry_rank": 135,
                 "entry_last_rank": 107
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 20109,
+                "entry_rank": 23192,
                 "entry_last_rank": 17028
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2615,
+                "entry_rank": 2923,
                 "entry_last_rank": 2509
             },
             {
@@ -349,7 +349,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 14,
+                "entry_rank": 15,
                 "entry_last_rank": 12
             },
             {
@@ -370,7 +370,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3235418,
+                "entry_rank": 3552821,
                 "entry_last_rank": 2957617
             }
         ],
@@ -393,7 +393,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 71,
+                "entry_rank": 90,
                 "entry_last_rank": 71
             },
             {
@@ -414,7 +414,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 3,
                 "entry_last_rank": 1
             }
         ],
@@ -488,7 +488,7 @@
                 "entry_1_entry": 6500453,
                 "entry_1_name": "Sid",
                 "entry_1_player_name": "Siddhartha Sah",
-                "entry_1_points": 52,
+                "entry_1_points": 80,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -496,14 +496,14 @@
                 "entry_2_entry": 50717,
                 "entry_2_name": "Haven’t Jota Clue",
                 "entry_2_player_name": "Kshitij Nayyar",
-                "entry_2_points": 42,
+                "entry_2_points": 63,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431356,
-                "winner": null,
+                "winner": 6500453,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -515,7 +515,7 @@
                 "entry_1_entry": 50717,
                 "entry_1_name": "Haven’t Jota Clue",
                 "entry_1_player_name": "Kshitij Nayyar",
-                "entry_1_points": 42,
+                "entry_1_points": 63,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -523,14 +523,14 @@
                 "entry_2_entry": 2330177,
                 "entry_2_name": "FC Biznatch",
                 "entry_2_player_name": "Yash Doshi",
-                "entry_2_points": 51,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 2330177,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

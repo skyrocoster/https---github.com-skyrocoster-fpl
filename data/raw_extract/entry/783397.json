@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1523,
-    "summary_overall_rank": 1036,
-    "summary_event_points": 46,
-    "summary_event_rank": 3677545,
+    "summary_overall_points": 1565,
+    "summary_overall_rank": 442,
+    "summary_event_points": 88,
+    "summary_event_rank": 952678,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 127,
+                "entry_rank": 58,
                 "entry_last_rank": 70
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 46,
+                "entry_rank": 12,
                 "entry_last_rank": 27
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1036,
+                "entry_rank": 442,
                 "entry_last_rank": 577
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1036,
+                "entry_rank": 442,
                 "entry_last_rank": 577
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 25734,
+                "entry_rank": 7305,
                 "entry_last_rank": 10234
             }
         ],
@@ -271,7 +271,7 @@
                 "entry_1_entry": 3028846,
                 "entry_1_name": "FC Kolamhati",
                 "entry_1_player_name": "Zamzami Ramli",
-                "entry_1_points": 43,
+                "entry_1_points": 76,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -279,14 +279,14 @@
                 "entry_2_entry": 783397,
                 "entry_2_name": "Roboklopp FC",
                 "entry_2_player_name": "Mark Smith",
-                "entry_2_points": 42,
+                "entry_2_points": 84,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 783397,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -298,7 +298,7 @@
                 "entry_1_entry": 783397,
                 "entry_1_name": "Roboklopp FC",
                 "entry_1_player_name": "Mark Smith",
-                "entry_1_points": 42,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -306,17 +306,17 @@
                 "entry_2_entry": 6501222,
                 "entry_2_name": "NitroGoonSquad",
                 "entry_2_player_name": "David O Neill",
-                "entry_2_points": 60,
+                "entry_2_points": 84,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 6501222,
                 "seed_value": null,
                 "event": 23,
-                "tiebreak": null,
+                "tiebreak": "goals_conceded",
                 "is_bye": false,
                 "knockout_name": "Round of 65536"
             }

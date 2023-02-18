@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1521,
-    "summary_overall_rank": 1117,
-    "summary_event_points": 61,
-    "summary_event_rank": 588167,
+    "summary_overall_points": 1549,
+    "summary_overall_rank": 1330,
+    "summary_event_points": 89,
+    "summary_event_rank": 785049,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 274,
+                "entry_rank": 318,
                 "entry_last_rank": 584
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 48,
+                "entry_rank": 56,
                 "entry_last_rank": 104
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1117,
+                "entry_rank": 1330,
                 "entry_last_rank": 2406
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1117,
+                "entry_rank": 1330,
                 "entry_last_rank": 2406
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 22809,
+                "entry_rank": 22348,
                 "entry_last_rank": 46158
             }
         ],
@@ -235,7 +235,7 @@
                 "entry_1_entry": 6470387,
                 "entry_1_name": "Egg Fried Reus",
                 "entry_1_player_name": "Gary White",
-                "entry_1_points": 61,
+                "entry_1_points": 89,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -243,14 +243,14 @@
                 "entry_2_entry": 2259504,
                 "entry_2_name": "The beasts",
                 "entry_2_player_name": "Eoin Turvey",
-                "entry_2_points": 52,
+                "entry_2_points": 71,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 6470387,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

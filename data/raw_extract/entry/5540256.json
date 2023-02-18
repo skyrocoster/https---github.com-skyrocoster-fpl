@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1562,
-    "summary_overall_rank": 56,
-    "summary_event_points": 47,
-    "summary_event_rank": 3217116,
+    "summary_overall_points": 1595,
+    "summary_overall_rank": 51,
+    "summary_event_points": 80,
+    "summary_event_rank": 2240205,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 16,
+                "entry_rank": 14,
                 "entry_last_rank": 14
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 14,
+                "entry_rank": 12,
                 "entry_last_rank": 10
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 56,
+                "entry_rank": 51,
                 "entry_last_rank": 45
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 56,
+                "entry_rank": 51,
                 "entry_last_rank": 45
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 19,
+                "entry_rank": 16,
                 "entry_last_rank": 14
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9093,
+                "entry_rank": 5533,
                 "entry_last_rank": 5205
             }
         ],
@@ -409,7 +409,7 @@
                 "entry_1_entry": 5807238,
                 "entry_1_name": "Prestige Worldwide",
                 "entry_1_player_name": "Joseph Tierney",
-                "entry_1_points": 53,
+                "entry_1_points": 80,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -417,17 +417,17 @@
                 "entry_2_entry": 5540256,
                 "entry_2_name": "DontLookBackInElanga",
                 "entry_2_player_name": "Oliver Walsh",
-                "entry_2_points": 47,
+                "entry_2_points": 80,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 5540256,
                 "seed_value": null,
                 "event": 23,
-                "tiebreak": null,
+                "tiebreak": "goals_conceded",
                 "is_bye": false,
                 "knockout_name": "Round of 65536"
             },
@@ -436,7 +436,7 @@
                 "entry_1_entry": 5540256,
                 "entry_1_name": "DontLookBackInElanga",
                 "entry_1_player_name": "Oliver Walsh",
-                "entry_1_points": 47,
+                "entry_1_points": 80,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -444,14 +444,14 @@
                 "entry_2_entry": 1248362,
                 "entry_2_name": "Kroos Control",
                 "entry_2_player_name": "Hidde Postma",
-                "entry_2_points": 51,
+                "entry_2_points": 82,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437815,
-                "winner": null,
+                "winner": 1248362,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

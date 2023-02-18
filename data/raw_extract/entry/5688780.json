@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1508,
-    "summary_overall_rank": 2715,
-    "summary_event_points": 34,
-    "summary_event_rank": 6466758,
+    "summary_overall_points": 1541,
+    "summary_overall_rank": 2267,
+    "summary_event_points": 67,
+    "summary_event_rank": 5710699,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 357,
+                "entry_rank": 302,
                 "entry_last_rank": 122
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 120,
+                "entry_rank": 104,
                 "entry_last_rank": 43
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2715,
+                "entry_rank": 2267,
                 "entry_last_rank": 908
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 2715,
+                "entry_rank": 2267,
                 "entry_last_rank": 908
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 466431,
+                "entry_rank": 364053,
                 "entry_last_rank": 185135
             }
         ],
@@ -250,7 +250,7 @@
                 "entry_1_entry": 5688780,
                 "entry_1_name": "Salt & Pepe",
                 "entry_1_player_name": "Stuart O'Donnell",
-                "entry_1_points": 34,
+                "entry_1_points": 67,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -258,14 +258,14 @@
                 "entry_2_entry": 6744027,
                 "entry_2_name": "ha-mim",
                 "entry_2_player_name": "leyti ndiaye",
-                "entry_2_points": 49,
+                "entry_2_points": 77,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405666,
-                "winner": null,
+                "winner": 6744027,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -277,7 +277,7 @@
                 "entry_1_entry": 7165916,
                 "entry_1_name": "BackAgain",
                 "entry_1_player_name": "Kamoru Keyede",
-                "entry_1_points": 32,
+                "entry_1_points": 59,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -285,14 +285,14 @@
                 "entry_2_entry": 5688780,
                 "entry_2_name": "Salt & Pepe",
                 "entry_2_player_name": "Stuart O'Donnell",
-                "entry_2_points": 34,
+                "entry_2_points": 67,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 5688780,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

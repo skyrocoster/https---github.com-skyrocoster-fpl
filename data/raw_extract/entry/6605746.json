@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1528,
-    "summary_overall_rank": 687,
-    "summary_event_points": 46,
-    "summary_event_rank": 3595463,
+    "summary_overall_points": 1554,
+    "summary_overall_rank": 952,
+    "summary_event_points": 72,
+    "summary_event_rank": 4398298,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 29,
+                "entry_rank": 39,
                 "entry_last_rank": 21
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 687,
+                "entry_rank": 952,
                 "entry_last_rank": 492
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 687,
+                "entry_rank": 952,
                 "entry_last_rank": 492
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 45255,
+                "entry_rank": 52341,
                 "entry_last_rank": 27873
             }
         ],
@@ -166,7 +166,7 @@
                 "entry_1_entry": 6605746,
                 "entry_1_name": "Whyndon Wanderers",
                 "entry_1_player_name": "Aisling Corbally",
-                "entry_1_points": 46,
+                "entry_1_points": 72,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -174,14 +174,14 @@
                 "entry_2_entry": 5005164,
                 "entry_2_name": "hit or miss",
                 "entry_2_player_name": "Jimmy Ruske",
-                "entry_2_points": 73,
+                "entry_2_points": 102,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 5005164,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1539,
-    "summary_overall_rank": 310,
-    "summary_event_points": 39,
-    "summary_event_rank": 5373989,
+    "summary_overall_points": 1565,
+    "summary_overall_rank": 424,
+    "summary_event_points": 65,
+    "summary_event_rank": 6229379,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 29,
+                "entry_rank": 31,
                 "entry_last_rank": 10
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 88,
+                "entry_rank": 132,
                 "entry_last_rank": 37
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 310,
+                "entry_rank": 424,
                 "entry_last_rank": 121
             },
             {
@@ -97,29 +97,8 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 310,
+                "entry_rank": 424,
                 "entry_last_rank": 121
-            },
-            {
-                "id": 20110,
-                "name": "Last Man Standing™",
-                "short_name": null,
-                "created": "2022-07-05T16:48:34.079549Z",
-                "closed": true,
-                "rank": null,
-                "max_entries": null,
-                "league_type": "x",
-                "scoring": "c",
-                "admin_entry": 89787,
-                "start_event": 23,
-                "entry_can_leave": true,
-                "entry_can_admin": false,
-                "entry_can_invite": false,
-                "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 477,
-                "entry_last_rank": 357
             },
             {
                 "id": 40380,
@@ -160,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2448141,
                 "cup_qualified": true,
-                "entry_rank": 7,
+                "entry_rank": 14,
                 "entry_last_rank": 4
             },
             {
@@ -223,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 109,
+                "entry_rank": 154,
                 "entry_last_rank": 44
             },
             {
@@ -307,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 70,
+                "entry_rank": 80,
                 "entry_last_rank": 60
             },
             {
@@ -328,7 +307,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 212509,
+                "entry_rank": 236822,
                 "entry_last_rank": 95739
             }
         ],
@@ -430,7 +409,7 @@
                 "entry_1_entry": 8395759,
                 "entry_1_name": "D_H",
                 "entry_1_player_name": "Hosam Oaf",
-                "entry_1_points": 30,
+                "entry_1_points": 61,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -438,14 +417,14 @@
                 "entry_2_entry": 105462,
                 "entry_2_name": "Webbo FC",
                 "entry_2_player_name": "Chris Webster",
-                "entry_2_points": 39,
+                "entry_2_points": 65,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405671,
-                "winner": null,
+                "winner": 105462,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -457,7 +436,7 @@
                 "entry_1_entry": 105462,
                 "entry_1_name": "Webbo FC",
                 "entry_1_player_name": "Chris Webster",
-                "entry_1_points": 39,
+                "entry_1_points": 65,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -472,7 +451,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448141,
-                "winner": null,
+                "winner": 105462,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

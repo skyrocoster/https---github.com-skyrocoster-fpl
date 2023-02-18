@@ -9,10 +9,10 @@
     "player_region_name": "Egypt",
     "player_region_iso_code_short": "EG",
     "player_region_iso_code_long": "EGY",
-    "summary_overall_points": 1572,
-    "summary_overall_rank": 30,
-    "summary_event_points": 61,
-    "summary_event_rank": 548411,
+    "summary_overall_points": 1601,
+    "summary_overall_rank": 33,
+    "summary_event_points": 90,
+    "summary_event_rank": 647311,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 5,
+                "entry_rank": 6,
                 "entry_last_rank": 9
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 30,
+                "entry_rank": 33,
                 "entry_last_rank": 55
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 30,
+                "entry_rank": 33,
                 "entry_last_rank": 55
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 5,
+                "entry_rank": 4,
                 "entry_last_rank": 9
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7311,
+                "entry_rank": 6552,
                 "entry_last_rank": 15943
             }
         ],
@@ -235,7 +235,7 @@
                 "entry_1_entry": 8848526,
                 "entry_1_name": "Abol Villa",
                 "entry_1_player_name": "Ahmad Aboulmagd",
-                "entry_1_points": 58,
+                "entry_1_points": 69,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -243,14 +243,14 @@
                 "entry_2_entry": 828155,
                 "entry_2_name": "Ffgall",
                 "entry_2_player_name": "Em Orgaga",
-                "entry_2_points": 61,
+                "entry_2_points": 90,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381816,
-                "winner": null,
+                "winner": 828155,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -262,7 +262,7 @@
                 "entry_1_entry": 828155,
                 "entry_1_name": "Ffgall",
                 "entry_1_player_name": "Em Orgaga",
-                "entry_1_points": 61,
+                "entry_1_points": 90,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -270,14 +270,14 @@
                 "entry_2_entry": 787577,
                 "entry_2_name": "Powerful FC",
                 "entry_2_player_name": "Kuranga Habeeb",
-                "entry_2_points": 52,
+                "entry_2_points": 83,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 828155,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "Croatia",
     "player_region_iso_code_short": "HR",
     "player_region_iso_code_long": "HRV",
-    "summary_overall_points": 1490,
-    "summary_overall_rank": 8262,
-    "summary_event_points": 57,
-    "summary_event_rank": 1125235,
+    "summary_overall_points": 1532,
+    "summary_overall_rank": 4104,
+    "summary_event_points": 99,
+    "summary_event_rank": 143658,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 46,
+                "entry_rank": 17,
                 "entry_last_rank": 70
             },
             {
@@ -53,9 +53,9 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 9,
+                "cup_league": 2453763,
+                "cup_qualified": true,
+                "entry_rank": 3,
                 "entry_last_rank": 11
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8261,
+                "entry_rank": 4104,
                 "entry_last_rank": 12406
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 8262,
+                "entry_rank": 4104,
                 "entry_last_rank": 12407
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 62,
+                "entry_rank": 32,
                 "entry_last_rank": 96
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2448135,
                 "cup_qualified": true,
-                "entry_rank": 163,
+                "entry_rank": 84,
                 "entry_last_rank": 287
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 92,
+                "entry_rank": 59,
                 "entry_last_rank": 143
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 6
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 1171,
+                "entry_rank": 522,
                 "entry_last_rank": 1633
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 19495,
+                "entry_rank": 5228,
                 "entry_last_rank": 28890
             }
         ],
@@ -265,7 +265,7 @@
                 "entry_1_entry": 3624813,
                 "entry_1_name": "HUNTERS",
                 "entry_1_player_name": "OMAR SABER",
-                "entry_1_points": 52,
+                "entry_1_points": 68,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -273,14 +273,14 @@
                 "entry_2_entry": 180554,
                 "entry_2_name": "Domagoj Vida FC",
                 "entry_2_player_name": "Andreas Parsmyr",
-                "entry_2_points": 57,
+                "entry_2_points": 99,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 180554,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -292,7 +292,7 @@
                 "entry_1_entry": 180554,
                 "entry_1_name": "Domagoj Vida FC",
                 "entry_1_player_name": "Andreas Parsmyr",
-                "entry_1_points": 57,
+                "entry_1_points": 99,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -300,14 +300,14 @@
                 "entry_2_entry": 10450229,
                 "entry_2_name": "السفاح",
                 "entry_2_player_name": "Mohamed hosny",
-                "entry_2_points": 58,
+                "entry_2_points": 81,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381816,
-                "winner": null,
+                "winner": 180554,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -319,7 +319,7 @@
                 "entry_1_entry": 180554,
                 "entry_1_name": "Domagoj Vida FC",
                 "entry_1_player_name": "Andreas Parsmyr",
-                "entry_1_points": 57,
+                "entry_1_points": 99,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -334,7 +334,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 180554,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -346,7 +346,7 @@
                 "entry_1_entry": 4565625,
                 "entry_1_name": "L'appel du vide",
                 "entry_1_player_name": "Nyombi David",
-                "entry_1_points": 48,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -354,14 +354,14 @@
                 "entry_2_entry": 180554,
                 "entry_2_name": "Domagoj Vida FC",
                 "entry_2_player_name": "Andreas Parsmyr",
-                "entry_2_points": 57,
+                "entry_2_points": 99,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448135,
-                "winner": null,
+                "winner": 180554,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

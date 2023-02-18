@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1549,
-    "summary_overall_rank": 155,
-    "summary_event_points": 61,
-    "summary_event_rank": 623316,
+    "summary_overall_points": 1581,
+    "summary_overall_rank": 139,
+    "summary_event_points": 93,
+    "summary_event_rank": 453056,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 41,
+                "entry_rank": 42,
                 "entry_last_rank": 72
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 155,
+                "entry_rank": 139,
                 "entry_last_rank": 247
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 155,
+                "entry_rank": 139,
                 "entry_last_rank": 247
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 49,
+                "entry_rank": 51,
                 "entry_last_rank": 89
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3788,
+                "entry_rank": 2370,
                 "entry_last_rank": 5725
             }
         ],
@@ -250,7 +250,7 @@
                 "entry_1_entry": 1494497,
                 "entry_1_name": "Haalandaise Sauce",
                 "entry_1_player_name": "Elliot Phoenix",
-                "entry_1_points": 57,
+                "entry_1_points": 89,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -258,14 +258,14 @@
                 "entry_2_entry": 992891,
                 "entry_2_name": "Benchwarmers",
                 "entry_2_player_name": "Nathan Morris",
-                "entry_2_points": 33,
+                "entry_2_points": 64,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 1494497,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -277,7 +277,7 @@
                 "entry_1_entry": 236828,
                 "entry_1_name": "released on bale",
                 "entry_1_player_name": "Harry Cope",
-                "entry_1_points": 46,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -285,14 +285,14 @@
                 "entry_2_entry": 1494497,
                 "entry_2_name": "Haalandaise Sauce",
                 "entry_2_player_name": "Elliot Phoenix",
-                "entry_2_points": 57,
+                "entry_2_points": 89,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 1494497,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

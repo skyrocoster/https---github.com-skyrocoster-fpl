@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1518,
-    "summary_overall_rank": 1431,
-    "summary_event_points": 57,
-    "summary_event_rank": 1185385,
+    "summary_overall_points": 1545,
+    "summary_overall_rank": 1815,
+    "summary_event_points": 84,
+    "summary_event_rank": 1605928,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 355,
+                "entry_rank": 445,
                 "entry_last_rank": 424
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 487,
+                "entry_rank": 624,
                 "entry_last_rank": 625
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1431,
+                "entry_rank": 1815,
                 "entry_last_rank": 1752
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1431,
+                "entry_rank": 1815,
                 "entry_last_rank": 1752
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 108,
+                "entry_rank": 142,
                 "entry_last_rank": 129
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
+                "entry_rank": 6,
                 "entry_last_rank": 7
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 555,
+                "entry_rank": 723,
                 "entry_last_rank": 716
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 26,
+                "entry_rank": 24,
                 "entry_last_rank": 24
             }
         ],
@@ -298,7 +298,7 @@
                 "entry_1_entry": 2456178,
                 "entry_1_name": "Pfizer Chiefs",
                 "entry_1_player_name": "Dan Wiseman",
-                "entry_1_points": 53,
+                "entry_1_points": 80,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -306,14 +306,14 @@
                 "entry_2_entry": 2715118,
                 "entry_2_name": "Gills flying high",
                 "entry_2_player_name": "stuart kemsley",
-                "entry_2_points": 56,
+                "entry_2_points": 81,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 2715118,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -325,7 +325,7 @@
                 "entry_1_entry": 2905220,
                 "entry_1_name": "Chopper central",
                 "entry_1_player_name": "Callum Trowers",
-                "entry_1_points": 48,
+                "entry_1_points": 81,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -333,14 +333,14 @@
                 "entry_2_entry": 2456178,
                 "entry_2_name": "Pfizer Chiefs",
                 "entry_2_player_name": "Dan Wiseman",
-                "entry_2_points": 53,
+                "entry_2_points": 80,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 2905220,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -352,7 +352,7 @@
                 "entry_1_entry": 5441206,
                 "entry_1_name": "DEATH AND TAXES",
                 "entry_1_player_name": "Mark Trombley",
-                "entry_1_points": 40,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -360,14 +360,14 @@
                 "entry_2_entry": 2456178,
                 "entry_2_name": "Pfizer Chiefs",
                 "entry_2_player_name": "Dan Wiseman",
-                "entry_2_points": 53,
+                "entry_2_points": 80,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 5441206,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

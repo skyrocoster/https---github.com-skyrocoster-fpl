@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1420,
-    "summary_overall_rank": 193901,
-    "summary_event_points": 44,
-    "summary_event_rank": 4148435,
+    "summary_overall_points": 1445,
+    "summary_overall_rank": 225496,
+    "summary_event_points": 69,
+    "summary_event_rank": 5198209,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 49307,
+                "entry_rank": 56433,
                 "entry_last_rank": 39988
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 17,
+                "entry_rank": 19,
                 "entry_last_rank": 14
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 193796,
+                "entry_rank": 225375,
                 "entry_last_rank": 161263
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 193901,
+                "entry_rank": 225496,
                 "entry_last_rank": 161329
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2431365,
                 "cup_qualified": true,
-                "entry_rank": 3486,
+                "entry_rank": 4016,
                 "entry_last_rank": 2731
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2448132,
                 "cup_qualified": true,
-                "entry_rank": 5591,
+                "entry_rank": 6793,
                 "entry_last_rank": 5059
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 12422,
+                "entry_rank": 15355,
                 "entry_last_rank": 11410
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 260,
+                "entry_rank": 304,
                 "entry_last_rank": 241
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1242459,
+                "entry_rank": 1348711,
                 "entry_last_rank": 1003083
             }
         ],
@@ -319,7 +319,7 @@
                 "entry_1_entry": 493739,
                 "entry_1_name": "BigStePPerS",
                 "entry_1_player_name": "Simeon Castello",
-                "entry_1_points": 44,
+                "entry_1_points": 69,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -327,14 +327,14 @@
                 "entry_2_entry": 4827573,
                 "entry_2_name": "الطحالب",
                 "entry_2_player_name": "M7md Rabi3",
-                "entry_2_points": 47,
+                "entry_2_points": 71,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431365,
-                "winner": null,
+                "winner": 4827573,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -346,7 +346,7 @@
                 "entry_1_entry": 786853,
                 "entry_1_name": "Krox Wrld",
                 "entry_1_player_name": "Nicolai borup sørensen",
-                "entry_1_points": 48,
+                "entry_1_points": 76,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -354,14 +354,14 @@
                 "entry_2_entry": 493739,
                 "entry_2_name": "BigStePPerS",
                 "entry_2_player_name": "Simeon Castello",
-                "entry_2_points": 44,
+                "entry_2_points": 69,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 786853,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -373,7 +373,7 @@
                 "entry_1_entry": 493739,
                 "entry_1_name": "BigStePPerS",
                 "entry_1_player_name": "Simeon Castello",
-                "entry_1_points": 44,
+                "entry_1_points": 69,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -381,14 +381,14 @@
                 "entry_2_entry": 449475,
                 "entry_2_name": "KGee",
                 "entry_2_player_name": "K Gee",
-                "entry_2_points": 44,
+                "entry_2_points": 72,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448132,
-                "winner": null,
+                "winner": 449475,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

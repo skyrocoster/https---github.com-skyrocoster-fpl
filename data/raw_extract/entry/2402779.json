@@ -9,10 +9,10 @@
     "player_region_name": "Canada",
     "player_region_iso_code_short": "CA",
     "player_region_iso_code_long": "CAN",
-    "summary_overall_points": 1487,
-    "summary_overall_rank": 9558,
-    "summary_event_points": 45,
-    "summary_event_rank": 3953463,
+    "summary_overall_points": 1513,
+    "summary_overall_rank": 11988,
+    "summary_event_points": 71,
+    "summary_event_rank": 4728268,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 53,
+                "entry_rank": 68,
                 "entry_last_rank": 26
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2437796,
                 "cup_qualified": true,
-                "entry_rank": 78,
+                "entry_rank": 98,
                 "entry_last_rank": 42
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 9557,
+                "entry_rank": 11987,
                 "entry_last_rank": 5638
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 9558,
+                "entry_rank": 11988,
                 "entry_last_rank": 5639
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2437812,
                 "cup_qualified": true,
-                "entry_rank": 78,
+                "entry_rank": 98,
                 "entry_last_rank": 42
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 33633,
+                "entry_rank": 39040,
                 "entry_last_rank": 12608
             }
         ],
@@ -208,7 +208,7 @@
                 "entry_1_entry": 763673,
                 "entry_1_name": "I ♥️ Soccer FC",
                 "entry_1_player_name": "Mark Melnichuk",
-                "entry_1_points": 60,
+                "entry_1_points": 88,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -216,14 +216,14 @@
                 "entry_2_entry": 2402779,
                 "entry_2_name": "Watt City",
                 "entry_2_player_name": "Jesse Watt",
-                "entry_2_points": 41,
+                "entry_2_points": 67,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437796,
-                "winner": null,
+                "winner": 763673,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -235,7 +235,7 @@
                 "entry_1_entry": 2402779,
                 "entry_1_name": "Watt City",
                 "entry_1_player_name": "Jesse Watt",
-                "entry_1_points": 41,
+                "entry_1_points": 67,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -243,14 +243,14 @@
                 "entry_2_entry": 11021110,
                 "entry_2_name": "AA",
                 "entry_2_player_name": "Amir Abakar",
-                "entry_2_points": 53,
+                "entry_2_points": 72,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437812,
-                "winner": null,
+                "winner": 11021110,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -262,7 +262,7 @@
                 "entry_1_entry": 2402779,
                 "entry_1_name": "Watt City",
                 "entry_1_player_name": "Jesse Watt",
-                "entry_1_points": 41,
+                "entry_1_points": 67,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -277,7 +277,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 2402779,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

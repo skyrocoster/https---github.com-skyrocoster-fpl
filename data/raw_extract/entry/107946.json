@@ -9,10 +9,10 @@
     "player_region_name": "Norway",
     "player_region_iso_code_short": "NO",
     "player_region_iso_code_long": "NOR",
-    "summary_overall_points": 1495,
-    "summary_overall_rank": 6236,
-    "summary_event_points": 54,
-    "summary_event_rank": 1691634,
+    "summary_overall_points": 1526,
+    "summary_overall_rank": 5848,
+    "summary_event_points": 85,
+    "summary_event_rank": 1365709,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 32,
+                "entry_rank": 28,
                 "entry_last_rank": 40
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431360,
                 "cup_qualified": true,
-                "entry_rank": 430,
+                "entry_rank": 431,
                 "entry_last_rank": 556
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 6235,
+                "entry_rank": 5847,
                 "entry_last_rank": 7851
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 6236,
+                "entry_rank": 5848,
                 "entry_last_rank": 7852
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 852,
+                "entry_rank": 831,
                 "entry_last_rank": 1070
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 8,
+                "entry_rank": 9,
                 "entry_last_rank": 10
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 43578,
+                "entry_rank": 34324,
                 "entry_last_rank": 50741
             }
         ],
@@ -341,7 +341,7 @@
                 "entry_1_entry": 9012376,
                 "entry_1_name": "Rozzy FC",
                 "entry_1_player_name": "Thyra Rosvold",
-                "entry_1_points": 59,
+                "entry_1_points": 93,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -349,14 +349,14 @@
                 "entry_2_entry": 107946,
                 "entry_2_name": "Svingvoll Bees",
                 "entry_2_player_name": "Vegard Bjørnstad",
-                "entry_2_points": 54,
+                "entry_2_points": 85,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2412737,
-                "winner": null,
+                "winner": 9012376,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -368,7 +368,7 @@
                 "entry_1_entry": 107946,
                 "entry_1_name": "Svingvoll Bees",
                 "entry_1_player_name": "Vegard Bjørnstad",
-                "entry_1_points": 54,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -383,7 +383,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 107946,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

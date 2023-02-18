@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1443,
-    "summary_overall_rank": 82272,
-    "summary_event_points": 60,
-    "summary_event_rank": 648874,
+    "summary_overall_points": 1483,
+    "summary_overall_rank": 53618,
+    "summary_event_points": 100,
+    "summary_event_rank": 110402,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 5943,
+                "entry_rank": 3850,
                 "entry_last_rank": 9287
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 1638,
+                "entry_rank": 1098,
                 "entry_last_rank": 2629
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 82247,
+                "entry_rank": 53606,
                 "entry_last_rank": 125260
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 82272,
+                "entry_rank": 53618,
                 "entry_last_rank": 125305
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 5402,
+                "entry_rank": 3980,
                 "entry_last_rank": 8938
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 91,
+                "entry_rank": 70,
                 "entry_last_rank": 140
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
+                "entry_rank": 7,
                 "entry_last_rank": 12
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 18,
+                "entry_rank": 13,
                 "entry_last_rank": 31
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 1638,
+                "entry_rank": 1098,
                 "entry_last_rank": 2629
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 424094,
+                "entry_rank": 224645,
                 "entry_last_rank": 649311
             }
         ],
@@ -376,7 +376,7 @@
                 "entry_1_entry": 365826,
                 "entry_1_name": "DeUtvalgte",
                 "entry_1_player_name": "Halvor Herlofsen",
-                "entry_1_points": 40,
+                "entry_1_points": 72,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -384,14 +384,14 @@
                 "entry_2_entry": 1334891,
                 "entry_2_name": "Dream XI",
                 "entry_2_player_name": "Ansh Parasrampuria",
-                "entry_2_points": 60,
+                "entry_2_points": 100,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405671,
-                "winner": null,
+                "winner": 1334891,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -403,7 +403,7 @@
                 "entry_1_entry": 502258,
                 "entry_1_name": "Team Nish",
                 "entry_1_player_name": "Nishanth G Suseelan",
-                "entry_1_points": 44,
+                "entry_1_points": 82,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -411,14 +411,14 @@
                 "entry_2_entry": 1334891,
                 "entry_2_name": "Dream XI",
                 "entry_2_player_name": "Ansh Parasrampuria",
-                "entry_2_points": 60,
+                "entry_2_points": 100,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431356,
-                "winner": null,
+                "winner": 1334891,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -430,7 +430,7 @@
                 "entry_1_entry": 1334891,
                 "entry_1_name": "Dream XI",
                 "entry_1_player_name": "Ansh Parasrampuria",
-                "entry_1_points": 60,
+                "entry_1_points": 100,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -438,14 +438,14 @@
                 "entry_2_entry": 10748751,
                 "entry_2_name": "oom.bee",
                 "entry_2_player_name": "Manav M",
-                "entry_2_points": 35,
+                "entry_2_points": 56,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 1334891,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -457,7 +457,7 @@
                 "entry_1_entry": 1334891,
                 "entry_1_name": "Dream XI",
                 "entry_1_player_name": "Ansh Parasrampuria",
-                "entry_1_points": 60,
+                "entry_1_points": 100,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -465,14 +465,14 @@
                 "entry_2_entry": 5870116,
                 "entry_2_name": "FC Bilaman",
                 "entry_2_player_name": "David Bila",
-                "entry_2_points": 50,
+                "entry_2_points": 74,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 1334891,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

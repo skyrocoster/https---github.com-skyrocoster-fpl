@@ -9,10 +9,10 @@
     "player_region_name": "Saudi Arabia",
     "player_region_iso_code_short": "SA",
     "player_region_iso_code_long": "SAU",
-    "summary_overall_points": 1492,
-    "summary_overall_rank": 7473,
-    "summary_event_points": 57,
-    "summary_event_rank": 1185385,
+    "summary_overall_points": 1518,
+    "summary_overall_rank": 9459,
+    "summary_event_points": 83,
+    "summary_event_rank": 1791328,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 41,
+                "entry_rank": 48,
                 "entry_last_rank": 48
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431362,
                 "cup_qualified": true,
-                "entry_rank": 82,
+                "entry_rank": 104,
                 "entry_last_rank": 94
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7472,
+                "entry_rank": 9458,
                 "entry_last_rank": 8923
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 7473,
+                "entry_rank": 9459,
                 "entry_last_rank": 8924
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1,
+                "entry_rank": 2,
                 "entry_last_rank": 1
             },
             {
@@ -133,13 +133,13 @@
                 "scoring": "c",
                 "admin_entry": 105102,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 147,
+                "cup_league": 2453788,
+                "cup_qualified": true,
+                "entry_rank": 170,
                 "entry_last_rank": 169
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 12,
+                "entry_rank": 15,
                 "entry_last_rank": 14
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 3,
                 "entry_last_rank": 5
             },
             {
@@ -370,7 +370,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
+                "entry_rank": 6,
                 "entry_last_rank": 6
             },
             {
@@ -391,7 +391,7 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 1047,
+                "entry_rank": 1239,
                 "entry_last_rank": 1129
             },
             {
@@ -454,7 +454,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 2
             },
             {
@@ -538,7 +538,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11735,
+                "entry_rank": 13958,
                 "entry_last_rank": 12294
             },
             {
@@ -624,7 +624,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 11,
+                "entry_rank": 19,
                 "entry_last_rank": 11
             },
             {
@@ -713,7 +713,7 @@
                 "entry_1_entry": 3492820,
                 "entry_1_name": "Liverpool",
                 "entry_1_player_name": "Yaseen Musrati",
-                "entry_1_points": 63,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -721,14 +721,14 @@
                 "entry_2_entry": 35374,
                 "entry_2_name": "Sir Saude",
                 "entry_2_player_name": "Saude Alharbi 🐐🇸🇦",
-                "entry_2_points": 53,
+                "entry_2_points": 79,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381816,
-                "winner": null,
+                "winner": 3492820,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -740,7 +740,7 @@
                 "entry_1_entry": 179943,
                 "entry_1_name": "Naif",
                 "entry_1_player_name": "Naif Hwaymel",
-                "entry_1_points": 53,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -748,14 +748,14 @@
                 "entry_2_entry": 35374,
                 "entry_2_name": "Sir Saude",
                 "entry_2_player_name": "Saude Alharbi 🐐🇸🇦",
-                "entry_2_points": 53,
+                "entry_2_points": 79,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431362,
-                "winner": null,
+                "winner": 179943,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -767,7 +767,7 @@
                 "entry_1_entry": 35374,
                 "entry_1_name": "Sir Saude",
                 "entry_1_player_name": "Saude Alharbi 🐐🇸🇦",
-                "entry_1_points": 53,
+                "entry_1_points": 79,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -782,7 +782,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 35374,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

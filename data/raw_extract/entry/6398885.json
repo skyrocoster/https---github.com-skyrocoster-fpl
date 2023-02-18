@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1502,
-    "summary_overall_rank": 3951,
-    "summary_event_points": 49,
-    "summary_event_rank": 2809851,
+    "summary_overall_points": 1520,
+    "summary_overall_rank": 8164,
+    "summary_event_points": 67,
+    "summary_event_rank": 5710699,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 22,
+                "entry_rank": 39,
                 "entry_last_rank": 18
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 1363,
+                "entry_rank": 2995,
                 "entry_last_rank": 1341
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3950,
+                "entry_rank": 8163,
                 "entry_last_rank": 3725
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 3951,
+                "entry_rank": 8164,
                 "entry_last_rank": 3725
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1575,
+                "entry_rank": 3407,
                 "entry_last_rank": 1541
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1631,
+                "entry_rank": 4623,
                 "entry_last_rank": 996
             }
         ],
@@ -187,7 +187,7 @@
                 "entry_1_entry": 3282064,
                 "entry_1_name": "Teey FC",
                 "entry_1_player_name": "Omotayo Oladejo",
-                "entry_1_points": 49,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -195,14 +195,14 @@
                 "entry_2_entry": 6398885,
                 "entry_2_name": "BusStopInHounslow",
                 "entry_2_player_name": "Simon Rodgers",
-                "entry_2_points": 49,
+                "entry_2_points": 67,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 3282064,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -214,7 +214,7 @@
                 "entry_1_entry": 6398885,
                 "entry_1_name": "BusStopInHounslow",
                 "entry_1_player_name": "Simon Rodgers",
-                "entry_1_points": 49,
+                "entry_1_points": 67,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -222,14 +222,14 @@
                 "entry_2_entry": 1831914,
                 "entry_2_name": "Durags To Riches",
                 "entry_2_player_name": "Abdulai Barrie",
-                "entry_2_points": 53,
+                "entry_2_points": 83,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 1831914,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -241,7 +241,7 @@
                 "entry_1_entry": 6398885,
                 "entry_1_name": "BusStopInHounslow",
                 "entry_1_player_name": "Simon Rodgers",
-                "entry_1_points": 49,
+                "entry_1_points": 67,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -256,7 +256,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 6398885,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

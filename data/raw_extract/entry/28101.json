@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1525,
-    "summary_overall_rank": 905,
-    "summary_event_points": 48,
-    "summary_event_rank": 3144725,
+    "summary_overall_points": 1562,
+    "summary_overall_rank": 563,
+    "summary_event_points": 85,
+    "summary_event_rank": 1423351,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405678,
                 "cup_qualified": true,
-                "entry_rank": 65,
+                "entry_rank": 39,
                 "entry_last_rank": 41
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 40,
+                "entry_rank": 18,
                 "entry_last_rank": 26
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 905,
+                "entry_rank": 563,
                 "entry_last_rank": 572
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 905,
+                "entry_rank": 563,
                 "entry_last_rank": 572
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 2
             },
             {
@@ -174,14 +174,14 @@
                 "league_type": "x",
                 "scoring": "c",
                 "admin_entry": 89787,
-                "start_event": 23,
+                "start_event": 1,
                 "entry_can_leave": true,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 256,
+                "entry_rank": 210,
                 "entry_last_rank": 4
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 2
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": 2448141,
                 "cup_qualified": true,
-                "entry_rank": 23,
+                "entry_rank": 17,
                 "entry_last_rank": 16
             },
             {
@@ -370,7 +370,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21809,
+                "entry_rank": 9732,
                 "entry_last_rank": 10223
             }
         ],
@@ -393,7 +393,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 42,
+                "entry_rank": 33,
                 "entry_last_rank": 42
             }
         ],
@@ -440,7 +440,7 @@
                 "entry_1_entry": 3656645,
                 "entry_1_name": "westastic fc",
                 "entry_1_player_name": "Wesley Glen",
-                "entry_1_points": 54,
+                "entry_1_points": 84,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -448,14 +448,14 @@
                 "entry_2_entry": 28101,
                 "entry_2_name": "Fitzl Palace",
                 "entry_2_player_name": "Sam Hyland",
-                "entry_2_points": 44,
+                "entry_2_points": 81,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405678,
-                "winner": null,
+                "winner": 3656645,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -467,7 +467,7 @@
                 "entry_1_entry": 10210876,
                 "entry_1_name": "MU",
                 "entry_1_player_name": "Jean Coffey",
-                "entry_1_points": 51,
+                "entry_1_points": 89,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -475,14 +475,14 @@
                 "entry_2_entry": 28101,
                 "entry_2_name": "Fitzl Palace",
                 "entry_2_player_name": "Sam Hyland",
-                "entry_2_points": 44,
+                "entry_2_points": 81,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 10210876,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -494,7 +494,7 @@
                 "entry_1_entry": 28101,
                 "entry_1_name": "Fitzl Palace",
                 "entry_1_player_name": "Sam Hyland",
-                "entry_1_points": 44,
+                "entry_1_points": 81,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -509,7 +509,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448141,
-                "winner": null,
+                "winner": 28101,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

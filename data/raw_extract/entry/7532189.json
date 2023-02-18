@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1472,
-    "summary_overall_rank": 21911,
-    "summary_event_points": 44,
-    "summary_event_rank": 4148435,
+    "summary_overall_points": 1506,
+    "summary_overall_rank": 17799,
+    "summary_event_points": 78,
+    "summary_event_rank": 2785209,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405678,
                 "cup_qualified": true,
-                "entry_rank": 1410,
+                "entry_rank": 1130,
                 "entry_last_rank": 981
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21909,
+                "entry_rank": 17796,
                 "entry_last_rank": 16099
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 21911,
+                "entry_rank": 17799,
                 "entry_last_rank": 16100
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 46,
+                "entry_rank": 49,
                 "entry_last_rank": 39
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 118,
+                "entry_rank": 105,
                 "entry_last_rank": 97
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 84,
+                "entry_rank": 74,
                 "entry_last_rank": 75
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2437809,
                 "cup_qualified": true,
-                "entry_rank": 566,
+                "entry_rank": 464,
                 "entry_last_rank": 441
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 85,
+                "entry_rank": 86,
                 "entry_last_rank": 73
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 120,
+                "entry_rank": 106,
                 "entry_last_rank": 90
             },
             {
@@ -238,13 +238,13 @@
                 "scoring": "c",
                 "admin_entry": 39455,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 309,
+                "cup_league": 2453784,
+                "cup_qualified": true,
+                "entry_rank": 272,
                 "entry_last_rank": 250
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 150,
+                "entry_rank": 147,
                 "entry_last_rank": 116
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 292,
+                "entry_rank": 283,
                 "entry_last_rank": 244
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3,
+                "entry_rank": 1,
                 "entry_last_rank": 5
             },
             {
@@ -391,7 +391,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 124634,
+                "entry_rank": 83118,
                 "entry_last_rank": 73518
             }
         ],
@@ -466,7 +466,7 @@
                 "entry_1_entry": 1679971,
                 "entry_1_name": "D TEN XI",
                 "entry_1_player_name": "DEEPESH SHAH",
-                "entry_1_points": 56,
+                "entry_1_points": 93,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -474,14 +474,14 @@
                 "entry_2_entry": 7532189,
                 "entry_2_name": "SpecialK FC",
                 "entry_2_player_name": "Kevin Sears",
-                "entry_2_points": 44,
+                "entry_2_points": 78,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437809,
-                "winner": null,
+                "winner": 1679971,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

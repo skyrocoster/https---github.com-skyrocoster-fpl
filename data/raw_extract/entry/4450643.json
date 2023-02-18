@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1552,
-    "summary_overall_rank": 126,
-    "summary_event_points": 59,
-    "summary_event_rank": 812532,
+    "summary_overall_points": 1578,
+    "summary_overall_rank": 177,
+    "summary_event_points": 85,
+    "summary_event_rank": 1365709,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2424301,
                 "cup_qualified": true,
-                "entry_rank": 8,
+                "entry_rank": 6,
                 "entry_last_rank": 11
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 34,
+                "entry_rank": 51,
                 "entry_last_rank": 63
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 126,
+                "entry_rank": 177,
                 "entry_last_rank": 220
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 126,
+                "entry_rank": 177,
                 "entry_last_rank": 220
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 41,
+                "entry_rank": 62,
                 "entry_last_rank": 79
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2312,
+                "entry_rank": 2775,
                 "entry_last_rank": 4334
             }
         ],
@@ -284,7 +284,7 @@
                 "entry_1_entry": 4920618,
                 "entry_1_name": "no Kane no gain",
                 "entry_1_player_name": "Chris Penn",
-                "entry_1_points": 52,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -292,17 +292,17 @@
                 "entry_2_entry": 4450643,
                 "entry_2_name": "Sonny Side Up",
                 "entry_2_player_name": "Diane Edmund",
-                "entry_2_points": 59,
+                "entry_2_points": 85,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424301,
-                "winner": null,
+                "winner": 4450643,
                 "seed_value": null,
                 "event": 23,
-                "tiebreak": null,
+                "tiebreak": "goals_scored",
                 "is_bye": false,
                 "knockout_name": "Round of 65536"
             }

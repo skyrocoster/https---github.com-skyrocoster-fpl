@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1308,
-    "summary_overall_rank": 1930722,
-    "summary_event_points": 51,
-    "summary_event_rank": 2422063,
+    "summary_overall_points": 1337,
+    "summary_overall_rank": 1909858,
+    "summary_event_points": 80,
+    "summary_event_rank": 2401425,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 478449,
+                "entry_rank": 469448,
                 "entry_last_rank": 463331
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 47662,
+                "entry_rank": 47035,
                 "entry_last_rank": 46846
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1918183,
+                "entry_rank": 1897961,
                 "entry_last_rank": 1885571
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1930722,
+                "entry_rank": 1909858,
                 "entry_last_rank": 1896749
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 21,
+                "entry_rank": 22,
                 "entry_last_rank": 20
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
+                "entry_rank": 8,
                 "entry_last_rank": 7
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 592,
+                "entry_rank": 584,
                 "entry_last_rank": 584
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 47662,
+                "entry_rank": 47035,
                 "entry_last_rank": 46846
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 207928,
+                "entry_rank": 195169,
                 "entry_last_rank": 159071
             }
         ],
@@ -425,7 +425,7 @@
                 "entry_1_entry": 6005158,
                 "entry_1_name": "Boys played well",
                 "entry_1_player_name": "Elroy R",
-                "entry_1_points": 12,
+                "entry_1_points": 56,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -433,14 +433,14 @@
                 "entry_2_entry": 805919,
                 "entry_2_name": "Erik Tanhayee",
                 "entry_2_player_name": "Mehul Jugran",
-                "entry_2_points": 47,
+                "entry_2_points": 76,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431356,
-                "winner": null,
+                "winner": 805919,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -452,7 +452,7 @@
                 "entry_1_entry": 6269272,
                 "entry_1_name": "Jai Balayya",
                 "entry_1_player_name": "vinay p",
-                "entry_1_points": 44,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -460,14 +460,14 @@
                 "entry_2_entry": 805919,
                 "entry_2_name": "Erik Tanhayee",
                 "entry_2_player_name": "Mehul Jugran",
-                "entry_2_points": 47,
+                "entry_2_points": 76,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 805919,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

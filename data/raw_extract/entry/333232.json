@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1505,
-    "summary_overall_rank": 3202,
-    "summary_event_points": 49,
-    "summary_event_rank": 2892334,
+    "summary_overall_points": 1539,
+    "summary_overall_rank": 2520,
+    "summary_event_points": 83,
+    "summary_event_rank": 1791328,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 14,
+                "entry_rank": 11,
                 "entry_last_rank": 12
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 1103,
+                "entry_rank": 881,
                 "entry_last_rank": 846
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3202,
+                "entry_rank": 2520,
                 "entry_last_rank": 2358
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 3202,
+                "entry_rank": 2520,
                 "entry_last_rank": 2358
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2437808,
                 "cup_qualified": true,
-                "entry_rank": 230,
+                "entry_rank": 188,
                 "entry_last_rank": 185
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": true,
                 "cup_league": 2437815,
                 "cup_qualified": true,
-                "entry_rank": 119,
+                "entry_rank": 95,
                 "entry_last_rank": 99
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1271,
+                "entry_rank": 1013,
                 "entry_last_rank": 967
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 45936,
+                "entry_rank": 28376,
                 "entry_last_rank": 25886
             }
         ],
@@ -346,7 +346,7 @@
                 "entry_1_entry": 333232,
                 "entry_1_name": "Mount Dracula",
                 "entry_1_player_name": "Billy Coghlin",
-                "entry_1_points": 45,
+                "entry_1_points": 79,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -354,14 +354,14 @@
                 "entry_2_entry": 1366158,
                 "entry_2_name": "Pep is bald",
                 "entry_2_player_name": "Max McGovern",
-                "entry_2_points": 43,
+                "entry_2_points": 71,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437808,
-                "winner": null,
+                "winner": 333232,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -373,7 +373,7 @@
                 "entry_1_entry": 20757,
                 "entry_1_name": "Drain Gang 831",
                 "entry_1_player_name": "Raihan Naufaldi",
-                "entry_1_points": 38,
+                "entry_1_points": 69,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -381,14 +381,14 @@
                 "entry_2_entry": 333232,
                 "entry_2_name": "Mount Dracula",
                 "entry_2_player_name": "Billy Coghlin",
-                "entry_2_points": 45,
+                "entry_2_points": 79,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437815,
-                "winner": null,
+                "winner": 333232,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -400,7 +400,7 @@
                 "entry_1_entry": 333232,
                 "entry_1_name": "Mount Dracula",
                 "entry_1_player_name": "Billy Coghlin",
-                "entry_1_points": 45,
+                "entry_1_points": 79,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -415,7 +415,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 333232,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1516,
-    "summary_overall_rank": 1546,
-    "summary_event_points": 46,
-    "summary_event_rank": 3595463,
+    "summary_overall_points": 1543,
+    "summary_overall_rank": 1960,
+    "summary_event_points": 73,
+    "summary_event_rank": 4126146,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405666,
                 "cup_qualified": true,
-                "entry_rank": 202,
+                "entry_rank": 253,
                 "entry_last_rank": 162
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2424303,
                 "cup_qualified": true,
-                "entry_rank": 66,
+                "entry_rank": 94,
                 "entry_last_rank": 54
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1546,
+                "entry_rank": 1960,
                 "entry_last_rank": 1173
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 1546,
+                "entry_rank": 1960,
                 "entry_last_rank": 1173
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 235059,
+                "entry_rank": 247484,
                 "entry_last_rank": 171122
             }
         ],
@@ -277,7 +277,7 @@
                 "entry_1_entry": 5113668,
                 "entry_1_name": "Patson Da Back",
                 "entry_1_player_name": "James O'Connor",
-                "entry_1_points": 46,
+                "entry_1_points": 71,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -285,14 +285,14 @@
                 "entry_2_entry": 5045454,
                 "entry_2_name": "Gunners Fc",
                 "entry_2_player_name": "David Mackey",
-                "entry_2_points": 46,
+                "entry_2_points": 73,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2424303,
-                "winner": null,
+                "winner": 5045454,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1564,
-    "summary_overall_rank": 47,
-    "summary_event_points": 60,
-    "summary_event_rank": 648874,
+    "summary_overall_points": 1596,
+    "summary_overall_rank": 46,
+    "summary_event_points": 92,
+    "summary_event_rank": 476535,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 11,
+                "entry_rank": 9,
                 "entry_last_rank": 24
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 47,
+                "entry_rank": 46,
                 "entry_last_rank": 84
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 47,
+                "entry_rank": 46,
                 "entry_last_rank": 84
             },
             {
@@ -196,12 +196,12 @@
                 "scoring": "c",
                 "admin_entry": 80572,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2453794,
+                "cup_qualified": true,
                 "entry_rank": 1,
                 "entry_last_rank": 2
             },
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 14,
+                "entry_rank": 13,
                 "entry_last_rank": 30
             },
             {
@@ -307,7 +307,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 17329,
+                "entry_rank": 11932,
                 "entry_last_rank": 33036
             },
             {
@@ -430,7 +430,7 @@
                 "entry_1_entry": 1440714,
                 "entry_1_name": "Burkamp FC",
                 "entry_1_player_name": "Nick Burke",
-                "entry_1_points": 60,
+                "entry_1_points": 92,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -438,14 +438,14 @@
                 "entry_2_entry": 10783195,
                 "entry_2_name": "Ball of Duty",
                 "entry_2_player_name": "Richard Wallace",
-                "entry_2_points": 41,
+                "entry_2_points": 66,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 1440714,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

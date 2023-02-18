@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1391,
-    "summary_overall_rank": 459174,
-    "summary_event_points": 54,
-    "summary_event_rank": 1762599,
+    "summary_overall_points": 1425,
+    "summary_overall_rank": 406032,
+    "summary_event_points": 88,
+    "summary_event_rank": 952678,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 35606,
+                "entry_rank": 31063,
                 "entry_last_rank": 36223
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 48,
+                "entry_rank": 42,
                 "entry_last_rank": 45
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 458695,
+                "entry_rank": 405682,
                 "entry_last_rank": 465412
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 459174,
+                "entry_rank": 406032,
                 "entry_last_rank": 465835
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 7,
+                "entry_rank": 6,
                 "entry_last_rank": 6
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1175245,
+                "entry_rank": 947796,
                 "entry_last_rank": 1166570
             }
         ],
@@ -187,7 +187,7 @@
                 "entry_1_entry": 611373,
                 "entry_1_name": "Fiorentina Turner",
                 "entry_1_player_name": "Greg Mackay",
-                "entry_1_points": 62,
+                "entry_1_points": 93,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -195,14 +195,14 @@
                 "entry_2_entry": 2639038,
                 "entry_2_name": "No Way Josè",
                 "entry_2_player_name": "Captian Sparrow",
-                "entry_2_points": 50,
+                "entry_2_points": 84,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405671,
-                "winner": null,
+                "winner": 611373,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1505,
-    "summary_overall_rank": 3212,
-    "summary_event_points": 53,
-    "summary_event_rank": 1990857,
+    "summary_overall_points": 1541,
+    "summary_overall_rank": 2233,
+    "summary_event_points": 89,
+    "summary_event_rank": 822501,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 15,
+                "entry_rank": 10,
                 "entry_last_rank": 15
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 1106,
+                "entry_rank": 772,
                 "entry_last_rank": 1085
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3212,
+                "entry_rank": 2233,
                 "entry_last_rank": 3036
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 3212,
+                "entry_rank": 2233,
                 "entry_last_rank": 3036
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 1274,
+                "entry_rank": 888,
                 "entry_last_rank": 1252
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 176082,
+                "entry_rank": 105790,
                 "entry_last_rank": 150845
             }
         ],
@@ -299,7 +299,7 @@
                 "entry_1_entry": 1246186,
                 "entry_1_name": "Dean Gaffney",
                 "entry_1_player_name": "Steve Stamp",
-                "entry_1_points": 49,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -307,14 +307,14 @@
                 "entry_2_entry": 5147218,
                 "entry_2_name": "Just Vibes",
                 "entry_2_player_name": "Harry Marr",
-                "entry_2_points": 57,
+                "entry_2_points": 90,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381818,
-                "winner": null,
+                "winner": 5147218,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -326,7 +326,7 @@
                 "entry_1_entry": 1246186,
                 "entry_1_name": "Dean Gaffney",
                 "entry_1_player_name": "Steve Stamp",
-                "entry_1_points": 49,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -341,7 +341,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 1246186,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

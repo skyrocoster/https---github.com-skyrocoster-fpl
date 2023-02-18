@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1549,
-    "summary_overall_rank": 144,
-    "summary_event_points": 62,
-    "summary_event_rank": 466490,
+    "summary_overall_points": 1585,
+    "summary_overall_rank": 92,
+    "summary_event_points": 98,
+    "summary_event_rank": 165491,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2431352,
                 "cup_qualified": true,
-                "entry_rank": 7,
+                "entry_rank": 5,
                 "entry_last_rank": 19
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 39,
+                "entry_rank": 26,
                 "entry_last_rank": 106
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 144,
+                "entry_rank": 92,
                 "entry_last_rank": 334
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 144,
+                "entry_rank": 92,
                 "entry_last_rank": 334
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 46,
+                "entry_rank": 33,
                 "entry_last_rank": 129
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1253,
+                "entry_rank": 452,
                 "entry_last_rank": 3418
             }
         ],
@@ -277,7 +277,7 @@
                 "entry_1_entry": 651692,
                 "entry_1_name": "Dan City",
                 "entry_1_player_name": "Daniel Wellspring",
-                "entry_1_points": 34,
+                "entry_1_points": 66,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -285,14 +285,14 @@
                 "entry_2_entry": 2511575,
                 "entry_2_name": "GEORDIELAND",
                 "entry_2_player_name": "Tom Whitaker",
-                "entry_2_points": 62,
+                "entry_2_points": 98,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 2511575,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -304,7 +304,7 @@
                 "entry_1_entry": 2511575,
                 "entry_1_name": "GEORDIELAND",
                 "entry_1_player_name": "Tom Whitaker",
-                "entry_1_points": 62,
+                "entry_1_points": 98,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -312,14 +312,14 @@
                 "entry_2_entry": 6825,
                 "entry_2_name": "Rough and Dumb Choic",
                 "entry_2_player_name": "Gwen Averley",
-                "entry_2_points": 34,
+                "entry_2_points": 64,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431352,
-                "winner": null,
+                "winner": 2511575,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

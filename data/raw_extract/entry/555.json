@@ -9,10 +9,10 @@
     "player_region_name": "India",
     "player_region_iso_code_short": "IN",
     "player_region_iso_code_long": "IND",
-    "summary_overall_points": 1424,
-    "summary_overall_rank": 171220,
-    "summary_event_points": 38,
-    "summary_event_rank": 5456621,
+    "summary_overall_points": 1464,
+    "summary_overall_rank": 118215,
+    "summary_event_points": 78,
+    "summary_event_rank": 2662982,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 12740,
+                "entry_rank": 8639,
                 "entry_last_rank": 8400
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2431356,
                 "cup_qualified": true,
-                "entry_rank": 3663,
+                "entry_rank": 2514,
                 "entry_last_rank": 2341
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 171136,
+                "entry_rank": 118174,
                 "entry_last_rank": 113060
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 171220,
+                "entry_rank": 118215,
                 "entry_last_rank": 113098
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 3,
                 "entry_last_rank": 1
             },
             {
@@ -154,13 +154,13 @@
                 "scoring": "c",
                 "admin_entry": 3413,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 1494,
+                "cup_league": 2453774,
+                "cup_qualified": true,
+                "entry_rank": 1119,
                 "entry_last_rank": 1072
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 548,
+                "entry_rank": 385,
                 "entry_last_rank": 390
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 240,
+                "entry_rank": 186,
                 "entry_last_rank": 175
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 17,
+                "entry_rank": 12,
                 "entry_last_rank": 11
             },
             {
@@ -349,7 +349,7 @@
                 "has_cup": true,
                 "cup_league": 2431366,
                 "cup_qualified": true,
-                "entry_rank": 3663,
+                "entry_rank": 2514,
                 "entry_last_rank": 2341
             },
             {
@@ -370,7 +370,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 4,
+                "entry_rank": 3,
                 "entry_last_rank": 2
             },
             {
@@ -580,7 +580,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2,
+                "entry_rank": 1,
                 "entry_last_rank": 1
             },
             {
@@ -601,7 +601,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 409357,
+                "entry_rank": 215679,
                 "entry_last_rank": 200951
             }
         ],
@@ -713,7 +713,7 @@
                 "entry_1_entry": 4982773,
                 "entry_1_name": "Obi-Wan Iwobi",
                 "entry_1_player_name": "meezaan davids",
-                "entry_1_points": 54,
+                "entry_1_points": 78,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -721,17 +721,17 @@
                 "entry_2_entry": 555,
                 "entry_2_name": "Whitewalker",
                 "entry_2_player_name": "Anshuman Deswal",
-                "entry_2_points": 38,
+                "entry_2_points": 78,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405671,
-                "winner": null,
+                "winner": 555,
                 "seed_value": null,
                 "event": 23,
-                "tiebreak": null,
+                "tiebreak": "goals_conceded",
                 "is_bye": false,
                 "knockout_name": "Round of 65536"
             },
@@ -740,7 +740,7 @@
                 "entry_1_entry": 555,
                 "entry_1_name": "Whitewalker",
                 "entry_1_player_name": "Anshuman Deswal",
-                "entry_1_points": 38,
+                "entry_1_points": 78,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -748,14 +748,14 @@
                 "entry_2_entry": 2661121,
                 "entry_2_name": "mindflayer united",
                 "entry_2_player_name": "Sarthak Ingole",
-                "entry_2_points": 34,
+                "entry_2_points": 73,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431356,
-                "winner": null,
+                "winner": 555,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -767,7 +767,7 @@
                 "entry_1_entry": 555,
                 "entry_1_name": "Whitewalker",
                 "entry_1_player_name": "Anshuman Deswal",
-                "entry_1_points": 38,
+                "entry_1_points": 78,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -775,14 +775,14 @@
                 "entry_2_entry": 6532350,
                 "entry_2_name": "man city�",
                 "entry_2_player_name": "Anas Anu",
-                "entry_2_points": 47,
+                "entry_2_points": 84,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431366,
-                "winner": null,
+                "winner": 6532350,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

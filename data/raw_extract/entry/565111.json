@@ -9,10 +9,10 @@
     "player_region_name": "Israel",
     "player_region_iso_code_short": "IL",
     "player_region_iso_code_long": "ISR",
-    "summary_overall_points": 1594,
-    "summary_overall_rank": 5,
-    "summary_event_points": 53,
-    "summary_event_rank": 1908003,
+    "summary_overall_points": 1626,
+    "summary_overall_rank": 3,
+    "summary_event_points": 85,
+    "summary_event_rank": 1365709,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 3,
+                "entry_rank": 2,
                 "entry_last_rank": 3
             },
             {
@@ -53,8 +53,8 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2453757,
+                "cup_qualified": true,
                 "entry_rank": 1,
                 "entry_last_rank": 1
             },
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
+                "entry_rank": 3,
                 "entry_last_rank": 6
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 5,
+                "entry_rank": 3,
                 "entry_last_rank": 6
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 23651,
+                "entry_rank": 16527,
                 "entry_last_rank": 25151
             }
         ],
@@ -229,7 +229,7 @@
                 "entry_1_entry": 565111,
                 "entry_1_name": "micnic pizza",
                 "entry_1_player_name": "lior bason",
-                "entry_1_points": 53,
+                "entry_1_points": 85,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -237,14 +237,14 @@
                 "entry_2_entry": 1369234,
                 "entry_2_name": "Pillayers FC",
                 "entry_2_player_name": "Cruz Kemraj",
-                "entry_2_points": 63,
+                "entry_2_points": 80,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 565111,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

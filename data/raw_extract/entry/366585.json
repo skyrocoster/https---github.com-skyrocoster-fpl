@@ -9,10 +9,10 @@
     "player_region_name": "Mauritius",
     "player_region_iso_code_short": "MU",
     "player_region_iso_code_long": "MUS",
-    "summary_overall_points": 1429,
-    "summary_overall_rank": 143774,
-    "summary_event_points": 54,
-    "summary_event_rank": 1691634,
+    "summary_overall_points": 1461,
+    "summary_overall_rank": 132580,
+    "summary_event_points": 86,
+    "summary_event_rank": 1200883,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 36541,
+                "entry_rank": 33122,
                 "entry_last_rank": 42128
             },
             {
@@ -53,9 +53,9 @@
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 231,
+                "cup_league": 2453760,
+                "cup_qualified": true,
+                "entry_rank": 208,
                 "entry_last_rank": 265
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 143715,
+                "entry_rank": 132529,
                 "entry_last_rank": 170096
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 143774,
+                "entry_rank": 132580,
                 "entry_last_rank": 170168
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5,
+                "entry_rank": 4,
                 "entry_last_rank": 4
             },
             {
@@ -223,7 +223,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 17,
+                "entry_rank": 8,
                 "entry_last_rank": 19
             }
         ],
@@ -246,7 +246,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 10,
+                "entry_rank": 8,
                 "entry_last_rank": 10
             }
         ],
@@ -266,7 +266,7 @@
                 "entry_1_entry": 366585,
                 "entry_1_name": "Nigersaurus FC",
                 "entry_1_player_name": "Adarsh Naroo",
-                "entry_1_points": 54,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -274,14 +274,14 @@
                 "entry_2_entry": 6013392,
                 "entry_2_name": "Pinguim FC",
                 "entry_2_player_name": "Jason Fernandes",
-                "entry_2_points": 58,
+                "entry_2_points": 99,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 6013392,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -293,7 +293,7 @@
                 "entry_1_entry": 366585,
                 "entry_1_name": "Nigersaurus FC",
                 "entry_1_player_name": "Adarsh Naroo",
-                "entry_1_points": 54,
+                "entry_1_points": 86,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -301,14 +301,14 @@
                 "entry_2_entry": 2933076,
                 "entry_2_name": "Erik the Reds",
                 "entry_2_player_name": "Phil Craig",
-                "entry_2_points": 75,
+                "entry_2_points": 97,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381812,
-                "winner": null,
+                "winner": 2933076,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

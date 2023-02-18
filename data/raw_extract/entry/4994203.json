@@ -9,10 +9,10 @@
     "player_region_name": "Guyana",
     "player_region_iso_code_short": "GY",
     "player_region_iso_code_long": "GUY",
-    "summary_overall_points": 1403,
-    "summary_overall_rank": 327054,
-    "summary_event_points": 55,
-    "summary_event_rank": 1422772,
+    "summary_overall_points": 1433,
+    "summary_overall_rank": 321452,
+    "summary_event_points": 85,
+    "summary_event_rank": 1297232,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405671,
                 "cup_qualified": true,
-                "entry_rank": 24975,
+                "entry_rank": 24243,
                 "entry_last_rank": 29495
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 37,
+                "entry_rank": 35,
                 "entry_last_rank": 38
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 326808,
+                "entry_rank": 321227,
                 "entry_last_rank": 382262
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 327054,
+                "entry_rank": 321452,
                 "entry_last_rank": 382551
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2448132,
                 "cup_qualified": true,
-                "entry_rank": 9302,
+                "entry_rank": 9488,
                 "entry_last_rank": 11279
             },
             {
@@ -139,7 +139,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 901,
+                "entry_rank": 953,
                 "entry_last_rank": 1127
             },
             {
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 114,
+                "entry_rank": 110,
                 "entry_last_rank": 138
             },
             {
@@ -286,7 +286,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 2254069,
+                "entry_rank": 2132214,
                 "entry_last_rank": 2576073
             }
         ],
@@ -383,7 +383,7 @@
                 "entry_1_entry": 5777263,
                 "entry_1_name": "Legnicka afera",
                 "entry_1_player_name": "Szymon Cuber",
-                "entry_1_points": 38,
+                "entry_1_points": 66,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -391,14 +391,14 @@
                 "entry_2_entry": 4994203,
                 "entry_2_name": "Mo’ Salahra",
                 "entry_2_player_name": "Robert Griffith",
-                "entry_2_points": 55,
+                "entry_2_points": 85,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448132,
-                "winner": null,
+                "winner": 4994203,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

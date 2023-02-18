@@ -1,22 +1,6 @@
 {
     "fixtures": [
         {
-            "id": 227,
-            "code": 2293036,
-            "team_h": 12,
-            "team_h_score": null,
-            "team_a": 8,
-            "team_a_score": null,
-            "event": 23,
-            "finished": false,
-            "minutes": 0,
-            "provisional_start_time": false,
-            "kickoff_time": "2023-02-13T20:00:00Z",
-            "event_name": "Gameweek 23",
-            "is_home": true,
-            "difficulty": 2
-        },
-        {
             "id": 237,
             "code": 2293046,
             "team_h": 15,
@@ -30,7 +14,7 @@
             "kickoff_time": "2023-02-18T17:30:00Z",
             "event_name": "Gameweek 24",
             "is_home": false,
-            "difficulty": 3
+            "difficulty": 4
         },
         {
             "id": 242,
@@ -46,7 +30,7 @@
             "kickoff_time": "2023-02-25T19:45:00Z",
             "event_name": "Gameweek 25",
             "is_home": false,
-            "difficulty": 3
+            "difficulty": 2
         },
         {
             "id": 67,
@@ -222,7 +206,7 @@
             "kickoff_time": "2023-05-06T14:00:00Z",
             "event_name": "Gameweek 35",
             "is_home": true,
-            "difficulty": 2
+            "difficulty": 3
         },
         {
             "id": 358,
@@ -1053,16 +1037,16 @@
             "element": 275,
             "fixture": 227,
             "opponent_team": 8,
-            "total_points": 0,
+            "total_points": 3,
             "was_home": true,
             "kickoff_time": "2023-02-13T20:00:00Z",
-            "team_h_score": null,
-            "team_a_score": null,
+            "team_h_score": 2,
+            "team_a_score": 0,
             "round": 23,
-            "minutes": 0,
+            "minutes": 79,
             "goals_scored": 0,
             "assists": 0,
-            "clean_sheets": 0,
+            "clean_sheets": 1,
             "goals_conceded": 0,
             "own_goals": 0,
             "penalties_saved": 0,
@@ -1071,16 +1055,16 @@
             "red_cards": 0,
             "saves": 0,
             "bonus": 0,
-            "bps": 0,
-            "influence": "0.0",
-            "creativity": "0.0",
-            "threat": "0.0",
-            "ict_index": "0.0",
-            "starts": 0,
+            "bps": 13,
+            "influence": "6.4",
+            "creativity": "3.2",
+            "threat": "4.0",
+            "ict_index": "1.4",
+            "starts": 1,
             "expected_goals": "0.00",
-            "expected_assists": "0.00",
-            "expected_goal_involvements": "0.00",
-            "expected_goals_conceded": "0.00",
+            "expected_assists": "0.01",
+            "expected_goal_involvements": "0.01",
+            "expected_goals_conceded": "0.20",
             "value": 53,
             "transfers_balance": -377,
             "selected": 54175,

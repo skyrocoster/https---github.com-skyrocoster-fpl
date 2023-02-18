@@ -9,10 +9,10 @@
     "player_region_name": "Ireland",
     "player_region_iso_code_short": "IE",
     "player_region_iso_code_long": "IRL",
-    "summary_overall_points": 1572,
+    "summary_overall_points": 1602,
     "summary_overall_rank": 29,
-    "summary_event_points": 36,
-    "summary_event_rank": 6068187,
+    "summary_event_points": 66,
+    "summary_event_rank": 6013433,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 8,
+                "entry_rank": 9,
                 "entry_last_rank": 1
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 9,
+                "entry_rank": 7,
                 "entry_last_rank": 2
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 100911,
+                "entry_rank": 87829,
                 "entry_last_rank": 21948
             }
         ],
@@ -389,7 +389,7 @@
                 "entry_1_entry": 2633170,
                 "entry_1_name": "greenlough11",
                 "entry_1_player_name": "Christopher Maguire",
-                "entry_1_points": 32,
+                "entry_1_points": 62,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -397,14 +397,14 @@
                 "entry_2_entry": 5305550,
                 "entry_2_name": "mot",
                 "entry_2_player_name": "Stephen gage",
-                "entry_2_points": 36,
+                "entry_2_points": 61,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2437805,
-                "winner": null,
+                "winner": 2633170,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

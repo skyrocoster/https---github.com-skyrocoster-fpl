@@ -9,10 +9,10 @@
     "player_region_name": "Egypt",
     "player_region_iso_code_short": "EG",
     "player_region_iso_code_long": "EGY",
-    "summary_overall_points": 1477,
-    "summary_overall_rank": 16988,
-    "summary_event_points": 50,
-    "summary_event_rank": 2648528,
+    "summary_overall_points": 1501,
+    "summary_overall_rank": 23430,
+    "summary_event_points": 74,
+    "summary_event_rank": 3920695,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2405675,
                 "cup_qualified": true,
-                "entry_rank": 2045,
+                "entry_rank": 2737,
                 "entry_last_rank": 2104
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2405679,
                 "cup_qualified": true,
-                "entry_rank": 1075,
+                "entry_rank": 1334,
                 "entry_last_rank": 967
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 16986,
+                "entry_rank": 23427,
                 "entry_last_rank": 17262
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 16988,
+                "entry_rank": 23430,
                 "entry_last_rank": 17264
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 48,
+                "entry_rank": 74,
                 "entry_last_rank": 58
             },
             {
@@ -133,13 +133,13 @@
                 "scoring": "c",
                 "admin_entry": 469,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
-                "entry_rank": 103,
+                "cup_league": 2453782,
+                "cup_qualified": true,
+                "entry_rank": 140,
                 "entry_last_rank": 112
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": true,
                 "cup_league": 2448138,
                 "cup_qualified": true,
-                "entry_rank": 184,
+                "entry_rank": 233,
                 "entry_last_rank": 174
             },
             {
@@ -265,7 +265,7 @@
                 "has_cup": true,
                 "cup_league": 2381816,
                 "cup_qualified": true,
-                "entry_rank": 2578,
+                "entry_rank": 3250,
                 "entry_last_rank": 2345
             },
             {
@@ -328,7 +328,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 54,
+                "entry_rank": 100,
                 "entry_last_rank": 40
             },
             {
@@ -466,7 +466,7 @@
                 "entry_1_entry": 9474907,
                 "entry_1_name": "hkm",
                 "entry_1_player_name": "hosam alsahli",
-                "entry_1_points": 51,
+                "entry_1_points": 72,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -474,14 +474,14 @@
                 "entry_2_entry": 7224658,
                 "entry_2_name": "Fendi",
                 "entry_2_player_name": "Amr Fendi",
-                "entry_2_points": 50,
+                "entry_2_points": 74,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405675,
-                "winner": null,
+                "winner": 7224658,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -493,7 +493,7 @@
                 "entry_1_entry": 7224658,
                 "entry_1_name": "Fendi",
                 "entry_1_player_name": "Amr Fendi",
-                "entry_1_points": 50,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -501,14 +501,14 @@
                 "entry_2_entry": 81275,
                 "entry_2_name": "EL-Terpeno �️",
                 "entry_2_player_name": "Tarek Khaled",
-                "entry_2_points": 49,
+                "entry_2_points": 88,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2405679,
-                "winner": null,
+                "winner": 81275,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -520,7 +520,7 @@
                 "entry_1_entry": 7224658,
                 "entry_1_name": "Fendi",
                 "entry_1_player_name": "Amr Fendi",
-                "entry_1_points": 50,
+                "entry_1_points": 74,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -535,7 +535,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448138,
-                "winner": null,
+                "winner": 7224658,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

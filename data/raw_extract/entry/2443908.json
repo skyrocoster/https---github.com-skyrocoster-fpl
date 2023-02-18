@@ -9,10 +9,10 @@
     "player_region_name": "Denmark",
     "player_region_iso_code_short": "DK",
     "player_region_iso_code_long": "DNK",
-    "summary_overall_points": 1502,
-    "summary_overall_rank": 3929,
-    "summary_event_points": 52,
-    "summary_event_rank": 2134200,
+    "summary_overall_points": 1526,
+    "summary_overall_rank": 5677,
+    "summary_event_points": 76,
+    "summary_event_rank": 3294637,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2448104,
                 "cup_qualified": true,
-                "entry_rank": 21,
+                "entry_rank": 27,
                 "entry_last_rank": 22
             },
             {
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2448112,
                 "cup_qualified": true,
-                "entry_rank": 44,
+                "entry_rank": 55,
                 "entry_last_rank": 46
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 3928,
+                "entry_rank": 5676,
                 "entry_last_rank": 4454
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 3929,
+                "entry_rank": 5677,
                 "entry_last_rank": 4454
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2412737,
                 "cup_qualified": true,
-                "entry_rank": 540,
+                "entry_rank": 805,
                 "entry_last_rank": 623
             },
             {
@@ -181,7 +181,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 42507,
+                "entry_rank": 57116,
                 "entry_last_rank": 42245
             }
         ],
@@ -251,7 +251,7 @@
                 "entry_1_entry": 2443908,
                 "entry_1_name": "Brilliant Brentford",
                 "entry_1_player_name": "Mikkel Kaas",
-                "entry_1_points": 52,
+                "entry_1_points": 76,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -259,14 +259,14 @@
                 "entry_2_entry": 4930461,
                 "entry_2_name": "mmm precis där ja",
                 "entry_2_player_name": "Daniel Karlbom",
-                "entry_2_points": 55,
+                "entry_2_points": 75,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2412737,
-                "winner": null,
+                "winner": 2443908,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -278,7 +278,7 @@
                 "entry_1_entry": 2443908,
                 "entry_1_name": "Brilliant Brentford",
                 "entry_1_player_name": "Mikkel Kaas",
-                "entry_1_points": 52,
+                "entry_1_points": 76,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -293,7 +293,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448104,
-                "winner": null,
+                "winner": 2443908,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -305,7 +305,7 @@
                 "entry_1_entry": 2443908,
                 "entry_1_name": "Brilliant Brentford",
                 "entry_1_player_name": "Mikkel Kaas",
-                "entry_1_points": 52,
+                "entry_1_points": 76,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -320,7 +320,7 @@
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2448112,
-                "winner": null,
+                "winner": 2443908,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

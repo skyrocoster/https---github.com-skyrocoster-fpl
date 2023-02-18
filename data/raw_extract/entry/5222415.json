@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1578,
-    "summary_overall_rank": 15,
-    "summary_event_points": 67,
-    "summary_event_rank": 177652,
+    "summary_overall_points": 1601,
+    "summary_overall_rank": 30,
+    "summary_event_points": 90,
+    "summary_event_rank": 682820,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -34,7 +34,7 @@
                 "has_cup": true,
                 "cup_league": 2381812,
                 "cup_qualified": true,
-                "entry_rank": 5,
+                "entry_rank": 10,
                 "entry_last_rank": 17
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 15,
+                "entry_rank": 30,
                 "entry_last_rank": 53
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 15,
+                "entry_rank": 30,
                 "entry_last_rank": 53
             },
             {
@@ -118,7 +118,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 6,
+                "entry_rank": 8,
                 "entry_last_rank": 17
             },
             {
@@ -160,7 +160,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 1324,
+                "entry_rank": 2248,
                 "entry_last_rank": 6077
             }
         ],
@@ -262,7 +262,7 @@
                 "entry_1_entry": 1821256,
                 "entry_1_name": "Can’t stop the shine",
                 "entry_1_player_name": "Vishnu Patel",
-                "entry_1_points": 61,
+                "entry_1_points": 96,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -270,14 +270,14 @@
                 "entry_2_entry": 5222415,
                 "entry_2_name": "Welsh Warriors",
                 "entry_2_player_name": "Dan Carlick",
-                "entry_2_points": 67,
+                "entry_2_points": 90,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2381814,
-                "winner": null,
+                "winner": 1821256,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,

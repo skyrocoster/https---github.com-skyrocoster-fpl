@@ -9,10 +9,10 @@
     "player_region_name": "England",
     "player_region_iso_code_short": "EN",
     "player_region_iso_code_long": "ENG",
-    "summary_overall_points": 1561,
-    "summary_overall_rank": 67,
-    "summary_event_points": 44,
-    "summary_event_rank": 4148435,
+    "summary_overall_points": 1595,
+    "summary_overall_rank": 56,
+    "summary_event_points": 78,
+    "summary_event_rank": 2785209,
     "current_event": 23,
     "leagues": {
         "classic": [
@@ -55,7 +55,7 @@
                 "has_cup": true,
                 "cup_league": 2381814,
                 "cup_qualified": true,
-                "entry_rank": 18,
+                "entry_rank": 14,
                 "entry_last_rank": 9
             },
             {
@@ -76,7 +76,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 67,
+                "entry_rank": 56,
                 "entry_last_rank": 43
             },
             {
@@ -97,7 +97,7 @@
                 "has_cup": true,
                 "cup_league": 2371740,
                 "cup_qualified": true,
-                "entry_rank": 67,
+                "entry_rank": 56,
                 "entry_last_rank": 43
             },
             {
@@ -112,12 +112,12 @@
                 "scoring": "c",
                 "admin_entry": 3413,
                 "start_event": 1,
-                "entry_can_leave": true,
+                "entry_can_leave": false,
                 "entry_can_admin": false,
                 "entry_can_invite": false,
                 "has_cup": true,
-                "cup_league": null,
-                "cup_qualified": null,
+                "cup_league": 2453774,
+                "cup_qualified": true,
                 "entry_rank": 2,
                 "entry_last_rank": 2
             },
@@ -202,7 +202,7 @@
                 "has_cup": true,
                 "cup_league": 2381818,
                 "cup_qualified": true,
-                "entry_rank": 23,
+                "entry_rank": 19,
                 "entry_last_rank": 13
             },
             {
@@ -244,7 +244,7 @@
                 "has_cup": false,
                 "cup_league": null,
                 "cup_qualified": null,
-                "entry_rank": 5882,
+                "entry_rank": 3114,
                 "entry_last_rank": 2305
             }
         ],
@@ -319,7 +319,7 @@
                 "entry_1_entry": 6231483,
                 "entry_1_name": "Muppets",
                 "entry_1_player_name": "Anthony Mattick",
-                "entry_1_points": 32,
+                "entry_1_points": 70,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -327,14 +327,14 @@
                 "entry_2_entry": 4220890,
                 "entry_2_name": "The Haaland Fling",
                 "entry_2_player_name": "Matt Harris",
-                "entry_2_points": 44,
+                "entry_2_points": 78,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2371740,
-                "winner": null,
+                "winner": 4220890,
                 "seed_value": null,
                 "event": 23,
                 "tiebreak": null,
@@ -346,7 +346,7 @@
                 "entry_1_entry": 4220890,
                 "entry_1_name": "The Haaland Fling",
                 "entry_1_player_name": "Matt Harris",
-                "entry_1_points": 44,
+                "entry_1_points": 78,
                 "entry_1_win": 0,
                 "entry_1_draw": 0,
                 "entry_1_loss": 0,
@@ -354,17 +354,17 @@
                 "entry_2_entry": 7261125,
                 "entry_2_name": "MichBar",
                 "entry_2_player_name": "Michał Barczyński",
-                "entry_2_points": 45,
+                "entry_2_points": 78,
                 "entry_2_win": 0,
                 "entry_2_draw": 0,
                 "entry_2_loss": 0,
                 "entry_2_total": 0,
                 "is_knockout": true,
                 "league": 2431352,
-                "winner": null,
+                "winner": 7261125,
                 "seed_value": null,
                 "event": 23,
-                "tiebreak": null,
+                "tiebreak": "goals_scored",
                 "is_bye": false,
                 "knockout_name": "Round of 65536"
             }
